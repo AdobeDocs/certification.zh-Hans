@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E903" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1602'
+source-wordcount: '1626'
 ht-degree: 0%
 
 ---
@@ -44,15 +44,13 @@ ht-degree: 0%
 
 **考试详细信息 — Adobe [!DNL Workfront] 项目经理**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 45/70
-Time: 140 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E903
-```
+* 级别：专业（0-12个月经验）
+* 通过分数：45/70
+* 时间：140分钟
+* 投放：在线监控（需要摄像头访问）
+* 可用语言：英语
+* 成本：125美元（全球）/ 95美元（印度）
+* 考试ID:AD0-E903
 
 **准备情况自评**
 

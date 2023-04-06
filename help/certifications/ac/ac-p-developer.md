@@ -5,10 +5,10 @@ solution: Commerce
 role: Developer
 badge: label="Exam AD0-E717" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1387'
-ht-degree: 1%
+source-wordcount: '1411'
+ht-degree: 0%
 
 ---
 
@@ -46,15 +46,13 @@ ht-degree: 1%
 
 **考试详细信息：**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 50/77
-Time: 154 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E717
-```
+* 级别：专业（0-12个月经验）
+* 通过分数：50/77
+* 时间：154分钟
+* 投放：在线监控（需要摄像头访问）
+* 可用语言：英语
+* 成本：125美元（全球）/ 95美元（印度）
+* 考试ID:AD0-E717
 
 **准备情况自评**
 

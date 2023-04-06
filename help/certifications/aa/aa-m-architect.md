@@ -5,16 +5,16 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E207" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 23%
+source-wordcount: '963'
+ht-degree: 20%
 
 ---
 
 # 的认证历程 [!DNL Adobe Analytics] 架构师主控
 
-了解如何成为经认证的Analytics架构师主控。
+了解如何成为认证人员 [!DNL Analytics] 建筑师主控。
 
 ## 最低体验
 
@@ -49,15 +49,13 @@ ht-degree: 23%
 
 **考试详细信息：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 33/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E207
-```
+* 级别：主控（3-5年经验）
+* 通过分数：33/50
+* 时间：100分钟
+* 投放：在线监控（需要摄像头访问）或测试中心监控
+* 可用语言：英语
+* 成本：225美元（全球）/ 150美元（印度）
+* 考试ID:AD0-E207
 
 **考试目标和范围**
 
@@ -99,20 +97,20 @@ Exam ID: AD0-E207
 **第1节：发现**
 
 * [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Analytics Components 指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 组件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 * [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hans){target="_blank"}
-* [Analytics 技术说明](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 技术说明](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
 * [数据层管理器](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
 
 **第二节：解决方案设计**
 
-* [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Analytics Components 指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 组件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Tools 指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
 * [适用于 Experience Cloud 解决方案的 iOS SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=zh-Hans){target="_blank"}
-* [Analytics Import 指南](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 导入指南](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
 * [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Analytics 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
 * [管理角色](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
 * [Admin Console 概述](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [单独管理用户](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
@@ -120,14 +118,14 @@ Exam ID: AD0-E207
 **第三节：帖子实施**
 
 * [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Analytics Components 指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 组件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 * [事件驱动的数据层](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [Analytics Export 指南](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
-* [Adobe Target 从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
-* [Analytics Import 指南](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
-* [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 导出指南](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] 导入指南](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Tools 指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
 * [数据插入流程](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [在网站中使用标记实施Experience Cloud教程](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
 

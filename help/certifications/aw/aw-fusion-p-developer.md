@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E902" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1485'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -50,15 +50,13 @@ ht-degree: 0%
 
 **考试详细信息：**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 33/51
-Time: 102 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E902
-```
+* 级别：专业（0-12个月经验）
+* 通过分数：33/51
+* 时间：102分钟
+* 投放：在线监控（需要摄像头访问）或测试中心监控
+* 可用语言：英语
+* 成本：125美元（全球）/ 95美元（印度）
+* 考试ID:AD0-E902
 
 **考试目标和范围**
 

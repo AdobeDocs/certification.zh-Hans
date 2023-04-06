@@ -5,9 +5,9 @@ solution: Commerce
 role: Developer
 badge: label="Exam AD0-E718" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '961'
+source-wordcount: '985'
 ht-degree: 1%
 
 ---
@@ -72,15 +72,13 @@ ht-degree: 1%
 
 **考试详细信息：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E718
-```
+* 级别：主控（3-5年经验）
+* 通过分数：29/50
+* 时间：120分钟
+* 投放：在线监控（需要摄像头访问）
+* 可用语言：英语
+* 成本：225美元（全球）/ 150美元（印度）
+* 考试ID:AD0-E718
 
 **准备情况自评**
 

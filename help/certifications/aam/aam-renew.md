@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1038'
 ht-degree: 2%
 
 ---
@@ -46,15 +46,13 @@ ht-degree: 2%
 
 **考试详细信息：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
-```
+* 级别：专家（1-3年经验）
+* 通过分数：23/30
+* 时间：68分钟
+* 投放：按需/非监督
+* 可用语言：英语
+* 成本：免费
+* 考试ID:AD5-E826 -Adobe Audience Manager业务从业者专家续订
 
 **考试目标和范围**
 
@@ -124,15 +122,13 @@ Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
 
 **考试详细信息：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
-```
+* 级别：主控（3-5年经验）
+* 通过分数：22/29
+* 时间：58分钟
+* 投放：按需/非监督
+* 可用语言：英语
+* 成本：免费
+* 考试ID:AD5-E825 -Adobe Audience Manager架构师主控续订
 
 **范围和目标：**
 
