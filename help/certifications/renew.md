@@ -5,9 +5,9 @@ solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -56,4 +56,4 @@ Adobe提供各种资源和工具来帮助您续订认证，包括：
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

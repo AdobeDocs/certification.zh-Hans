@@ -4,9 +4,9 @@ description: 了解如何续订 [!DNL Experience Manager Sites] 认证。
 solution: Experience Manager Sites
 role: Developer
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '602'
 ht-degree: 2%
 
 ---
@@ -84,4 +84,4 @@ ht-degree: 2%
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

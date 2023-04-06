@@ -5,9 +5,9 @@ solution: Analytics
 role: User
 badge: label="Exam AD0-E208" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1190'
+source-wordcount: '1188'
 ht-degree: 11%
 
 ---
@@ -67,14 +67,13 @@ ht-degree: 11%
 
 **考试详细信息：**
 
->* **级别：** 专家（1-3年经验）
->* **通过分数：** 31/50
->* **时间：** 120分钟
->* **投放：** 在线监控（需要摄像头访问）或测试中心监控
->* **可用语言：** 英语
->* **成本：** 225美元（全球）/ 150美元（印度）
->* **考试ID:** AD0-E208
-
+* **级别：** 专家（1-3年经验）
+* **通过分数：** 31/50
+* **时间：** 120分钟
+* **投放：** 在线监控（需要摄像头访问）或测试中心监控
+* **可用语言：** 英语
+* **成本：** 225美元（全球）/ 150美元（印度）
+* **考试ID:** AD0-E208
 
 **准备情况自评**
 
@@ -202,4 +201,4 @@ Adobe使用两家供应商来管理受监控的考试，即PSI和 [!DNL Examity]
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

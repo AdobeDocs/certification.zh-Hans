@@ -3,9 +3,9 @@ title: Adobe认证入门
 description: 开始使用 [!DNL Experience Cloud] 认证。 了解该计划和此网站。
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 0d051bce7ef44105da136303b72fcf5cc22e7e17
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '943'
 ht-degree: 0%
 
 ---
@@ -92,6 +92,6 @@ Adobe认证考试可自定义为三个不同的工作角色。 请阅读以下�
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
 
 
