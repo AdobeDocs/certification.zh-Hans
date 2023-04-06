@@ -5,9 +5,9 @@ solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E306" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1272'
+source-wordcount: '1301'
 ht-degree: 11%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 11%
 您应该：
 
 * 至少两年 [!DNL Campaign] 软件体验
-* 在多渠道数字营销活动和Web开发（如REST API）中至少拥有两年的相关体验
+* 在多渠道数字营销活动和Web开发（例如，REST API）中至少拥有两年的相关经验
 * 能够在Adobe Campaign中执行任务，包括模板开发、技术工作流、模式开发和集成，并且能够使用控制面板监控实例
 * 在渠道投放环境（电子邮件、直邮、移动设备和社交）中工作的体验
 * 熟悉多接触、生命周期和重新激活等营销活动策略
@@ -57,15 +57,13 @@ ht-degree: 11%
 
 **考试详细信息：**
 
-```
-Level: Expert (1-3 years experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E306
-```
+* 级别：专家（1-3年经验）
+* 通过分数：29/50
+* 时间：100分钟
+* 投放：在线监控（需要摄像头访问）或测试中心监控
+* 可用语言：英语
+* 成本：225美元（全球）/ 150美元（印度）
+* 考试ID:AD0-E306
 
 **准备情况自评**
 

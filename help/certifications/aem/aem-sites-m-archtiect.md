@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E117" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1564'
+source-wordcount: '1594'
 ht-degree: 22%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 22%
 * 创建和提交基础架构/部署图
 * 确定要与AEM应用程序一起使用的信息模型
 * 定义身份验证和授权安全模型和概念
-* 根据客户的要求（例如，二进制存储、部署方案等）确定持久性模型
+* 根据客户的要求（二进制存储、部署方案等）确定持久性模型
 * 为业务流程设计工作流模型
 * 制定平台性能和渗透/安全测试的策略
 * 跨多个渠道重复使用内容
@@ -65,15 +65,13 @@ ht-degree: 22%
 
 **考试详细信息：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English, Japanese
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E117
-```
+* 级别：主控（3-5年经验）
+* 通过分数：29/50
+* 时间：100分钟
+* 投放：在线监控（需要摄像头访问）或测试中心监控
+* 可用语言：英语、日语
+* 成本：225美元（全球）/ 150美元（印度）
+* 考试ID:AD0-E117
 
 **准备情况自我评估**
 

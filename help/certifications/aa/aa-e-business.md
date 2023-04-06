@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1164'
+source-wordcount: '1188'
 ht-degree: 11%
 
 ---
@@ -67,15 +67,14 @@ ht-degree: 11%
 
 **考试详细信息：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E208
-```
+>* **级别：** 专家（1-3年经验）
+>* **通过分数：** 31/50
+>* **时间：** 120分钟
+>* **投放：** 在线监控（需要摄像头访问）或测试中心监控
+>* **可用语言：** 英语
+>* **成本：** 225美元（全球）/ 150美元（印度）
+>* **考试ID:** AD0-E208
+
 
 **准备情况自评**
 
@@ -112,16 +111,16 @@ Exam ID: AD0-E208
 第四节：一般工具知识和故障排除(12%)
 
 * 分析报告并确定数据质量问题
-* 定义中存在的不同类型的维度和参数 [!DNL Adobe Analytics] （evar、prop和事件）
+* 定义中存在的不同类型的维度和参数 [!DNL Adobe Analytics] （eVar、prop和事件）
 * 确定如何将数据导入和导出 [!DNL Adobe Analytics]
 * 识别营销URL中的信息
 
 第五节：管理(10%)
 
-* 应用此流程以使用营销渠道处理规则配置营销渠道报表
+* 应用流程以配置 [!UICONTROL Marketing Channel] 报告 [!UICONTROL Marketing Channel] 处理规则
 * 应用配置分类导入器和规则生成器的过程
 * 应用该流程以根据现有区段配置虚拟报表包
-* 使用数据馈送管理器管理员UI
+* 使用 [!UICONTROL Data Feed] 管理员管理员UI
 * 了解数据管理
 
 >[!TAB 预先准备]

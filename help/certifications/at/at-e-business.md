@@ -5,10 +5,10 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1393'
-ht-degree: 1%
+source-wordcount: '1420'
+ht-degree: 0%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 1%
 * 统计概念和数据分析的知识，因为它适用于优化
 * 深入了解三步工作流（体验、定位、目标和设置，包括所有报表源）
 * 能够将活动报表结果转换为切实可行的分析和建议
-* 了解更改技术对Target的影响(例如ITP、GDPR/CCPA、SPA)
+* 了解更改技术对Target的影响(ITP、GDPR/CCPA、SPA)
 * 了解如何将推荐活动用作解决方案
 
 此外，您还应熟悉以下技术和环境：
@@ -81,15 +81,13 @@ ht-degree: 1%
 
 **考试详细信息：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 46/68
-Time: 136 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E406
-```
+* 级别：专家（1-3年经验）
+* 通过分数：46/68
+* 时间：136分钟
+* 投放：在线监控（需要摄像头访问）或测试中心监控
+* 可用语言：英语
+* 成本：225美元（全球）/ 150美元（印度）
+* 考试ID:AD0-E406
 
 **考试目标和范围**
 
