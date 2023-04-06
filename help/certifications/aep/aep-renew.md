@@ -2,10 +2,11 @@
 title: 认证续订
 description: 了解如何续订Adobe [!DNL Experience Platform] 认证。
 solution: Experience Platform
-role: Developer
+product: Experience Platform
+role: User,Developer,Data Architect
 badge: label="Adobe Journey Optimizer续订" type="positive"
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%

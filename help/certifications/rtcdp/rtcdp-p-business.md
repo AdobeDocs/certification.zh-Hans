@@ -2,11 +2,11 @@
 title: 专业认证
 description: 了解如何成为认证人员 [!DNL Experience Platform] 专业 [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
-role: Developer
+role: User
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '932'
 ht-degree: 3%

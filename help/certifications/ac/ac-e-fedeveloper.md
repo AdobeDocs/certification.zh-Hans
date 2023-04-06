@@ -2,10 +2,11 @@
 title: 前端开发人员专家认证
 description: 了解如何成为Adobe DeveloperAdobe专家认证 [!DNL Commerce].
 solution: Commerce
+product: Magento
 role: Developer
 badge: label="Exam AD0-E710" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1539'
 ht-degree: 0%

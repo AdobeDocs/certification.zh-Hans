@@ -2,10 +2,11 @@
 title: 业务从业者专业认证
 description: 了解如何获得认证为Adobe [!DNL Advertising Search] 业务从业人员。
 solution: Advertising
-role: Developer
+product: Advertising Cloud
+role: User
 badge: label="Exam AD0-E501" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '987'
 ht-degree: 3%

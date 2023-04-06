@@ -2,10 +2,11 @@
 title: 架构师主控认证
 description: 了解如何成为Experience Manager Sites主控的认证架构师。
 solution: Experience Manager Sites
+product: Experience Manager
 role: Data Architect
 badge: label="Exam AD0-E117" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1594'
 ht-degree: 22%

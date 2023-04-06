@@ -2,9 +2,11 @@
 title: 认证续订
 description: 了解如何续订Adobe [!DNL Campaign Standard] 认证。
 solution: Campaign Standard
+product: Campaign
+role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1488'
 ht-degree: 11%

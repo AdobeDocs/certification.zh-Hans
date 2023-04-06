@@ -2,10 +2,11 @@
 title: 架构师主控认证
 description: 了解如何获得 [!DNL Adobe Analytics] 建筑师主控。
 solution: Analytics
-role: Data Architect
+product: Analytics
+role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '963'
 ht-degree: 20%

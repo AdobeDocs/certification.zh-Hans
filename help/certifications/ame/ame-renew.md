@@ -2,10 +2,11 @@
 title: 认证续订
 description: 了解如何续订Adobe [!DNL Marketo Engage] 认证。
 solution: Marketo Engage
-role: Developer
+product: Marketo
+role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 4%
