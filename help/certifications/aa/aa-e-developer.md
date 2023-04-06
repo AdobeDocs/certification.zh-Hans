@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E209" type="besitive"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1084'
 ht-degree: 9%
 
 ---
@@ -197,4 +197,4 @@ Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ 请发送电子邮件 `certif@adobe.com`.
+其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

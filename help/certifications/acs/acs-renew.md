@@ -4,9 +4,9 @@ description: 了解如何续订Adobe [!DNL Campaign Standard] 认证。
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1488'
+source-wordcount: '1490'
 ht-degree: 11%
 
 ---
@@ -233,6 +233,6 @@ ht-degree: 11%
 
 ## 问题
 
-对Adobe认证有疑问吗？ 请发送电子邮件 `certif@adobe.com`.
+对Adobe认证有疑问吗？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '5355'
+source-wordcount: '5357'
 ht-degree: 8%
 
 ---
@@ -738,4 +738,4 @@ Adobe重启计划是一项允许过期的个人参与的计划 [!DNL Experience 
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ 请发送电子邮件 `certif@adobe.com`.
+其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

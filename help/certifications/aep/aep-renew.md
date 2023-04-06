@@ -5,9 +5,9 @@ solution: Experience Platform
 role: Developer
 badge: label="Adobe Journey Optimizer续订" type="positive"
 hidefromtoc: true
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ 请发送电子邮件 `certif@adobe.com`.
+其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

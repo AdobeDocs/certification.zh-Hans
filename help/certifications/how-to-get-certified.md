@@ -3,9 +3,9 @@ title: 通过Adobe认证
 description: 了解如何通过Adobe获得认证。 在获得认证之前、期间和之后，查找您需要的所有资源。
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1466'
 ht-degree: 1%
 
 ---
@@ -213,4 +213,4 @@ _所有销售都是最终的。_ 不接受退货和退款。 Adobe考试凭单�
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ 请发送电子邮件 `certif@adobe.com`.
+其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

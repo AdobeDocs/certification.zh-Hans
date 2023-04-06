@@ -6,9 +6,9 @@ role: Developer
 recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1953'
+source-wordcount: '1955'
 ht-degree: 4%
 
 ---
@@ -313,4 +313,4 @@ Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ 请发送电子邮件 `certif@adobe.com`.
+其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
