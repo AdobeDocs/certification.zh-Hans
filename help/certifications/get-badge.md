@@ -5,7 +5,7 @@ solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 badge: label="如何获得认证" type="positive"
-source-git-commit: a65ad6d6daa27db0f6ce89646c2c999ea56486a4
+source-git-commit: 6347bf4e33aa26a8450a86b7ee5341cd975a07b9
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
