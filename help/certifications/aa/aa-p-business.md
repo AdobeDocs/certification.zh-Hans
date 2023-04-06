@@ -5,10 +5,10 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E212" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 14%
+source-wordcount: '874'
+ht-degree: 13%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 14%
 * 营销背景或来自营销角色，但可能来自各种工作角色。
 * 对数字分析量度和维度的基本熟悉。
 * 能够使用Analytics构建报表并回答业务问题，以及传递结果。
-* 了解基本的数字分析概念，例如分段、报表生成、标准量度定义。
+* 了解基本的数字分析概念，如分段、报表生成、标准量度定义。
 
 >[!NOTE]
 >
@@ -48,15 +48,13 @@ ht-degree: 14%
 
 **考试详细信息：**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E212
-```
+* 级别：专业（0-12个月经验）
+* 通过分数：31/50
+* 时间：100分钟
+* 投放：在线监控（需要摄像头访问）
+* 可用语言：英语
+* 成本：125美元（全球）/ 95美元（印度）
+* 考试ID:AD0-E212
 
 **准备情况自评**
 
