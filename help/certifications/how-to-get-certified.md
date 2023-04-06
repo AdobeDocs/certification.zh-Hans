@@ -3,9 +3,9 @@ title: 通过Adobe认证
 description: 了解如何通过Adobe获得认证。 在获得认证之前、期间和之后，查找您需要的所有资源。
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---

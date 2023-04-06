@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E454" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '854'
 ht-degree: 13%
 
 ---
@@ -72,7 +72,7 @@ ht-degree: 13%
 * 确定如何作为独立产品或作为云解决方案一部分的AAM实施来指导和支持实施
 * 分析出站目标选项并推荐AAM实施方法
 * 为业务用例确定数据载入策略
-* 识别访客配置文件查看器、标记、RBAC等功能。 与业务目标保持一致
+* 识别访客配置文件查看器、标记、RBAC等功能，以便与业务目标保持一致
 * 确定如何设计和测试创建区段和特征所需的像素
 
 第二节：解决方案设计和建议(18%)

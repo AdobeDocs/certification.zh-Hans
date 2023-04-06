@@ -4,9 +4,9 @@ description: 获取有关Adobe认证计划的问题解答。 了解认证的好�
 role: Developer
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 76a3cea2c92ac32fc20031c32e13d7b88999363c
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1884'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -126,7 +126,7 @@ Adobe可以满足某些特殊要求。 如果您需要额外时间完成考试�
 
 +++
 
-+++认证是否与特定版本的应用程序(例如Adobe Experience Manager 6.5)绑定？
++++认证是否与特定版本的应用程序(例如，Adobe Experience Manager 6.5)绑定？
 
 不是直接的。 但是，由于认证现在每2年需要续订一次，因此您的认证可确保您是Adobe应用程序最新版本的最新版本。
 
@@ -169,7 +169,7 @@ Adobe认证在两年后过期。 您可以通过参加并通过最新版本的�
 
 登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}. 您可以在此处查看您获得凭据的时间以及凭据过期的时间。 您还应该检查您的用户档案，并确认您的联系人、辅助电子邮件和作业信息正确无误。
 
-您将在认证过期前一个月收到电子邮件通知。 但是，如果您更改了作业，并且未更新电子邮件，则可能不会收到通知。 添加辅助电子邮件（如Gmail、Hotmail、Yahoo等） 在您的CertMetrics帐户中，这样您就会收到证书过期提醒电子邮件，即使您更改了公司也是如此。
+您将在认证过期前一个月收到电子邮件通知。 但是，如果您更改了作业，并且未更新电子邮件，则可能不会收到通知。 在您的CertMetrics帐户中添加辅助电子邮件（如Gmail、Hotmail、Yahoo等），以便您获得证书过期提醒电子邮件，即使您更改公司也是如此。
 
 +++
 

@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E329" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1331'
+source-wordcount: '1333'
 ht-degree: 8%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 8%
 * 实践体验：设置跨渠道的个性化工作流和发送投放
 * 分析和监控日志和错误的经验
 * 对数字营销概念和策略的理解
-* 基本了解自动化、量度和营销策略（有关数据管理、云服务、审批等功能）
+* 基本了解自动化、量度和营销策略（与数据管理、云服务、审批等相关的功能）
 * 对营销活动中基本关系数据库和定向查询的了解
 * 基本HTML和个性化体验
 * 订阅服务管理（选择启用/选择禁用）
