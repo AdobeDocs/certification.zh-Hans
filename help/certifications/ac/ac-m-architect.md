@@ -2,12 +2,12 @@
 title: 架构师主控认证
 description: 了解如何成为Adobe中经认证的Adobe架构师主控 [!DNL Commerce].
 solution: Commerce
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E718" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '987'
 ht-degree: 1%
 
 ---
@@ -190,4 +190,4 @@ Adobe使用两家供应商来管理受监控的考试，即PSI和 [!DNL Examity]
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ 请发送电子邮件 `certif@adobe.com`.
+其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

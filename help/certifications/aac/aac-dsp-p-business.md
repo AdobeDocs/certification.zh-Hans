@@ -2,12 +2,12 @@
 title: 业务从业者专业认证
 description: 了解如何获得认证为Adobe [!DNL Advertising DSP] 业务从业人员。
 solution: Advertising
-role: Developer
+role: User
 badge: label="Exam AD0-E502" type="besitive"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -153,4 +153,4 @@ Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ 请发送电子邮件 `certif@adobe.com`.
+其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

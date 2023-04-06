@@ -1,10 +1,10 @@
 ---
 title: 常见问题解答
 description: 获取有关Adobe认证计划的问题解答。 了解认证的好处、注册方式以及您可以联系谁。
-role: Developer
+role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
 source-wordcount: '1889'
 ht-degree: 0%

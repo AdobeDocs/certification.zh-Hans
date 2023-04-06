@@ -2,12 +2,12 @@
 title: 架构师主控认证
 description: 了解如何成为Experience Manager Sites主控的认证架构师。
 solution: Experience Manager Sites
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E117" type="besitive"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1594'
+source-wordcount: '1596'
 ht-degree: 22%
 
 ---
@@ -228,4 +228,4 @@ Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ 请发送电子邮件 `certif@adobe.com`.
+其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

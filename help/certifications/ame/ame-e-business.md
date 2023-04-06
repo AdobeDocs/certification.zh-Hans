@@ -2,12 +2,12 @@
 title: 业务从业者专家认证
 description: 了解如何成为Adobe业务从业专家 [!DNL Marketo Engage].
 solution: Marketo Engage
-role: Developer
+role: User
 badge: label="Exam AD0-E559" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1637'
+source-wordcount: '1639'
 ht-degree: 0%
 
 ---
@@ -250,4 +250,4 @@ Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
 
 查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ 请发送电子邮件 `certif@adobe.com`.
+其他问题？ [联系我们](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
