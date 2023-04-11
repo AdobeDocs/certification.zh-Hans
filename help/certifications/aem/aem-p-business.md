@@ -6,9 +6,9 @@ product: Experience Manager
 role: User
 badge: label="Exam AD0-E126" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+source-git-commit: cab58fef51e04bacba47e0f9c809a7a9f011c71b
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '979'
 ht-degree: 10%
 
 ---
@@ -72,10 +72,14 @@ ht-degree: 10%
 * 确定在何处定义角色和权限
 * 在某种情况下，定义可用的缓存方法
 
-第三节：设置和实施(13%)
+第三节：业务分析(43%)
 
-* 确定使用内容组件的最佳AEM实践
-* 在给定的情景中，确定功能的正确实施
+* 在此情景下，确定AEM中可解决客户业务问题的标准模块
+* 确定AEM模块的内容管理概念
+* 确定典型的项目利益相关方
+* 确定参与团队之间切合实际的协作方案
+* 在假设的情况下，描述一种正确的方法，以在预算和/或范围内实现业务目标
+* 确定将业务目标与开发团队联系起来的方法
 
 第四节：设置和实施(13%)
 
