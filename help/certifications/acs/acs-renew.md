@@ -6,7 +6,8 @@ product: Campaign
 role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
 source-wordcount: '1488'
 ht-degree: 11%
@@ -113,7 +114,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->这门考试是免费的、开放的、没有监督的。 你最多可以考三次。 如果三次尝试后未能收到75%的流量，则必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+>这门考试是免费的、开放的，没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
 
 +++
 
