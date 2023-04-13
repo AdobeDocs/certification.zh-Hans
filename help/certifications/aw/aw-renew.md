@@ -5,10 +5,11 @@ solution: Workfront
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
+source-git-commit: 6beb8e647b0638540548038d9ce60cdb3398aa20
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 1%
+source-wordcount: '369'
+ht-degree: 0%
 
 ---
 
@@ -26,9 +27,49 @@ ht-degree: 1%
 
 >[!TAB 专业]
 
++++Workfront Fusion开发人员
+
+## 续订证书的说明：
+
+* **步骤1**:已成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤2**:审查考试目标和资源
+* **步骤3**:考试通过
+
+### 准备就绪
+
+**考试详细信息：**
+
+* 通过分数：
+* 时间：分钟
+* 成本：自由/非监督
+* 投放：按需
+* 可用语言：英语
+* 先决条件：当前（未过期）Adobe Workfront Fusion开发人员认证
+* 考试ID:AD5-E830
+
+**范围和目标**
+
+添加
+
+## 预先准备
+
+考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+
+以下是一些建议的资源，可帮助您做好准备：
+
+添加
+
+## 续订您的证书
+
+要续订您的考试，请单击下面的Workfront Fusion开发人员续订 — AD5-830链接_。 这会将您重定向到Adobe凭据管理系统，您可以在该系统中单击 **[!UICONTROL renew your certification]** ，然后搜索 [!DNL Adobe Campaign] 查看续订考试的链接。
+
+* [Workfront Fusion开发人员续订 — AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
+
 >[!NOTE]
 >
->专业更新即将推出。
+>这门考试是免费的、开放的、没有监督的。 你最多可以考三次。 如果三次尝试后未能收到75%的流量，则必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+
++++
 
 >[!TAB 专家]
 
