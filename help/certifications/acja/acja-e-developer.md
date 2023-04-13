@@ -4,24 +4,41 @@ description: 了解如何成为 [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-EXXX" type="besitive"
+badge: label="Exam AD0-E604" type="besitive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
+source-git-commit: 57cdc5c07bef404b368f51fb6ffd03735ed5008c
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 7%
+source-wordcount: '582'
+ht-degree: 0%
 
 ---
 
-
 # 认证历程Adobe [!DNL Customer Journey Analytics] 专家
 
-了解如何成为认证Adobe
+了解如何成为经认证的Adobe Analytics客户历程开发人员。
 
 ## 最低体验
 
-您应该：
+您应在Adobe Customer Journey Analytics中拥有12-24个月的经验，并能够执行以下任务：
+
+* 阅读并了解XDM架构（类）
+* 演示对平台界面的熟悉程度
+* 验证数据（查询服务），在数据集中查看您的数据
+* 了解不同访问级别所需的管理员权限
+* 阅读并了解QA脚本
+* 定义要交给AEP工程师的QC脚本
+* 配置与主身份（人员ID）的连接
+* 配置与多个数据集的连接
+* 配置数据视图（量度/维度配置）
+* 配置CJA
+* 转换维度和量度中的数据
+* 分析工作区基础知识（可视化、归因设置、过滤器、计算量度）
+* 了解CJA(DULE)中的数据管理
+* 跨渠道量度或基于人员的过滤器构建
+* 区分/了解AEP中的沙箱
+* 了解受众发布（共享）
 
 >[!NOTE]
 >
@@ -33,29 +50,49 @@ ht-degree: 7%
 
 **目标受众：**
 
+* 技术架构师
+* 技术经理
+* 数据分析师
+* 数据架构师/工程师
+* 解决方案架构师
+* Enterprise Architect
+* 实施专家
+* 营销技术领导
 
 **考试详细信息：**
 
 * 级别：专家（1-3年经验）
-* 通过分数：
-* 时间:
+* 通过分数：33/50
+* 时间：100分钟
 * 投放：在线监控（需要摄像头访问）或测试中心监控
 * 可用语言：英语
 * 成本：225美元（全球）/ 150美元（印度）
-
-**准备情况自评**
-
-完成 [在线准备调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} 以查看您当前的体验是否与建议的最低候选资格匹配。
+* 考试ID:AD0-E604
 
 **考试目标和范围**
 
-第1节：
+第1节：连接(22%)
 
-第二节：
+* 使用适当的设置设计CJA连接
+* 从AEP中按沙盒提供的XDM数据集创建CJA连接
 
-第三节：
+第二节：数据查看(30%)
 
-第四节：
+* 配置数据视图以进行报告和分析
+* 在数据视图中修改组件
+
+第三节：数据验证和疑难解答(34%)
+
+* 验证数据是否准确、完整地填充
+* 连接和数据视图故障诊断
+* 构建组件或对组件进行故障诊断
+* 监视使用情况以确保
+
+第四节：报告和激活(14%)
+
+* 使用Analysis Workspace通过适当的可视化图表演示跨渠道客户旅程
+* 将CJA过滤器的成员发送到RTCDP受众
+* 跨数据集设计和创建过滤器
 
 >[!TAB 预先准备]
 
@@ -63,21 +100,7 @@ ht-degree: 7%
 
 以下是一些建议的资源，可帮助您做好准备：
 
-**第1节：**
-
-* [添加资源](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**第二节：**
-
-* [添加资源](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**第三节：**
-
-* [添加资源](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**第四节：**
-
-* [添加资源](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
+_即将推出!_
 
 >[!TAB 获得认证]
 
@@ -88,16 +111,6 @@ ht-degree: 7%
 
 **现在，您已成功登录，可直接访问以下链接。**
 
-**参加练习测试**
-
-我们建议您在开始之前参加免费练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
-
-我们的实践测试都是从与实时测试相同的蓝图中开发的。 练习测试将帮助您了解实时考试中涵盖的主题。
-
-请记住，通过练习测试并不保证您会通过认证考试。
-
-转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在去做练习测试。
-
 **参加认证考试**
 
 Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
@@ -107,9 +120,9 @@ Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
 
 要计划、重新安排或取消您的考试，只需单击所选供应商，然后按照屏幕上提供的说明操作即可。 很简单！
 
-### 考试号：AD0-EXXX
+### 考试号：AD0-E604
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
 
 您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
