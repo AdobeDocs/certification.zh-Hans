@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -83,19 +83,21 @@ ht-degree: 0%
 
 **第1节：核心系统管理和设置**
 
-添加
+* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -Adobe Workfront融合中的功能、Adobe Workfront融合中的组织、Adobe Workfront融合中的模块、Adobe Workfront融合中的场景
 
 **第二节：情景设计和架构**
 
-添加
+* [Workfront融合场景优化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"}  — 教程
+* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -Adobe Workfront Fusion中的模块
 
 **第三节：测试和错误处理**
 
-添加
+* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -Adobe Workfront Fusion中的“场景设置”面板、Adobe Workfront Fusion中的错误、Adobe Workfront Fusion中的函数
 
 **第四节：使用API**
 
-添加
+* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP模块、Adobe Workfront融合中的连接、Adobe Workfront融合中的模块
+* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
 
 ## 续订您的证书
 
