@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '1488'
+source-wordcount: '1460'
 ht-degree: 11%
 
 ---
@@ -108,7 +108,7 @@ ht-degree: 11%
 
 ## 续订您的证书
 
-要续订您的考试，请单击 _[!DNL Campaign Standard]业务从业者续订 — 下面的AD5-822链接_. 这会将您重定向到Adobe凭据管理系统，您可以在该系统中单击 **[!UICONTROL renew your certification]** ，然后搜索 [!DNL Adobe Campaign] 查看续订考试的链接。
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的考试，请单击 [!DNL Campaign Standard] 业务从业人员续订 — 下面的AD5-822链接。
 
 * [[!DNL Campaign Standard] 业务从业人员续订 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -222,7 +222,7 @@ ht-degree: 11%
 
 ## 续订您的证书
 
-要续订您的考试，请单击“[!DNL Campaign Standard] 开发人员续订 — 下面的AD5-821”链接。 这会将您重定向到Adobe凭据管理系统，在该系统中，您将单击屏幕右侧的“续订您的证书”选项卡，然后搜索Adobe Campaign以查看指向续订考试的链接。
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的考试，请单击[!DNL Campaign Standard] 开发人员续订 — 下面的AD5-821”链接。
 
 * [[!DNL Campaign Standard] 开发人员续订 — AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 

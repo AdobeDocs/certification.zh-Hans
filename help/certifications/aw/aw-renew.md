@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -101,7 +101,7 @@ ht-degree: 0%
 
 ## 续订您的证书
 
-要续订您的考试，请单击下面的Workfront Fusion开发人员续订 — AD5-830链接_。 这会将您重定向到Adobe凭据管理系统，您可以在该系统中单击 **[!UICONTROL renew your certification]** ，然后搜索 [!DNL Adobe Campaign] 查看续订考试的链接。
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的考试，请单击下面的Workfront Fusion开发人员续订 — AD5-830链接。
 
 * [Workfront Fusion开发人员续订 — AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
