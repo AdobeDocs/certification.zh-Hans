@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="besitive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 85174b3682805f711d3929ef6d8dfd0558598427
+source-git-commit: bf6dae64ce1334611f7a40d14733dba7504fae20
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 0%
+source-wordcount: '728'
+ht-degree: 16%
 
 ---
 
@@ -99,7 +99,28 @@ ht-degree: 0%
 
 以下是一些建议的资源，可帮助您做好准备：
 
-_即将推出!_
+**第1节：连接**
+
+* [连接概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=zh-Hans){target="_blank"}
+* [创建连接](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en){target="_blank"}
+
+**第二节：数据视图**
+
+* [数据视图概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hans){target="_blank"}
+* [组件设置](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=zh-Hans){target="_blank"}
+
+**第三节：数据验证和疑难解答**
+
+* [数据视图概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hans){target="_blank"}
+* [创建或编辑数据视图](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=zh-Hans){target="_blank"}
+* [组件设置](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=zh-Hans){target="_blank"}
+* [标准组件参考](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en){target="_blank"}
+
+**第四节：报告和激活**
+
+* [可视化图表概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
+* [Analysis Workspace 概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html?lang=en){target="_blank"}
+* [数据视图概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hans){target="_blank"}
 
 >[!TAB 获得认证]
 
