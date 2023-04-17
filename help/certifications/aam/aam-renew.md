@@ -6,9 +6,10 @@ product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1116'
 ht-degree: 2%
 
 ---
@@ -103,9 +104,14 @@ ht-degree: 2%
 
 **重新启动认证**
 
-这门考试是免费的、开放的，没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的证书，请单击下面的Adobe Audience Manager业务从业者专家 — AD5-E826链接。
 
 [!BADGE 以Adobe Audience Manager商业从业者专家续订考试AD5-E826为例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+
+>[!NOTE]
+>
+>这门考试是免费的、开放的，没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+
 
 >[!TAB 主控]
 
@@ -177,11 +183,16 @@ ht-degree: 2%
 * [AAM:高级功能](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ 启动培训和资源](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### 重新启动认证
+### 续订您的证书
 
-这门考试是免费的、开放的，没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的证书，请单击下面的Adobe Audience Manager Architect主控续订 — AD5-E825链接。
 
 [!BADGE 参加Adobe Audience Manager架构师主控续订考试AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>这门考试是免费的、开放的，没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+
 
 >[!ENDTABS]
 
