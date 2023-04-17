@@ -6,9 +6,10 @@ product: Analytics
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: c230a7b1-db10-497c-975a-920eb09acb29
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '547'
 ht-degree: 6%
 
 ---
@@ -55,7 +56,7 @@ ht-degree: 6%
 
 **审核客户参考后，Adobe凭据团队会通知您。**
 
-课程评估是免费的。 无需安排计划，也无需进行监督。 如果您持有多个Adobe Experience Manager专家和主控级别的认证，您只需完成以下要求，所有AEM认证都将获得续订。
+课程评估是免费的。 无需安排计划，也无需进行监督。 如果您拥有多个Adobe Analytics专家和主控级别的认证，您只需完成以下要求，并且此级别的所有Adobe Analytics认证都将续订。
 
 [客户参考表Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
@@ -72,7 +73,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->您可以重复上述步骤，直到您成功完成了三个活动或完成了客户参考表单。
+>您可以重复执行上述操作，直到您成功完成了三个活动或两个活动，以及客户参考表单。
 
 >[!ENDTABS]
 
