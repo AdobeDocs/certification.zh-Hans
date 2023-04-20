@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 8%
@@ -15,7 +16,7 @@ ht-degree: 8%
 
 # 通过从过期到认证，重启认证历程
 
-此限时计划，提供 **2023年4月17日至2023年10月20日**，让您有机会在瞬息万变的数字环境中更新技能并保持领先地位。
+此限时计划，提供 **2023年4月24日至2023年10月20日**，让您有机会在瞬息万变的数字环境中更新技能并保持领先地位。
 
 其认证从2020年到2023年4月23日到期的个人，有资格参与此项活动 **免费** 项目。
 
