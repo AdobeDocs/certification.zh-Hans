@@ -4,9 +4,10 @@ description: 获取有关Adobe认证计划的问题解答。 了解认证的好�
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
+source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '2665'
 ht-degree: 0%
 
 ---
@@ -244,6 +245,169 @@ Adobe提供持续的学习和参与活动，以便候选人能够保持活跃状
 +++我是需要复习课程，还是干脆开始评估？
 
 评估以Experience League课程为基础，审查这些课程将为候选人成功通过这些课程做好准备。 但是，续订的关键要求只是通过评估。
+
++++
+
+>[!TAB 重新启动程序]
+
+**计划概述**
+
++++什么是Adobe认证重启计划？
+
+Adobe认证重新启动计划是一项一次性计划，它允许个人通过在线短期考试或评估而免费重新获得其过期的Adobe认证。
+
++++
+
++++重新启动程序将运行多长时间？
+
+该计划将于2023年4月24日至10月20日持续六个月。
+
++++
+
++++Adobe将来会再次提供此类计划吗？
+
+目前，我们不打算再提供此功能。 这只是一次性服务。
+
++++
+
++++重新启动计划中包含哪些认证级别？
+
+重新启动计划中只包含专家级和主控级认证。 从2023年6月起，专业级认证将有续订途径。
+
++++
+
+**计划资格**
+
++++谁有资格参加Adobe认证重启计划？
+
+认证从2020年到2023年4月23日到期的个人，只要其所寻求的认证包含在计划中，即有资格参加重启计划（请参阅下面的合格认证考试列表）。
+
++++
+
++++ 为什么这些年来发布的所有认证考试都没有包含在重新启动计划中？\
+2019年之前发布的考试将从重新启动计划中排除。
+
++++
+
++++为什么2023年4月23日是重新启动计划资格的截止日期？
+
+因为它允许无法参加FREE认证续订期（于2023年1月23日启动）的个人有足够的时间来续订其认证。
+
++++
+
++++哪些认证是Adobe认证重启计划的一部分？
+
+除已停用的证书外，所有活动Adobe认证都属于该计划的一部分。
+
++++
+
++++能否按申请显示合格考试列表？
+
+**Adobe Experience Manager**
+
+| 考试ID | 考试名称 |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] 业务从业专家 |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] 业务从业专家 |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] 开发人员专家 |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] 开发人员专家 |
+| AD0-E106 | [!DNL Adobe Experience Manager] 开发/运营工程师专家 |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] 架构师主控 |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] 架构师主控 |
+
+**[!DNL Adobe Analytics]**
+
+| 考试ID | 考试名称 |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] 开发人员专家 |
+| AD0-E202 | [!DNL Adobe Analytics] 业务从业专家 |
+| AD0-E200 | [!DNL Adobe Analytics] 架构师主控 |
+| AD0-E207 | [!DNL Adobe Analytics] 架构师主控 |
+
+**Adobe Audience Manager**
+
+| 考试ID | 考试名称 |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] 架构师主控 |
+| AD0-E452 | [!DNL Adobe Audience Manager] 架构师主控 |
+| AD0-E453 | [!DNL Adobe Audience Manager] 业务从业专家 |
+
+**Adobe Campaign Classic**
+
+| 考试ID | 考试名称 |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Sites业务从业者专家 |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites业务从业者专家 |
+| AD0-E318 | Adobe [!DNL Campaign Classic] 架构师主控 |
+| AD0-E303 | Adobe [!DNL Campaign Classic] 架构师主控 |
+| AD0-E312 | Adobe [!DNL Campaign Classic] 开发人员专家 |
+| AD0-E308 | Adobe [!DNL Campaign Classic] 开发人员专家 |
+
+**Adobe Campaign Standard**
+
+| 考试ID | 考试名称 |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] 业务从业专家 |
+| AD0-E302 | Adobe [!DNL Campaign Standard] 业务从业专家 |
+| AD0-E306 | Adobe [!DNL Campaign Standard] 开发人员专家 |
+| AD0-E301 | Adobe [!DNL Campaign Standard] 开发人员专家 |
+
+**Adobe[!DNL Marketo Engage]**
+
+| 考试ID | 考试名称 |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] 业务从业者（以前称为MCE） |
+
+**Adobe Target**
+
+| 考试ID | 考试名称 |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] 业务从业专家 |
+| AD0-E402 | [!DNL Adobe Target] 架构师主控 |
+
++++
+
++++我的认证将在2023年4月24日至10月20日之间过期，但此计划可用。一旦认证过期，我是否可以继续重新启动计划？
+
+不会。所有在推出日期及以后具有活跃认证资格的候选人都可以选择继续我们在2023年1月宣布的持续学习更新路径。
+
+重新启动计划仅适用于2023年4月24日之前过期的认证，以便向无法参加连续学习计划的候选人提供认证。
+
++++
+
+**[!DNL Marketo Engage]解决方案架构师(MCSA)和Adobe Commerce**
+
++++我已过期 [!DNL Marketo] 认证的解决方案架构师(MCSA)。 我可以通过此程序重新声明它吗？
+
+过期的候选人 [!DNL Marketo] 经认证的解决方案架构师认证可以寻求Marketo业务从业者重启路径，以满足对新 [!DNL Marketo Engage] 架构师认证。
+
+最终要求是通过 [!DNL Marketo Engage] 建筑师考试。 对于所有已过期的MCSA证书持有者，我们将在2023年12月31日之前提供50%的折扣促销，请联系认证支持以了解详细信息。
+
++++
+
++++为什么Adobe [!DNL Commerce] 认证不属于Adobe认证重启计划吗？
+
+当前提供的Adobe没有过期的证书持有者 [!DNL Commerce] 自2023年4月23日起的认证。 因此，所有活动Adobe [!DNL Commerce] 经认证的候选人有权通过不断学习进行续订 [认证的续订路径](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+
++++
+
+**Adobe凭据管理器配置文件**
+
++++我为什么看到 _参与率_ “Adobe凭据管理器”中“我的用户档案”的“历史记录”部分下吗？
+
+这是为了标记您是否有资格参加Adobe认证重新启动计划。 已分配此参与的候选人可以完成要求，在每个应用程序中重新启动其过期的证书。
+
++++
+
++++我已完成要求，但在配置文件历史记录中没有看到结果，我何时会获得证书？
+
+认证将在完成要求后72小时内获得。 必须指出，该方案将仅颁发合格候选人的证书。
+
++++
+
++++即使在完成重新启动要求后，我的证书仍显示为过期，我该怎么办？
+
+遗憾的是，一旦证书过期，便无法扩展。 在这种情况下，将颁发新的证书，而不是更新旧的证书。
 
 +++
 
