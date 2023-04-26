@@ -2,7 +2,8 @@
 title: Experience Manager认证概述
 description: Adobe Experience Manager认证选项概述
 solution: Experience Manager
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 3%

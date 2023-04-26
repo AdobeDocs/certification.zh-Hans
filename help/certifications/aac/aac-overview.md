@@ -3,7 +3,8 @@ title: 广告认证概述
 description: Adobe广告的认证选项概述
 solution: Advertising
 product: Advertising Cloud
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%

@@ -3,7 +3,8 @@ title: Campaign Standard认证概述
 description: Adobe Campaign Standard认证选项概述
 solution: Campaign, Campaign Standard
 version: Standard
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: 72e0fc04-4a63-4951-89d1-8f13ad58d70e
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 5%

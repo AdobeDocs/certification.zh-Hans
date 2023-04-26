@@ -2,7 +2,8 @@
 title: Journey Optimizer认证概述
 description: Adobe Journey Optimizer认证选项概述
 solution: Journey Optimizer
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: 879eab4e-b946-4453-be7e-89b1ded2bc6b
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 5%

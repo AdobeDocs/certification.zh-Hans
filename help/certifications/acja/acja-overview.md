@@ -3,7 +3,8 @@ title: Customer Journey Analytics认证概述
 description: Adobe Customer Journey Analytics认证选项概述
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: 44c88dad-f8f0-4b2c-ab5a-ef0d2a498284
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 5%
