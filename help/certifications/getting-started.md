@@ -4,9 +4,9 @@ description: 开始使用 [!DNL Experience Cloud] 认证。 了解该计划和�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] 提供三种不同级别的认证：专业、专�
 
 这些级别反映了熟练程度和知识的进步，专业证书是入门级证书，专家是中级证书，主控是最高级证书。
 
+| 徽章 | 描述 |
+| ------- | ------- |
 | ![专业徽章](/help/certifications/assets/professional-badge-Xsmall.png) | **专业认证** 验证候选人是否具有对Adobe数字营销解决方案的基本了解。 认证考试涵盖Adobe的基本概念和功能 [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![专家徽章](/help/certifications/assets/expert-badge-Xsmall.png) | **专家认证** 适用于对Adobe的数字营销解决方案有更高级了解的专业人士。 认证考试涵盖更复杂的Adobe概念和功能 [!DNL Experience Cloud]，包括实施和疑难解答。 |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![主控徽章](/help/certifications/assets/master-badge-Xsmall.png) | **主控认证** 适用于对Adobe的数字营销解决方案有深入了解，并在多个Adobe领域具有专业技能的专业人士 [!DNL Experience Cloud]. 认证考试涵盖高级主题和方案，包括复杂的集成、自定义和疑难解答。 |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Adobe [!DNL Experience Cloud] 提供三种不同级别的认证：专业、专�
 
 Adobe认证考试可自定义为三个不同的工作角色。 请阅读以下信息，找到适合您职业生涯的认证。
 
+| 徽标 | 描述 |
+| ------- | ------- |
 | ![业务从业人员徽章](/help/certifications/assets/business_practitioner_blk_small.png) | **业务从业者** 负责使用Adobe设计、执行和管理营销活动 [!DNL Experience Cloud] 解决方案。 他们应该对Adobe的数字营销解决方案以及营销和广告方面的经验有基本的了解。 业务从业者认证可验证他们有效使用Adobe的数字营销解决方案实现业务目标的能力。 |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![开发人员徽章](/help/certifications/assets/developer_blk_small.png) | **开发人员** 负责实施和集成Adobe [!DNL Experience Cloud] 解决方案进入组织的技术堆栈。 他们应该具有软件开发经验并精通Web技术，例如HTML、CSS、JavaScript和RESTful API。 开发人员认证将验证他们有效实施和自定义Adobe的数字营销解决方案以满足业务需求的能力。 |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![架构师徽章](/help/certifications/assets/architect_blk_small.png) | **架构师** 负责使用Adobe设计和实施企业级解决方案 [!DNL Experience Cloud] 解决方案。 他们应该对Adobe的数字营销解决方案有广泛的知识，并在软件架构、集成和自定义方面拥有丰富的经验。 架构师认证将验证他们使用Adobe的数字营销解决方案设计和实施复杂解决方案的能力。 |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
