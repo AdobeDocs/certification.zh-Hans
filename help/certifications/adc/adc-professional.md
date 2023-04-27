@@ -7,7 +7,8 @@ role: User
 badge: label="AdobeDoc云将于2023年5月推出" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
+source-git-commit: 97946715767d49c9c85cd2de6aaf5e13b2903411
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -23,4 +24,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >2023年5月推出
-
