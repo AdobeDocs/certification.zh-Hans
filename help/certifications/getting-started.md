@@ -4,7 +4,7 @@ description: 开始使用 [!DNL Experience Cloud] 认证。 了解该计划和�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Adobe [!DNL Experience Cloud] 提供三种不同级别的认证：专业、专�
 这些级别反映了熟练程度和知识的进步，专业证书是入门级证书，专家是中级证书，主控是最高级证书。
 
 | ![专业徽章](/help/certifications/assets/professional-badge-Xsmall.png) | **专业认证** 验证候选人是否具有对Adobe数字营销解决方案的基本了解。 认证考试涵盖Adobe的基本概念和功能 [!DNL Experience Cloud]. |
-| --------- | ------- |
+| ------- | ------- |
 
 {style="table-layout:auto"}
 
