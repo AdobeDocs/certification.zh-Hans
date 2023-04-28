@@ -1,13 +1,13 @@
 ---
 title: Adobe认证入门
-description: 开始使用 [!DNL Experience Cloud] 认证。 了解该计划和此网站。
+description: 开始使用 [!DNL Experience Cloud] 认证。 了解项目和此网站。
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
 source-wordcount: '947'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 常见问题解答
-description: 获取有关Adobe认证计划的问题解答。 了解认证的好处、注册方式以及您可以联系谁。
+description: 获取与 Adobe 认证项目相关问题的答案。了解认证的好处、注册方法以及相关联系人。
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
 source-wordcount: '2665'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
