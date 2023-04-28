@@ -3,7 +3,8 @@ title: 通过Adobe认证
 description: 了解如何通过Adobe获得认证。 在获得认证之前、期间和之后，查找您需要的所有资源。
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 1%
@@ -88,9 +89,9 @@ Adobe凭据团队与供应商合作，帮助支持该计划的计划和目标。
 | 供应商名称 | 描述 | 支持页面/电子邮件 |
 | ------- | ------- | ------- |
 | 克雷德利 | 徽章管理系统 | [支持](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| 示例 | 测试交付供应商（仅在线监控） | support@examity.com或855-Examity(855-392-6489) |
-| PSI | 在某个地点或日语版中测试交付供应商以进行跟踪考试 | adobe.psisupport@psionline.com |
-| Xvoucher -Adobe认证凭单中心 | 用于购买个人或批量凭证的凭证中心 | support@xvoucher.com或 [在线帮助](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| 示例 | 测试交付供应商（仅在线监控） | [电子邮件](mailto:support@examity.com){target="_blank"} 或855-Examity(855-392-6489) |
+| PSI | 在某个地点或日语版中测试交付供应商以进行跟踪考试 | [电子邮件](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xvoucher -Adobe认证凭单中心 | 用于购买个人或批量凭证的凭证中心 | [电子邮件](mailto:support@xvoucher.com){target="_blank"} 或 [在线帮助](https://help.xvoucher.com/hc/en-us) |
 
 其他供应商资源：
 
