@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe 认证
 breadcrumb-title: Adobe 认证
-user-guide-description: 了解 [!DNL Experience Cloud] 认证Adobe。 了解获得认证能为您做什么。
+user-guide-description: 了解 Adobe 的  [!DNL Experience Cloud]  认证。了解获得认证能为您做什么。
 source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 44%
+ht-degree: 47%
 
 ---
 
