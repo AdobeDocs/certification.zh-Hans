@@ -6,18 +6,23 @@ product: Document Cloud
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
 # 续订Adobe [!DNL Document Cloud] 认证
 
-通过认证考试后，您的认证有效期为两年。
+您的Adobe认证有效期为两年。 如果您已接近这两年的期限，则需要续订您的证书以使其保持活动状态。
 
-我们很高兴地宣布，您现在能够通过新的免费格式续订您的证书。 它涉及使用按需Experience League课程和教程 — 只需完成三项活动即可免费续订您的认证。 您必须在认证过期前续订，否则需要参加完整的考试才能再次获得认证。
+首先，在下面的选项卡中选择相应的级别(专业、专家或主控)。 然后仔细查看续订证书所需执行的操作。
+
+请确保在认证过期之前，您有充足的时间完成所有要求。
+
+请务必注意，如果您的认证过期，您将必须重新参加认证考试，该考试不是免费的。
 
 >[!IMPORTANT]
 >
