@@ -6,18 +6,22 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e10f50a8e8a62d88d6c3ed5175a6d155760dc37c
+source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
 workflow-type: tm+mt
-source-wordcount: '3197'
+source-wordcount: '3215'
 ht-degree: 0%
 
 ---
 
 # 续订Adobe [!DNL Workfront] 认证
 
-通过认证考试后，您的认证有效期为两年。
+您的Adobe认证有效期为两年。 如果您已接近这两年的期限，则需要续订您的证书以使其保持活动状态。
 
-我们很高兴地宣布，您现在能够通过新的免费格式续订您的证书。 它涉及使用按需Experience League课程和教程 — 只需完成三项活动即可免费续订您的认证。 您必须在认证过期前续订，否则需要参加完整的考试才能再次获得认证。
+首先，在下面的选项卡中选择相应的级别(专业、专家或主控)。 然后仔细查看续订证书所需执行的操作。
+
+请确保在认证过期之前，您有充足的时间完成所有要求。
+
+请务必注意，如果您的认证过期，您将必须重新参加认证考试，该考试不是免费的。
 
 >[!IMPORTANT]
 >
