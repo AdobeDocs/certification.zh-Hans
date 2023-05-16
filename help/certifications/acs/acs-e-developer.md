@@ -1,12 +1,13 @@
 ---
 title: 开发人员专家认证
 description: 了解如何成为经认证的Adobe Developer专家Adobe [!DNL Campaign Standard].
-solution: Campaign Standard
+solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
 badge: label="Exam AD0-E306" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: be24274b-7a61-47f5-9947-984015c07a96
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1301'
 ht-degree: 11%

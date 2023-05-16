@@ -1,12 +1,13 @@
 ---
 title: AEM Forms后端开发人员专业认证
 description: 了解如何成为认证Adobe [!DNL Experience Manager Forms] 后端开发人员专家。
-solution: Experience Manager Forms
+solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E125" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1039'
 ht-degree: 5%

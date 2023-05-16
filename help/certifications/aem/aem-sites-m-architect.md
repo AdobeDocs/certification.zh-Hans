@@ -1,13 +1,13 @@
 ---
 title: 架构师主控认证
 description: 了解如何成为Experience Manager Sites主控的认证架构师。
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="Exam AD0-E117" type="besitive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 10c157493e0bd1f947bc5c222ca0612ce275c754
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1594'
 ht-degree: 22%
@@ -135,7 +135,7 @@ ht-degree: 22%
 * [Cloud Manager 简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=zh-Hans){target="_blank"}
 * [AEM Foundation视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
 * [HTTP/2简介](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
-* [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hans){target="_blank"}
+* [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
 * [AEM 和 Adobe Target 快速入门](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html?lang=en){target="_blank"}
 
 **第二节：解决方案设计**

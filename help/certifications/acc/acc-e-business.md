@@ -1,13 +1,13 @@
 ---
 title: 业务从业者专家认证
 description: 了解如何通过 [!DNL Campaign Classic].
-solution: Campaign Classic v7
+solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
 badge: label="Exam AD0-E327" type="besitive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1114'
 ht-degree: 11%

@@ -1,12 +1,13 @@
 ---
 title: AEM Forms后端开发人员专业认证
 description: 了解如何成为认证的AdobeAEM Forms后端开发人员专业人员。
-solution: Experience Manager Forms
+solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E127" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '912'
 ht-degree: 8%
