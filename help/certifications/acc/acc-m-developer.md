@@ -1,18 +1,18 @@
 ---
 title: 架构师主控认证
 description: 了解如何主控地成为 [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: Data Architect
 badge: label="Exam AD0-E328" type="besitive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 9%
 
 ---
-
 
 # 认证历程Adobe [!DNL Campaign Classic] 架构师主控
 

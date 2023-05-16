@@ -1,13 +1,13 @@
 ---
 title: 认证续订
 description: 了解如何续订 [!DNL Campaign Classic] 认证。
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '930'
 ht-degree: 7%
