@@ -1,6 +1,6 @@
 ---
-title: 认证续订
-description: 了解如何续订Adobe [!DNL Workfront] 认证。
+title: 認證續約
+description: 瞭解如何更新Adobe [!DNL Workfront] 憑證過期前的認證。
 solution: Workfront
 role: Developer
 mini-toc-levels: 1
@@ -13,347 +13,347 @@ ht-degree: 0%
 
 ---
 
-# 续订Adobe [!DNL Workfront] 认证
+# 續約您的Adobe [!DNL Workfront] 認證
 
-您的Adobe认证有效期为两年。 如果您已接近这两年的期限，则需要续订您的证书以使其保持活动状态。
+您的Adobe認證有效期為兩年。 如果您快要達到兩年期限，就應該更新您的認證，以保持其作用中。
 
-首先，在下面的选项卡中选择相应的级别(专业、专家或主控)。 然后仔细查看续订证书所需执行的操作。
+首先，在下列標籤上選取適當的層級（「專業」、「專家」或「主要」）。 接著，請仔細檢閱更新認證所需執行的動作。
 
-请确保在认证过期之前，您有充足的时间完成所有要求。
+在認證過期之前，請務必提供足夠的時間完成所有需求。
 
-请务必注意，如果您的认证过期，您将必须重新参加认证考试，该考试不是免费的。
+請務必注意，如果認證過期，您必須重新參加認證考試，這並非免費。
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
->[!TAB 专业]
+>[!TAB 專業]
 
-+++Workfront Fusion开发人员专业版
++++Workfront Fusion開發人員專業版
 
-## 续订证书的说明：
+## 更新認證的說明：
 
-* **步骤1**:已成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-* **步骤2**:审查考试目标和资源
-* **步骤3**:考试通过
+* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標和資源
+* **步驟3**：參加並通過測驗
 
-### 准备就绪
+### 準備就緒
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 通过分数：25/34
-* 时间：68分钟
-* 成本：自由/非监督
-* 投放：按需
-* 可用语言：英语
-* 先决条件：当前（未过期）Adobe Workfront Fusion Developer Professional认证
-* 考试ID:AD5-E830
+* 及格分數：25/34
+* 時間：68分鐘
+* 費用：免費/非保管
+* 傳遞：隨選
+* 可用語言：英文
+* 先決條件：目前（未過期） Adobe Workfront Fusion Developer Professional認證
+* 考試ID：AD5-E830
 
-**范围和目标**
+**範圍和目標**
 
-第1节：核心系统管理和设置(26%)
+第1節：核心系統管理與設定(26%)
 
-* 如果“融合”方案要求将函数嵌套在另一个函数中，请选择格式正确的表达式。
-* 假定融合方案需要处理时区，区分用户、可见组织以及需要覆盖时区的位置。
-* 在“融合”场景下，选择将相应地将输入数据转换为输出数据的映射面板表达式和/或模块。
-* 确定使用Fusion Dev工具排除执行错误或确定对第三方系统发出的调用和响应的正确方法。
+* 假定Fusion案例要求將函式巢狀內嵌於另一個函式中，請選取格式正確的運算式。
+* 在需要時區操作的Fusion案例中，區分使用者、可見組織和需要覆寫時區的位置。
+* 在Fusion案例中，選取可適當地將輸入資料轉換為輸出資料的對映面板運算式和/或模組。
+* 找出正確的方法，利用Fusion開發工具來疑難排解執行中的錯誤，或判斷對協力廠商系統的呼叫和回應。
 
-第二节：情景设计和架构(47%)
+第2節：情境設計與架構(47%)
 
-* 给定一系列步骤，请选择要解析JSON并转换为包的正确序列。
-* 在Fusion场景下，确定简化设计和/或优化维护的机会。
-* 在某种情况下，确定在某种情况下减少数据流的机会。
-* 给出搜索模块和后续聚合器上显示的包数量示例，说明包检查器处理和显示的操作数量的变化。
-* 给出错误403:forbidden的示例，正确选择错误消息的来源和原因
-* 在Workfront搜索和读取模块中确定引用和收藏集的适当用法。
+* 提供步驟清單，選擇正確的序列以剖析JSON並轉換為套裝。
+* 在Fusion案例中，找出簡化設計和/或最佳化維護的機會。
+* 在特定情況下，找出減少情境中資料流量的機會。
+* 以搜尋模組及下列彙總器上顯示的組合數目為例，說明組合檢測器所處理和顯示的作業數目變更。
+* 以錯誤403：forbidden為例，正確選取錯誤訊息的來源及原因
+* 識別Workfront搜尋和讀取模組上參照和集合的適當使用方式。
 
-第三节：测试和错误处理(15%)
+第3節：測試和錯誤處理(15%)
 
-* 在融合场景下，正确识别解决方案以防止或处理不可靠的服务。
-* 如果出现缺少所需数据的融合场景，请选择处理无效数据的方法。
+* 在Fusion案例中，正確識別解決方案以防止或處理不可靠的服務。
+* 假定Fusion案例缺少必要資料，請選取處理無效資料的方法。
 
-第四节：使用API(12%)
+第4節：使用API (12%)
 
-* 如果第三方系统没有专用应用程序，请识别HTTP应用程序并选择相应的模块。
-* 识别CRUD操作与REST API的其他常见功能之间的差异。
+* 如果第三方系統沒有專用應用程式，請識別HTTP應用程式並選取適當的模組。
+* 識別CRUD作業與REST API其他常見功能之間的差異。
 
-## 预先准备
+## 準備就緒
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**第1节：核心系统管理和设置**
+**第1節：核心系統管理與設定**
 
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -Adobe Workfront融合中的功能、Adobe Workfront融合中的组织、Adobe Workfront融合中的模块、Adobe Workfront融合中的场景
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Adobe Workfront Fusion中的函式、Adobe Workfront Fusion中的組織、Adobe Workfront Fusion中的模組、Adobe Workfront Fusion中的情境
 
-**第二节：情景设计和架构**
+**第2節：情境設計與架構**
 
-* [Workfront融合场景优化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"}  — 教程
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -Adobe Workfront Fusion中的模块
+* [Workfront Fusion案例最佳化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"}  — 教學課程
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Adobe Workfront Fusion中的模組
 
-**第三节：测试和错误处理**
+**第3節：測試和錯誤處理**
 
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -Adobe Workfront Fusion中的“场景设置”面板、Adobe Workfront Fusion中的错误、Adobe Workfront Fusion中的函数
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Adobe Workfront Fusion中的「案例設定」面板、Adobe Workfront Fusion中的錯誤、Adobe Workfront Fusion中的函式
 
-**第四节：使用API**
+**第4節：使用API**
 
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP模块、Adobe Workfront融合中的连接、Adobe Workfront融合中的模块
-* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP模組、Adobe Workfront Fusion中的連線、Adobe Workfront Fusion中的模組
+* [ADOBE WORKFRONT API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
 
-## 续订您的证书
+## 更新您的認證
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的证书，请单击下面的Workfront Fusion开发人员续订 — AD5-830链接。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Workfront Fusion Developer renewal - AD5-830連結。
 
-* [Workfront Fusion开发人员续订 — AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
+* [Workfront Fusion開發人員續約 — AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
 >[!NOTE]
 >
->这门考试是免费的、开放的，没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+>此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 
-+++Workfront项目经理专业
++++Workfront專業專案經理
 
-## 续订证书的说明：
+## 更新認證的說明：
 
-* **步骤1**:已成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-* **步骤2**:审查考试目标和资源
-* **步骤3**:考试通过
+* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標和資源
+* **步驟3**：參加並通過測驗
 
-### 准备就绪
+### 準備就緒
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 通过分数：25/35
-* 时间：70分钟
-* 成本：自由/非监督
-* 投放：按需
-* 可用语言：英语
-* 先决条件：当前（未过期）Adobe Workfront项目经理专业认证
-* 考试ID:AD5-E833
+* 及格分數：25/35
+* 時間：70分鐘
+* 費用：免費/非保管
+* 傳遞：隨選
+* 可用語言：英文
+* 先決條件：目前（未過期） Adobe Workfront專案經理專業認證
+* 考試ID：AD5-E833
 
-**范围和目标**
+**範圍和目標**
 
-第1节：入学和规划(29%)
+第1節：錄取與規劃(29%)
 
-* 给定请求后，请查看自定义数据以确定相应的操作。 （请考虑附加的文档、所需的批准、数据的完整程度、优先级等）
-* 在某种情况下，确定活动所需的共享权限。 （考虑功能板/报表共享、对任务或请求执行的操作、可见性、继承权限、灵活性等）
-* 在给定方案下，确定适当的任务设置以计划在特定时间范围内执行任务。 （考虑持续时间、计划时间、约束和任务或跨项目前置任务、前置任务和滞后前置任务、任务分配和超时。）
-* 在Workfront中确定对象的正确层次结构。 （考虑项目组合、项目、任务和问题。）
-* 给定角色，确定在项目/工作流程的工作摄取或规划阶段对角色有用的摄取或规划报表/功能板。 （考虑项目所有者、执行者/赞助者、任务分配者、请求者等）
+* 在提出要求時，請檢閱自訂資料以決定適當的動作。 （考慮附加檔案、需要核准、資料的完成程度、優先順序等）
+* 在特定的情況下，請決定活動所需的共用許可權。 （考慮儀表板/報告共用、任務或請求的動作、可見性、繼承許可權、敏捷等）
+* 在特定的情況下，決定適當的任務設定，以計畫特定時間範圍內的任務執行。 （考慮持續時間、計畫時數、限制和任務或跨專案前置任務、前置任務的前置和延遲、任務指派和休假。）
+* 識別Workfront中物件的正確階層。 （考慮投資組合、方案、專案、任務和問題。）
+* 指定角色，在專案/工作流程的工作接受或計畫階段確定對角色有用的接受或計畫報告/儀表板。 （考慮專案所有者、高階主管/贊助者、任務受指派者、請求者等）
 
-第二节：执行(59%)
+區段2：執行(59%)
 
-* 创建Workfront单次使用批准以及何时使用批准。 （考虑项目和任务批准、多路径批准和多阶段批准。）
-* 在某种情况下，确定日期类型向项目经理传递的信息。 （考虑计划日期、实际日期、人工日期、提交日期、估计日期）
-* 在给定方案下，确定使用不同的任务约束对项目时间轴有何影响。 （考虑了解不同任务约束的作用，了解不同任务约束的作用以及何时使用不同的任务约束）
-* 在给定的情景中，演示如何查找项目团队以及如何通知他们工作分配、更新或完成工作项。 （考虑通知类型、项目团队通知、“人员”选项卡、项目/任务的更新、订阅工作对象的时间和原因，以及如何修改单个电子邮件通知）
-* 确定管理项目的不同方式。 （请考虑瀑布、Agile、SCRUM和看板。）
-* 在某种情况下，描述如何向利益相关方提供其所需的信息。 （请考虑导出报表、导出文件、定期投放等。）
-* 在某种情况下，确定日期类型和持续时间对项目条件有何影响。 （考虑计划的开始、预计的开始、个人提交日期等）
-* 在给定方案中，确定如何在系统级别或组级别自定义状态中实施或修改更改
-* 在某种情况下，描述构建报表的步骤并确定所需的报表类型。
-* 在某种情况下，确定何时应在项目上使用问题。
+* 建立Workfront單一使用核准和使用核准的時間。 （考慮專案與任務核准、多重路徑核准和多階段核准。）
+* 在情景中，識別日期型別傳達給專案經理的資訊。 （考慮計畫日期、實際日期、手動日期、認可日期、估計日期）
+* 在特定的情況下，決定使用時不同的任務限制如何影響專案時間表。 （請考慮瞭解不同任務限制的功用，瞭解不同任務限制是什麼，以及何時使用不同任務限制）
+* 在案例中，示範如何尋找專案團隊以及如何通知他們工作指派、更新或工作項的完成。 （考慮通知型別、專案團隊通知、「人員」標籤、專案/任務的更新、訂閱工作物件的時間和原因，以及如何修改個別電子郵件通知）
+* 識別管理專案的不同方式。 （考慮瀑布、敏捷、SCRUM和Kanban。）
+* 在某個案例中，請說明如何為利害關係人提供他們所需的資訊。 （考慮匯出報告、匯出檔案、重複傳送等）
+* 在特定的情況下，請決定日期型別和持續時間對專案條件有何影響。 （考慮計劃開始、預計開始、個人認可日期等）
+* 在特定的情況下，請決定如何實作或修改系統層級或群組層級自訂狀態的變更
+* 在情景中，請說明建立報表的步驟，並決定所需的報表型別。
+* 在特定的情況下，決定專案上應何時使用問題。
 
-第三节：结帐(12%)
+區段3：結案(12%)
 
-* 给定特定对象状态，确定需要执行哪些活动或触发哪些操作。 （请考虑待批准，即在批准得到解决、仅在活动项目上发送通知之前，需要批准或无法关闭项目 — 不处于与规划、编辑数据或删除已完成项目上具有已记录小时的任务等等等状态）
-* 确定可用于衡量项目成功与否的项目元素。 (考虑基准变量、财务状况、计划日期与实际日期/小时/成本、自定义数据/KPI等。 请勿使用特定于案例的问题。 关注技术元素。)
+* 指定特定物件狀態，決定需要執行哪些活動或觸發了哪些動作。 （考慮暫緩核准，即需要核准或專案在核准解決之前無法關閉、僅針對作用中專案傳送通知 — 不針對與計畫、編輯資料或刪除已完成專案具有記錄時數的任務等同的狀態）
+* 識別可用來測量專案成功的專案元素。 （考慮基線變體、財務、計畫日期與實際日期/小時/成本、自訂資料/KPI等） 請勿使用案例特定問題。 專注於技術元素。)
 
-## 预先准备
+## 準備就緒
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**第1节：摄取和规划**
+**第1節：引入與規劃**
 
-* [了解请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html?lang=en){target="_blank"}
-* [批准工作](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html?lang=en){target="_blank"}
-* [共享项目](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en){target="_blank"}
-* [编辑项目模板](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html?lang=en){target="_blank"}
-* [从项目计划中分配任务](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=en){target="_blank"}
-* [任务概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html?lang=en){target="_blank"}
-* [持续时间类型概述：计算量度](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/)
-* [了解Adobe Workfront中的对象](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html?lang=en){target="_blank"}
-* [将问题转换为其他工作项](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=en){target="_blank"}
-* [在Adobe Workfront中共享项目](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html?lang=en){target="_blank"}
-* [为项目或模板指定资源管理器](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html?lang=en){target="_blank"}
+* [瞭解請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html?lang=en){target="_blank"}
+* [核准工作](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html?lang=en){target="_blank"}
+* [共享项目](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=zh-Hans){target="_blank"}
+* [編輯專案範本](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html?lang=en){target="_blank"}
+* [從專案計畫指派任務](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=en){target="_blank"}
+* [任務總覽](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html?lang=en){target="_blank"}
+* [期間型別概觀：計算的工作](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/)
+* [瞭解Adobe Workfront中的物件](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html?lang=en){target="_blank"}
+* [將問題轉換為其他工作專案](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=en){target="_blank"}
+* [在Adobe Workfront中共用專案](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html?lang=en){target="_blank"}
+* [為專案或範本指定資源管理員](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html?lang=en){target="_blank"}
 * [创建仪表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
 
-**第二节：执行**
+**第2節：執行**
 
-* [审批流程概述](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html?lang=en){target="_blank"}
-* [为工作项创建审批流程](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html?lang=en){target="_blank"}
-* [在Adobe Workfront中将问题转换为任务](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html?lang=en){target="_blank"}
-* [创建问题](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html?lang=en){target="_blank"}
-* [处理计划外工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html?lang=en){target="_blank"}
-* [创建简单报表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html?lang=en){target="_blank"}
-* [提交日期概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html?lang=en){target="_blank"}
-* [任务约束](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en){target="_blank"}
-* [Adobe Workfront中的组与团队比较](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html?lang=en){target="_blank"}
-* [编辑项目](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html?lang=en){target="_blank"}
-* [创建敏捷的团队](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html?lang=en){target="_blank"}
-* [使用迭代页](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html?lang=en){target="_blank"}
-* [了解项目通信](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html?lang=en){target="_blank"}
-* [计划自动报表提交](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html?lang=en){target="_blank"}
-* [项目条件和条件类型概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html?lang=en){target="_blank"}
-* [了解日期类型和进度状态](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html?lang=en){target="_blank"}
-* [使用功能板管理团队的工作](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
-* [使用Adobe Workfront内置报表](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html?lang=en){target="_blank"}
+* [核准流程概觀](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html?lang=en){target="_blank"}
+* [建立工作專案的核准流程](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html?lang=en){target="_blank"}
+* [在Adobe Workfront中將問題轉換為任務](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html?lang=en){target="_blank"}
+* [建立問題](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html?lang=en){target="_blank"}
+* [處理非計畫工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html?lang=en){target="_blank"}
+* [建立簡單報表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html?lang=en){target="_blank"}
+* [認可日期總覽](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html?lang=en){target="_blank"}
+* [任務限制](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en){target="_blank"}
+* [Adobe Workfront中的群組與團隊](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html?lang=en){target="_blank"}
+* [編輯專案](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html?lang=en){target="_blank"}
+* [建立敏捷團隊](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html?lang=en){target="_blank"}
+* [使用反複專案頁面](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html?lang=en){target="_blank"}
+* [瞭解專案通訊](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html?lang=en){target="_blank"}
+* [排程自動報告傳遞](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html?lang=en){target="_blank"}
+* [專案狀態與狀態型別概觀](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html?lang=en){target="_blank"}
+* [瞭解日期型別和進度狀態](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html?lang=en){target="_blank"}
+* [使用儀表板管理團隊的工作](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
+* [使用Adobe Workfront內建報表](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html?lang=en){target="_blank"}
 
 
-**第三节：结帐**
+**區段3：關閉**
 
-* [更改项目的状态](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html?lang=en){target="_blank"}
-* [系统项目状态](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html?lang=en){target="_blank"}
-* [使用里程碑视图](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
-* [业务案例财务字段概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html?lang=en){target="_blank"}
-* [项目基线中包含的项目资金](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html?lang=en#financial-information-included-in-baseline-reports){target="_blank"}
-* [使用项目量度跟踪工作进度](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html?lang=en){target="_blank"}
+* [變更專案狀態](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html?lang=en){target="_blank"}
+* [系統專案狀態](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html?lang=en){target="_blank"}
+* [使用里程碑檢視](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
+* [業務案例財務欄位概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html?lang=en){target="_blank"}
+* [專案基準中包含的專案財務](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html?lang=en#financial-information-included-in-baseline-reports){target="_blank"}
+* [使用專案量度追蹤工作進度](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html?lang=en){target="_blank"}
 
-## 续订您的证书
+## 更新您的認證
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的证书，请单击下面的Workfront项目经理专业续订 — AD5-833链接。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下面的Workfront Project Manager Professional續約 — AD5-833連結。
 
-* [Workfront项目经理专业续订 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+* [Workfront專案經理專業更新 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
 
 >[!NOTE]
 >
->这门考试是免费的、开放的，没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+>此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 
 >[!TAB 专家]
 
-+++Workfront Core Developer Expert
++++Workfront核心開發人員專家
 
-## 续订证书的说明：
+## 更新認證的說明：
 
-* **步骤1**:已成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-* **步骤2**:审查考试目标和资源
-* **步骤3**:考试通过
+* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標和資源
+* **步驟3**：參加並通過測驗
 
-### 准备就绪
+### 準備就緒
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 通过分数：25/35
-* 时间：70分钟
-* 成本：自由/非监督
-* 投放：按需
-* 可用语言：英语
-* 先决条件：当前（未过期）Adobe Workfront Core Developer Expert认证
-* 考试ID:AD5-E829
+* 及格分數：25/35
+* 時間：70分鐘
+* 費用：免費/非保管
+* 傳遞：隨選
+* 可用語言：英文
+* 先決條件：最新（未過期） Adobe Workfront Core Developer Expert認證
+* 考試ID：AD5-E829
 
-**范围和目标**
+**範圍和目標**
 
-第1节：核心系统管理和设置(27%)
+第1節：核心系統管理與設定(27%)
 
-* 根据要求，选择相应的组级别设置。
-* 如果企业帐户希望确保SSO有效地维护系统安全，请确定自动配置用户的最佳实践。 (注意事项包括Admin Console、经典SSO和使用Admin Console时的限制)
-* 如果出现这种情况，建议使用展示板配置以满足自定义要求。
+* 根據需求，選取適當的群組層級設定。
+* 如果企業帳戶想要確保SSO有效運作以維護系統安全性，請為自動布建使用者找出最佳實務。 (使用Admin Console時的考量事項包括Admin Console、傳統SSO和限制)
+* 在情景中，建議使用展示板設定以符合自訂需求。
 
-第二节：Intace、Custom Forms和Project Management(11%)
+第2節：輸入、自訂Forms和專案管理(11%)
 
-* 假设存在多个表单的情况，请确定用于控制访问、可见性和依赖关系的操作。
-* 假定多对象表单上的计算字段存在情况，请确定正确的公式。
+* 假設案例具有多個表單，請決定控制存取、可見度和相依性的動作。
+* 假設案例中具有多物件表單上的計算欄位，請識別正確的公式。
 
-第三节：战略功能(Portfolio和方案管理、资源管理)(11%)
+第3節：戰略功能(Portfolio與方案管理、資源管理) (11%)
 
-* 在某种情况下，应提供一种机制，确保项目配备充足的人员，使用资源管理工具。
-* 给定了一个方案，资源管理工具可确定用户被过度分配的原因。
+* 在某個案例中，提供一種機制，確保專案已使用資源管理工具配備齊全的人員。
+* 在情景下，資源管理工具會判斷使用者過度分配的原因。
 
-第四节：文档管理和校样(11%)
+第4節：檔案管理與證明(11%)
 
-* 在此情景中，演示如何使用校样编辑和设置权限。
-* 在某种情况下，设置与AEM Ensentials或AEM Assets Essentials的连接。
+* 在案例中，示範如何使用校樣編輯和設定許可權。
+* 在特定的情況下，設定與AEMas a Cloud Service或AEM Assets Essentials的連線。
 
-第五节：报告(11%)
+區段5：報表(11%)
 
-* 在某种情况下，确定字段类型在报表中的呈现方式。 （字段类型包括富文本、图像、多选）
-* 确定支持监控和改进用户采用的Adobe Workfront功能。
+* 在情景下，決定欄位型別在報告上的呈現方式。 （欄位型別包括RTF文字、影像、多選）
+* 識別可支援監控及改善使用者採用率的Adobe Workfront功能。
 
-第六节：方法/最佳实践/用例(29%)
+第6節：方法/最佳實務/使用案例(29%)
 
-* 在Workfront中提供了一个方案，演示了设置单个营销活动中可交付项跟踪功能。 （请考虑营销用例。）
-* 在Workfront中，演示有关财务、利用率、预测、计费率/记录（专业服务）的功能
-* 在Workfront中给定了一个方案，演示了有关设置工作流和批准的功能。 （请考虑法规/合规情况。）
-* 在使用Workfront展示板的情景中，确定要显示进度的本机功能。
-* 在某种情况下，建议围绕系统和组管理建立治理框架。
+* 在Workfront中給定的情況下，示範設定追蹤單一行銷活動中的交付專案的功能。 （考慮行銷使用案例。）
+* 在Workfront的案例中，示範有關財務、使用率、預測、計費率/記錄的功能（專業服務）
+* 在Workfront內的特定案例中，示範設定工作流程和核准的相關功能。 （請考量法規/法規遵循情況。）
+* 假設情景使用Workfront面板，請識別原生功能以顯示進度。
+* 針對特定案例，建議系統和群組管理相關的治理架構。
 
-## 预先准备
+## 準備就緒
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**第1节：核心系统管理和设置**
+**第1節：核心系統管理與設定**
 
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"}  — （管理和设置、管理组、灵活）
-* [创建和修改组的项目模板](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html?lang=en){target="_blank"}
-* [了解特定于组的审批流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html?lang=en){target="_blank"}
-* [组如何继承状态](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html?lang=en){target="_blank"}
-* [创建和修改组的团队](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html?lang=en){target="_blank"}
-* [指定用户许可 |部署指南](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
-* [配置卡片衰减](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html?lang=en){target="_blank"}
-* [在主板上使用连接的卡](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html?lang=en){target="_blank"}
-* [在展示板中添加或删除成员](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - （管理與設定、管理群組、敏捷）
+* [建立和修改群組的專案範本](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html?lang=en){target="_blank"}
+* [瞭解群組特定的核准流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html?lang=en){target="_blank"}
+* [群組如何繼承狀態](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html?lang=en){target="_blank"}
+* [建立和修改群組的團隊](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html?lang=en){target="_blank"}
+* [指名的使用者授權 |部署指南](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
+* [設定卡片流失](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html?lang=en){target="_blank"}
+* [在展示板上使用連線的卡片](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html?lang=en){target="_blank"}
+* [從展示板新增或移除成員](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
 
-**第二节：摄取、自定义Forms和项目管理**
+**第2節：輸入、自訂Forms和專案管理**
 
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -(管理和设置、自定义Forms、报表、报表元素)
-* [使用旧版表单生成器，向自定义表单中添加区域分隔符](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html?lang=en){target="_blank"}
-* [通配符过滤器变量](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en){target="_blank"}
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (管理與設定、自訂Forms、報表、報表元素)
+* [使用舊版表單產生器新增分割槽符號至自訂表單](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html?lang=en){target="_blank"}
+* [萬用字元篩選變數](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en){target="_blank"}
 
-**第三节：战略功能(Portfolio和方案管理、资源管理)**
+**第3節：策略功能(Portfolio與方案管理、資源管理)**
 
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -(工作负载平衡器，Adobe Workfront中的资源规划，分配任务)
-* [使用工作负载平衡器批量分配工作](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
-* [使用“项目”和“职责”视图在资源计划员中预算资源](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html?lang=en){target="_blank"}
-* [在工作负载平衡器中筛选信息](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en){target="_blank"}
-* [使用工作负载平衡器批量分配工作](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
-* [智能分配概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html?lang=en){target="_blank"}
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (工作負載平衡器、Adobe Workfront中的資源規劃、指派任務)
+* [使用工作負載平衡器大量指派工作](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [使用「專案」與「角色」檢視，在資源規劃工具中編列資源預算](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html?lang=en){target="_blank"}
+* [在工作負載平衡器中篩選資訊](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en){target="_blank"}
+* [使用工作負載平衡器大量指派工作](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [智慧指派總覽](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html?lang=en){target="_blank"}
 
-**第四节：文档管理和校样**
+**第4節：檔案管理與校訂**
 
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"}  — （审核和批准工作、配置校对、配置集成）
-* [校样权限配置文件概述](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
-* [校样角色概述](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html?lang=en){target="_blank"}
-* [配置用户的校对访问权限](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html?lang=en){target="_blank"}
-* [配置Experience Manager Assets Essentials集成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html?lang=en){target="_blank"}
-* [配置Experience Manager Assetsas a Cloud Service集成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html?lang=en){target="_blank"}
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - （檢閱和核准工作、設定校樣、設定整合）
+* [校訂許可權設定檔概述](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
+* [校訂角色概觀](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html?lang=en){target="_blank"}
+* [設定使用者的校訂存取權](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html?lang=en){target="_blank"}
+* [設定Experience Manager Assets Essentials整合](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html?lang=en){target="_blank"}
+* [設定Experience Manager Assetsas a Cloud Service整合](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html?lang=en){target="_blank"}
 
-**第五节：报表**
+**第5節：報表**
 
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"}  — （审核和批准工作、配置校对、配置集成）
-* [创建项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
-* [使用旧版表单生成器，在自定义表单中添加或编辑图像或其他资产小组件](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html?lang=en){target="_blank"}
-* [按多选自定义字段绘制报表图表](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html?lang=en){target="_blank"}
-* [Blueprint概述](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html?lang=en){target="_blank"}
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - （檢閱和核准工作、設定校樣、設定整合）
+* [建立專案範本](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
+* [使用舊版表單產生器新增或編輯自訂表單中的影像或其他資產Widget](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html?lang=en){target="_blank"}
+* [依據多選自訂欄位繪製報表圖表](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html?lang=en){target="_blank"}
+* [藍圖概觀](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html?lang=en){target="_blank"}
 
-**第六节：方法/最佳实践/用例**
+**第6節：方法/最佳實務/使用案例**
 
-* [Experience Manageras a Cloud Service文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hans){target="_blank"} -(与Adobe Workfront集成)
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} （报表元素、项目财务、资源利用、在展示板中使用灵活的规划工具、配置校对功能）
-* [系统管理员要点网络研讨会：什么是Workfront管理？](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
-* [配置Adobe Workfront和Experience Manager Assets之间的资产元数据映射](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html?lang=en){target="_blank"}
-* [关于元数据](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
-* [使用里程碑视图](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
-* [跟踪成本](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html?lang=en){target="_blank"}
+* [Experience Manageras a Cloud Service檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hans){target="_blank"} -(與Adobe Workfront整合)
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} （報告元素、專案財務、資源使用、在面板中使用敏捷計畫工具、設定校訂功能）
+* [System Admin Essentials網路研討會：什麼是Workfront Governance？](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
+* [設定Adobe Workfront和Experience Manager Assets之間的資產中繼資料對應](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html?lang=en){target="_blank"}
+* [關於中繼資料](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
+* [使用里程碑檢視](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
+* [追蹤成本](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html?lang=en){target="_blank"}
 
-## 续订您的证书
+## 更新您的認證
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的证书，请单击下面的Workfront核心开发人员续订 — AD5-829链接。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Workfront核心開發人員續約 — AD5-829連結。
 
-* [Workfront核心开发人员专家续订 — AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
+* [Workfront Core Developer Expert續約 — AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
 
 >[!NOTE]
 >
->这门考试是免费的、开放的，没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+>此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 
@@ -361,6 +361,6 @@ ht-degree: 0%
 
 **问题**
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

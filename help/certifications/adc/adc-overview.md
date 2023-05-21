@@ -1,5 +1,5 @@
 ---
-title: Document Cloud认证概述
+title: Document Cloud認證概述
 description: Adobe Document Cloud 认证选项概述
 solution: Document Cloud
 hide: true
@@ -12,10 +12,10 @@ ht-degree: 21%
 
 ---
 
-# Document Cloud认证概述
+# Document Cloud認證概述
 
-**专业**
+**專業**
 
-* [业务从业者（搜索）](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
+* [商務從業人員（搜尋）](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
 
-访问 [续订您的证书](/help/certifications/renew.md) 页面，查看此产品是否有续订选项。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

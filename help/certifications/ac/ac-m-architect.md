@@ -1,194 +1,195 @@
 ---
-title: 架构师主控认证
-description: 了解如何成为Adobe中经认证的Adobe架构师主控 [!DNL Commerce].
+title: 架構師主要憑證
+description: 瞭解如何成為Adobe的認證Adobe架構師 [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Data Architect
-badge: label="Exam AD0-E718" type="besitive"
+badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '985'
 ht-degree: 1%
 
 ---
 
-# 认证历程Adobe [!DNL Commerce] 架构师主控
+# Adobe的認證歷程 [!DNL Commerce] 架構師Master
 
-了解如何成为经认证的Adobe架构师主控。
+瞭解如何成為認證Adobe架構師大師。
 
-## 最低体验
+## 最低體驗
 
-您至少应具有3至5年的领导经验 [!DNL Commerce] 开发项目，并能够通过利用Adobe来设计、集成、实施和解释业务问题的解决方案 [!DNL Commerce] 以及相关服务。
+您至少應有3-5年的經驗領導 [!DNL Commerce] 開發專案，並可利用Adobe設計、整合、實作及解釋業務問題的解決方案 [!DNL Commerce] 以及相關服務。
 
-此外，您还应非常熟悉以下活动和技术：
+此外，您也應非常熟悉下列活動和技術：
 
-* 扩展核心功能
-* 配置Adobe [!DNL Commerce] 完全
-* 创建扩展应如何工作的完整蓝图、公司对扩展应如何工作的要求，而无需进入代码
-* 了解业务需求/功能
-* 解决方案和扩展的性能影响
-* 服务合同逻辑
+* 擴充核心功能
+* 設定Adobe [!DNL Commerce] 完全
+* 建立擴充功能應如何運作的完整藍圖、公司對其應如何運作的藍圖需求，而不需要進入程式碼
+* 瞭解業務需求/功能
+* 解決方案和擴充功能的效能影響
+* 服務合約邏輯
 * GraphQL
-* 了解编辑器作为依赖项工具
-* 设置和配置工作实例Adobe [!DNL Commerce] 从头开始
-* 自定义管理功能板，创建网格和表单
-* 缓存和索引管理；创建自定义索引
-* 创建新缓存类型
-* 对环境中的各种问题进行故障诊断和调试
-* 扩展和管理数据库模式
-* 安全功能，提供安全安装和开发扩展
-* 执行基于服务器的服务， [!DNL Commerce] 连接（Redis，清漆配置管理）
-* 了解最佳编码标准实践、编码标准、PSR、SOLID原理
-* 设置和使用 [!DNL Commerce] 服务连接器（及相关服务）
-* 暂存内容管理
-* 了解Adobe [!DNL Commerce] 默认值，当其可用且不可用时
-* 全面掌握任何相关 [!DNL Commerce] 域
-* 设计项目架构
-* 优化Adobe性能 [!DNL Commerce] 默认
-* 创建和修改B2B
-* AMQP协议和Adobe中的适配器 [!DNL Commerce] (S3)
+* 將Composer理解為相依性工具
+* 設定和設定Adobe的工作執行個體 [!DNL Commerce] 從頭開始
+* 自訂管理儀表板，建立網格和表單
+* 快取和索引管理；建立自訂索引
+* 建立新的快取型別
+* 疑難排解及偵錯環境中的各種問題
+* 擴充及管理資料庫架構
+* 安全性功能，提供安全的安裝及開發擴充功能
+* 執行伺服器型服務，其中 [!DNL Commerce] 連線（Redis、Varnish設定管理）
+* 瞭解最佳編碼標準實務、編碼標準、PSR、SOLID原則
+* 設定和使用 [!DNL Commerce] 服務聯結器（及相關服務）
+* 中繼內容管理
+* 瞭解Adobe [!DNL Commerce] 預設值，當其&#39;可用且不可用時
+* 廣泛掌握任何相關資訊 [!DNL Commerce] 網域
+* 設計專案架構
+* 最佳化Adobe效能 [!DNL Commerce] 預設
+* 建立和修改B2B
+* Adobe中的AMQP通訊協定和介面卡 [!DNL Commerce] (S3)
 
 >[!NOTE]
 >
->您的证书有效期为2年，从您通过之日算起。 我们建议尽可能使用较新版本，因为它涵盖较新的产品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 准备就绪]
+>[!TAB 準備就緒]
 
-**目标受众：**
+**目標對象：**
 
-* 潜在客户软件/[!DNL Commerce] 架构师
+* 主要軟體/[!DNL Commerce] 架構者
 * 技术架构师
-* 解决方案架构师
-* 技术领导
-* 技术专家
-* 全栈开发人员
-* 首席工程师
-* 协理技术架构师
-* 高级后端开发人员
-* 后端软件工程师
-* 高级技术顾问
+* 解決方案架構師
+* 技術主管
+* 技術專家
+* 完整棧疊開發人員
+* 首席工程師
+* 關聯技術架構師
+* 資深後端開發人員
+* 後端軟體工程師
+* 資深技術顧問
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 级别：主控（3-5年经验）
-* 通过分数：29/50
-* 时间：120分钟
-* 投放：在线监控（需要摄像头访问）
-* 可用语言：英语
-* 成本：225美元（全球）/ 150美元（印度）
-* 考试ID:AD0-E718
+* 等級：主要（3-5年經驗）
+* 及格分數：29/50
+* 時間：120分鐘
+* 傳遞：線上監護（需要相機存取）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E718
 
-**准备情况自评**
+**整備程度自我評估**
 
-完成 [在线准备调查表](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} 以查看您当前的体验是否与建议的最低候选资格匹配。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
 
-**考试目标和范围**
+**考試目標與範圍**
 
-第1节：设计(46%)
+區段1：設計(46%)
 
-* 设计并实施最佳Adobe解决方案 [!DNL Commerce] 满足业务需求
-* 设计逻辑和技术流程
-* 自定义 [!DNL Commerce] 功能
-* 集成Adobe [!DNL Commerce] 外部系统和服务
-* 设计流程故障诊断
+* 針對Adobe設計和實作最佳解決方案 [!DNL Commerce] 滿足業務需求
+* 設計邏輯與技術流程
+* 自訂 [!DNL Commerce] 功能
+* 整合Adobe [!DNL Commerce] 搭配外部系統和服務
+* 疑難排解設計流程
 
-第2款 — 审查(32%)
+第2節 — 稽核(32%)
 
-* 审查和重构现有Adobe [!DNL Commerce] 自定义
-* 利用 [!DNL Commerce] 在整个工作流中测试框架
-* 优化性能和可扩展性以实现Adobe [!DNL Commerce]
-* 故障诊断，以确定Adobe问题的根本原因 [!DNL Commerce]
-* 强制编码标准
+* 檢閱和重構現有Adobe [!DNL Commerce] 自訂
+* 利用 [!DNL Commerce] 測試架構貫穿整個工作流程
+* 針對Adobe最佳化效能與擴充性 [!DNL Commerce]
+* 疑難排解，以找出Adobe問題的根本原因 [!DNL Commerce]
+* 強制執行編碼標準
 
-第三节：配置和部署(22%)
+第3節：設定和部署(22%)
 
-* 配置Adobe [!DNL Commerce] 确保项目设置得最佳
-* 配置Adobe的各个方面 [!DNL Commerce] 云
-* 监督和改进部署流程
-* 基础架构和配置问题故障诊断
+* 設定Adobe [!DNL Commerce] 並確保專案設定為最佳狀態
+* 設定Adobe的各個層面 [!DNL Commerce] 雲端
+* 監督並改善部署程式
+* 疑難排解基礎結構和設定問題
 
-第四节：法规遵从性/安全基础知识(13%)
+第4節：合規性/安全性基本知識(13%)
 
-* 了解隐私法和支付安全合规的基础知识
-* 确定Adobe的常见安全方面 [!DNL Commerce] 项目
-* 确定无障碍合规性的最佳实践和法律要求
+* 瞭解隱私權法規與支付安全性合規的基本概念
+* 識別Adobe的常見安全性方面 [!DNL Commerce] 專案
+* 確定無障礙法規遵循的最佳實務和法律要求
 
->[!TAB 预先准备]
+>[!TAB 準備就緒]
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**示例问题**
+**範例問題**
 
-利用示例问题，可查看在实际考试中遇到的项目类型和格式。 无需登录。 不会存储示例问题的结果，也不会预测实际的测试结果。
+範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
 
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
-**第1节：设计**
+**第1節：設計**
 
-* [创建产品](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [页面缓存](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
-* [简介 [!DNL Commerce] 客户管理](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
-* [事件和观察员](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
-* [SEO概述](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [存储详细信息](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
+* [建立產品](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
+* [頁面快取](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
+* [簡介 [!DNL Commerce] 客戶管理](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
+* [活動和觀察者](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
+* [SEO概觀](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
+* [存放區詳細資料](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [页面](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [添加新的付款集成（付款方法）](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
+* [新增新的付款整合（付款方式）](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
 * [身份验证](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
-* [GraphQL概述](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
+* [GraphQL概觀](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
-**第二节：审阅**
+**第2節：複查**
 
 * [简介](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [添加自定义文本字段属性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [应用程序测试指南简介](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [组件开发](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
+* [新增自訂文字欄位屬性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
+* [應用程式測試指南簡介](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
+* [元件開發](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
 * [最佳实践](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [配置清漆](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
+* [設定清漆](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
 
-**第三节：配置和部署**
+**第3節：設定和部署**
 
 * [配置参考指南](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [部署的配置文件](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [配置Redi](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
+* [用於部署的組態檔](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
+* [設定Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
 * [货币](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [初始化和引导概览](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Fastly Services概述](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
+* [初始化和啟動程式概述](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
+* [Fastly服務概述](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
->[!TAB 获得认证]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**现在，您已成功登录，可直接访问以下链接。**
+**現在您已成功登入，可直接存取下列連結。**
 
-**参加认证考试**
+**參加認證考試**
 
-Adobe使用两家供应商来管理受监控的考试，即PSI和 [!DNL Examity].
+Adobe使用兩家廠商來管理經認證的考試：PSI和 [!DNL Examity].
 
-* **PSI** 提供测试中心和日语考试选项（如果有）
-* **[!DNL Examity]** 提供远程联机选项
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要计划、重新安排或取消您的考试，只需单击所选供应商，然后按照屏幕上提供的说明操作即可。 很简单！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-### 考试号：AD0-E718
+### 考試編號：AD0-E718
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718 newtab=true"}
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在计划考试时应用凭单代码。 如果您有折扣，则在结帐时适用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **问题**
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

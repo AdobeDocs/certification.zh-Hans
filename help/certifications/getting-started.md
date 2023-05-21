@@ -1,5 +1,5 @@
 ---
-title: Adobe认证入门
+title: 開始使用Adobe認證
 description: 开始使用  [!DNL Experience Cloud]  认证。了解项目和此网站。
 solution: Experience Cloud
 mini-toc-levels: 1
@@ -13,69 +13,69 @@ ht-degree: 2%
 
 # 快速入门 {#getting-started}
 
-Adobe的认证旨在验证使用我们的数字营销解决方案的专业人士的知识和技能。 使用以下选项卡开始了解认证计划。
+Adobe認證的設計目的，是要驗證使用數位行銷解決方案的專業人員的知識與技能。 使用下列標籤開始瞭解認證計畫。
 
 >[!BEGINTABS]
 
->[!TAB 考试类型]
+>[!TAB 考試型別]
 
-了解您在认证历程中遇到的考试类型之间的差异。
+瞭解您認證歷程中會遇到的測驗型別之間的差異。
 
 | 类型 | 描述 |
 | ------- | ------- |
-| 认证考试 | 认证是一种凭据，用于识别个人在Adobe应用程序中的技能和能力。 通过认证考试的候选人成为Adobe认证专业人员、专家或主控的产品和工作角色，而测试所依据的是该产品和工作角色。 |
-| 续订考试 | Adobe认证在两年后过期。 通过续订考试，您的证书凭据将再延长两年。 |
-| 课程评估 | 对于某些解决方案，Adobe提供了通过续订考试以维护证书凭据的替代方法。 将为候选人提供（通常）5至7门按需课程，供他们审查。 每个课程都有一个与该课程相关的简短评估，称为 _课程评估_. 续签认证的标准是：根据课程通过任意三项评估，或通过两项评估，并提交经签署的客户参考表。 |
-| 练习测试 | 实践测试是认证考试的完整版本，该测试基于与认证考试相同的内容（考试目标）。 虽然这些问题与您在认证考试中回答的问题不同，但练习问题与认证考试同时编写。 虽然通过练习测试无法保证您将通过认证考试，但它确实提供了您准备参加考试的出色指标 |
-| 示例问题 | 对于某些认证考试，Adobe尚未进行全长练习测试。 对于这些考试，提供了一组具有代表性的示例问题集。 |
-| 准备情况调查表 | 准备情况调查表是您用来评估参加认证考试的准备情况的另一种工具。 准备情况调查表包括基于考试目标的确认陈述 — 通过对每项陈述回答“是”或“否”，您可以确定对考试所涵盖的主要内容领域的准备情况。 |
+| 認證考試 | 認證是辨識個人在Adobe應用程式中的技能與能力的認證。 通過認證測驗的應徵者會成為測驗所依據之產品與工作角色的Adobe認證專家、專家或專家。 |
+| 續約考試 | Adobe認證將在兩年後到期。 參加及通過更新測驗後，您的認證認證資格將再延長兩年。 |
+| 課程評估 | 對於某些解決方案，Adobe提供透過更新考試以維護您的認證憑證的替代方法。 通常會提供5至7個隨選課程給應徵者進行稽核。 每個課程都有與該課程相關的簡短評估，稱為 _課程評估_. 續約認證的標準為通過任何三項以課程為基礎的評量，或通過兩項評量，並提交經簽署的客戶推薦表。 |
+| 練習測試 | 練習測驗是認證測驗的完整版本，其內容與認證測驗相同（測驗目標）。 雖然練習題與您在認證考試中回答的問題不同，但練習題會與認證考試同時撰寫。 雖然通過練習測驗無法保證您能通過認證測驗，但它的確提供了您參加測驗的準備程度的突出指標 |
+| 範例問題 | 對於某些認證測驗，Adobe還沒有完整的練習測驗。 對於這些測驗，會提供一組代表性的範例問題。 |
+| 整備問卷 | 準備程度問卷是另一種工具，可用來評估您參加認證測驗的準備程度。 準備情況調查表包括根據考試目標確認陳述 — 透過對每份陳述回答「是」或「否」，您可以決定您對考試所涵蓋之主要內容領域的準備情況。 |
 
 {style="table-layout:auto"}
 
->[!TAB 认证级别]
+>[!TAB 認證層級]
 
-Adobe [!DNL Experience Cloud] 提供三种不同级别的认证：专业、专家和主控。 这些认证旨在验证使用Adobe数字营销解决方案的专业人士的技能和知识。
+Adobe [!DNL Experience Cloud] 提供三種不同等級的認證：專業、專家及優秀。 這些認證的設計目的，是要驗證使用Adobe數位行銷解決方案之專業人員的技能和知識。
 
-这些级别反映了熟练程度和知识的进步，专业证书是入门级证书，专家是中级证书，主控是最高级证书。
+這些等級反映了熟練程度與知識的提升，專業認證為入門級認證，專家為中級認證，而碩士為最高級認證。
 
 | 徽章 | 描述 |
 | ------- | ------- |
-| ![专业徽章](/help/certifications/assets/professional-badge-Xsmall.png) | **专业认证** 验证候选人是否具有对Adobe数字营销解决方案的基本了解。 认证考试涵盖Adobe的基本概念和功能 [!DNL Experience Cloud]. |
-| ![专家徽章](/help/certifications/assets/expert-badge-Xsmall.png) | **专家认证** 适用于对Adobe的数字营销解决方案有更高级了解的专业人士。 认证考试涵盖更复杂的Adobe概念和功能 [!DNL Experience Cloud]，包括实施和疑难解答。 |
-| ![主控徽章](/help/certifications/assets/master-badge-Xsmall.png) | **主控认证** 适用于对Adobe的数字营销解决方案有深入了解，并在多个Adobe领域具有专业技能的专业人士 [!DNL Experience Cloud]. 认证考试涵盖高级主题和方案，包括复杂的集成、自定义和疑难解答。 |
+| ![專業徽章](/help/certifications/assets/professional-badge-Xsmall.png) | **專業認證** 驗證候選人是否對Adobe的數位行銷解決方案有基本的瞭解。 檢定測驗涵蓋Adobe的基本概念和功能 [!DNL Experience Cloud]. |
+| ![專家徽章](/help/certifications/assets/expert-badge-Xsmall.png) | **專家認證** 適用於對Adobe的數位行銷解決方案有更深入瞭解的專業人士。 檢定測驗涵蓋Adobe更複雜的概念和功能 [!DNL Experience Cloud]，包括實作和疑難排解。 |
+| ![主徽章](/help/certifications/assets/master-badge-Xsmall.png) | **主要認證** 適用於對Adobe的數位行銷解決方案有深入瞭解，並在多個Adobe領域具備專業知識的人員 [!DNL Experience Cloud]. 檢定測驗涵蓋進階主題和案例，包括複雜的整合、自訂和疑難排解。 |
 
 {style="table-layout:auto"}
 
->[!TAB 作业角色]
+>[!TAB 職位角色]
 
-Adobe认证考试可自定义为三个不同的工作角色。 请阅读以下信息，找到适合您职业生涯的认证。
+Adobe認證考試可自訂為三種不同的職務角色。 請閱讀以下資訊，尋找適合您職業生涯的認證。
 
-| 徽标 | 描述 |
+| 標誌 | 描述 |
 | ------- | ------- |
-| ![业务从业人员徽章](/help/certifications/assets/business_practitioner_blk_small.png) | **业务从业者** 负责使用Adobe设计、执行和管理营销活动 [!DNL Experience Cloud] 解决方案。 他们应该对Adobe的数字营销解决方案以及营销和广告方面的经验有基本的了解。 业务从业者认证可验证他们有效使用Adobe的数字营销解决方案实现业务目标的能力。 |
-| ![开发人员徽章](/help/certifications/assets/developer_blk_small.png) | **开发人员** 负责实施和集成Adobe [!DNL Experience Cloud] 解决方案进入组织的技术堆栈。 他们应该具有软件开发经验并精通Web技术，例如HTML、CSS、JavaScript和RESTful API。 开发人员认证将验证他们有效实施和自定义Adobe的数字营销解决方案以满足业务需求的能力。 |
-| ![架构师徽章](/help/certifications/assets/architect_blk_small.png) | **架构师** 负责使用Adobe设计和实施企业级解决方案 [!DNL Experience Cloud] 解决方案。 他们应该对Adobe的数字营销解决方案有广泛的知识，并在软件架构、集成和自定义方面拥有丰富的经验。 架构师认证将验证他们使用Adobe的数字营销解决方案设计和实施复杂解决方案的能力。 |
+| ![商務從業人員徽章](/help/certifications/assets/business_practitioner_blk_small.png) | **商務從業人員** 負責使用Adobe設計、執行及管理行銷活動 [!DNL Experience Cloud] 解決方案。 他們應該對Adobe的數位行銷解決方案有基本的瞭解，並在行銷和廣告方面有經驗。 商務從業人員認證可驗證其有效使用Adobe數位行銷解決方案達成業務目標的能力。 |
+| ![開發人員徽章](/help/certifications/assets/developer_blk_small.png) | **開發人員** 負責實作及整合Adobe [!DNL Experience Cloud] 解決方案融入組織的技術棧疊中。 他們應該具有軟體開發的經驗，並且精通Web技術，例如HTML、CSS、JavaScript和RESTful API。 開發人員認證會驗證他們是否有能力有效實作及自訂Adobe的數位行銷解決方案，以符合業務需求。 |
+| ![架構者徽章](/help/certifications/assets/architect_blk_small.png) | **架構師** 負責使用Adobe設計和實作企業級解決方案 [!DNL Experience Cloud] 解決方案。 他們應該對Adobe的數位行銷解決方案有廣泛的瞭解，並在軟體架構、整合和自訂方面有豐富的經驗。 架構師認證驗證他們使用Adobe的數位行銷解決方案設計和實作複雜解決方案的能力。 |
 
 {style="table-layout:auto"}
 
->[!TAB 认证历程]
+>[!TAB 認證歷程]
 
-认证历程指南是一个全面的工具，旨在为您提供为认证考试做准备所需的所有信息。 指南分为三个主要部分：准备好，准备好，获得认证。
+認證歷程指南是全方位的工具，可提供您準備認證考試所需的所有資訊。 本指南分為三個主要部分：準備就緒、準備和獲得認證。
 
-| 部分 | 描述 |
+| 區段 | 描述 |
 | ------- | ------- |
-| **准备就绪** | 旨在概述考试，包括有关目标受众、考试详细信息、准备情况自我评估、考试目标和范围的信息。 本节将帮助您了解考试情况以及参加考试时可期待的内容。 就绪性自我评估特别有用，因为它允许您确定当前的知识水平并确定可能需要将学习工作集中到哪些领域。 |
-| **预备** | 您可以在其中找到培训和资源，以帮助您为考试做好准备。 本节包括有关学习材料和培训课程的信息和链接。 |
-| **获得认证** | 提供有关如何注册认证考试的宝贵信息，包括有关注册流程和可用付款方法的详细信息。 此外，本节还清晰地概述了考试过程。 查看此部分可获取有用资源，例如指向Adobe认证准备门户的提供实践测试的考试链接，以及注册认证考试的链接。 |
+| **準備就緒** | 旨在提供考試的概觀，包括目標對象、考試詳細資料、準備程度自我評估、考試目標和範圍的資訊。 本節可協助您瞭解測驗以及您進行測驗時的期望。 準備程度自我評估特別有用，因為它可讓您判斷目前的知識水準，並找出可能需要集中研究努力的領域。 |
+| **準備就緒** | 您可以在這裡找到培訓和資源，幫助您準備考試。 本節包含學習材料和訓練課程的相關資訊和連結。 |
+| **取得認證** | 提供如何註冊認證考試的重要資訊，包括註冊程式的詳細資訊和可用的付款方法。 此外，本節也提供考試程式的清楚概觀。 請參閱本節以取得實用資源，例如Adobe認證準備入口網站的連結（提供練習測驗），以及註冊認證測驗的連結。 |
 
 {style="table-layout:auto"}
 
 >[!ENDTABS]
 
-[!BADGE 获得认证]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+[!BADGE 取得認證]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
 
 **问题**
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

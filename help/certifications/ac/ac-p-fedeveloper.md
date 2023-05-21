@@ -1,205 +1,206 @@
 ---
-title: 前端开发人员专业认证
-description: 了解如何成为获得Adobe Developer认证的Adobe专业人员 [!DNL Commerce] .
+title: 前端開發人員專業認證
+description: 瞭解如何成為Adobe的認證Adobe Developer專業人員 [!DNL Commerce] .
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E719" type="besitive"
+badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: aad1587f-f458-413a-af93-727666e94147
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1108'
 ht-degree: 1%
 
 ---
 
-# 认证历程Adobe [!DNL Commerce] 前端开发人员专业人员
+# Adobe的認證歷程 [!DNL Commerce] 前端開發人員專業版
 
-了解如何成为认证的Adobe Developer Professional。
+瞭解如何成為認證Adobe Developer專業人員。
 
-## 最低体验
+## 最低體驗
 
-您应该拥有0-12个月的实际操作Adobe [!DNL Commerce] 前端开发以及与技术解决方案协作以交付各个组件的能力。
+您應該擁有0至12個月的Adobe實作經驗 [!DNL Commerce] 前端開發，以及搭配技術解決方案提供個別元件的能力。
 
-此外，您还应展示有关以下技术的知识：
+此外，您應展示下列技術的知識：
 
-* 对Adobe的深刻理解 [!DNL Commerce] 版本2.4.3
-* 对前端结构和布局的基本理解
-* 体验和了解HTML、CSS（和预处理器）、LESS、JavaScript和UI组件、jQuery、下划线、Require.JS、Knockup以及PHP模板、数据库知识和内容管理
-* 熟悉平台、CMS块、小组件、CMS页面、类别页面、产品页面、购物车和结账以及帐户功能板区域
-* 对管理员配置的基本了解或知识
-* 有关扩展和覆盖样式、布局和JS文件的知识
-* 扩展父主题/主题层次结构
-* CLI命令（缓存清理、设置：升级、索引器、部署模式）和Grunt
-* 缓存技术、客户端浏览器、了解存储（Cookie、本地存储）
-* 了解响应式设计和媒体查询
-* 所见即所得/页面生成器
-* 了解代码包
-* 实施翻译
-* 了解如何使用电子邮件模板
-* XML的基本理解
-* 对现成SEO、优化和性能技术的基本了解
-* 基本了解规范链接以及将JavaScript和CSS合并
+* 對Adobe的深入瞭解 [!DNL Commerce] 版本2.4.3
+* 對前端結構和版面配置的基本瞭解
+* 體驗和瞭解HTML、CSS （和前置處理器）、LESS、JavaScript和UI元件、jQuery、底線、Require.JS、Knockout、PHP範本、DB知識和內容管理
+* 熟悉平台、CMS區塊、Widget、CMS頁面、類別頁面、產品頁面、購物車和結帳，以及帳戶儀表板區域
+* 對管理員設定的基本瞭解或知識
+* 具有擴充和覆寫樣式、版面配置和JS檔案的知識
+* 擴充父系主題/主題階層
+* CLI命令（快取清理、設定：升級、索引器、部署模式）與偵錯
+* 快取技術、使用者端瀏覽器、瞭解儲存（Cookie、本機儲存）
+* 瞭解回應式設計和媒體查詢
+* 所見即所得/頁面產生器
+* 瞭解程式碼套件
+* 實作翻譯
+* 瞭解如何使用電子郵件範本
+* 對XML的基本瞭解
+* 瞭解開箱即用的SEO、最佳化及效能技術
+* 基本瞭解規範連結，以及合併JavaScript和CSS
 
 >[!NOTE]
 >
->您的证书有效期为2年，从您通过之日算起。 我们建议尽可能使用较新版本，因为它涵盖较新的产品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 准备就绪]
+>[!TAB 準備就緒]
 
-**目标受众：**
+**目標對象：**
 
 * Developer
-* 前端开发人员
-* 完整堆栈开发人员
-* PWA开发人员
+* 前端開發人員
+* 完整棧疊開發人員
+* PWA開發人員
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 级别：专业（0-12个月经验）
-* 通过分数：31/50
-* 时间：100分钟
-* 投放：在线监控（需要摄像头访问）
-* 可用语言：英语
-* 成本：125美元（全球）/ 95美元（印度）
-* 考试ID:AD0-E719
+* 等級：專業（0至12個月經驗）
+* 及格分數： 31/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要相機存取）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E719
 
-**考试目标和范围**
+**考試目標與範圍**
 
-第1节：主题管理（主题层次结构、图像配置、翻译）(14%)
+第1節：主題管理（主題階層、影像設定、翻譯） (14%)
 
-* 描述Adobe [!DNL Commerce] 主题文件夹结构
-* 演示创建新主题或扩展现有主题的功能
-* 演示添加自定义翻译短语的功能
+* 說明Adobe [!DNL Commerce] 主題資料夾結構
+* 示範建立新主題或擴充現有主題的能力
+* 示範新增自訂翻譯短語的能力
 
-第二节：布局XML和模板(28%)
+第2節：配置XML與範本(28%)
 
-* 演示使用基本布局XML说明的能力
-* 演示使用现有页面布局的功能
-* 描述扩展和覆盖XML的步骤
-* 演示创建和自定义模板的功能
-* 描述模板安全性（转义输出）
+* 展示使用基本版面XML指示的能力
+* 示範使用現有頁面配置的能力
+* 說明擴充和覆寫XML的步驟
+* 展示建立及自訂範本的能力
+* 說明範本安全性（逸出輸出）
 
-第三节：样式(24%)
+第3節：樣式(24%)
 
-* 描述styles-m.less、styles-l.less、print.less的用途
-* 描述特定局部文件(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less)之间的差异
-* 在给定情景下，演示覆盖或扩展的功能 [!DNL Magento] LESS
-* 介绍LESS的基本概念
-* 说明样式的层次结构（库、模块、主题）
-* 说明客户端和服务器端编译
+* 說明樣式 — m.less、樣式 — l.less、print.less的用途
+* 說明特定部分檔案(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less)之間的差異
+* 在情景中，示範覆寫或擴充的能力 [!DNL Magento] 更少
+* 說明LESS的基本概念
+* 說明樣式的階層（程式庫、模組、主題）
+* 說明使用者端和伺服器端編譯
 
-第四节：JavaScript(16%)
+第4節：JavaScript (16%)
 
-* 演示内容管理的基本用法
-* 描述将主题应用/计划到特定范围（网站、商店、商店视图）的步骤
-* 描述使用管理员配置将设计更改应用到类别、产品和CMS页面的步骤
-* 描述自定义事务电子邮件的步骤
+* 示範內容管理的基本用法
+* 說明將主題套用/排程至特定範圍（網站、商店、商店檢視）的步驟
+* 說明使用管理員設定將設計變更套用至類別、產品和CMS頁面的步驟
+* 說明自訂交易式電子郵件的步驟
 
-第五节：管理员配置和页面生成器(12%)
+第5節：管理員設定和Pagebuilder (12%)
 
-* 演示内容管理的基本用法
-* 描述将主题应用/计划到特定范围（网站、商店、商店视图）的步骤
-* 描述使用管理员配置将设计更改应用到类别、产品和CMS页面的步骤
-* 描述自定义事务电子邮件的步骤
+* 示範內容管理的基本用法
+* 說明將主題套用/排程至特定範圍（網站、商店、商店檢視）的步驟
+* 說明使用管理員設定將設計變更套用至類別、產品和CMS頁面的步驟
+* 說明自訂交易式電子郵件的步驟
 
-第六节：工具（CLI和Grunt）(6%)
+第6節：工具（CLI和程式碼） (6%)
 
-* 介绍bin/magento基本命令的用法
-* 描述编辑器命令（安装、更新、要求、删除）的用法
-* 区分部署模式的适当用例
+* 說明基本bin/magento命令的使用方式
+* 說明撰寫器命令的使用方式（安裝、更新、需要、移除）
+* 區分部署模式的適當使用案例
 
->[!TAB 预先准备]
+>[!TAB 準備就緒]
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**示例问题**
+**範例問題**
 
-利用示例问题，可查看在实际考试中遇到的项目类型和格式。 无需登录。 不会存储示例问题的结果，也不会预测实际的测试结果。
+範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
 
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e719-adobe-commerce-front-end-developer-professional-copy-cmkmys){target="_blank"}
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e719-adobe-commerce-front-end-developer-professional-copy-cmkmys){target="_blank"}
 
-**第1节：主题管理（主题层次结构、图像配置、翻译）**
+**第1節：主題管理（主題階層、影像設定、翻譯）**
 
-* [主题](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [命令行工具](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [翻译](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
+* [主題](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
+* [命令列工具](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
+* [翻譯](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 
-**第二节：布局XML和模板**
+**第2節：配置XML與範本**
 
 * [版式](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [主题](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
+* [主題](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
 * [模板](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
 * [简介](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html){target="_blank"}
 
-**第三节：样式**
+**第3節：樣式**
 
 * [变量](https://lesscss.org/features/#features-overview-feature){target="_blank"}
-* [响应式Web设计](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html){target="_blank"}
-* [层叠样式表(CSS)](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [快速入门](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_overview.html){target="_blank"}
-* [Frontend开发人员指南](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html){target="_blank"}
-* [主题](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [什么是页面生成器？](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
+* [回應式網頁設計](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html){target="_blank"}
+* [階層式樣式表(CSS)](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
+* [快速入門](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_overview.html){target="_blank"}
+* [前端開發人員指南](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html){target="_blank"}
+* [主題](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
+* [什麼是頁面產生器？](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
 
-**第四节：JavaScript**
+**第4節：JavaScript**
 
 * [JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [翻译](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [UI组件简介](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [JavaScript简介](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html){target="_blank"}
-* [jQuery小组件](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html){target="_blank"}
+* [翻譯](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
+* [UI元件簡介](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
+* [JavaScript簡介](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html){target="_blank"}
+* [jQuery Widget](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html){target="_blank"}
 
-**第五节：管理员配置和pagebuilder**
+**第5節：管理員設定和Pagebuilder**
 
 * [配置参考指南](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [页面生成器简介](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [演练第1部分：简单页面](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
-* [主题](https://docs.magento.com/user-guide/design/themes.html){target="_blank"}
-* [类别概述](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
+* [Page Builder簡介](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
+* [逐步解說第1部分：簡單頁面](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
+* [主題](https://docs.magento.com/user-guide/design/themes.html){target="_blank"}
+* [類別概觀](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
 * [设计](https://docs.magento.com/user-guide/design/design-theme.html){target="_blank"}
 * [模板](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
 
-**第六节：工具（CLI和Grunt）**
+**第6節：工具（CLI和Grunt）**
 
-* [命令行配置](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [存储选项和配置管理概述](https://devdocs.magento.com/cloud/configure/configuration-overview.html){target="_blank"}
-* [初始化和引导概览](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
+* [命令列設定](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
+* [存放區選項和設定管理概觀](https://devdocs.magento.com/cloud/configure/configuration-overview.html){target="_blank"}
+* [初始化和啟動程式概述](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 
->[!TAB 获得认证]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**现在，您已成功登录，可直接访问以下链接。**
+**現在您已成功登入，可直接存取下列連結。**
 
-**参加认证考试**
+**參加認證考試**
 
-Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供测试中心和日语考试选项（如果有）
-* **[!DNL Examity]** 提供远程联机选项
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要计划、重新安排或取消您的考试，只需单击所选供应商，然后按照屏幕上提供的说明操作即可。 很简单！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-### 考试号：AD0-E719
+### 考試編號：AD0-E719
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在计划考试时应用凭单代码。 如果您有折扣，则在结帐时适用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **问题**
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

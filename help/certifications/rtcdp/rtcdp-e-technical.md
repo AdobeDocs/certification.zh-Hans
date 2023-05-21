@@ -1,316 +1,316 @@
 ---
-title: 专家认证
-description: 了解如何成为认证人员 [!DNL Experience Platform] 专家 [!DNL Real-Time Customer Data Platform]
+title: 專家認證
+description: 瞭解如何成為認證 [!DNL Experience Platform] 專家 [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
 role: Developer,Data Architect
 recommendations: disable, exclude
-badge: label="Exam AD0-E600 & AD7-E601" type="besitive"
+badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1953'
 ht-degree: 4%
 
 ---
 
+# Adobe的認證歷程 [!DNL Real-Time Customer Data Platform] 專家
 
-# 认证历程Adobe [!DNL Real-Time Customer Data Platform] 专家
+瞭解如何成為認證Adobe [!DNL Experience Platform] Real-time Customer Data Platform (RTCDP)專家。
 
-了解如何成为认证Adobe [!DNL Experience Platform] Real-time Customer Data Platform(RTCDP)专家。
+## 最低體驗
 
-## 最低体验
+若要透過考試取得認證，您需要通過兩個不同的考試，並提供監考者（線上或現場）（如果可用）。
 
-要通过考试获得认证，您需要通过2次不同的考试，并提供在线或现场演示（如果可用）。
+您應該具備：
 
-您应该：
-
-* 基本知识 [!DNL Experience Platform] 和可以在UI中导航
-* 能够创建区段和构建受众（其中包含的逻辑）
-* 能够配置目标
-* 能够将区段连接到目标
-* 能够构建洞察/事件以实时响应和响应
-* 了解在数据获取期间设置DULE，在激活期间限制区段
-* 了解按渠道划分的选择加入要求
-* 使用用例数据频率和卷的最佳实践，设计/了解需要捕获和激活的数据的功能
-* 了解不同渠道中所需数据的功能
-* 能够确定需要哪些配置文件属性
-* 了解通过目标发送区段的频率
-* 了解区段会员资格更新的频率
+* 基本知識 [!DNL Experience Platform] 並且可以透過UI導覽
+* 建立區段和建立受眾的能力（其中包含邏輯）
+* 設定目的地的功能
+* 將區段連線至目的地的功能
+* 建立見解/事件以即時回應和反應的能力
+* 瞭解資料擷取期間的DULE設定、啟用期間的區段限制
+* 依管道瞭解選擇加入需求
+* 能夠設計/瞭解在使用案例資料頻率和數量的最佳實務需要擷取和啟用的資料
+* 瞭解不同管道所需資料的能力
+* 判斷需要哪些設定檔屬性的能力
+* 瞭解透過目的地傳送區段的頻率
+* 瞭解區段會籍的更新頻率
 
 >[!NOTE]
 >
->您的证书有效期为2年，从您通过之日算起。 我们建议尽可能使用较新版本，因为它涵盖较新的产品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 准备就绪]
+>[!TAB 準備就緒]
 
-**目标受众：**
+**目標對象：**
 
-* 数据架构师/工程师
-* 解决方案架构师或MSA
+* 資料架構師/工程師
+* 解決方案架構師或MSA
 * Enterprise Architect
-* 产品经理
-* 营销技术领导
-* 技术顾问
+* 產品經理
+* 行銷技術主管
+* 技術顧問
 
 
-**要求1:AD0-E600Adobe [!DNL Experience Platform] 技术基础**
+**需求1：AD0-E600Adobe [!DNL Experience Platform] 技術基礎**
 
-AD0-E600考试将验证涵盖基本功能和频繁执行Adobe任务的技能和知识 [!DNL Experience Platform] 专家级。
+AD0-E600測驗可驗證涵蓋基本功能及經常執行Adobe工作的技能和知識 [!DNL Experience Platform] 專家級。
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 级别：专家（1-3年经验）
-* 通过分数：35/50
-* 时间：105分钟
-* 投放：在线监控（需要摄像头访问）或测试中心监控
-* 语言：英语
-* 成本：225美元（全球）/ 150美元（印度）
-* 考试ID:AD0-E600
+* 等級：專家（1-3年經驗）
+* 及格分數：35/50
+* 時間：105分鐘
+* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E600
 
-**考试目标和范围**
+**考試目標與範圍**
 
-第1节：数据建模(20%)
+第1節：資料模型(20%)
 
-* 分析源数据以评估用于用户档案拼合的主标识和次标识
-* 演示如何使用UI创建/编辑XDM模式的了解。
-* 确定DULE指南
+* 分析來源資料以評估設定檔拼接的主要和次要身分
+* 示範對如何使用UI建立/編輯XDM結構描述的瞭解。
+* 識別DULE指引
 
-第二节：数据摄取(36%)
+區段2：資料擷取(36%)
 
-* 演示如何设置数据格式并准备数据以用于摄取
-* 演示如何使用OOTB连接器连接数据源
-* 演示如何通过批处理和流摄取源数据
-* 描述如何监控数据传输
-* 演示如何对源数据执行数据发现
-* 演示如何转换数据以匹配XDM
+* 示範如何格式化和準備資料以供擷取
+* 示範如何使用OOTB聯結器連線資料來源
+* 示範如何透過批次和串流擷取來源資料
+* 說明如何監控資料傳輸
+* 示範如何對來源資料執行資料探索
+* 示範如何轉換資料以符合XDM
 
-第三节：统一用户档案(34%)
+第3節：統一設定檔(34%)
 
-* 验证用户档案和事件数据在摄取后的数据
-* 定义标识名称空格
-* 说明配置文件服务如何使用身份图
-* 确定如何通过数据科学工作区建模服务扩充用户档案
-* 演示如何使用区段生成器构建区段以及区段服务的工作方式
+* 驗證設定檔和事件資料擷取後
+* 定義身分名稱空格
+* 說明設定檔服務如何使用身分圖表
+* 識別如何透過資料科學工作區模型化服務來豐富設定檔
+* 示範如何使用區段產生器建立區段，以及區段服務的運作方式
 
-第四节：激活(10%)
+區段4：啟動(10%)
 
-* 演示如何设置目标以及区段激活的工作方式
-* 演示并了解数据访问API以及通过Real-Time CDP导出数据
+* 示範如何設定目的地，以及區段啟用的運作方式
+* 示範及瞭解資料存取API和透過Real-Time CDP匯出資料
 
-请进行准备调查，以确定您是否符合最低资格要求。
+進行整備問卷調查，瞭解您是否符合最低資格條件。
 
 
->[!TAB 预先准备]
+>[!TAB 準備就緒]
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**第1节：数据建模**
+**第1節：資料模式**
 
-* [了解模式](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hans){target="_blank"}
-* [架构和XDM概述/Adobe [!DNL Experience Platform]:数据建模和摄取](https://video.tv.adobe.com/v/27105){target="_blank"}
-* [模式中的数据模型](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
-* [架构和XDM概述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=zh-Hans){target="_blank"}
+* [瞭解結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hans){target="_blank"}
+* [結構描述和XDM總覽/Adobe [!DNL Experience Platform]：資料模型建立和擷取](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [在結構描述中建立資料模型](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
+* [結構描述和XDM概觀](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=zh-Hans){target="_blank"}
 
-**第二节：数据摄取**
+**第2節：資料擷取**
 
 * [数据引入](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
 
-**第三节：统一用户档案**
+**第3節：統一設定檔**
 
-* [身份和身份图](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=zh-Hans){target="_blank"}
+* [身分和身分圖表](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=zh-Hans){target="_blank"}
 * [映射身份](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html?lang=en){target="_blank"}
 * [标记、引入并验证身份数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en){target="_blank"}
-* [创建用于导出受众区段的数据集](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
-* [使用实时客户资料创建机器学习区段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en){target="_blank"}
+* [建立資料集以匯出受眾區段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
+* [使用即時客戶設定檔建立機器學習的區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en){target="_blank"}
 
-**第四节：激活**
+**第4節：啟用**
 
 * [目标概述](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
 
->[!TAB 获得认证]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**现在，您已成功登录，可直接访问以下链接。**
+**現在您已成功登入，可直接存取下列連結。**
 
-**参加练习测试**
+**參加練習測試**
 
-我们建议您在开始之前参加免费练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
+建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
 
-我们的实践测试都是从与实时测试相同的蓝图中开发的。 练习测试将帮助您了解实时考试中涵盖的主题。
+我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
 
-请记住，通过练习测试并不保证您会通过认证考试。
+請記住，通過練習測驗並不保證您會通過認證測驗。
 
-转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在去做练习测试。
+前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
 
-**参加认证考试**
+**參加認證考試**
 
-Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供测试中心和日语考试选项（如果有）
-* **[!DNL Examity]** 提供远程联机选项
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要计划、重新安排或取消您的考试，只需单击所选供应商，然后按照屏幕上提供的说明操作即可。 很简单！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-### 考试号：AD0-E600
+### 考試編號：AD0-E600
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在计划考试时应用凭单代码。 如果您有折扣，则在结帐时适用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 >[!BEGINTABS]
 
->[!TAB 准备就绪]
+>[!TAB 準備就緒]
 
-**要求2:AD7-E601Adobe Real-Time CDP技术从业者**
+**需求2：AD7-E601 Adobe Real-Time CDP技術從業人員**
 
-AD7-E601测试涵盖创建、管理和了解客户资料、分段、跨源目标以及其他主题。 该测试将验证使用实时CDP进行受众分段、目标导出和实时激活以符合数据和隐私法规的统一用户档案所需的基本技能和知识。 候选者应具有客户数据平台(CDP)方面的经验和Adobe知识 [!DNL Experience Platform].
+AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來源的目的地和其他主題。 此測驗會驗證運用Real-time CDP進行受眾細分、目的地匯出和即時啟用以符合資料和隱私權法規的統一設定檔所需的基礎技能和知識。 候選人應具備客戶資料平台(CDP)經驗和Adobe知識 [!DNL Experience Platform].
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 级别：专家（1-3年经验）
-* 通过分数：25/34
-* 时间：51分钟
-* 投放：在线监控（需要摄像头访问）或测试中心监控
-* 语言：英语
-* 成本：225美元（全球）/ 150美元（印度）
-* 考试ID:AD7-E601
+* 等級：專家（1-3年經驗）
+* 及格分數：25/34
+* 時間：51分鐘
+* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD7-E601
 
-**准备情况自评**
+**整備程度自我評估**
 
-完成 [在线准备调查表](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} 以查看您当前的体验是否与建议的最低候选资格匹配。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
 
-**考试范围和目标**
+**考試範圍和目標**
 
-第1节：验证(41%)
+區段1：驗證(41%)
 
-* 应用验证配置文件是否具有正确的属性和区段所需的概念
-* 演示如何根据功能或技术要求验证部署策略的了解
-* 分析相关变量以实施RTCDP的端到端(E2E)流
-* 监视区段导出到目标
-* 应用验证数据管理策略所需的概念
+* 套用驗證設定檔所需的概念具有適當的屬性和區段
+* 說明如何根據功能或技術需求驗證部署策略
+* 分析相關變數以實作RTCDP的端對端(E2E)流程
+* 監視區段匯出至目的地
+* 套用驗證資料治理原則所需的概念
 
-第二节：分段(32%)
+區段2：細分(32%)
 
-* 演示如何根据业务需求创建区段的了解
-* 演示如何根据摄取的数据确定区段评估的相关知识
+* 展示對於如何根據業務需求建立區段的瞭解
+* 展示對於如何根據所擷取的資料來決定區段評估的瞭解
 
-第三节：目标(27%)
+區段3：目的地(27%)
 
-* 根据业务用例发送/导出受众时，应用配置一个或多个目标所需的概念
-* 演示对通过目标导出区段的了解
+* 根據業務使用案例傳送/匯出受眾時，套用設定一或多個目的地所需的概念
+* 示範如何透過目的地匯出區段
 
->[!TAB 预先准备]
+>[!TAB 準備就緒]
 
-**第1节：验证**
+**第1節：驗證**
 
-* [实时客户资料概述](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=zh-Hans){target="_blank"}
-* [用户档案仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html?lang=en){target="_blank"}
-* [实时客户资料数据的默认防护](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=en)
-* [启用实时客户资料](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html?lang=en){target="_blank"}
+* [即時客戶個人檔案總覽](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=zh-Hans){target="_blank"}
+* [設定檔儀表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html?lang=en){target="_blank"}
+* [即時客戶個人檔案資料的預設護欄](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=en)
+* [啟用即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html?lang=en){target="_blank"}
 * [[!DNL Real-Time Customer Data Platform] 概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=en){target="_blank"}
-* [AEP应用程序服务：Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
-* [开始使用Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html?lang=en){target="_blank"}
-* [[!DNL Real-Time Customer Data Platform] 主页和功能板](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html?lang=en){target="_blank"}
-* [在UI中监控目标的数据流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=en){target="_blank"}
-* [在区段中创建和激活Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [AEP應用程式服務： Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
+* [Real-Time CDP快速入門](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html?lang=en){target="_blank"}
+* [[!DNL Real-Time Customer Data Platform] 首頁和控制面板](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html?lang=en){target="_blank"}
+* [在UI中監視目的地的資料流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=en){target="_blank"}
+* [在Adobe中建立及啟用區段 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [隐私概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html?lang=en){target="_blank"}
-* [实时CDP中的数据管理](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html?lang=en){target="_blank"}
-* [应用数据管理框架](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html?lang=en){target="_blank"}
-* [数据管理入门](https://video.tv.adobe.com/v/333350/){target="_blank"}
-* [数据管理概述](https://video.tv.adobe.com/v/29708/){target="_blank"}
-* [数据管理演示](https://video.tv.adobe.com/v/36653/){target="_blank"}
-* [使用管理标签对数据进行分类](https://video.tv.adobe.com/v/29709/){target="_blank"}
-* [创建数据使用策略](https://video.tv.adobe.com/v/32977/){target="_blank"}
-* [强制实施数据使用策略](https://video.tv.adobe.com/v/33631/){target="_blank"}
+* [Real-time CDP中的資料控管](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html?lang=en){target="_blank"}
+* [套用資料治理框架](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html?lang=en){target="_blank"}
+* [資料控管快速入門](https://video.tv.adobe.com/v/333350/){target="_blank"}
+* [資料控管概觀](https://video.tv.adobe.com/v/29708/){target="_blank"}
+* [資料控管示範](https://video.tv.adobe.com/v/36653/){target="_blank"}
+* [使用治理標籤來分類資料](https://video.tv.adobe.com/v/29709/){target="_blank"}
+* [建立資料使用原則](https://video.tv.adobe.com/v/32977/){target="_blank"}
+* [強制執行資料使用原則](https://video.tv.adobe.com/v/33631/){target="_blank"}
 
-**第二节：分段**
+**第2節：細分**
 
-* [中的分段服务 [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html?lang=en){target="_blank"}
-* [区段生成器UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=en){target="_blank"}
-* [实时CDP B2B版本中的分段](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html?lang=en){target="_blank"}
+* [中的分段服務 [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html?lang=en){target="_blank"}
+* [區段產生器UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=en){target="_blank"}
+* [Real time CDP B2B版本中的分段](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html?lang=en){target="_blank"}
 * [构建区段](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en){target="_blank"}
-* [区段生成器概述](https://video.tv.adobe.com/v/333301/){target="_blank"}
-* [创建区段](https://video.tv.adobe.com/v/27254/){target="_blank"}
-* [创建基于内容的区段](https://video.tv.adobe.com/v/333302/){target="_blank"}
-* [创建转化区段](https://video.tv.adobe.com/v/333303/){target="_blank"}
-* [根据现有区段创建区段](https://video.tv.adobe.com/v/333304){target="_blank"}
-* [创建顺序区段](https://video.tv.adobe.com/v/333305/){target="_blank"}
-* [创建动态区段](https://video.tv.adobe.com/v/27428){target="_blank"}
-* [创建多条目区段](https://video.tv.adobe.com/v/32179/){target="_blank"}
-* [使用B2B数据创建区段](https://video.tv.adobe.com/v/338252/){target="_blank"}
-* [流分段演示](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [在区段中创建和激活Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [评估区段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
+* [區段產生器概觀](https://video.tv.adobe.com/v/333301/){target="_blank"}
+* [建立區段](https://video.tv.adobe.com/v/27254/){target="_blank"}
+* [建立內容型區段](https://video.tv.adobe.com/v/333302/){target="_blank"}
+* [建立轉換區段](https://video.tv.adobe.com/v/333303/){target="_blank"}
+* [從現有區段建立區段](https://video.tv.adobe.com/v/333304){target="_blank"}
+* [建立循序區段](https://video.tv.adobe.com/v/333305/){target="_blank"}
+* [建立動態區段](https://video.tv.adobe.com/v/27428){target="_blank"}
+* [建立多專案區段](https://video.tv.adobe.com/v/32179/){target="_blank"}
+* [使用B2B資料建立區段](https://video.tv.adobe.com/v/338252/){target="_blank"}
+* [串流細分示範](https://video.tv.adobe.com/v/36184){target="_blank"}
+* [在Adobe中建立及啟用區段 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [評估區段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
-**第三节：目标**
+**第3節：目的地**
 
-* [目标概述](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
-* [目标类型和类别](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
-* [目标工作区](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html?lang=en){target="_blank"}
-* [创建新目标连接](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
-* [Real-time CDP:目标](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
-* [目标概述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
-* [创建目标并激活数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
+* [目的地概觀](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
+* [目的地型別和類別](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
+* [目的地工作區](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html?lang=en){target="_blank"}
+* [建立新的目的地連線](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
+* [Real-time CDP：目的地](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
+* [目的地概觀](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
+* [建立目的地並啟用資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [激活概述](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html?lang=en){target="_blank"}
-* [目标目录概述](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html?lang=en){target="_blank"}
+* [目的地目錄概觀](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html?lang=en){target="_blank"}
 * [将个人资料和区段激活到目标](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
-* [集成Google客户匹配](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
-* [配置Azure Blob目标](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html){target="_blank"}
-* [配置Marketo目标](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html){target="_blank"}
-* [配置基于文件的云存储或电子邮件营销目标](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html){target="_blank"}
-* [配置社交目标](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
-* [将数据激活到非Adobe应用程序](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=zh-Hans){target="_blank"}
+* [整合Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
+* [設定Azure Blob目的地](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html){target="_blank"}
+* [設定Marketo目的地](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html){target="_blank"}
+* [設定檔案式雲端儲存空間或電子郵件行銷目的地](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html){target="_blank"}
+* [設定社交目的地](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
+* [啟用非Adobe應用程式的資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=zh-Hans){target="_blank"}
 
->[!TAB 获得认证]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**现在，您已成功登录，可直接访问以下链接。**
+**現在您已成功登入，可直接存取下列連結。**
 
-**参加练习测试**
+**參加練習測試**
 
-我们建议您在开始之前参加免费练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
+建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
 
-我们的实践测试都是从与实时测试相同的蓝图中开发的。 练习测试将帮助您了解实时考试中涵盖的主题。
+我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
 
-请记住，通过练习测试并不保证您会通过认证考试。
+請記住，通過練習測驗並不保證您會通過認證測驗。
 
-转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在去做练习测试。
+前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
 
-**参加认证考试**
+**參加認證考試**
 
-Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供测试中心和日语考试选项（如果有）
-* **[!DNL Examity]** 提供远程联机选项
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要计划、重新安排或取消您的考试，只需单击所选供应商，然后按照屏幕上提供的说明操作即可。 很简单！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-### 考试号：AD0-E601
+### 考試編號：AD0-E601
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD7-E601 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD7-E601 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601 newtab=true"}
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在计划考试时应用凭单代码。 如果您有折扣，则在结帐时适用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **问题**
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

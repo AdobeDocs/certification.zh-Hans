@@ -1,251 +1,252 @@
 ---
-title: 业务从业者专家认证
-description: 了解如何成为Adobe业务从业者Adobe专家 [!DNL Commerce].
+title: 商務從業人員專家認證
+description: 瞭解如何成為Adobe商務從業者的Adobe專家 [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
-badge: label="Exam AD0-E708" type="besitive"
+badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1607'
 ht-degree: 0%
 
 ---
 
-# 认证历程Adobe [!DNL Commerce] 业务从业专家
+# Adobe的認證歷程 [!DNL Commerce] 商務從業者專家
 
-了解如何成为认证的Adobe业务从业专家。
+瞭解如何成為認證Adobe商務從業專家。
 
-## 最低体验
+## 最低體驗
 
-您应该有大约1-3年的实际操作 [!DNL Commerce] 经验和对电子商务体验的广泛了解。
+您應擁有約1至3年的實際操作經驗 [!DNL Commerce] 經驗及對電子商務經驗的廣泛瞭解。
 
-您应该在以下方面具有经验：
+您應該在以下方面擁有經驗：
 
-* 数字营销：SEO、CMS、交叉销售和追加销售等销售技术、了解Google Analytics、电子邮件模板
-* 安全、合规和隐私法，如PCI、GDPR、ADA、CAN-SPAM、PSD2
-* 全渠道和多渠道销售/营销策略
-* 项目管理、需求收集、集成流程、一般电子商务法、软件开发方法和监控方面的经验
-* 了解商业、商务/电子商务和物流
-* 对可自定义的应用程序、云和服务器基础架构的基本了解
-* 现代电子商务术语
+* 數位行銷：SEO、CMS、交叉銷售和追加銷售等銷售技巧、瞭解Google Analytics、電子郵件範本
+* 安全性、法規遵循和隱私權法規，例如PCI、GDPR、ADA、CAN-SPAM、PSD2
+* 全通路和多通路等銷售/行銷策略
+* 在專案管理、需求收集、整合流程、一般電子商務法規、軟體開發方法和監控方面的經驗
+* 瞭解商業、商務/電子商務和物流
+* 基本瞭解可自訂的應用程式、雲端和伺服器基礎結構
+* 現代電子商務術語
 
-此外，您还应该可以轻松地使用以下技术：
+此外，您應該熟悉下列技術：
 
-* Adobe [!DNL Commerce]  — 版本2.4
-* 分析和性能工具：Google Analytics，标签管理器， SWAT，New Relic, Fastly，Google灯塔
-* 安全工具：PCI合规性、ADA、GDPR等
-* 云架构或内部部署架构
+* Adobe [!DNL Commerce] - 2.4版
+* Analytics和效能工具：Google Analytics、標籤管理員、SWAT、New Relic、Fastly、Google Lighthouse
+* 安全性工具：PCI法規遵循、ADA、GDPR等
+* 雲端或內部部署架構
 
 >[!NOTE]
 >
->您的证书有效期为2年，从您通过之日算起。 我们建议尽可能使用较新版本，因为它涵盖较新的产品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 准备就绪]
+>[!TAB 準備就緒]
 
-**目标受众：**
+**目標對象：**
 
-* 业务分析师
-* 商务策略师
-* 顾问
-* 技术项目经理/技术客户经理
-* 应用程序架构师/解决方案架构师/专家
-* 代理管理员/Director/经理/顾问
-* Digital Marketing Director/经理/开发人员
+* 業務分析人員
+* Commerce策略專家
+* 顧問
+* 技術專案經理/技術客戶經理
+* 應用程式設計師/解決方案設計師/專家
+* 機構管理員/Director/經理/顧問
+* 數位行銷Director/經理/開發人員
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 级别：专家（1-3年经验）
-* 通过分数：31/50
-* 时间：100分钟
-* 投放：在线监控（需要摄像头访问）或测试中心监控
-* 可用语言：英语
-* 成本：225美元（全球）/ 150美元（印度）
-* 考试ID:AD0-E708
+* 等級：專家（1-3年經驗）
+* 及格分數： 31/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E708
 
-**准备情况自评**
+**整備程度自我評估**
 
-完成 [在线准备调查表](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} 以查看您当前的体验是否与建议的最低候选资格匹配。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
 
-**考试目标和范围**
+**考試目標與範圍**
 
-第1节：核心功能/常规配置(46%)
+第1節：核心功能/一般組態(46%)
 
-* 识别Adobe功能 [!DNL Commerce] 开源版本和 [!DNL Commerce] 版本
-* 区分所有版本的Adobe [!DNL Commerce] 产品
-* 确定如何利用产品类型及其功能来满足客户需求
-* 解释要求和模型，以确定它们是否可以满足本机功能
-* 演示有关管理员面板的知识以及常见功能的位置
-* 演示导入/导出功能Adobe [!DNL Commerce] 实体
-* 了解如何本机配置购物车和结帐
-* 在Adobe中评估本机可用的发运方法 [!DNL Commerce] 以及它们如何适用于常见用例
-* 了解使用Adobe创建和发布风格化内容的方法 [!DNL Commerce] CMS功能，包括PageBuilder
-* 使用本机工具管理订单生命周期
-* 演示配置各种送礼选项（礼品卡、礼品包装、送信）的功能
-* 配置和修改事务电子邮件
-* 说明B2B中的客户自助服务和忠诚度计划本机功能
+* 識別Adobe功能 [!DNL Commerce] 開放原始碼版本和 [!DNL Commerce] 版本
+* 區分所有Adobe版本之間的差異 [!DNL Commerce] 產品
+* 決定如何利用產品型別及其功能來滿足客戶需求
+* 解釋需求和模型，以判斷其是否符合原生功能
+* 示範管理面板的知識以及常見功能的位置
+* 示範匯入/匯出Adobe的能力 [!DNL Commerce] 實體
+* 瞭解如何以原生方式設定購物車和結帳
+* 評估Adobe中原生可用的送貨方法 [!DNL Commerce] 以及它們如何套用至常見使用案例
+* 瞭解使用Adobe建立和發佈風格化內容的方法 [!DNL Commerce] 包含PageBuilder的CMS功能
+* 使用原生工具管理訂單生命週期
+* 示範設定各種贈品選項（禮品卡、禮品包裝、贈品訊息）的能力
+* 設定和修改異動電子郵件
+* 說明B2B中的客戶自助服務和忠誠度計畫原生功能
 
-第二节：促销(10%)
+區段2：銷售(10%)
 
-* 演示创建促销活动以满足特定业务标准的能力，以及它如何确定最终定价
-* 演示管理类别和产品的功能
-* 了解不同的定价配置以及它们对最终价格的影响
+* 展示建立符合特定業務條件的促銷活動的能力，以及它如何決定最終定價
+* 展示管理類別和產品的能力
+* 瞭解不同的定價設定及其如何影響最終價格
 
-第三节：数字营销(4%)
+第3節：數位行銷(4%)
 
-* 建议使用本机功能进行SEO的最佳实践
-* 评估Google Analytics和BI中的常见量度
+* 使用原生功能的SEO建議最佳實務
+* 評估Google Analytics和BI中的通用量度
 
-第四节：附加模块和其他产品(18%)
+第4節：附加模組與其他產品(18%)
 
-* 描述B2B功能及其与常见B2B情景的关系
-* 应用业务要求以建议使用MSI的解决方案
-* 说明BI的优势以及如何使用BI来Adobe [!DNL Commerce] 解决方案
-* 区分本机搜索与LiveSearch之间的差异
-* 应用业务要求，以确定如何在B2B环境中应用税、关税和免税
-* 了解如何为B2B客户应用量身定制的定价
-* 了解Adobe之间的差异 [!DNL Commerce] 本机产品和Adobe Sensei产品推荐
+* 說明B2B功能及其與常見B2B案例的關係
+* 套用業務需求以建議使用MSI的解決方案
+* 向Adobe說明優點以及如何使用BI [!DNL Commerce] 解決方案
+* 區分原生搜尋和即時搜尋之間的差異
+* 套用業務需求以決定如何在B2B環境中套用稅捐、關稅和免稅
+* 瞭解如何將量身打造的定價套用至B2B客戶
+* 瞭解Adobe之間的差異 [!DNL Commerce] 原生產品和Adobe Sensei產品推薦
 
-第五节：系统架构(10%)
+第5節：系統架構(10%)
 
-* 评估要求以确定哪些网站、商店和商店视图是必需的
-* 识别并分析性能指标以进行改进
-* 了解将外部系统与Adobe集成的可用方法 [!DNL Commerce]
-* 区分无头方法和传统方法
+* 評估需求以判斷需要哪些網站、商店和商店檢視
+* 識別和分析效能量度以作出改善
+* 瞭解將外部系統與Adobe整合的可用方法 [!DNL Commerce]
+* 區分Headless方法與傳統
 
-第六节：法规遵从性/安全性(12%)
+第6節：合規性/安全性(12%)
 
-* 演示如何保护Adobe [!DNL Commerce] 具有角色和权限的数据访问
-* 了解隐私法和支付安全合规的基础知识
-* 说明Adobe的常见安全方面 [!DNL Commerce] 项目
-* 了解税法的基础知识以及如何配置
+* 示範如何保護Adobe安全 [!DNL Commerce] 使用角色和許可權存取資料
+* 瞭解隱私權法規與支付安全性合規的基本概念
+* 說明Adobe的常見安全性方面 [!DNL Commerce] 專案
+* 瞭解稅法基本知識及設定方法
 
->[!TAB 预先准备]
+>[!TAB 準備就緒]
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**第1节：核心功能/常规配置**
+**第1節：核心功能/一般設定**
 
-* [[!DNL Commerce] 商户文档](https://docs.magento.com/user-guide/getting-started.html){target="_blank"}
-* [了解产品类型](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 商家檔案](https://docs.magento.com/user-guide/getting-started.html){target="_blank"}
+* [瞭解產品型別](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html?lang=en){target="_blank"}
 * [客户管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html?lang=en){target="_blank"}
-* [创建产品](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
-* [管理员菜单](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html?lang=en){target="_blank"}
-* [数据网格](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html?lang=en){target="_blank"}
-* [存储设置](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html?lang=en){target="_blank"}
-* [商店和购买体验简介](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
-* [管理系统简介：操作管理](https://docs.magento.com/user-guide/operations.html){target="_blank"}
-* [进出口产品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
-* [数据传输](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
-* [购物车](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [结帐](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
-* [运输和交付](https://docs.magento.com/user-guide/shipping/delivery.html){target="_blank"}
-* [订单管理和操作](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [礼品卡](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-8-gift-cards.html){target="_blank"}
-* [礼品卡产品](https://docs.magento.com/user-guide/catalog/product-gift-card.html){target="_blank"}
-* [礼品选项](https://docs.magento.com/user-guide/sales/gift-options.html){target="_blank"}
-* [电子邮件通信](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
-* [电子邮件模板](https://docs.magento.com/user-guide/marketing/email-templates.html){target="_blank"}
-* [B2BAdobe简介 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"}
-* [奖励和忠诚计划](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
+* [建立產品](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
+* [管理功能表](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html?lang=en){target="_blank"}
+* [資料網格](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html?lang=en){target="_blank"}
+* [商店設定](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html?lang=en){target="_blank"}
+* [商店和購買體驗簡介](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
+* [管理系統簡介：作業管理](https://docs.magento.com/user-guide/operations.html){target="_blank"}
+* [匯入和匯出產品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
+* [資料傳輸](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
+* [購物車](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
+* [簽出](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
+* [送貨與傳遞](https://docs.magento.com/user-guide/shipping/delivery.html){target="_blank"}
+* [訂單管理與作業](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
+* [禮品卡](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-8-gift-cards.html){target="_blank"}
+* [禮品卡產品](https://docs.magento.com/user-guide/catalog/product-gift-card.html){target="_blank"}
+* [贈品選項](https://docs.magento.com/user-guide/sales/gift-options.html){target="_blank"}
+* [電子郵件通訊](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
+* [電子郵件範本](https://docs.magento.com/user-guide/marketing/email-templates.html){target="_blank"}
+* [Adobe適用的B2B簡介 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"}
+* [獎勵和忠誠度計畫](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
 
-**第二节：促销**
+**第2節：銷售**
 
-* [促销活动](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [产品类别](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html?lang=en){target="_blank"}
-* [类别定位](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
-* [产品设置](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
-* [属性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
-* [属性集](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
-* [简单产品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"}
-* [可配置属性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html?lang=en){target="_blank"}
-* [分层导航](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html?lang=en){target="_blank"}
-* [目录管理简介](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
-* [高级定价](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
+* [促銷活動](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
+* [產品類別](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html?lang=en){target="_blank"}
+* [類別定位](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
+* [產品設定](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
+* [屬性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
+* [屬性集](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
+* [簡單產品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"}
+* [可設定的屬性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html?lang=en){target="_blank"}
+* [分層導覽](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html?lang=en){target="_blank"}
+* [目錄管理簡介](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
+* [進階定價](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
-**第三节：数字营销**
+**第3節：數位行銷**
 
-* [简介 [!DNL Commerce] 促销和促销](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
-* [SEO概述](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Business Intelligence入门（网络研讨会记录）](https://business.adobe.com/resources/getting-started-magento-business-intelligence.html){target="_blank"}
-* [Google网站工具](https://docs.magento.com/user-guide/marketing/google-tools.html){target="_blank"}
+* [簡介 [!DNL Commerce] 銷售與促銷](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
+* [SEO概觀](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
+* [Business Intelligence快速入門（網路研討會影片）](https://business.adobe.com/resources/getting-started-magento-business-intelligence.html){target="_blank"}
+* [Google網站工具](https://docs.magento.com/user-guide/marketing/google-tools.html){target="_blank"}
 * [Business Intelligence工具](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
 
-**第四节：附加模块和其他产品**
+**第4節：附加模組和其他產品**
 
 * [B2B功能](https://docs.magento.com/user-guide/configuration/general/b2b-features.html){target="_blank"}
-* [B2BAdobe简介 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
-* [管理库存](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
-* [MBI简介](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [搜索引擎先决条件](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/elasticsearch.html){target="_blank"}
-* [税](https://docs.magento.com/user-guide/tax/taxes.html){target="_blank"}
-* [使用共享目录](https://docs.magento.com/user-guide/catalog/catalog-shared.html){target="_blank"}
-* [Adobe Sensei PowersMagento产品Recommendations](https://business.adobe.com/summit/2020/adobe-sensei-powers-magento-product-recommendations.html){target="_blank"}
-* [产品简介Recommendations](https://docs.magento.com/user-guide/marketing/product-recommendations.html){target="_blank"}
+* [Adobe適用的B2B簡介 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
+* [管理詳細目錄](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
+* [MBI簡介](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
+* [搜尋引擎必要條件](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/elasticsearch.html){target="_blank"}
+* [稅金](https://docs.magento.com/user-guide/tax/taxes.html){target="_blank"}
+* [使用共用目錄](https://docs.magento.com/user-guide/catalog/catalog-shared.html){target="_blank"}
+* [Adobe Sensei支援Magento產品Recommendations](https://business.adobe.com/summit/2020/adobe-sensei-powers-magento-product-recommendations.html){target="_blank"}
+* [產品Recommendations簡介](https://docs.magento.com/user-guide/marketing/product-recommendations.html){target="_blank"}
 
-**第五节：系统架构**
+**第5節：系統架構**
 
-* [企业用户的商务 — 网站、商店和视图](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html?lang=en){target="_blank"}
-* [面向企业用户的商务 — 存储查看和缓存清除](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html?lang=en){target="_blank"}
-* [面向企业用户的商务 — 店面](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
-* [存储详细信息](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [“报表”菜单](https://docs.magento.com/user-guide/reports.html){target="_blank"}
-* [Adobe Commerce Web API快速入门](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
+* [適用於企業使用者的Commerce — 網站、商店和檢視](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html?lang=en){target="_blank"}
+* [適用於商業使用者的Commerce — 商店檢視和快取清除](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html?lang=en){target="_blank"}
+* [適用於商業使用者的Commerce — 店面](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
+* [存放區詳細資料](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
+* [「報表」功能表](https://docs.magento.com/user-guide/reports.html){target="_blank"}
+* [Adobe Commerce Web API快速入門](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
 
-**第六节：法规遵从性/安全性**
+**第6節：合規性/安全性**
 
-* [用户和角色](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html?lang=en){target="_blank"}
-* [角色范围和权限](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html?lang=en){target="_blank"}
+* [使用者和角色](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html?lang=en){target="_blank"}
+* [角色範圍與許可權](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html?lang=en){target="_blank"}
 * [权限](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
-* [存储隐私政策](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
-* [安全性和合规性](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
+* [存放區隱私權原則](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
+* [安全性與合規性](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
 * [安全性](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
-* [按国家/地区划分的税务准则](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
+* [依國家/地區的稅務准則](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB 获得认证]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**现在，您已成功登录，可直接访问以下链接。**
+**現在您已成功登入，可直接存取下列連結。**
 
-**参加练习测试**
+**參加練習測試**
 
-我们建议您在开始之前参加免费练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
+建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
 
-我们的实践测试都是从与实时测试相同的蓝图中开发的。 练习测试将帮助您了解实时考试中涵盖的主题。
+我們的練習測試都是從與即時考試相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
 
-请记住，通过练习测试并不保证您会通过认证考试。
+請記住，通過練習測驗並不保證您會通過認證測驗。
 
-转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在去做练习测试。
+前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
 
-**参加认证考试**
+**參加認證考試**
 
-Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供测试中心和日语考试选项（如果有）
-* **[!DNL Examity]** 提供远程联机选项
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要计划、重新安排或取消您的考试，只需单击所选供应商，然后按照屏幕上提供的说明操作即可。 很简单！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-### 考试号：AD0-E708
+### 考試編號：AD0-E708
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E708 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E708 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E708 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E708 newtab=true"}
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在计划考试时应用凭单代码。 如果您有折扣，则在结帐时适用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **问题**
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

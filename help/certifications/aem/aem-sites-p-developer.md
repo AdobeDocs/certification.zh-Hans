@@ -1,10 +1,10 @@
 ---
-title: 开发人员专业认证
-description: 了解如何成为Adobe业务从业专家 [!DNL Experience Manager Sites].
+title: 開發人員專業認證
+description: 瞭解如何成為認證Adobe商務從業專家 [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E123" type="besitive"
+badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,148 +14,148 @@ ht-degree: 15%
 
 ---
 
-# 认证历程Adobe [!DNL Experience Manager Sites] 开发人员专业人员
+# Adobe的認證歷程 [!DNL Experience Manager Sites] 開發人員專業版
 
-了解如何成为认证的Adobe业务从业者专家。
+瞭解如何成為認證Adobe商務從業專家。
 
-## 最低体验
+## 最低體驗
 
-您应该是应用程序开发人员，并且拥有：
+您應該成為應用程式開發人員，並擁有：
 
-* 0-12个月的AEM使用经验 [!DNL Platform]
-* 能够执行组件开发
-* 对AEM中MVC框架、生命周期框架和库的基本了解
+* 使用AEM的0至12個月經驗 [!DNL Platform]
+* 執行元件開發的能力
+* 對AEM中的MVC架構、生命週期架構和程式庫的基本瞭解
 
 >[!NOTE]
 >
->您的证书有效期为2年，从您通过之日算起。 我们建议尽可能使用较新版本，因为它涵盖较新的产品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 准备就绪]
+>[!TAB 準備就緒]
 
-**目标受众：**
+**目標對象：**
 
-* AEM开发人员
-* 前端开发人员
-* 软件工程师
+* AEM開發人員
+* 前端開發人員
+* 軟體工程師
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 级别：专业（0-12个月经验）
-* 通过分数：31/50
-* 时间：100分钟
-* 投放：在线监控（需要摄像头访问）
-* 可用语言：英语
-* 成本：125美元（全球）/ 95美元（印度）
-* 考试ID:AD0-E123
+* 等級：專業（0至12個月經驗）
+* 及格分數： 31/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要相機存取）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E123
 
-**准备情况自评**
+**整備程度自我評估**
 
-完成 [在线准备调查表](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} 以查看您当前的体验是否与建议的最低候选资格匹配。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
 
-**考试目标和范围**
+**考試目標與範圍**
 
-第1节：配置(26%)
+區段1：設定(26%)
 
-* 识别AEM调度程序配置和缓存的用途
-* 确定在AEM中配置多站点的正确步骤
-* 说明如何创建和管理OSGi配置
-* 确定管理自定义OAK索引的正确步骤
-* 确定配置OOTB SAML或IMS集成的正确步骤
+* 識別AEM Dispatcher設定和快取的用途
+* 決定在AEM中設定多網站的正確步驟
+* 說明如何建立和管理OSGi設定
+* 決定管理自訂OAK索引的正確步驟
+* 決定設定OOTB SAML或IMS整合的正確步驟
 
-第二节：AEM开发(40%)
+區段2：AEM開發(40%)
 
-* 确定实施基于核心的组件的正确步骤
-* 连接组件功能，包括HTL、模型和服务
-* 在给定的情景中，确定开发工作流的正确步骤
-* 在此情景中，概述内容片段或体验片段的用途
+* 決定實作核心元件的正確步驟
+* 連線元件功能，包括HTL、模型和服務
+* 在特定的情況下，請決定開發工作流程的正確步驟
+* 在情景中，概述內容片段或體驗片段的用途
 
-第三节：构建和部署(12%)
+第3節：建置和部署(12%)
 
-* 定义Maven项目结构
-* 从原型配置项目
+* 定義Maven專案結構
+* 從原型設定專案
 
-第四节：环境维护(22%)
+第4節：環境維護(22%)
 
-* 在某种情况下，确定在AEM环境中调试问题所需的步骤
-* 解释AEM维护版本
-* 确定如何跨拓扑配置AEM
-* 确定规划和迁移到AEMas a Cloud Service所需的步骤
+* 在特定的情況下，請決定在AEM環境中對問題進行偵錯所需的步驟
+* 說明AEM維護版本
+* 識別如何跨拓撲設定AEM
+* 決定規劃和移轉至AEMas a Cloud Service所需的步驟
 
->[!TAB 预先准备]
+>[!TAB 準備就緒]
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**示例问题**
+**範例問題**
 
-利用示例问题，可查看在实际考试中遇到的项目类型和格式。 无需登录。 不会存储示例问题的结果，也不会预测实际的测试结果。
+範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
 
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
 
-**第1节：配置**
+**第1節：組態**
 
 * [AEM 6.4 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hans){target="_blank"}
+* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hans){target="_blank"}
 * [Dispatcher 概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
 
-**第二节：AEM开发**
+**第2節： AEM開發**
 
 * [AEM 6.4 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=zh-Hans){target="_blank"}
+* [AEM 6.5 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=zh-Hans){target="_blank"}
 * [AEM 6.5 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 * [核心组件简介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
 * [组件基础知识](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en){target="_blank"}
 
-**第三节：构建和部署**
+**第3節：建置和部署**
 
 * [核心组件简介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
-* [入门 [!DNL AEM Sites] - WKND教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
+* [開始使用 [!DNL AEM Sites] - WKND教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
 
 
-**第四节：环境维护**
+**第4節：環境維護**
 
-* [AEM 6.4 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hans){target="_blank"}
+* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hans){target="_blank"}
 * [AEM 6.4 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [操作仪表板](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks)){target="_blank"}
-* [发行说明Adobe [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
+* [操作控制面板](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks)){target="_blank"}
+* [Adobe版本注意事項 [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hans){target="_blank"}
 * [核心组件简介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
-* [[!DNL AEM as Cloud Service] 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager] 版本更新和路线图](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hans){target="_blank"}
+* [[!DNL AEM as Cloud Service] 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager] 版本更新和藍圖](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hans){target="_blank"}
 
->[!TAB 获得认证]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**现在，您已成功登录，可直接访问以下链接。**
+**現在您已成功登入，可直接存取下列連結。**
 
-**参加认证考试**
+**參加認證考試**
 
-Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供测试中心和日语考试选项（如果有）
-* **[!DNL Examity]** 提供远程联机选项
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要计划、重新安排或取消您的考试，只需单击所选供应商，然后按照屏幕上提供的说明操作即可。 很简单！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-### 考试号：AD0-E123
+### 考試編號：AD0-E123
 
-[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123 newtab=true"}
+[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123 newtab=true"}
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在计划考试时应用凭单代码。 如果您有折扣，则在结帐时适用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **问题**
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

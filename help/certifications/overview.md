@@ -1,41 +1,41 @@
 ---
 title: 认证主页
-description: 了解 [!DNL Experience Cloud] 认证Adobe。 了解获得认证能为您做什么。
+description: 了解 Adobe 的  [!DNL Experience Cloud]  认证。了解获得认证能为您做什么。
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
 source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
-# 欢迎参加Adobe认证！
+# 歡迎使用Adobe認證！
 
-了解Adobe认证以及获得认证对您有何作用。
+了解 Adobe 认证以及获得认证有哪些益处。
 
 ![横幅](/help/certifications/assets/home_banner_smallwide.png)
 
-Adobe [!DNL Experience Cloud] 是一套数字营销解决方案，使企业能够跨多个渠道（包括Web、移动设备、电子邮件和社交媒体）提供个性化的客户体验。 [!DNL Experience Cloud] 包括一系列产品，如Adobe [!DNL Real-Time CDP],Adobe [!DNL Experience Manager], [!DNL Adobe Commerce], [!DNL Adobe Journey Optimizer], [!DNL Adobe Customer Analytics]，等等。
+Adobe [!DNL Experience Cloud] 是一套數位行銷解決方案，可讓企業跨多個管道（包括網路、行動裝置、電子郵件和社群媒體）提供個人化客戶體驗。 [!DNL Experience Cloud] 包含一系列產品，例如Adobe [!DNL Real-Time CDP]，Adobe [!DNL Experience Manager]， [!DNL Adobe Commerce]， [!DNL Adobe Journey Optimizer]， [!DNL Adobe Customer Analytics]、等等。
 
-Adobe理解拥有适当资历在您的职业生涯中取得进步并保持领先于竞争对手的重要性。 因此，我们创建了Adobe认证计划：帮助你证明自己的技能和知识，并获得你应得的认可。
+Adobe瞭解擁有正確的資歷以在您的職業生涯中取得進展和保持領先地位的重要性。 這就是我們建立Adobe認證計畫的原因：協助您證明自己的技能和知識，並獲得應得的認可。
 
-无论您是经验丰富的专家还是刚刚起步，我们的认证计划都可以帮助您发掘自己的专业潜力，将您的职业生涯提升到更高的水平。
+無論您是經驗豐富的專家，還是剛開始工作，我們的認證計畫都能協助您釋放專業潛能，將您的職業生涯提升到新的境界。
 
-## 为什么要获得认证？
+## 為何要取得認證？
 
-获取Adobe [!DNL Experience Cloud] 认证可能有以下几个原因：
+取得Adobe [!DNL Experience Cloud] 認證的好處有幾個原因：
 
-* **验证您的技能：** Adobe认证向潜在客户或雇主证明您拥有使用所需的技能和知识 [!DNL Experience Cloud] 产品。
-* **职业发展：** Adobe认证有助于你在拥挤的就业市场中脱颖而出，并增加你在当前工作中被聘用或晋升的机会。
-* **增加盈利潜力：** 经认证的个人往往比未经认证的同行挣得更多，因为他们的资历证明他们的技能和知识是正确的。
-* **访问专用资源：** 当您获得Adobe认证后，即可访问专用资源。 这些资源包括培训材料、测试版软件版本和支持论坛，可帮助您随时了解行业中最新的软件开发和趋势。
-* **免费练习测试：** Adobe提供免费的实践考试，帮助您为认证考试做好准备，并确保您已做好充分的考试准备。
-* **认证续订：** Adobe认证的有效期为两年，您可以通过参加按需、未经过培训的考试或完成一组连续学习活动来续订您的认证。
+* **驗證您的技能：** Adobe認證會向潛在客戶或僱主展示您具備所需的技能和知識 [!DNL Experience Cloud] 有效率地提供產品。
+* **職業發展：** Adobe認證可協助您在擁擠的職場中脫穎而出，並增加目前工作受聘或升職的機會。
+* **增加收入潛力：** 通過認證的個人通常比未通過認證的同行掙得更多，因為他們的認證驗證了他們的技能和知識。
+* **存取專屬資源：** 獲得Adobe認證後，您就可以存取專屬資源。 這些資源包括培訓資料、測試版軟體發行和支援論壇，可幫助您掌握業界最新的軟體開發和趨勢。
+* **免費練習測試：** Adobe提供免費的練習考試，可幫助您為認證考試做好準備，並確保您已完全準備好參加考試。
+* **認證續約：** Adobe認證的有效期為兩年，您可以透過參加隨選、未經監考的考試或完成一系列持續學習活動來更新認證。
 
-我们的认证计划专为各个领域的专业人士而设计，包括开发人员、业务从业者和架构师。 通过多种不同的认证途径可供选择，您可以在Adobe中展示自己的熟练程度和专业知识 [!DNL Experience Cloud] 让客户和雇主都深受鼓舞。
+我們的認證計畫是專為不同領域的專業人士所設計，包括開發人員、商務從業人員和架構師。 您可以透過多種認證途徑進行選擇，展現您在Adobe中的熟練程度與專業知識 [!DNL Experience Cloud] 給客戶和僱主留下深刻印象。
 
-那为什么要等？ 迈出释放您的专业潜力的第一步，探索我们今天的认证途径！
+那麼為何要等候？ 立即踏出釋放專業潛力的第一步，探索我們的認證途徑！
 
 [!BADGE 开始使用]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en newtab=true"}

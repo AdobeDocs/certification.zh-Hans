@@ -1,15 +1,14 @@
 ---
-title: 管理Adobe凭据配置文件
-description: 了解如何管理Adobe凭据配置文件。
-badge: label="您的配置文件" type="正数"
+title: 管理您的Adobe認證設定檔
+description: 瞭解如何管理您的Adobe認證設定檔。
+badge: label="Your profile" type="positive"
 hidefromtoc: true
-source-git-commit: 8bbe0401ef1a29608255337b055c0b32005da513
+exl-id: 2844218c-8b29-416b-a534-d024343f9b96
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '23'
 ht-degree: 0%
 
 ---
 
-
-# 管理Adobe凭据配置文件
-
+# 管理您的Adobe認證設定檔

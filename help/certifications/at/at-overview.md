@@ -1,27 +1,27 @@
 ---
-title: Target认证概述
-description: Adobe Target认证选项概述
+title: Target認證概述
+description: Adobe Target 认证选项概述
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
 source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 7%
+ht-degree: 26%
 
 ---
 
-# Target认证概述
+# Target認證概述
 
-**专业**
+**專業**
 
-* [认证专业人员](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [認證專家](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
 **专家**
 
-* [业务执行者](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [商務從業人員](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
 **主控**
 
 * [架构师](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
-访问 [续订您的证书](/help/certifications/renew.md) 页面，查看此产品是否有续订选项。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

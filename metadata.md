@@ -9,8 +9,8 @@ git-repo: https://github.com/AdobeDocs/certification.zh-Hans
 index: true
 source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '63'
+ht-degree: 93%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 认证续订
-description: 了解如何续订 [!DNL Adobe Analytics] 认证。
+title: 認證續約
+description: 瞭解如何更新 [!DNL Adobe Analytics] 憑證過期前的認證。
 solution: Analytics
 product: Analytics
 role: User,Developer, Data Architect
@@ -14,75 +14,75 @@ ht-degree: 5%
 
 ---
 
-# 续订 [!DNL Analytics] 认证
+# 續約 [!DNL Analytics] 認證
 
-您的Adobe认证有效期为两年。 如果您已接近这两年的期限，则需要续订您的证书以使其保持活动状态。
+您的Adobe認證有效期為兩年。 如果您快要達到兩年期限，就應該更新您的認證，以保持其作用中。
 
-首先，在下面的选项卡中选择相应的级别(专业、专家或主控)。 然后仔细查看续订证书所需执行的操作。
+首先，在下列標籤上選取適當的層級（「專業」、「專家」或「主要」）。 接著，請仔細檢閱更新認證所需執行的動作。
 
-请确保在认证过期之前，您有充足的时间完成所有要求。
+在認證過期之前，請務必提供足夠的時間完成所有需求。
 
-请务必注意，如果您的认证过期，您将必须重新参加认证考试，该考试不是免费的。
+請務必注意，如果認證過期，您必須重新參加認證考試，這並非免費。
 
 >[!IMPORTANT]
 >
->以下课程评估链接将起作用 **仅** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>下列課程評估連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
->[!TAB 专业]
+>[!TAB 專業]
 
 >[!NOTE]
 >
->专业更新即将推出。
+>即將推出專業更新。
 
->[!TAB 专家和主控]
+>[!TAB 專家與大師]
 
-您当前应在以下位置获得认证（未过期）：
+您目前的認證（未過期）應該位於：
 
-* Adobe Analytics Developer Expert
-* Adobe Analytics商业从业者专家
-* Adobe Analytics架构师主控
+* Adobe Analytics開發人員專家
+* Adobe Analytics商務從業專家
+* Adobe Analytics Architect Master
 
-## 续订Adobe Analytics证书的说明
+## 續約Adobe Analytics認證的說明
 
-选择 **三个活动** 完成并通过与每个课程相关的课程评估。
+選取 **三個活動** 完成並傳遞與每個課程相關的課程評量。
 
-* **步骤1**:已成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-* **步骤2**:学习Experience League课程
-* **步骤3**:完成并通过每个课程评估，至少80%
+* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：學習Experience League的課程
+* **步驟3**：至少以80%完成並通過每個課程評估
 
-或者，学习两门课程，通过两门课程评估，并提交一份客户参考表，以验证您在过去12个月内对项目的参与，总时间为100小时。
+或者，學習兩門課程，通過兩門課程評估，並提交客戶參考表，確認您在過去12個月內總共100小時的專案參與情形。
 
-对于某些Adobe Experience Cloud认证，Adobe凭据计划接受 **客户参考** 以Adobe认证的个人身份验证您的持续工作，并负责Adobe Experience Cloud实施项目的领导、管理和/或参与。
+對於某些Adobe Experience Cloud認證，Adobe認證計畫接受 **客戶推薦資料** 能驗證您作為Adobe認證的個人，繼續領導、管理及/或參與Adobe Experience Cloud實作專案的成功案例。
 
-在这些情况下，您可以提供客户参考，确认您在认证续订2年间隔期间至少参与了100小时的已演示项目参与。
+在這些情況下，您可以提供客戶證明資料，確認您在認證續約2年間隔內參與了至少100小時的示範專案參與。
 
-**审核客户参考后，Adobe凭据团队会通知您。**
+**審查您的客戶參考資料後，Adobe認證團隊會通知您。**
 
-课程评估是免费的。 无需安排计划，也无需进行监督。 如果您拥有多个Adobe Analytics专家和主控级别的认证，您只需完成以下要求，并且此级别的所有Adobe Analytics认证都将续订。
+課程評估是免費的。 不需要排程，也不會進行監聽。 如果您持有多個Adobe Analytics Expert和Master層級認證，您只需完成以下要求，並且此層級的所有Adobe Analytics認證都將獲得續約。
 
-[客户参考表Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+[Adobe Analytics客戶參考資料表單](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
-### 专家和主控课程和课程评估：
+### 專家與碩士的課程與課程評量：
 
-| 课程 | 课程评估 |
+| 课程 | 課程評估 |
 | ------- | ------- |
-| [Adobe Analytics将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
-| [导出Adobe Analytics数据并实现其大众化 — 第5和6课](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
-| [使用自定义分段和日期过滤数据 — 第2课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
-| [引导式Analytics实施 — 第5课](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
-| [ 实施和测量内部站点搜索 — 第3课和第4课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
+| [Adobe Analytics將值歸因於Customer Journey中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
+| [匯出和民主化Adobe Analytics資料 — 第5和第6課](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
+| [使用自訂分段和日期篩選資料 — 第2課](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
+| [引導式Analytics實施 — 第5課](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
+| [ 實作與測量內部網站搜尋 — 第3和第4課](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
 | [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
 
 >[!NOTE]
 >
->您可以重复执行上述操作，直到您成功完成了三个活动或两个活动，以及客户参考表单。
+>您可以重複上述步驟，直到成功完成三個活動或完成兩個活動以及客戶證明資料表為止。
 
 >[!ENDTABS]
 
 ### 问题
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

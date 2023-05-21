@@ -1,179 +1,180 @@
 ---
-title: 业务从业者专业认证
-description: 了解如何获得认证为Adobe [!DNL Advertising Search] 业务从业人员。
+title: 商務從業人員專業認證
+description: 瞭解如何獲得Adobe認證 [!DNL Advertising Search] 專業商務從業人員。
 solution: Advertising
 product: Advertising Cloud
 role: User
-badge: label="Exam AD0-E501" type="besitive"
+badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '987'
 ht-degree: 3%
 
 ---
 
-# 认证历程Adobe [!DNL Advertising Search] 业务从业人员
+# Adobe的認證歷程 [!DNL Advertising Search] 商務從業者專業人士
 
-了解如何成为认证人员 [!DNL Advertising Search] 业务从业人员。
+瞭解如何成為認證 [!DNL Advertising Search] 專業商務從業人員。
 
-## 最低体验
+## 最低體驗
 
-您应该：
+您應該具備：
 
-* 在付费搜索性能行业工作12-24个月的项目经理经验
-* 至少3-6个月 [!DNL Advertising Search] 平台体验
-* 在中工作的体验 [!DNL Advertising Search] 熟悉付费搜索竞价自动化、促销活动管理、
-* 对Portfolio理论的认识
+* 擁有12至24個月付費搜尋效能業界經驗的計畫經理
+* 至少3-6個月 [!DNL Advertising Search] 平台體驗
+* 使用體驗 [!DNL Advertising Search] 並熟悉付費搜尋競標自動化、行銷活動管理、
+* 對Portfolio理論的理解
 
-使用以下函数的经验：
+使用下列功能的經驗：
 
-* 创建Portfolio的每个方面
-* 创建自定义模拟，以确定何时准备好进行优化
-* 监控组合准确性
-* 准备项目组合以拥有足够的数据来优化
-* 创建/提取报告
-* tROAS投标策略
-* 设置转化跟踪
-* 设置目标
-* 针对目标管理产品组合
-* 构建营销活动
-* 设置帐户关联
-* 创建约束
-* 设置帐户
+* 建立Portfolio的各個層面
+* 建立自訂模擬，以判斷產品組合何時準備好進行最佳化
+* 監控產品組合準確性
+* 正在準備產品組合，以擁有足夠資料進行最佳化
+* 建立/提取報表
+* ROAS競標策略
+* 設定轉換追蹤
+* 設定目標
+* 針對目標管理投資組合
+* 建立行銷活動
+* 設定帳戶連結
+* 建立限制
+* 設定帳戶
 * 管理活动
-* 使用支出推荐工具
-* 在Portfolio中排除和包含日期
-* 管理竞价规则
-* 日内竞价
-* 受众竞价修饰符
-* 地点竞价调整
+* 使用支出建議工具
+* 排除並包含Portfolio中的日期
+* 管理競標規則
+* 當日競標
+* 對象競標修飾元
+* 位置競標調整
 
 >[!NOTE]
 >
->您的证书有效期为2年，从您通过之日算起。 我们建议尽可能使用较新版本，因为它涵盖较新的产品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 准备就绪]
+>[!TAB 準備就緒]
 
-**目标受众：**
+**目標對象：**
 
-* 搜索营销活动经理
-* 搜索营销从业者
-* 定期使用搜索执行和管理搜索促销活动的个人
+* 搜尋行銷活動管理員
+* 搜尋行銷從業者
+* 定期使用搜尋來執行和管理搜尋行銷活動的個人
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 级别：专业（0-12个月经验）
-* 通过分数：35/50
-* 时间：100分钟
-* 投放：在线监控（需要摄像头访问）或测试中心监控
-* 可用语言：英语
-* 成本：125美元（全球）/ 95美元（印度）
-* 考试ID:AD0-E501
+* 等級：專業（0至12個月經驗）
+* 及格分數：35/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E501
 
-**准备情况自评**
+**整備程度自我評估**
 
-完成 [在线准备调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} 以查看您当前的体验是否与建议的最低候选资格匹配。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
 
-**考试目标和范围**
+**考試目標與範圍**
 
-第1节：Portfolio和优化(54%)
+第1節：Portfolio與最佳化(54%)
 
-* 在给定情景下，选择并设置自动竞价策略
-* 根据业务策略，定义和创建PortfolioKPI目标
-* 给定业务策略，定义并创建适当的Portfolio设置
-* 根据性能需求，创建和管理约束
-* 在某种情况下，评估Portfolio性能并排除其故障
-* 如果出现这种情况，请确定如何持续调整Portfolio设置
+* 指定情境，選取並設定自動化競標策略
+* 指定的業務策略，定義並建立PortfolioKPI目標
+* 指定業務策略，定義並建立適當的Portfolio設定
+* 根據效能需求，建立和管理限制
+* 在特定的情況下，評估並疑難排解Portfolio效能
+* 在特定的情況下，請決定如何持續調整Portfolio設定
 
-第二节：报表、分析和工具(14%)
+第2節：報表、見解和工具(14%)
 
-* 应用程序概念以根据业务需求创建和计划报告
-* 使用可用的Platform AI工具跨Portfolio确定最佳预算分配，并在需要时进行应用
-* 在给定用例的情况下，创建并定义自定义模拟以用于Portfolio分析和预测
+* 套用程式概念，以根據業務需求建立及排程報表
+* 使用各個Portfolio的可用Platform AI工具來決定最佳預算分配，並在需要時套用
+* 根據使用案例，建立並定義Portfolio分析和預測的自訂模擬
 
-第三节：营销活动管理(22%)
+區段3：行銷活動管理(22%)
 
-* 设置帐户
-* 构建、管理和组织营销活动的各个方面
+* 設定帳戶
+* 建立、管理和組織行銷活動的各個層面
 
-第四节：测量(10%)
+區段4：測量(10%)
 
-* 在业务情景下，确定促销活动转化跟踪的方法并应用
-* 在某种情况下，对促销活动转化量度问题进行故障诊断
+* 在商業案例中，決定行銷活動轉換追蹤的方法並套用
+* 在特定的情況下，疑難排解行銷活動轉換量度問題
 
->[!TAB 预先准备]
+>[!TAB 準備就緒]
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**第1节：Portfolio和优化**
+**第1節：Portfolio與最佳化**
 
-* [Adobe简介 [!DNL Analytics] Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html?lang=en){target="_blank"}
-* [概述 [!DNL Analytics] 表示 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=en){target="_blank"}
-* [性能优化](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
-* [了解增强型Analytics中的KPI](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
-* [向智能列表筛选器添加约束](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html?lang=en){target="_blank"}
-* [优化目标及其使用方法](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html?lang=en){target="_blank"}
+* [Adobe簡介 [!DNL Analytics] 用於Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html?lang=en){target="_blank"}
+* [概述 [!DNL Analytics] 的 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=en){target="_blank"}
+* [效能最佳化](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
+* [瞭解Enhanced Analytics中的KPI](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
+* [新增限制至智慧清單篩選器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html?lang=en){target="_blank"}
+* [最佳化目標及使用方式](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html?lang=en){target="_blank"}
 
-**第二节：报表、分析和工具**
+**第2節：報表、見解和工具**
 
 * [[!DNL Analytics] Tools 指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
 * [开始使用 [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
 * [[!DNL Campaign] 报告](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [创建 [!DNL Analytics] 用于Adobe的用户档案 [!DNL Advertising] 激活和报告](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en){target="_blank"}
-* [报告 [!DNL Advertising] Adobe中的数据 [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html?lang=en){target="_blank"}
+* [建立 [!DNL Analytics] Adobe的設定檔 [!DNL Advertising] 啟用與報告](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en){target="_blank"}
+* [報告 [!DNL Advertising] Adobe中的資料 [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html?lang=en){target="_blank"}
 * [报表时间处理](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=zh-Hans){target="_blank"}
-* [Adobe [!DNL Analytics] 功能板记分卡生成器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=en){target="_blank"}
+* [Adobe [!DNL Analytics] 儀表板計分卡產生器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=en){target="_blank"}
 
-**第三节：营销活动管理**
+**第3節：行銷活動管理**
 
-* [入门 [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
-* [看看是什么让它起作用](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
-* [智能化搜索营销](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
-* [在单个屏幕上查看整个客户历程](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
-* [了解批处理和触发智能营销活动](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html?lang=en){target="_blank"}
+* [開始使用 [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [檢視其運作原理](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
+* [讓您的搜尋行銷更聰明](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
+* [在單一畫面上檢視整個客戶歷程](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
+* [瞭解批次和觸發智慧行銷活動](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html?lang=en){target="_blank"}
 
-**第四节：测量**
+**第4節：測量**
 
-* [创建 [!DNL Analytics] 具有Adobe的自定义量度 [!DNL Advertising] 数据](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en){target="_blank"}
-* [网格、参考线和测量PDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
-* [归因和测量](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
-* [Marketo Measure帮助文档](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html?lang=en){target="_blank"}
+* [建立 [!DNL Analytics] 具有Adobe的自訂量度 [!DNL Advertising] 資料](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en){target="_blank"}
+* [格點、參考線和測量(以PDF表示)](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
+* [Attribution &amp; Measurement](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
+* [Marketo Measure說明檔案](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html?lang=en){target="_blank"}
 * [转化变量 (eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html?lang=en){target="_blank"}
 
->[!TAB 获得认证]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**现在，您已成功登录，可直接访问以下链接。**
+**現在您已成功登入，可直接存取下列連結。**
 
-**参加认证考试**
+**參加認證考試**
 
-Adobe使用两家供应商来管理受监控的考试，即PSI和 [!DNL Examity].
+Adobe使用兩家廠商來管理經認證的考試：PSI和 [!DNL Examity].
 
-* **PSI** 提供测试中心和日语考试选项（如果有）
-* **[!DNL Examity]** 提供远程联机选项
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要计划、重新安排或取消您的考试，只需单击所选供应商，然后按照屏幕上提供的说明操作即可。 很简单！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-### 考试号：AD0-E501
+### 考試編號：AD0-E501
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E501 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E501 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E501 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E501 newtab=true"}
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在计划考试时应用凭单代码。 如果您有折扣，则在结帐时适用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **问题**
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

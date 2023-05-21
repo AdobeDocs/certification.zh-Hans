@@ -1,157 +1,158 @@
 ---
-title: 业务从业者专业认证
-description: 了解如何获得认证为Adobe [!DNL Advertising DSP] 业务从业人员。
+title: 商務從業人員專業認證
+description: 瞭解如何獲得Adobe認證 [!DNL Advertising DSP] 專業商務從業人員。
 solution: Advertising
 product: Advertising Cloud
 role: User
-badge: label="Exam AD0-E502" type="besitive"
+badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '776'
 ht-degree: 0%
 
 ---
 
-# 认证历程Adobe [!DNL Advertising DSP] 业务从业人员
+# Adobe的認證歷程 [!DNL Advertising DSP] 商務從業者專業人士
 
-了解如何成为认证人员 [!DNL Advertising DSP] 业务从业者。
+瞭解如何成為認證 [!DNL Advertising DSP] 專業商務從業人員。
 
-## 最低体验
+## 最低體驗
 
-您应该：
+您應該具備：
 
-* 6个多月的体验 [!DNL Adobe Advertising]
-* 在媒体购买软件中规划和或衡量关键绩效指标方面的经验
+* 6個月以上使用經驗 [!DNL Adobe Advertising]
+* 在媒體購買軟體時規劃與測量關鍵績效指標的經驗
 
-熟悉以下工具和技术：
+熟悉下列工具和技術：
 
-* 广告测试/调试软件（VAST INSPECTOR、Chrome开发人员工具）
+* 廣告測試/偵錯軟體（VAST INSPECTOR、Chrome開發人員工具）
 * Analytics工具(Adobe Analytics、Google Analytics)
-* 第三方标记软件(Sizmek，Google标签管理器)
-* 第三方媒体质量工具(IAS、MOAT)
-* 主要浏览器
-* 广告交换、SSP和DMP
+* 協力廠商標籤軟體(Sizmek、Google標籤管理員)
+* 協力廠商媒體品質工具(IAS、MOAT)
+* 主要瀏覽器
+* 廣告交換、SSP和DMP
 
 >[!NOTE]
 >
->您的证书有效期为2年，从您通过之日算起。 我们建议尽可能使用较新版本，因为它涵盖较新的产品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 准备就绪]
+>[!TAB 準備就緒]
 
-**目标受众：**
+**目標對象：**
 
-* 程序化交易员
-* 付费媒体专家
-* 媒体总监
-* 营销活动主管
-* 媒体购买者
+* 程式化交易器
+* 付費媒體專家
+* 媒體導演
+* 行銷活動主管
+* 媒體購買者
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 级别：专业（0-12个月经验）
-* 通过分数：44/69
-* 时间：138分钟
-* 投放：在线监控（需要摄像头访问）或测试中心监控
-* 可用语言：英语
-* 成本：125美元（全球）/ 95美元（印度）
-* 考试ID:AD0-E502
+* 等級：專業（0至12個月經驗）
+* 及格分數：44/69
+* 時間：138分鐘
+* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E502
 
-**考试目标和范围**
+**考試目標與範圍**
 
-第1节：设置营销活动(42%)
+區段1：設定行銷活動(42%)
 
-* 根据营销活动的需要，确定该营销活动的策略
-* 在某种情况下，创建新营销活动
-* 如果出现这种情况，请创建资源包
-* 将过程性概念用于创建定位并将其应用于版面
-* 应用将广告附加到投放的过程概念
-* 在某种情况下，复制和编辑营销活动
-* 应用设置营销活动专用和按需库存所需的程序概念
+* 根據行銷活動的需求，決定該行銷活動的策略
+* 指定情境，建立新的行銷活動
+* 指定情境，建立套件
+* 套用建立定位並套用至版位的程式概念
+* 套用將廣告附加至版位的程式概念
+* 指定情境，複製並編輯行銷活動
+* 套用設定行銷活動的「私人」與「隨選」存貨所需的程式概念
 
-第二节：运行和优化型营销活动(22%)
+第2節：執行及最佳化行銷活動(22%)
 
-* 应用过程性概念以确保营销活动正常运行
-* 应用程序概念以优化活动
-* 应用程序概念对营销活动进行故障诊断
-* 在某种情况下，管理与平台内解决方案的集成
+* 套用程式概念以確保行銷活動正確執行
+* 套用程式概念以最佳化行銷活動
+* 套用程式概念以疑難排解行銷活動
+* 在特定情況下，管理與平台內解決方案的整合
 
-第三节：报告和分析(26%)
+第3節：報告與分析(26%)
 
-* 在某种情况下，读取平台内的数据
-* 在某种情况下，创建并读取自定义报表
-* 对营销活动实施更改
-* 在假设情景下，评估营销活动的效果
-* 应用程序概念将效果归因于营销活动
+* 在特定的情況下，讀取平台內的資料
+* 在特定的情況下，建立和讀取自訂報告
+* 對行銷活動實施變更
+* 在情景中，評估行銷活動的績效
+* 套用將績效歸因至行銷活動的程式概念
 
-第四节：为促销活动提供推荐(10%)
+第4節：提供行銷活動的建議(10%)
 
-* 在某种情况下，根据营销活动向客户提供更新
-* 在假设情景下，根据促销活动效果调整促销活动策略
+* 在特定情況下，根據行銷活動提供客戶更新
+* 指定情境，根據行銷活動績效調整行銷活動策略
 
->[!TAB 预先准备]
+>[!TAB 準備就緒]
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**第1节：设置营销活动**
+**第1節：設定行銷活動**
 
 
-* [关于中的受众管理 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html?lang=en){target="_blank"}
-* [中的库存功能概述 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html?lang=en){target="_blank"}
+* [關於中的對象管理 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html?lang=en){target="_blank"}
+* [中的詳細目錄功能概觀 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html?lang=en){target="_blank"}
 * [[!DNL Campaign] 设置](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html?lang=en){target="_blank"}
-* [版面设置](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html?lang=en){target="_blank"}
+* [位置設定](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html?lang=en){target="_blank"}
 
-**第二节：运行和优化营销活动**
+**第2節：執行及最佳化行銷活動**
 
-* [如何 [!DNL Advertising DSP] 优化营销活动](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
-* [关于自定义目标](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html?lang=en){target="_blank"}
-* [设置效果促销活动的最佳实践](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html?lang=en){target="_blank"}
-* [关于On Demand Premium Inventory](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html?lang=en){target="_blank"}
-* [报告方式 [!DNL Advertising] 营销渠道](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html?lang=en){target="_blank"}
+* [如何 [!DNL Advertising DSP] 最佳化您的行銷活動](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
+* [關於自訂目標](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html?lang=en){target="_blank"}
+* [設定效能行銷活動的最佳實務](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html?lang=en){target="_blank"}
+* [關於隨選進階存貨](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html?lang=en){target="_blank"}
+* [報告工具 [!DNL Advertising] 行銷管道](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html?lang=en){target="_blank"}
 
-**第三节：报告和分析**
+**第3節：報告與分析**
 
 * [Web 控制台](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
 
-**第四节：为营销活动提供推荐**
+**第4節：提供行銷活動的建議**
 
-* [如何 [!DNL Advertising] DSP优化您的营销活动](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
-* [关于中的广告管理 [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html?lang=en){target="_blank"}
+* [如何 [!DNL Advertising] DSP會最佳化您的行銷活動](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
+* [關於中的廣告管理 [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html?lang=en){target="_blank"}
 
->[!TAB 获得认证]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**现在，您已成功登录，可直接访问以下链接。**
+**現在您已成功登入，可直接存取下列連結。**
 
-**参加认证考试**
+**參加認證考試**
 
-Adobe使用两家供应商来管理受监控的考试，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供测试中心和日语考试选项（如果有）
-* **[!DNL Examity]** 提供远程联机选项
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要计划、重新安排或取消您的考试，只需单击所选供应商，然后按照屏幕上提供的说明操作即可。 很简单！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-### 考试号：AD0-E502
+### 考試編號：AD0-E502
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E502 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E502 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502 newtab=true"}
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在计划考试时应用凭单代码。 如果您有折扣，则在结帐时适用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **问题**
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

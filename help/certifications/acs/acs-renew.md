@@ -1,6 +1,6 @@
 ---
-title: 认证续订
-description: 了解如何续订Adobe [!DNL Campaign Standard] 认证。
+title: 認證續約
+description: 瞭解如何更新Adobe [!DNL Campaign Standard] 憑證過期前的認證。
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User,Developer
@@ -14,186 +14,186 @@ ht-degree: 11%
 
 ---
 
-# 续订Adobe [!DNL Campaign Standard] 认证
+# 續約您的Adobe [!DNL Campaign Standard] 認證
 
-您的Adobe认证有效期为两年。 如果您已接近这两年的期限，则需要续订您的证书以使其保持活动状态。
+您的Adobe認證有效期為兩年。 如果您快要達到兩年期限，就應該更新您的認證，以保持其作用中。
 
-首先，在下面的选项卡中选择相应的级别(专业、专家或主控)。 然后仔细查看续订证书所需执行的操作。
+首先，在下列標籤上選取適當的層級（「專業」、「專家」或「主要」）。 接著，請仔細檢閱更新認證所需執行的動作。
 
-请确保在认证过期之前，您有充足的时间完成所有要求。
+在認證過期之前，請務必提供足夠的時間完成所有需求。
 
-请务必注意，如果您的认证过期，您将必须重新参加认证考试，该考试不是免费的。
+請務必注意，如果認證過期，您必須重新參加認證考試，這並非免費。
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
->[!TAB 专业]
+>[!TAB 專業]
 
 >[!NOTE]
 >
->专业更新即将推出。
+>即將推出專業更新。
 
 >[!TAB 专家]
 
-+++Adobe [!DNL Campaign Standard] 业务从业者专家续订
++++Adobe [!DNL Campaign Standard] 商務從業人員專家續約
 
-您当前应在以下位置获得认证（未过期）：
+您目前的認證（未過期）應該位於：
 
-* Adobe [!DNL Campaign Standard] 业务从业者专家
+* Adobe [!DNL Campaign Standard] 商務從業者專家
 
-## 续订证书的说明：
+## 更新認證的說明：
 
-* **步骤1**:已成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-* **步骤2**:审查考试目标和资源
-* **步骤3**:考试通过
+* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標和資源
+* **步驟3**：參加並通過測驗
 
-### 准备就绪
+### 準備就緒
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 通过分数：23/30
-* 时间：110分钟
-* 成本：自由/非监督
-* 投放：按需
-* 可用语言：英语
-* 先决条件：当前（未过期）Adobe [!DNL Campaign Standard] 业务从业者专家认证
-* 考试ID:AD5-E822
+* 及格分數：23/30
+* 時間：110分鐘
+* 費用：免費/非保管
+* 傳遞：隨選
+* 可用語言：英文
+* 先決條件：目前（未過期）Adobe [!DNL Campaign Standard] 商務從業人員專家認證
+* 考試ID：AD5-E822
 
-**范围和目标**
+**範圍和目標**
 
-第1节：营销活动管理
+第1節：行銷活動管理
 
-* 根据给定用例组织层级
-* 给定示例业务要求，确定OOTB功能可以满足哪些要求
-* 在某种情况下，应用最佳实践来设计多渠道或跨渠道营销活动
-* 在 [!DNL Campaign Standard]
+* 根據特定使用案例組織階層
+* 根據範例業務需求，決定OOTB功能可滿足哪些需求
+* 在情境下，運用最佳實務來設計多或跨頻道行銷活動
+* 在中識別管道（推播通知、電子郵件、簡訊、直接郵件、應用程式內） [!DNL Campaign Standard]
 
-第二节：投放管理
+第2節：傳遞管理
 
-* 给定示例要求，设计和配置投放
-* 在投放设计中应用最佳实践
+* 根據範例需求，設計和設定傳送
+* 在傳遞設計中套用最佳實務
 
-第三节：工作流设计和执行
+第3節：工作流程設計和執行
 
-* 处理数据以在营销活动中使用、配置定位、扩充
-* 确定目标：数据收集，分段，受众，列表，过滤
-* 根据使用案例，确定主营销相关表的使用情况
+* 操控資料以用於行銷活動、設定目標定位、擴充
+* 識別目標：資料收集、細分、對象、清單、篩選
+* 根據使用案例，識別主要行銷相關表格的使用
 
-第四节：管理、监测和报告
+第4節：管理、監督及報告
 
-* 解释投放错误日志，识别并解决工作流错误
-* 确定和衡量投放和营销活动是否成功
-* 识别访问权限和命名权限
+* 解釋傳遞錯誤記錄檔並識別及解決工作流程錯誤
+* 判斷和衡量傳遞和行銷活動的成功
+* 識別存取許可權和已命名的許可權
 
-## 预先准备
+## 準備就緒
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**第1节：营销活动管理**
+**第1節：行銷活動管理**
 
-* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} （使用营销活动、构建电子邮件内容、通信渠道、投放、配置渠道）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} （使用行銷活動、建立電子郵件內容、通訊頻道、傳送、設定頻道）
 
-**第二节：投放管理**
+**第2節：傳遞管理**
 
-* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} （构建电子邮件内容、准备和测试消息、通信渠道 — 电子邮件、应用程序设置）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} （建立電子郵件內容、準備和測試訊息、通訊通道 — 電子郵件、應用程式設定）
 
-**第三节：工作流设计和执行**
+**第3節：工作流程設計和執行**
 
-* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} （管理流程和数据、管理受众、计划消息、添加或扩展资源）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} （管理流程和資料、管理對象、排程訊息、新增或擴充資源）
 
-**第四节：管理、监控和报告**
+**第4節：管理、監控及報告**
 
-* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} （执行工作流、测试和发送、自定义报表、用户档案和受众、用户和安全性）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} （執行工作流程、測試和傳送、自訂報表、設定檔和對象、使用者和安全性）
 
-## 续订您的证书
+## 更新您的認證
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的考试，请单击 [!DNL Campaign Standard] 业务从业人员续订 — 下面的AD5-822链接。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要更新考試，請按一下 [!DNL Campaign Standard] 商務從業者續約 — 下方的AD5-822連結。
 
-* [[!DNL Campaign Standard] 业务从业人员续订 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
+* [[!DNL Campaign Standard] 商務從業人員續約 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
->这门考试是免费的、开放的，没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+>此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 
-+++Adobe [!DNL Campaign Standard] 开发人员专家续订
++++Adobe [!DNL Campaign Standard] 開發人員專家續約
 
-您当前应在以下位置获得认证（未过期）：
+您目前的認證（未過期）應該位於：
 
-* Adobe [!DNL Campaign Standard] 开发人员专家
+* Adobe [!DNL Campaign Standard] 開發人員專家
 
-## 续订证书的说明：
+## 更新認證的說明：
 
-* **步骤1**:已成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-* **步骤2**:审查考试目标和资源
-* **步骤3**:考试通过
+* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標和資源
+* **步驟3**：參加並通過測驗
 
-### 准备就绪
+### 準備就緒
 
-**考试详细信息：**
+**考試詳細資料：**
 
-* 通过分数：23/30
-* 时间：60分钟
-* 成本：自由/非监督
-* 投放：按需
-* 可用语言：英语
-* 先决条件：当前（未过期）Adobe [!DNL Campaign Standard] 开发人员专家认证
-* 考试ID:AD5-E821
+* 及格分數：23/30
+* 時間：60分鐘
+* 費用：免費/非保管
+* 傳遞：隨選
+* 可用語言：英文
+* 先決條件：目前（未過期）Adobe [!DNL Campaign Standard] 開發人員專家認證
+* 考試ID：AD5-E821
 
-**范围和目标**
+**範圍和目標**
 
-第1节：数据建模和管理(30%)
+第1節：資料模型化與管理(30%)
 
-* 应用该流程以跨不同用例利用API接口
-* 应用流程以创建自定义资源
-* 确定正确的策略以分配数据模型最佳实践
-* 建议使用导入或导出工作流的方法
+* 套用程式，以在不同使用案例中使用API介面
+* 套用程式以建立自訂資源
+* 決定指派資料模型最佳實務的正確策略
+* 建議使用匯入或匯出工作流程的方法
 
-第二节：Campaign Management(40%)
+區段2：Campaign Management (40%)
 
-* 在某种情况下，识别事件触发器
-* 解释协调流程
-* 为投放配置自定义报表
-* 确定配置通信信道的正确方法（实时和非实时）
-* 描述配置和个性化登陆页面的过程
-* 在某种情况下，对工作流错误和集成进行故障诊断
-* 确定Campaign新增功能的用例
+* 指定情境，識別事件觸發程式
+* 說明調解程式
+* 設定傳遞的自訂報告
+* 決定設定通訊通道的正確方法（即時和非即時）
+* 說明設定及個人化登入頁面的程式
+* 特定情況下，疑難排解工作流程錯誤和整合
+* 識別新Campaign功能的使用案例
 
-第三节：管理(30%)
+第3節：管理(30%)
 
-* 配置隐私管理
-* 识别要将子域委派到Adobe的活动列表（包括品牌配置）
-* 描述控制面板的功能
-* 分析Campaign访问外部SFTP的配置
-* 介绍Adobe Campaign与更广泛的Adobe Experience Cloud集成的好处
-* 应用流程以导入和导出配置包
-* 建议管理用户访问权限和权限或组织结构的流程
+* 設定隱私權管理
+* 識別將子網域委派給Adobe的活動清單（包括品牌設定）
+* 說明「控制面板」的功能
+* 分析Campaign的設定以存取外部SFTP
+* 說明Adobe Campaign與更廣泛的Adobe Experience Cloud整合的好處
+* 套用程式以匯入和匯出組態套件
+* 建議管理使用者存取和許可權或組織結構的程式
 
-## 预先准备
+## 準備就緒
 
-考试前不要求您完成培训，而仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职体验相结合，对于为您提供通过考试所需的存储库至关重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建议的资源，可帮助您做好准备：
+以下是一些協助您準備的建議資源：
 
-**第1节：数据建模和管理**
+**第1節：資料模型化與管理**
 
 * [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=enn){target="_blank"}
 * [创建或扩展资源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
-* [为自定义资源配置屏幕定义](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
-* [配置屏幕定义](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [链接自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
+* [設定自訂資源的熒幕定義](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
+* [設定熒幕定義](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
+* [連結自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
 * [配置资源的数据结构](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
-* [审批流程](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
+* [核准流程](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
 * [更新数据库结构](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
 * [技术工作流](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=zh-Hans){target="_blank"}
 
-**第二节：Campaign Management**
+**區段2：Campaign Management**
 
 * [项目和营销活动](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=enn){target="_blank"}
 * [工作流最佳实践](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
@@ -210,7 +210,7 @@ ht-degree: 11%
 * [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en#video){target="_blank"}
 * [动态报告入门](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html?lang=en){target="_blank"}
 
-**第三节：管理**
+**第3節：管理**
 
 * [管理组和用户](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=zh-Hans){target="_blank"}
 * [组织实体](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en){target="_blank"}
@@ -224,15 +224,15 @@ ht-degree: 11%
 * [通信渠道入门](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en){target="_blank"}
 
 
-## 续订您的证书
+## 更新您的認證
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 第一个。 然后，要续订您的证书，请单击 [!DNL Campaign Standard] 开发人员续订 — 下面的AD5-821链接。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要更新您的認證，請按一下 [!DNL Campaign Standard] 開發人員續約 — 下方的AD5-821連結。
 
-* [[!DNL Campaign Standard] 开发人员续订 — AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
+* [[!DNL Campaign Standard] 開發人員續約 — AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
->这门考试是免费的、开放的、没有监督的。 你最多可以考三次。 如果第三次尝试后失败，您必须等待 **30天** 再试一次。 如果不遵守，可能会导致您的证书被吊销。
+>此測驗是免費的、公開的書，且非監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 
@@ -240,6 +240,6 @@ ht-degree: 11%
 
 ## 问题
 
-对Adobe认证有疑问吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+對Adobe認證有任何問題嗎？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
 
-查看证书 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
