@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
+source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -111,6 +111,7 @@ ht-degree: 0%
 * [什麼是數位簽名？](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [Adobe Sign的整體經濟影響](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
 * [使用專為開發人員設計的PDF API重新構想檔案體驗](https://developer.adobe.com/document-services){target="_blank"}
+* [限制檔案可見性](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
 **第4節：建議的解決方案**
 
