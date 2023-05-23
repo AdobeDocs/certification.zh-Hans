@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bad41c3fcc4529bde82b3a3742761cd24af8d3ab
+source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 0%
 您應該具備：
 
 * 在Adobe Document Cloud中至少擁有0至12個月的經驗
+* 能夠識別並傳達業務需求
+* 能夠針對Adobe Document Cloud解決方案執行產品啟用建議。
 
 >[!NOTE]
 >
@@ -135,6 +137,10 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 * **[!DNL Examity]** 提供遠端線上選項
 
 若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+
+您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+
+如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
 
 您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
 
