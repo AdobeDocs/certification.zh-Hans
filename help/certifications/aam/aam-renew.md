@@ -1,6 +1,6 @@
 ---
-title: 認證續約
-description: 瞭解如何更新 [!DNL Audience Manager] 憑證過期前的認證。
+title: 认证续订
+description: 了解如何续订您的 [!DNL Audience Manager] 认证过期之前。
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -14,194 +14,194 @@ ht-degree: 2%
 
 ---
 
-# 續約您的Adobe [!DNL Audience Manager] 認證
+# 续订Adobe [!DNL Audience Manager] 认证
 
-您的Adobe認證有效期為兩年。 如果您快要達到兩年期限，就應該更新您的認證，以保持其作用中。
+您的Adobe认证有效期为两年。 如果您即将迎来两年的学期，是时候续订您的认证以保持其活跃状态。
 
-首先，在下列標籤上選取適當的層級（「專業」、「專家」或「主要」）。 接著，請仔細檢閱更新認證所需執行的動作。
+首先，在下面的选项卡中选择适当的级别(“专业”、“专家”或“主控”)。 然后，仔细查看续订认证所需的操作。
 
-在認證過期之前，請務必提供足夠的時間完成所有需求。
+在认证过期之前，请确保您有充足的时间完成所有要求。
 
-請務必注意，如果認證過期，您必須重新參加認證考試，這並非免費。
+请务必注意，如果认证过期，您将必须重新参加认证考试，这并非免费。
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
->[!TAB 專業]
+>[!TAB 专业]
 
 >[!NOTE]
 >
->即將推出專業更新。
+>专业更新即将推出。
 
 >[!TAB 专家]
 
-您目前的認證（未過期）應該位於：
+您当前应在以下位置获得认证（未过期）：
 
-* Adobe Audience Manager商業從業者專家
+* Adobe Audience Manager商业从业者专家
 
-## 更新認證的說明：
+## 续订认证的说明：
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2**：檢閱考試目標和資源
-* **步驟3**：參加並通過測驗
+* **步骤1**：成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤2**：查看考试目标和资源
+* **步骤3**：参加并通过考试
 
-### 準備就緒
+### 准备就绪
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：專家（1-3年經驗）
-* 及格分數：23/30
-* 時間：68分鐘
-* 傳遞：隨選/非監督
-* 可用語言：英文
-* 費用：免費
-* 考試ID：AD5-E826 - Adobe Audience Manager商務從業者專家續約
+* 级别：专家（1-3年经验）
+* 及格分数：23/30
+* 时间：68分钟
+* 交付：按需/非托管
+* 可用语言：英语
+* 费用：免费
+* 考试ID：AD5-E826 - Adobe Audience Manager商业从业者专家续订
 
-**考試目標與範圍**
+**考试目标和范围**
 
-**區段1：區段建立與整合(25%)**
+**第1部分：区段创建和联合(25%)**
 
-* 確定適當的方法，利用1p/2p/3p資料建立區段以用於目標定位和分析目的
-* 在案例中，建議符合業務或行銷活動目標的啟用區段
-* 決定合適的方法，將區段聯合發佈至目的地以利啟動
+* 确定利用1p/2p/3p数据创建区段的适当方法，以用于定位和分析目的
+* 在场景中，建议与业务或营销活动目标一致的激活区段
+* 确定将区段联合到目标以供激活的适当方法
 
-**第2節：特徵建立(17%)**
+**第2部分：特征创建(17%)**
 
-* 為指定的受眾策略建議特徵
-* 決定建立和更新規則型和/或已上線特徵的正確方法
+* 为给定的受众策略推荐特征
+* 确定创建和更新基于规则的特征和/或已载入特征的正确方法
 
-**第3節：報告和測量(21%)**
+**第3款：报告和计量(21%)**
 
-* 在案例中，分析報表以提供可操作的後續步驟，達成業務目標
-* 在情景中，分析受眾最佳化
+* 在场景中，分析报表以提供满足业务目标的可操作的后续步骤
+* 给定场景，分析受众优化
 
-**第4節：疑難排解與管理(26%)**
+**第4节：故障排除和管理(26%)**
 
-* 在特定的情況下，請確認對象傳送資訊，以確保排程的傳送需求
-* 決定驗證離線傳入檔案的適當實務
-* 在特定的情況下，請確定對ID同步執行QA的正確方法
-* 決定從AdobeAudience Marketplace導覽和啟動的適當方法
+* 在场景中，验证受众交付信息以确保计划的交付需求
+* 确定验证脱机入站文件的适当实践
+* 在给定场景下，确定对ID同步执行QA的正确方法
+* 确定从AdobeAudience Marketplace导航和激活的适当方法
 
-**區段5：分類法(11%)**
+**第5节：分类(11%)**
 
-* 決定適當的結構，以建立使用清晰且一致命名法的特性和區段
-* 決定使用清晰的資料夾結構來維持有組織的平台的正確技術
-* 區分不同型別的目的地
+* 确定适当的结构，以创建使用清晰、一致的命名法的特性和区段
+* 确定使用清晰的文件夹结构维护有条理的平台的正确技术
+* 区分不同类型的目标
 
-### 準備就緒
+### 准备好
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-[!BADGE 範例問題]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
+[!BADGE 示例问题]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
 **资源:**
 
-* [Adobe [!DNL Audience Manager] 產品檔案](https://docs.adobe.com/content/help/zh-Hans/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Adobe支援 — Experience Cloud對象](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
-* [Adobe Experience Cloud學習與支援](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
+* [Adobe [!DNL Audience Manager] 产品文档](https://docs.adobe.com/content/help/zh-Hans/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Adobe支持 — Experience Cloud受众](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Adobe Experience Cloud学习和支持](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
-**重新啟動您的認證**
+**重新启动您的认证**
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Adobe Audience Manager商務從業者專家 — AD5-E826連結。
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Adobe Audience Manager Business Practioner Expert - AD5-E826链接。
 
-[!BADGE 參加Adobe Audience Manager商務從業人員專家更新考試AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE 参加Adobe Audience Manager商业从业者专家续订考试AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
 >[!NOTE]
 >
->此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
 
 
 >[!TAB 主控]
 
-您目前的認證（未過期）應該位於：
+您当前应在以下位置获得认证（未过期）：
 
-* Adobe Audience Manager Architect主機
+* Adobe Audience Manager架构师主控
 
-## 更新認證的說明
+## 续订认证的说明
 
-* **步驟1**  — 檢閱考試目標
-* **步驟2**  — 檢閱資源
-* **步驟3**  — 參加並通過測驗
+* **步骤1**  — 查看考试目标
+* **步骤2**  — 查看资源
+* **步骤3**  — 参加并通过考试
 
-### 準備就緒
+### 准备就绪
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：主要（3-5年經驗）
-* 及格分數：22/29
-* 時間：58分鐘
-* 傳遞：隨選/非監督
-* 可用語言：英文
-* 費用：免費
-* 考試ID：AD5-E825 - Adobe Audience Manager Architect主要續約
+* 级别：主控（3-5年经验）
+* 及格分数：22/29
+* 时间：58分钟
+* 交付：按需/非托管
+* 可用语言：英语
+* 费用：免费
+* 考试ID：AD5-E825 - Adobe Audience Manager Architect主控续订
 
-**範圍和目標：**
+**范围和目标：**
 
-第1節：實作分析(28%)
+第1节：实施情况分析(28%)
 
-* 決定如何以獨立產品或雲端解決方案的一部分來引導和支援AAM實作
-* 分析傳出目的地選項並推薦AAM實作方法
-* 決定業務使用案例的資料上線策略
-* 識別訪客資料檢視器、標籤、RBAC等功能，以配合業務目標
-* 決定如何設計和測試建立區段和特徵所需的畫素
+* 确定如何指导和支持将AAM作为独立产品或云解决方案的一部分实施
+* 分析出站目标选项并推荐AAM实施方法
+* 确定业务用例的数据载入策略
+* 识别访客资料查看器、标记、RBAC等功能以与业务目标保持一致
+* 确定如何设计和测试创建区段和特征所需的像素
 
-第2節：解決方案設計和Recommendations (17%)
+第2部分：解决方案设计和Recommendations (17%)
 
-* 根據客戶使用案例判斷AAM功能的Audience和Activation
-* 套用程式概念，以利用對象身分解決方案來補充設計架構
-* 識別屬性和行為資料，並將其對應至特定業務使用案例
-* 套用程式概念以設計資料夾分類法和命名慣例
+* 根据受众和激活的客户用例确定AAM功能
+* 应用过程概念以利用受众身份解决方案来补充设计架构
+* 识别属性和行为数据，并将其映射到特定的业务用例
+* 应用过程概念设计文件夹分类和命名约定
 
-第3節：細分和啟動(31%)
+第3部分：分段和激活(31%)
 
-* 套用程式概念以在中建立目的地 [!DNL Audience Manager]
-* 識別訊號以建立規則型、已上線和演演算法特徵
-* 套用程式概念以使用頻率/造訪間隔建立區段
-* 決定如何使用設定檔合併規則建立區段
-* 套用程式概念以建立演演算法或預測性模型
-* 根據使用案例決定細分邏輯
+* 应用过程概念在中创建目标 [!DNL Audience Manager]
+* 识别信号以创建基于规则的特征、载入的特征和算法特征
+* 应用过程性概念以使用频率/回访间隔创建区段
+* 确定如何使用配置文件合并规则创建区段
+* 应用过程概念来创建算法或预测模型
+* 根据用例确定分段逻辑
 
-第4節：隱私權與資料控管(7%)
+第4部分：隐私和数据管理(7%)
 
-* 推薦 [!DNL Audience Manager] 與治理、隱私和安全性相關的功能
-* 識別符合政府法規的客戶資料政策
+* 推荐 [!DNL Audience Manager] 与治理、隐私和安全相关的功能
+* 确定符合政府法规的客户数据策略
 
-第5節：效能與報告(17%)
+第5节：业绩和报告情况(17%)
 
-* 決定如何在AAM中設定報表，以根據業務需求收集訊號、特徵和區段效能
+* 确定如何在AAM中配置报表，以收集信号、特征并根据业务需求细分性能
 
-### 準備就緒
+### 准备好
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-* [AAM：技術基礎](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
-* [AAM：整合系列](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
-* [AAM：進階功能](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Launch培訓和資源](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [AAM：技术基础](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
+* [AAM：集成系列](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM：高级功能](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
+* [ Launch培训和资源](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### 更新您的認證
+### 续订您的认证
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Adobe Audience Manager Architect主要續約 — AD5-E825連結。
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Adobe Audience Manager Architect主控续订 — AD5-E825链接。
 
-[!BADGE 參加Adobe Audience Manager Architect主要更新考試AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE 参加Adobe Audience Manager Architect主控续订考试AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
 >[!NOTE]
 >
->此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
 
 
 >[!ENDTABS]
 
 ### 问题
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

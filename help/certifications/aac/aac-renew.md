@@ -1,6 +1,6 @@
 ---
-title: 認證續約
-description: 瞭解如何更新Adobe [!DNL Advertising] 憑證過期前的認證。
+title: 认证续订
+description: 了解如何续订Adobe [!DNL Advertising] 认证过期之前。
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
@@ -14,40 +14,40 @@ ht-degree: 2%
 
 ---
 
-# 續約 [!DNL Advertising] 認證
+# 续订 [!DNL Advertising] 认证
 
-認證考試合格後，您的認證有效期為兩年。
+认证考试合格的，认证有效期为两年。
 
-我們很高興宣佈，您現在可以透過新的免費格式更新您的認證。 其中涉及使用隨選Experience League課程和教學課程 — 只需完成三項活動，即可免費續約您的認證。 您必須在認證到期之前續約，否則需要參加完整測驗才能再次獲得認證。
+我们非常高兴地宣布，您现在可以通过一种免费的新形式来续订您的认证。 它涉及使用随选Experience League课程和教程 — 只需完成三项活动即可免费续签您的认证。 您必须在认证过期之前续订，否则需要参加完整考试才能再次获得认证。
 
 >[!IMPORTANT]
 >
->下列考試連結將 **僅限** 函式晚於 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下考试链接将 **仅限** 函数位于 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
->[!TAB 專業]
+>[!TAB 专业]
 
 >[!NOTE]
 >
->即將推出專業更新。
+>专业更新即将推出。
 
 >[!TAB 专家]
 
 >[!NOTE]
 >
->專家續約即將推出。
+>专家更新即将推出。
 
 >[!TAB 主控]
 
 >[!NOTE]
 >
->主要更新即將推出。
+>即将推出主控更新。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
-title: 商務從業人員專家認證
-description: 瞭解如何獲得Adobe認證 [!DNL Audience Manager] Business Manager專家。
+title: 商业从业者专家认证
+description: 了解如何获得Adobe认证 [!DNL Audience Manager] Business Manager专家。
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
@@ -14,118 +14,118 @@ ht-degree: 5%
 
 ---
 
-# Adobe的認證歷程 [!DNL Audience Manager] 商務從業者專家
+# Adobe的认证历程 [!DNL Audience Manager] 商业从业者专家
 
-瞭解如何成為認證 [!DNL Audience Manager] 商務從業者專家。
+了解如何成为认证 [!DNL Audience Manager] 商业从业者专家。
 
-## 最低體驗
+## 最低体验
 
-您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
-您應該具備：
+您应具有：
 
-* 1至2年的行銷技術經驗
-* 3至6個月的audience activation經驗
-* 布林值邏輯、數位行銷行銷術語、資料分析和策略的體驗
-* 瞭解業務目標和KPI、熟悉數位行銷技術棧疊和各種平台整合，並瞭解資料流程（ID型別、ID同步、畫素追蹤、以人物為基礎的目的地）
+* 1至2年市场推广技术经验
+* 在Audience Activation方面有3-6个月的经验
+* 使用布尔逻辑、数字营销行话、数据分析和策略的体验
+* 了解业务目标和KPI，熟悉数字营销技术栈栈和各种平台集成，并了解数据流（ID类型、ID同步、像素跟踪、基于人员的目标）
 
-您應熟悉下列技術和環境：
+您应该熟悉以下技术和环境：
 
-技術：
+技术：
 
-* DSP Platform （Trade Desk、按兩下「競標管理員」等）
+* DSP Platform（交易台、双击竞价管理器，等等）
 * Excel
-* Tableau和類似工具(PowerBI、Qlik)
-* 廣告伺服器（按兩下「促銷活動管理員」）
+* 表格和类似工具(PowerBI、Qlik)
+* 广告服务器（双击Campaign Manager）
 * Adobe/Google Analytics
 * Adobe Experience Platform
 * BAAAM工具
 
 环境:
 
-* 中小/企業級業務
-* 數位行銷
-* 資料與分析
+* 中小/企业级业务
+* 数字营销
+* 数据和分析
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* 數位行銷專家
-* 行銷技術顧問
-* 受眾策略專家
-* 行為顧問
-* 數位行銷分析師
-* 行銷資料分析師
-* 資料平台管理員
+* 数字营销专家
+* 营销技术顾问
+* 受众策略专家
+* 行为顾问
+* 数字营销分析师
+* 营销数据分析师
+* 数据平台管理器
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：專家（1-3年經驗）
-* 及格分數：36/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球）和150美元（印度）
-* 考試ID：AD0-E457
+* 级别：专家（1-3年经验）
+* 及格分数：36/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 可用语言：英语
+* 费用：225美元（全球）和150美元（印度）
+* 考试ID：AD0-E457
 
-**整備程度自我評估**
+**就绪性自我评估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
-**考試目標與範圍**
+**考试目标和范围**
 
-區段1：區段建立和整合(25%)
+第1部分：区段创建和联合(25%)
 
-* 確定適當的方法，利用第一方、第二方和第三方資料建立區段，以用於目標定位和分析目的
-* 在案例中，建議符合業務或行銷活動目標的啟用區段
-* 決定合適的方法，將區段聯合發佈至目的地以利啟動
-* 區分不同型別的目的地
+* 确定利用第一方、第二方和第三方数据创建区段的适当方法，以进行定位和分析
+* 在场景中，建议与业务或营销活动目标一致的激活区段
+* 确定将区段联合到目标以供激活的适当方法
+* 区分不同类型的目标
 
-區段2：特徵建立(17%)
+第2部分：特征创建(17%)
 
-* 為指定的受眾策略建議特徵
-* 決定建立和更新規則型和/或已上線特徵的正確方法
+* 为给定的受众策略推荐特征
+* 确定创建和更新基于规则的特征和/或已载入特征的正确方法
 
-第3節：報告和測量(22%)
+第3款：报告和计量(22%)
 
-* 在案例中，分析報表以提供可操作的後續步驟，達成業務目標
-* 在情景中，分析受眾最佳化
+* 在场景中，分析报表以提供满足业务目标的可操作的后续步骤
+* 给定场景，分析受众优化
 
-第4節：疑難排解與管理(26%)
+第4部分：故障排除和管理(26%)
 
-* 在特定的情況下，請確認對象傳送資訊，以確保排程的傳送需求
-* 決定驗證離線傳入檔案的適當實務
-* 在特定的情況下，請確定對ID同步執行QA的正確方法
-* 決定從AdobeAudience Marketplace導覽和啟動的適當方法
+* 在场景中，验证受众交付信息以确保计划的交付需求
+* 确定验证脱机入站文件的适当实践
+* 在给定场景下，确定对ID同步执行QA的正确方法
+* 确定从AdobeAudience Marketplace导航和激活的适当方法
 
-區段5：分類法(10%)
+第5节：分类(10%)
 
-* 決定適當的結構，以建立使用清晰且一致命名法的特性和區段
-* 決定使用清晰的資料夾結構來維持有組織的平台的正確技術
+* 确定适当的结构，以创建使用清晰、一致的命名法的特性和区段
+* 确定使用清晰的文件夹结构维护有条理的平台的正确技术
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**第1節：區段建立和整合**
+**第1部分：区段创建和联合**
 
-* [在區段層級報告Audience Marketplace中的第二方和第三方資料使用情況](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html?lang=en){target="_blank"}
-* [使用篩選器和建議來選擇Audience Marketplace中的協力廠商資料](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html?lang=en){target="_blank"}
+* [在区段级别报告Audience Marketplace中的第二方和第三方数据使用情况](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html?lang=en){target="_blank"}
+* [使用筛选器和推荐在Audience Marketplace中选择第三方数据](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html?lang=en){target="_blank"}
 * [了解分段](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html?lang=en){target="_blank"}
 * [区段：目的、构成和规则](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=en){target="_blank"}
-* [細分和篩選](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=en){target="_blank"}
+* [分段和筛选](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=en){target="_blank"}
 * [目标主页](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html?lang=en){target="_blank"}
 
-**第2節：特徵建立**
+**第2部分：特征创建**
 
 * [特征推荐](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
 * [特征和区段资格参考](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html?lang=en){target="_blank"}
@@ -133,72 +133,72 @@ ht-degree: 5%
 * [管理特征规则](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html?lang=en){target="_blank"}
 * [创建基于规则的特征或已载入的特征](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html?lang=en){target="_blank"}
 
-**第3節：報告和測量**
+**第3节：报告和衡量**
 
 * [区段趋势报表](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html?lang=en){target="_blank"}
-* [監控及報告活動使用情況](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html?lang=en){target="_blank"}
+* [监控和报告活动使用情况](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html?lang=en){target="_blank"}
 * [趋势报表](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html?lang=en)
 * [使用 Audience Optimization 报告了解媒体性能](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html?lang=en){target="_blank"}
 * [Audience Optimization for Publishers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html?lang=en){target="_blank"}
 
-**第4節：疑難排解與管理**
+**第4部分：疑难解答和管理**
 
-* [Experience Platform區段共用對象 [!DNL Audience Manager] 和其他Experience Cloud解決方案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
-* [擷取檔案型資料的步驟](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html?lang=en){target="_blank"}
+* [Experience Platform区段共享 [!DNL Audience Manager] 和其他Experience Cloud解决方案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
+* [摄取基于文件的数据的步骤](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html?lang=en){target="_blank"}
 * [ID 同步文件的名称和内容要求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html?lang=en){target="_blank"}
-* [在中建立及管理資料啟用 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html?lang=en){target="_blank"}
+* [在中创建和管理数据激活 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html?lang=en){target="_blank"}
 
-**第5節：分類**
+**第5节：分类**
 
 * [信号、特征和区段](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=en){target="_blank"}
 * [使用限制](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html?lang=en){target="_blank"}
-* [建立特徵分類法](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
+* [创建特征分类](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
 * [使用通用分类法对特征进行分类](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
 * [文件夹特征：关于](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加練習測試**
+**参加练习测试**
 
-建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
+我们建议您在开始之前参加免费的练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
 
-我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
+我们的实践测试都是基于与实时测试相同的Blueprint开发的。 实践测试将帮助您了解实时测试涵盖的主题。
 
-請記住，通過練習測驗並不保證您會通過認證測驗。
+请记住，通过练习测试并不保证您会通过认证测试。
 
-前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
+转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在来参加一个练习测试。
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E457
+### 考试编号：AD0-E457
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

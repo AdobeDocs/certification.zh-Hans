@@ -1,5 +1,5 @@
 ---
-title: Campaign Classic認證概述
+title: Campaign Classic认证概述
 description: Adobe Campaign Classic 认证选项概述
 solution: Campaign, Campaign Classic v7
 version: Classic v7
@@ -11,20 +11,20 @@ ht-degree: 30%
 
 ---
 
-# Campaign Classic認證概述
+# Campaign Classic认证概述
 
-**專業**
+**专业**
 
-* [商務從業人員](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [商业从业者](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [开发人员](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **专家**
 
-* [商務從業人員](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [商业从业者](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
 * [开发人员](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
 **主控**
 
 * [开发人员](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。
+访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否提供续订选项。

@@ -1,6 +1,6 @@
 ---
-title: 開發人員專業認證
-description: 瞭解如何成為Adobe的認證Adobe Developer專業人員 [!DNL Workfront Fusion].
+title: 开发人员专业认证
+description: 了解如何成为Adobe领域的认证Adobe Developer专业人员 [!DNL Workfront Fusion].
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E902" type="positive"
@@ -13,177 +13,177 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Workfront Fusion] 開發人員專業版
+# Adobe的认证历程 [!DNL Workfront Fusion] 开发人员专业版
 
-瞭解如何成為認證Adobe Developer專業人員。
+了解如何成为经过认证的Adobe Developer专业人员。
 
-## 最低體驗
+## 最低体验
 
-您應該具備：
+您应具有：
 
-* 與 [!DNL Workfront] API和API總管，但不一定精通API呼叫
-* 使用自訂API呼叫的功能 [!DNL Workfront] 和其他API
-* 將模組用於 [!DNL Workfront] 應用程式和其他動作，例如建立、讀取、更新、刪除和搜尋
-* 能夠建立可行的解決方案，在不影響業務成果的情況下創造成果 [!DNL Fusion] 護欄
-* 能夠選取適當的觸發模組以完成業務成果
-* 瞭解如何使用流量控制（路由、迭代器/彙總、流程說明）
-* 執行基本疑難排解和錯誤處理的能力
-* 能夠有效地測試並上線情境
-* 管理組織團隊和使用者的能力
-* 瞭解REST API Oauth2通用聯結器的用途和使用
+* 与配合使用的功能 [!DNL Workfront] API和API资源管理器，但不一定熟悉API调用
+* 使用自定义API调用的功能 [!DNL Workfront] 和其他API
+* 能够将模块用于 [!DNL Workfront] 应用程序和其他操作，例如创建、读取、更新、删除和搜索
+* 能够在不影响的情况下构建产生业务成果的可行解决方案 [!DNL Fusion] 护栏
+* 能够选择适当的触发模块以实现业务成果
+* 了解如何使用流量控制（路由、迭代器/聚合器、流量说明）
+* 执行基本故障排除和错误处理的能力
+* 有效测试和启用场景的能力
+* 管理组织团队和用户的能力
+* 了解REST API Oauth2通用连接器的用途和用法
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* 開發人員、自動化工程師
-* 自動化程式、流程最佳化和自動化管理員
-* 整合顧問、顧問、合作夥伴
-* 系統整合經銷商/合作夥伴
-* 業務分析員、套用業務分析員
-* 系統管理員（IT、MIS、技術、知識系統、AI管理員）
+* 开发人员、自动化工程师
+* 自动机、流程优化和自动化管理器
+* 集成顾问、顾问、合作伙伴
+* 系统集成商/合作伙伴
+* 业务分析师、应用业务分析师
+* 系统管理员（IT、MIS、技术、知识系统、AI管理员）
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：專業（0至12個月經驗）
-* 及格分數： 33/51
-* 時間：102分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E902
+* 级别：专业（0至12个月经验）
+* 及格分数：33/51
+* 时间：102分钟
+* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E902
 
-**考試目標與範圍**
+**考试目标和范围**
 
-第1節：基礎技術概念(39%)
+第1款：基本技术概念(39%)
 
-* 給定 [!DNL Fusion] 案例中一個欄位格式必須是另一個欄位格式，請提供可用於正確轉換資料的可能函式
-* 給定 [!DNL Fusion] 若案例要求函式巢狀內建於另一個函式中，請選取格式正確的運算式
-* 確定使用團隊控制存取連線和其他專案的方法 [!DNL Fusion] 功能
-* 給定 [!DNL Fusion] 案例，識別系統和功能限制
-* 給定 [!DNL Fusion] 需要時區操控的案例，區分使用者、可見組織以及需要覆寫時區的位置
-* 給定 [!DNL Fusion] 情境，選取適當的 [!DNL Workfront] 模組或動作
-* 給定 [!DNL Fusion] 案例中，選取對應面板運算式和/或模組，以便適當地將輸入資料轉換為輸出資料
-* 找出正確的方式來利用 [!DNL Fusion] 開發工具，用於疑難排解執行中的錯誤，或判斷對協力廠商系統的呼叫和回應
-* 給定 [!DNL Fusion] 若一個路徑中的資料需用於另一個路徑中，可提供設定取得解決方案，讓該資料可用於其他路由路徑
-* 確定使用或產生 [!DNL Fusion] 符合業務需求的範本
-* 給定 [!DNL Fusion] 案例，識別要如何檢視執行和/或解決錯誤
-* 識別中的不同選項 [!DNL Fusion] 用於處理案例需求的案例設定
-* 給定 [!DNL Fusion] 案例中，選取適當的流量控制和/或決定流量控制模組的正確組合
+* 给定 [!DNL Fusion] 场景中一个字段格式需要采用另一个字段格式，请提供可用于正确转换数据的可能函数
+* 给定 [!DNL Fusion] 要求将函数嵌套在另一个函数中的方案，请选择格式正确的表达式
+* 确定使用团队控制对连接和其他内容的访问的方法 [!DNL Fusion] 功能
+* 给定 [!DNL Fusion] 场景，确定系统和功能的限制
+* 给定 [!DNL Fusion] 需要时区操纵的场景，区分用户、可见组织和需要覆盖时区的位置
+* 给定 [!DNL Fusion] 方案，选择适当的 [!DNL Workfront] 模块或操作
+* 给定 [!DNL Fusion] 方案，选择将输入数据适当转换为输出数据的映射面板表达式和/或模块
+* 确定利用 [!DNL Fusion] 开发工具，用于排除执行错误或确定对第三方系统的调用和响应
+* 给定 [!DNL Fusion] 当一条路径中的数据需要另一条路径中的数据时，提供一整套解决方案，使数据在其他路由路径上可用
+* 确定使用或生产 [!DNL Fusion] 满足业务需求的模板
+* 给定 [!DNL Fusion] 场景，标识要查看执行和/或解决错误所需执行的操作
+* 确定 [!DNL Fusion] 用于满足方案需求的方案设置
+* 给定 [!DNL Fusion] 场景下，选择适当的流量控制和/或确定流量控制模块的正确组合
 
-第2節：情境設計與架構(35%)
+第2部分：方案设计和架构(35%)
 
-* 提供步驟清單，選擇正確的序列以剖析JSON並轉換為套裝
-* 指定一組需求，找出正確的資料查閱方法
-* 識別立即觸發程式和排程觸發程式之間的差異
-* 識別上傳檔案的正確模組 [!DNL Workfront]
-* 根據業務需求，找出正確的追蹤方法 [!DNL Fusion] 已處理記錄（非使用者）且時間
-* 給定 [!DNL Fusion] 案例，找出簡化設計和/或最佳化維護的機會
-* 識別 [!DNL Fusion] 記錄情境的最佳實務
-* 在某種情況下，找出減少情境中資料流動的機會
-* 以搜尋模組及下列彙總器上顯示的組合數目為例，說明組合檢測器所處理和顯示的作業數目變更
-* 識別可在組合檢查器中找到的資訊
-* 說明需要封存案例超過60天，並選取唯一可能的方式（匯入/匯出Blueprint）
-* 以錯誤403：已禁止為例，正確選取錯誤訊息的來源及原因
+* 给出一个步骤列表，选择正确的序列以解析JSON并转换为捆绑包
+* 给定一组要求，确定正确的数据查找方法
+* 识别即时触发器和计划触发器之间的区别
+* 确定用于将文档上传到的正确模块 [!DNL Workfront]
+* 根据业务需求，确定正确的跟踪方法 [!DNL Fusion] 已处理记录（不是用户）并且时间
+* 给定 [!DNL Fusion] 情景，确定简化设计和/或优化维护的机会
+* 识别 [!DNL Fusion] 记录场景的最佳实践
+* 在某种情况下，找出减少场景中数据流量的机会
+* 给定搜索模块和以下聚合器上显示的捆绑包数量的示例，说明捆绑包检查器处理和显示的操作数量的变化
+* 标识在包检查器中找到的信息
+* 说明了将场景存档超过60天的需要，并选择了唯一可行的方法（导入/导出Blueprint）
+* 以错误403：禁止为例，正确选择错误消息的来源和原因
 
-第3節：測試和錯誤處理(16%)
+第3节：检测和错误处理(16%)
 
-* 識別測試計畫的元素
-* 識別測試案例的元素
-* 給定 [!DNL Fusion] 情境下，正確識別處理不可靠服務的適當指令
-* 識別在中新增自訂錯誤處理的程式 [!DNL Fusion] 情境
-* 識別如何追蹤、讀取和解決未完成的執行
-* 給定 [!DNL Fusion] 缺少必要資料的情境，請選取處理無效資料的方法
+* 确定测试计划的要素
+* 识别测试用例的元素
+* 给定 [!DNL Fusion] 场景，正确识别用于处理不可靠服务的适当指令
+* 确定在中添加自定义错误处理的流程 [!DNL Fusion] 方案
+* 确定如何跟踪、读取和解决未完成的执行
+* 给定 [!DNL Fusion] 缺少所需数据的方案，请选择处理无效数据的方法
 
-第4節：使用API (10%)
+第4部分：使用API (10%)
 
-* 給定傳回429：太多請求的第三方API，請識別解決方案以防止或處理錯誤
-* 給定 [!DNL Fusion] 新功能無法用於 [!DNL Workfront] 模組，識別正確的參考和模組型別以使用新功能
-* 如果協力廠商系統沒有專用應用程式，請識別HTTP應用程式並選取適當的模組
-* 識別CRUD作業與REST API其他常見功能之間的差異
+* 假定第三方API返回429：请求过多，请确定解决方案以防止或处理错误
+* 给定 [!DNL Fusion] 新功能在中不可用的场景 [!DNL Workfront] 模块，识别正确的引用和模块类型以使用新功能
+* 对于没有专用应用程序的第三方系统，请识别HTTP应用程序并选择适当的模块
+* 确定CRUD操作与REST API其他常用功能之间的区别
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**範例問題**
+**示例问题**
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
 
-**第1節：基礎技術概念**
+**第1节：基本技术概念**
 
-* [Adobe中的對應 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
-* [Adobe中的函式 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
-* [Adobe中的組織 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FOrganizations%2F_organizations.htm&amp;_LANG=enus){target="_blank"}
-* [開始使用Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FGet_Started%2F_Get_started.htm&amp;_LANG=en){target="_blank"}
-* [應用程式及其模組](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobe中的案例 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-* [Adobe中的模組 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的映射 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的函数 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的组织 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FOrganizations%2F_organizations.htm&amp;_LANG=enus){target="_blank"}
+* [Adobe入门 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FGet_Started%2F_Get_started.htm&amp;_LANG=en){target="_blank"}
+* [应用程序及其模块](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的场景 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的模块 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
-**第2節：情境設計與架構**
+**第2部分：方案设计和架构**
 
-* [應用程式及其模組](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobe中的模組 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobe中的函式 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
-* [更新工作專案並檢視更新](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FUpdating_Work_Items_and_Viewing_Updates%2F_update-work-items-and-view-updates.htm&amp;_LANG=en){target="_blank"}
-* [系統追蹤的更新摘要](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
-* [Adobe中的案例 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
+* [应用程序及其模块](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的模块 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的函数 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
+* [更新工作项并查看更新](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FUpdating_Work_Items_and_Viewing_Updates%2F_update-work-items-and-view-updates.htm&amp;_LANG=en){target="_blank"}
+* [系统跟踪的更新馈送](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的场景 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
 
-**第3節：測試和錯誤處理**
+**第三节　：检测和错误处理**
 
-* [Adobe中的錯誤 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FErrors%2F_errors.htm&amp;_LANG=en){target="_blank"}
-* [Adobe中的案例 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-* [應用程式及其模組](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobe中的對應 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的错误 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FErrors%2F_errors.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的场景 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
+* [应用程序及其模块](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的映射 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
 
-**第4節：使用API**
+**第4部分：使用API**
 
-* [應用程式及其模組](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
-* [Adobe中的模組 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
+* [应用程序及其模块](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
+* [Adobe中的模块 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E902
+### 考试编号：AD0-E902
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E902 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E902 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

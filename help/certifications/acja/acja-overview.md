@@ -1,5 +1,5 @@
 ---
-title: Customer Journey Analytics認證概述
+title: Customer Journey Analytics认证概述
 description: Adobe Customer Journey Analytics 认证选项概述
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
@@ -11,10 +11,10 @@ ht-degree: 28%
 
 ---
 
-# Customer Journey Analytics認證概述
+# Customer Journey Analytics认证概述
 
 **专家**
 
 * [开发人员](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
-造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。
+访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否提供续订选项。

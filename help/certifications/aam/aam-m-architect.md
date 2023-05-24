@@ -1,6 +1,6 @@
 ---
-title: 架構師主要憑證
-description: 瞭解如何獲得Adobe認證 [!DNL Audience Manager] 架構師Master。
+title: 架构师主控认证
+description: 了解如何获得Adobe认证 [!DNL Audience Manager] 主控架构师。
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
@@ -14,157 +14,157 @@ ht-degree: 13%
 
 ---
 
-# Adobe的認證歷程 [!DNL Audience Manager] 架構師Master
+# Adobe的认证历程 [!DNL Audience Manager] 架构师主控
 
-瞭解如何成為認證 [!DNL Audience Manager] 架構師Master。
+了解如何成为认证 [!DNL Audience Manager] 主控架构师。
 
-## 最低體驗
+## 最低体验
 
-您應在Adobe和非Adobe行銷平台的資料收集方法、資料管理平台及數位行銷技術棧疊方面擁有至少3年的經驗。 您瞭解客戶獨特的技術和業務需求，並開發客製化解決方案。
+您应至少拥有3年跨Adobe和非Adobe营销平台的数据收集方法、数据管理平台和数字营销技术栈栈经验。 您了解客户独特的技术和业务要求，并开发定制的解决方案。
 
-此外，您應該能夠完成下列工作：
+此外，您应该能够完成以下任务：
 
-* 分析業務需求以瞭解現有資料和所需的其他資料
-* 設計並開發特定實作以滿足客戶需求
-* 實作Adobe [!DNL Audience Manager] 使用不同的方法
+* 分析业务需求以了解现有数据和所需的其他数据
+* 设计和开发特定实施以满足客户需求
+* 实施Adobe [!DNL Audience Manager] 使用不同的方法
 * 创建区段
-* 在不同Adobe和非Adobe雲端解決方案中啟用受眾區段
-* 在中產生和分析不同的報表 [!DNL Audience Manager]
-* 瞭解資料收集策略
+* 在不同的Adobe和非Adobe云解决方案中激活受众区段
+* 在中生成和分析不同的报告 [!DNL Audience Manager]
+* 了解数据收集策略
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* [!DNL Audience Manager] 顧問
-* 多解決方案架構師
-* Adobe實務負責人
+* [!DNL Audience Manager] 顾问
+* 多解决方案架构师
+* Adobe实践主管
 * Enterprise Architect
 * Martech Architect
-* 技術產品所有者
-* 數位行銷專家
+* 技术产品所有者
+* 数字营销专家
 * 技术架构师
-* 技術顧問
-* 行銷技術人員
+* 技术顾问
+* 营销技术人员
 
-**考試詳細資料**
+**考试详细信息**
 
-* 等級：主要（3-5年經驗）
-* 及格分數：29/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E454
+* 级别：主控（3-5年经验）
+* 及格分数：29/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E454
 
-**整備程度自我評估**
+**就绪性自我评估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
-**考試目標與範圍**
+**考试目标和范围**
 
-第1節：實作分析(26%)
+第1款：实施情况分析(26%)
 
-* 決定如何以獨立產品或雲端解決方案的一部分來引導和支援AAM實作
-* 分析傳出目的地選項並推薦AAM實作方法
-* 決定業務使用案例的資料上線策略
-* 識別訪客資料檢視器、標籤、RBAC等功能，以配合業務目標
-* 決定如何設計和測試建立區段和特徵所需的畫素
+* 确定如何指导和支持将AAM作为独立产品或云解决方案的一部分实施
+* 分析出站目标选项并推荐AAM实施方法
+* 确定业务用例的数据载入策略
+* 识别访客资料查看器、标记、RBAC等功能以与业务目标保持一致
+* 确定如何设计和测试创建区段和特征所需的像素
 
-第2節：解決方案設計與建議(18%)
+第2部分：解决方案设计和建议(18%)
 
-* 根據客戶使用案例判斷AAM功能的Audience和Activation
-* 套用程式概念以利用對象身分解決方案來補充設計架構
-* 識別屬性和行為資料，並將其對應至特定業務使用案例
-* 套用程式概念以設計資料夾分類法和命名慣例
+* 根据受众和激活的客户用例确定AAM功能
+* 应用过程概念利用受众身份解决方案来补充设计架构
+* 识别属性和行为数据，并将其映射到特定的业务用例
+* 应用过程概念设计文件夹分类和命名约定
 
-第3節：細分和啟動(30%)
+第3部分：分段和激活(30%)
 
-* 套用程式概念以在中建立目的地 [!DNL Audience Manager]
-* 識別訊號以建立規則型、已上線和演演算法特徵
-* 套用程式概念以使用頻率/造訪間隔建立區段
-* 決定如何使用設定檔合併規則建立區段
-* 套用程式概念以建立演演算法或預測性模型
-* 根據使用案例決定細分邏輯
+* 应用过程概念在中创建目标 [!DNL Audience Manager]
+* 识别信号以创建基于规则的特征、载入的特征和算法特征
+* 应用过程性概念以使用频率/回访间隔创建区段
+* 确定如何使用配置文件合并规则创建区段
+* 应用过程概念来创建算法或预测模型
+* 根据用例确定分段逻辑
 
-第4節：隱私權與資料控管(8%)
+第4部分：隐私和数据治理(8%)
 
-* 推薦 [!DNL Audience Manager] 與治理、隱私和安全性相關的功能
-* 識別符合政府法規的客戶資料政策
+* 推荐 [!DNL Audience Manager] 与治理、隐私和安全相关的功能
+* 确定符合政府法规的客户数据策略
 
-第5節：效能與報告(18%)
+第5款：业绩和报告(18%)
 
-* 決定如何在AAM中設定報表，以根據業務需求收集訊號、特徵和區段效能
+* 确定如何在AAM中配置报表，以收集信号、特征并根据业务需求细分性能
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**第1節：實作分析**
+**第1节：实施分析**
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
 * [Analytics 集成](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"}
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
 
-**第2節：解決方案設計和Recommendations**
+**第2部分：解决方案设计和Recommendations**
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
 * [[!DNL Audience Manager] 教程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
 
-**第3節：細分和啟用**
+**第3部分：分段和激活**
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
 * [[!DNL Audience Manager] 教程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
 
-**第4節：隱私權與資料控管**
+**第4部分：隐私和数据管理**
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 
-**第5節：效能與報表**
+**第5节：业绩和报告**
 
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，請選取廠商並依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，请选择供应商并按照屏幕上提供的说明操作。 就这么简单！
 
-### 考試編號：AD0-E454
+### 考试编号：AD0-E454
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

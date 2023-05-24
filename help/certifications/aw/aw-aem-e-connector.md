@@ -1,6 +1,6 @@
 ---
-title: 增強型聯結器專家認證
-description: 瞭解如何成為認證Adobe認證Adobe專家 [!DNL Workfront] 的 [!DNL Experience Manager]
+title: 增强型连接器专家认证
+description: 了解如何成为Adobe领域的认证Adobe认证专家 [!DNL Workfront] 对象 [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="positive"
@@ -13,162 +13,162 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Workfront] 的 [!DNL Experience Manager] 增強型聯結器專家
+# Adobe的认证历程 [!DNL Workfront] 对象 [!DNL Experience Manager] 增强型连接器专家
 
-瞭解如何成為認證Adobe認證專家。
+了解如何成为认证Adobe认证专家。
 
-## 最低體驗
+## 最低体验
 
-您應已取得下列一或多個認證：
+您应已获得以下一项或多项认证：
 
-* AEM Assets開發人員認證專家
-* AEM Sites開發人員認證專家
-* [!DNL Workfront] 核心開發人員認證專家
+* AEM Assets开发人员认证专家
+* AEM Sites开发人员认证专家
+* [!DNL Workfront] 核心开发人员认证专家
 
-而且，您應該具備：
+而且，您应该拥有：
 
-* 1年以上的CMS經驗
-* 1年以上的AEM使用經驗
-* 1年以上 [!DNL Workfront] 體驗
-* 2年以上的Java/J2EE開發人員經驗
-* 共同架構至少一個以AEM為基礎的解決方案
-* 與客戶直接合作，建立自訂解決方案的體驗
-* 瞭解分類法和AEM標籤、AEM工作流程、JCR、Sling、OSGi和資料庫
-* 瞭解工作管理最佳實務
+* 1年以上的CMS经验
+* 1年以上的AEM经验
+* 1年以上 [!DNL Workfront] 体验
+* 2年以上的Java/J2EE开发人员经验
+* 共同构造至少一个基于AEM的解决方案
+* 体验直接与客户合作以创建定制的解决方案
+* 了解分类和AEM标记、AEM工作流、JCR、Sling、OSGi和数据库
+* 了解工作管理最佳实践
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* 合作夥伴解決方案顧問
-* 實作專家
-* 整合專家
-* 開發人員或架構師
+* 合作伙伴解决方案顾问
+* 实施专家
+* 集成专家
+* 开发人员或架构师
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：專家（1-3年經驗）
-* 及格分數：34/55
-* 時間：110分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E906
+* 级别：专家（1-3年经验）
+* 及格分数：34/55
+* 时间：110分钟
+* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E906
 
-**考試目標與範圍**
+**考试目标和范围**
 
-第1節：技術需求(25%)
+第1节：技术要求(25%)
 
-* 使用 [!DNL Workfront] 自訂Forms
-* 在案例中，示範檔案管理
-* 示範在環境中推廣程式碼的知識
-* 指定情境，識別如何將值傳遞至 [!DNL Workfront] 自訂表單
-* 疑難排解伺服器端程式碼
+* 使用 [!DNL Workfront] 自定义Forms
+* 在场景中，演示文档管理
+* 演示跨环境推广代码方面的知识
+* 给定一个方案，标识如何将值传递到 [!DNL Workfront] 自定义表单
+* 服务器端代码疑难解答
 
-區段2：設定(26%)
+第2部分：配置(26%)
 
-* 說明使用者管理的最佳實務
-* 套用修改現有AEM資產工作流程所需的程式概念
-* 針對不同資產型別自訂中繼資料結構並做出必要決定
-* 套用部署OSGi套件組合、資產、中繼資料結構、標籤和許可權所需的程式AEM概念
+* 说明用户管理的最佳实践
+* 应用修改现有AEM资源工作流所需的过程概念
+* 做出为不同资源类型自定义元数据架构所需的决策
+* 应用部署OSGi包、资源、元数据架构、标记和权限所需的过程AEM概念
 
-第3節：業務實務(21%)
+第3节：业务做法(21%)
 
-* 解譯使用者端需求，以便建議適當的工作流程策略
-* 示範如何設定 [!DNL Workfront] 核准和校訂工作流程
-* 在場景中，請確定使用校樣檢視器、設定和標籤功能的最佳實務
-* 展示對於追蹤作為行銷活動管理一部分的交付專案的瞭解
-* 在案例中，請確定變更管理的主要考量因素 [!DNL Workfront] 實作
+* 解释客户需求，以便推荐合适的工作流策略
+* 演示如何设置 [!DNL Workfront] 审批和验证工作流
+* 在场景中，确定使用验证查看器、设置和标记功能的最佳实践
+* 演示对跟踪投放项作为营销活动管理一部分的理解
+* 在场景中，确定以下项的更改管理关键注意事项 [!DNL Workfront] 实现
 
-第4節：聯結器的安裝和設定(28%)
+第4节：连接器的安装和配置(28%)
 
-* 驗證AEM中的先決條件
-* 根據客戶使用案例，找出要實作的聯結器功能
+* 验证AEM中的先决条件
+* 在客户使用案例中，确定要实施的连接器的功能
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**範例問題**
+**示例问题**
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
 
-**第1節：技術需求**
+**第一节　：技术要求**
 
-* [自訂表單概觀](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [設定檔案整合](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
-* [瞭解多租使用者和同時開發](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html?lang=en){target="_blank"}
-* [使用舊版表單產生器將計算資料新增至自訂表單](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
-* [Adobe [!DNL Workfront] 狀態網站](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
-* [使用開發工具進行進階疑難排解](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html?lang=en){target="_blank"}
+* [自定义表单概述](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+* [配置文档集成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
+* [了解多租户和并行开发](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html?lang=en){target="_blank"}
+* [使用旧版表单生成器将计算数据添加到自定义表单](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
+* [Adobe [!DNL Workfront] 状态站点](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
+* [使用开发工具进行高级故障排除](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html?lang=en){target="_blank"}
 
-**第2節：設定**
+**第2部分：配置**
 
-* [最佳實務 — 上線和採用](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
-* [建立個別使用者設定檔](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] 與Adobe整合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
-* [中繼資料和關鍵字：中繼資料設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
-* [安裝 [!DNL Workfront] 的 [!DNL Experience Manager] 增強型聯結器](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
+* [最佳实践 — 入职和采用](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
+* [创建单个用户配置文件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] 与Adobe集成 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
+* [元数据和关键字：元数据设置](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
+* [安装 [!DNL Workfront] 对象 [!DNL Experience Manager] 增强型连接器](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
 
-**第3節：業務實務**
+**第三节　：业务做法**
 
-* [開發 [!DNL Workfront] DAM策略](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}
-* [建立工作專案的核准流程](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [自動化工作流程總覽](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
-* [檢閱及核准證明](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html?lang=en){target="_blank"}
-* [從專案時間表追蹤進度](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
-* [定義Adobe的目標 [!DNL Workfront] 實作](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
+* [开发 [!DNL Workfront] DAM策略](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}
+* [为工作项创建批准流程](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
+* [自动化工作流概述](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
+* [审阅和批准验证](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html?lang=en){target="_blank"}
+* [从项目时间线中跟踪进度](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
+* [定义Adobe目标 [!DNL Workfront] 实现](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
 
-**第4節：聯結器的安裝及組態**
+**第4节：连接器的安装和配置**
 
-* [安裝 [!DNL Workfront] 的 [!DNL Experience Manager] 增強型聯結器](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
-* [[!DNL Workfront] 增強型聯結器基本需知](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
-* [設定 [!DNL Workfront] 的 [!DNL Experience Manager] 增強型聯結器](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] 與Adobe整合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
+* [安装 [!DNL Workfront] 对象 [!DNL Experience Manager] 增强型连接器](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
+* [[!DNL Workfront] 增强型连接器基础知识](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
+* [配置 [!DNL Workfront] 对象 [!DNL Experience Manager] 增强型连接器](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] 与Adobe集成 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E906
+### 考试编号：AD0-E906
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

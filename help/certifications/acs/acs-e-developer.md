@@ -1,6 +1,6 @@
 ---
-title: 開發人員專家認證
-description: 瞭解如何成為認證Adobe Developer專家Adobe [!DNL Campaign Standard].
+title: 开发人员专家认证
+description: 了解如何成为认证Adobe Developer专家Adobe [!DNL Campaign Standard].
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -14,116 +14,116 @@ ht-degree: 10%
 
 ---
 
-# Adobe的認證歷程 [!DNL Campaign Standard] 開發人員專家
+# Adobe的认证历程 [!DNL Campaign Standard] 开发人员专家
 
-瞭解如何成為認證Adobe Developer專家。
+了解如何成为认证Adobe Developer专家。
 
-## 最低體驗
+## 最低体验
 
-您應該具備：
+您应具有：
 
-* 至少兩年 [!DNL Campaign] 軟體體驗
-* 在多管道數位行銷活動與網頁開發（例如REST API）方面至少兩年相關經驗
-* 能夠在Adobe Campaign中執行任務（包括範本開發、技術工作流程、方案開發和整合），並能夠使用控制面板監視執行個體
-* 在管道傳送環境（電子郵件、直接郵件、行動裝置和社交）中工作的體驗
-* 熟悉多重接觸、生命週期和重新啟動等行銷活動策略
-* 瞭解行銷量度，例如ROI、點進率和轉換。
-* 管理行銷自動化平台的體驗
-* CSS、HTML和JavaScript的基本知識，電子郵件
-* 關聯式資料庫和資料模型的基本知識
-* 瞭解技術工作流程並加以設定
-* 擴充收件者表格或方案和資料管理的體驗
-* 已建立型別規則、工作流程、傳遞和行銷活動範本
-* 已設定的角色和許可權
-* 管理主控台的使用體驗，以及與其他Adobe應用程式的整合
-* 瞭解Adobe I/O和Adobe I/O Runtime
-* 透過多管道提供異動訊息傳送和訊息傳送的體驗
-* 使用受管理套件的體驗
+* 至少两年 [!DNL Campaign] 软件体验
+* 至少两年在多渠道数字营销活动和Web开发（例如REST API）方面的相关经验
+* 能够在Adobe Campaign中执行任务（包括模板开发、技术工作流、模式开发和集成），并能够使用控制面板监控实例
+* 在渠道投放环境（电子邮件、直邮、移动设备和社交）中工作的体验
+* 熟悉营销活动策略，例如多点触控、生命周期和重新激活
+* 了解营销指标，如ROI、点进率和转化。
+* 管理营销自动化平台的体验
+* CSS、HTML和JavaScript的基础知识，电子邮件
+* 关系数据库和数据建模的基础知识
+* 了解并配置技术工作流
+* 扩展收件人表或方案和数据管理的体验
+* 创建了类型规则、工作流、投放和活动模板
+* 已配置的角色和权限
+* 体验管理控制台以及与其他Adobe应用程序的集成
+* 对Adobe I/O和Adobe I/O Runtime的认识
+* 在多渠道上体验事务性消息传递和消息投放
+* 托管包的体验
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* 行銷自動化管理員
-* Adobe Experience Cloud開發人員
-* 電子郵件行銷分析師
-* 應用程式開發人員
-* Campaign開發人員
-* Martech開發人員
+* 营销自动化管理员
+* Adobe Experience Cloud开发人员
+* 电子邮件营销分析员
+* 应用程序开发人员
+* Campaign开发人员
+* Martech开发人员
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：專家（1-3年經驗）
-* 及格分數：29/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E306
+* 级别：专家（1-3年经验）
+* 及格分数：29/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E306
 
-**整備程度自我評估**
+**就绪性自我评估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
-**考試目標與範圍**
+**考试目标和范围**
 
-第1節：資料模型化與管理(26%)
+第1款：数据建模和管理(26%)
 
-* 在特定的情況下，將使用者端需求轉換為自訂資源
-* 決定如何設定畫面和篩選定義
-* 在特定的情況下，請決定定義索引鍵、索引和連結的正確策略
-* 決定發佈資源更新的正確方法
-* 疑難排解資料模型問題
-* 決定建立技術工作流程的正確方法
+* 在给定的场景中，将客户端需求转换为自定义资源
+* 确定如何配置屏幕和过滤器定义
+* 在给定场景下，确定定义键、索引和链接的正确策略
+* 确定发布资源更新的正确方法
+* 数据建模问题疑难解答
+* 确定构建技术工作流的正确方法
 
-區段2：行銷活動管理(50%)
+第2部分：营销活动管理(50%)
 
-* 疑難排解工作流程錯誤
-* 決定建立行銷活動的正確方法
-* 決定使用對象和設定檔的正確方法
-* 透過型別套用及建立篩選規則
-* 決定建立和管理範本的正確方法
-* 決定設定登入頁面的正確方法
-* 決定使用服務和訂閱的正確方法
-* 在特定的情況下，驗證傳遞機制
-* 決定使用創意設計工具建立電子郵件的正確方法
-* 決定建立自訂報表的正確方法
+* 工作流错误疑难解答
+* 确定构建营销活动的正确方法
+* 确定使用受众和用户档案的正确方法
+* 通过类型应用并创建过滤器规则
+* 确定创建和管理模板的正确方法
+* 确定配置登陆页面的正确方法
+* 确定使用服务和订阅的正确方法
+* 给定场景，验证投放机制
+* 确定使用创意设计工具构建电子邮件的正确方法
+* 确定创建自定义报表的正确方法
 
-第3節：管理(24%)
+第3节：管理(24%)
 
-* 決定建立使用者安全群組和組織單位的正確方法
-* 決定管理和部署套件的正確方法
-* 決定設定外部帳戶的正確方法
-* 決定設定選項的正確方法
-* 決定建立品牌的正確方法
-* 決定開發管道設定的正確方法
+* 确定创建用户安全组和组织单位的正确方法
+* 确定管理和部署包的正确方法
+* 确定配置外部帐户的正确方法
+* 确定配置选项的正确方法
+* 确定创建品牌的正确方法
+* 确定开发渠道配置的正确方法
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-**第1節：資料模型化與管理**
+**第1节：数据建模和管理**
 
 * [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
 * [创建或扩展资源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
-* [設定自訂資源的熒幕定義](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
+* [为自定义资源配置屏幕定义](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
 * [配置屏幕定义](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
 * [配置过滤器定义](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-filter-definition.html?lang=en){target="_blank"}
-* [連結自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
+* [链接自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
 * [配置资源的数据结构](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
-* [核准流程](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
+* [审批流程](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
 * [更新数据库结构](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
 * [技术工作流](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=zh-Hans){target="_blank"}
 
-**第2節：行銷活動管理**
+**第2部分：营销活动管理**
 
-* [管理資源](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
+* [管理资源](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
 * [工作流最佳实践](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
 * [项目和营销活动](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=en){target="_blank"}
 * [用户档案和受众入门](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html?lang=en){target="_blank"}
@@ -138,7 +138,7 @@ ht-degree: 10%
 * [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
 * [动态报告快速入门](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
 
-**第3節：管理**
+**第三节　：管理**
 
 * [管理组和用户](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=zh-Hans){target="_blank"}
 * [组织实体](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en){target="_blank"}
@@ -151,50 +151,50 @@ ht-degree: 10%
 * [关于渠道配置](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
 * [通信渠道入门](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加練習測試**
+**参加练习测试**
 
-建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
+我们建议您在开始之前参加免费的练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
 
-我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
+我们的实践测试都是基于与实时测试相同的Blueprint开发的。 实践测试将帮助您了解实时测试涵盖的主题。
 
-請記住，通過練習測驗並不保證您會通過認證測驗。
+请记住，通过练习测试并不保证您会通过认证测试。
 
-前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
+转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在来参加一个练习测试。
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* PSI提供測試中心和日文考試選項（若有的話）
-* 範例提供遠端線上選項
+* PSI提供测试中心和日语考试选项（如果可用）
+* 示例提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E306
+### 考试编号：AD0-E306
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

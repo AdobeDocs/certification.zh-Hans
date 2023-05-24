@@ -1,5 +1,5 @@
 ---
-title: Workfront認證概述
+title: Workfront认证概述
 description: Adobe Workfront 认证选项概述
 solution: Workfront
 exl-id: 0bd627c8-6ba2-49bb-b0e7-477d61b6ce3e
@@ -10,17 +10,17 @@ ht-degree: 23%
 
 ---
 
-# Workfront認證概述
+# Workfront认证概述
 
-**專業**
+**专业**
 
-* [開發人員(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [开发人员(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [项目管理器](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [開發人員（核心）](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+* [开发人员（核心）](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 **专家**
 
-* [開發人員（核心）](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
-* [AEM增強型聯結器](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [开发人员（核心）](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
+* [AEM增强型连接器](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。
+访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否提供续订选项。

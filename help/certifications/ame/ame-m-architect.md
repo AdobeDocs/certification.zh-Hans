@@ -1,6 +1,6 @@
 ---
-title: 架構師主要憑證
-description: 瞭解如何成為Adobe的認證Adobe架構師大師 [!DNL Marketo Engage].
+title: 架构师主控认证
+description: 了解如何在Adobe中成为认证Adobe架构师主控 [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,180 +14,180 @@ ht-degree: 1%
 
 ---
 
-# Adobe的認證歷程 [!DNL Marketo Engage] 架構師Master
+# Adobe的认证历程 [!DNL Marketo Engage] 架构师主控
 
-瞭解如何成為認證Adobe架構師大師。
+了解如何成为认证Adobe架构师主控。
 
-Adobe認證計畫針對有興趣獲得認證主職稱的考生推出了新的Adobe Marketo Engage Architect認證。 它取代了先前的Marketo認證解決方案設計師(MCSA)認證面試程式。 [了解详情](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+Adobe认证计划为有兴趣获得认证主控称号的候选人推出了新的Adobe Marketo Engage Architect认证。 它取代了以前的Marketo认证解决方案设计师(MCSA)认证访谈过程。 [了解详情](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
-## 最低體驗
+## 最低体验
 
-您應該具備：
+您应具有：
 
-* 中的目前認證 [!DNL Marketo Engage] 商務從業者認證專家
-* 至少五年經驗，最好擁有多個例項 [!DNL Marketo Engage]
-* 瞭解業務影響，並有效地向不同層級的利害關係人（技術和非技術）解釋/傳達其解決方案
-* 將解決方案概念化並翻譯成 [!DNL Marketo Engage] 架構，瞭解受整合影響的業務流程
-* 熟悉建構執行個體的原則
+* 中的当前认证 [!DNL Marketo Engage] 经过业务从业者认证的专家
+* 至少五年经验，最好有多次 [!DNL Marketo Engage]
+* 了解业务影响并有效地向不同级别的利益相关者（技术和非技术）解释/传达其解决方案
+* 将解决方案概念化并转换为 [!DNL Marketo Engage] 架构，了解受集成影响的业务流程
+* 熟悉构建实例的原则
 
-此外，您也應熟悉下列工具和技術：
+此外，您还应熟悉以下工具和技术：
 
-* Adobe [!DNL Marketo Engage] 特色、功能和應用程式
-* 資料庫系統
-* API連線能力
+* Adobe [!DNL Marketo Engage] 特性、功能和应用程序
+* 数据库系统
+* API连接
 * CRM平台
-* 行銷技術平台
+* 营销技术平台
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* 行銷技術經理
-* 資深/行銷營運經理
-* 行銷營運總監
-* 資深Director/收入營運經理
-* 行銷作業/技術/自動化顧問
-* 行銷技術人員
-* 行銷活動管理員
-* 行銷自動化管理員
-* 數位行銷
+* 营销技术经理
+* 高级/营销运营经理
+* 营销运营总监
+* 负责收入运营的高级Director/经理
+* 营销运营/技术/自动化顾问
+* 营销技术人员
+* 营销活动管理器
+* 营销自动化经理
+* 数字营销
 * Demand generation manager
-* 解決方案架構師
-* 商務系統分析師
-* CRM管理員
+* 解决方案架构师
+* 业务系统分析师
+* CRM管理器
 * CRM/Lifecycle Marketing manager
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 先決條件：Adobe Certified Expert - [!DNL Marketo Engage] 商務從業者專家
-* 等級：主要（3-5年經驗）
-* 從業者認證
-* 及格分數：30/50
-* 時間：150分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E556
+* 先决条件：Adobe Certified Expert - [!DNL Marketo Engage] 商业从业者专家
+* 级别：主控（3-5年经验）
+* 从业者认证
+* 及格分数：30/50
+* 时间：150分钟
+* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E556
 
-**整備程度自我評估**
+**就绪性自我评估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
-**考試目標與範圍**
+**考试目标和范围**
 
-第1節：專案領導力(16%)
+第1款：项目领导(16%)
 
-* 透過案例研究，找出合適的利害關係人
-* 評估一組需求，並建議專案界限、預算、資源和範圍
-* 在經過修改的流程中，決定哪些人需要啟用和有效率的啟用轉出計畫
-* 評估稽核並建議優先順序和時間表
+* 通过案例研究，确定适当的利益相关者
+* 评估一组要求并推荐项目边界、预算、资源和范围
+* 在流程经过修改后，确定哪些人需要启用和高效的启用转出计划
+* 评估审计工作并建议优先事项和时间表
 
-區段2： [!DNL Marketo Engage] 架構設計(48%)
+第2节： [!DNL Marketo Engage] 体系结构设计(48%)
 
-* 收集需求/需求，並推薦銷售機會管理和生命週期設計
-* 審查現有實作並提供結果
-* 根據業務需求，識別評分的不同行為
-* 檢閱現有實施、建議動作以擴展行銷活動執行
-* 概述多國潛在客戶製程的作業程式
-* 在案例中，評估將新技術整合至執行個體的影響和需求
-* 識別不同型別的整合及使用時機
-* 在案例中，概述受建議變更/需求影響的人員生命週期中的各個階段
-* 評估一組需求並建議行銷活動邏輯的方法
+* 收集需求/需求，并推荐潜在客户管理和生命周期设计
+* 审查现有实施并提供调查结果
+* 根据业务需求，识别不同的行为以进行评分
+* 审查现有实施，建议操作以扩展活动执行
+* 概述在多个国家/地区销售线索路线的操作过程
+* 在情景中，评估将新技术引入实例的影响和要求
+* 确定不同类型的集成以及何时使用它们
+* 给定一个方案，概述受提议的更改/要求影响的人员生命周期中的各个阶段
+* 评估一组要求并推荐营销活动逻辑的方法
 
-第3節：報告與歸因(20%)
+第3节：报告和归因(20%)
 
-* 提供要檢閱的模型，說明生命週期模型工具中繞線的概念
-* 提供線上廣告或自然社交或內容，建議報告方法
-* 說明如何驗證 [!DNL Marketo Engage] 追蹤生命週期變更中的報告
-* 識別要用於特定報表型別的量度
-* 識別如何追蹤多管道歸因以評估ROI
-* 識別並描述不同歸因模型的利弊
-* 根據業務需求，說明針對報告設定的管道的影響
+* 给出一个模型加以评述，解释生命周期建模器中绕线的概念
+* 对于在线广告或自然社交或内容，推荐一种报表方法
+* 说明如何验证 [!DNL Marketo Engage] 跟踪生命周期变化中的报告
+* 确定要在给定报表类型中使用的量度
+* 确定如何跟踪多渠道归因以评估ROI
+* 识别并描述不同归因模型的利弊
+* 根据业务需求，描述渠道设置对报告的影响
 
-第4節：進階作業(16%)
+第4款：高级业务(16%)
 
-* 在案例中，找出適當的步驟來改善管理或治理
-* 根據一組需求，建議有效的資料結構
-* 評估客戶的實作並建議改善傳遞能力的行動
-* 評估客戶的實作並建議改善管理管理的動作
-* 收集使用者端實作的相關資訊，並提供安全性實務建議
-* 說明工作區與分割區在指定情境下的適用性
+* 给定场景，确定改进管理或治理的适当步骤
+* 给定一组要求，建议一个高效的数据模式
+* 评估客户的实施并推荐操作以提高可投放性
+* 评估客户的实施情况并提出改进管理操作的建议
+* 收集有关客户端实施的信息并推荐安全做法
+* 解释给定场景的工作区和分区的适用性
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**範例問題**
+**示例问题**
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
 
-**第1節：專案領導力**
+**第一节　：项目领导**
 
-* [Champion部落格 — Marketo國家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
-* [檔案 — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
+* [Champion博客 — Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
+* [文档 — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 
-**區段2：Adobe [!DNL Marketo Engage] 架構設計**
+**第2节：Adobe [!DNL Marketo Engage] 架构设计**
 
-* [建立自訂同步規則的指示](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [潛在客戶評分的最終指南](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [有关创建自定义同步规则的说明](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [引导评分的最终指南](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
-**第3節：報告與歸因**
+**第3节：报告和归因**
 
-* [報表型別概觀](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en){target="_blank"}
-* [瞭解歸因](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html?lang=en){target="_blank"}
-* [Champion部落格 — Marketo國家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [报表类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en){target="_blank"}
+* [了解归因](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html?lang=en){target="_blank"}
+* [Champion博客 — Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 
-**第4節：進階作業**
+**第4节：高级操作**
 
-* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
-* [隱藏軟跳出](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [瞭解工作區和人員資料分割](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=en){target="_blank"}
+* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
+* [禁止软退回](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [了解工作区和人员分区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E556
+### 考试编号：AD0-E556
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E556 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E556 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

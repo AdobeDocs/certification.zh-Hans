@@ -1,6 +1,6 @@
 ---
-title: 架構師主要憑證
-description: 瞭解如何成為認證的 [!DNL Adobe Analytics] 架構師Master。
+title: 架构师主控认证
+description: 了解如何获得认证 [!DNL Adobe Analytics] 主控架构师。
 solution: Analytics
 product: Analytics
 role: Data Architect,Developer
@@ -14,97 +14,97 @@ ht-degree: 19%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Analytics] 架構師Master
+# 的认证历程 [!DNL Adobe Analytics] 架构师主控
 
-瞭解如何成為認證 [!DNL Analytics] 架構師Master。
+了解如何成为认证 [!DNL Analytics] 主控架构师。
 
-## 最低體驗
+## 最低体验
 
-您至少應有3至4年的設計經驗 [!DNL Adobe Analytics] 架構、資料層規格、標籤管理，以及對JavaScript程式碼的基本瞭解。
+你至少应该有3-4年的设计经验 [!DNL Adobe Analytics] 体系结构、数据层规范和标签管理，以及对JavaScript代码的基本了解。
 
-此外，您還負責將業務需求轉換為追蹤規格，以及 [!DNL Adobe Analytics] 變數，並且您熟悉以下技術和環境：
+此外，您还负责将业务需求转换为跟踪规格和 [!DNL Adobe Analytics] 变量，并且您熟悉以下技术和环境：
 
-* 網站分析應用程式
+* 网站分析应用程序
 * Adobe Experience Cloud
-* Tag Management系統
+* Tag Management系统
 * CMS
-* 瀏覽器開發人員工具
-* 最佳化工具
-* 程式碼編輯器
+* 浏览器开发人员工具
+* 优化工具
+* 代码编辑器
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* 解決方案架構師
-* 技術管理員
-* 資料架構師
-* Analytics工程師
-* Analytics策略專家
-* 多解決方案工程師
+* 解决方案设计师
+* 技术经理
+* Data Architect
+* Analytics工程师
+* Analytics策略专家
+* 多解决方案工程师
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：主要（3-5年經驗）
-* 及格分數： 33/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E207
+* 级别：主控（3-5年经验）
+* 及格分数：33/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E207
 
-**考試目標與範圍**
+**考试目标和范围**
 
-第1節：探索(18%)
+第1节：发现(18%)
 
-* 示範稽核網站的能力
-* 調查建立業務需求的使用者端需求
-* 指定情境，建立測量框架
+* 演示审核站点的能力
+* 调查客户需求以构建业务需求
+* 给定场景，创建测量框架
 
-第2節：解決方案設計(26%)
+第2部分：解决方案设计(26%)
 
-* 將業務需求轉換為變數和量度
-* 示範管理報表套裝設定的功能
-* 在某個案例中，建議收集資料的最佳方法
-* 為標籤工程師撰寫技術規格
-* 為網站開發人員撰寫技術規格
-* 建立Experience Cloud使用者/群組
+* 将业务需求转化为变量和量度
+* 演示管理报表包设置的能力
+* 给定一个场景，推荐收集数据的最佳方法
+* 为标记工程师编写技术规范
+* 为站点开发人员编写技术规范
+* 创建Experience Cloud用户/组
 
-第3節：實作後(28%)
+第3款：员额执行(28%)
 
-* 根據一組需求，透過瀏覽器開發人員工具和Adobe報告來驗證追蹤
-* 套用程式概念以管理資料擷取和關係
-* 評估資料隱私權需求，以建立資料治理模型
-* 在特定的情況下，管理資料來源和聯結器
-* 設定必要的區段和計算量度以符合業務需求
+* 给定一组要求，通过浏览器开发人员工具和Adobe报告来验证跟踪
+* 应用过程概念来管理数据提取和关系
+* 评估数据隐私要求以建立数据治理模型
+* 给定场景，管理数据源和连接器
+* 配置必要的区段和计算量度以满足业务要求
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**範例問題**
+**示例问题**
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
 
-**第1節：探索**
+**第1部分：发现**
 
 * [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [[!DNL Analytics] 组件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 * [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
 * [[!DNL Analytics] 技术说明](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
-* [資料層管理員](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
+* [数据层管理器](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
 
-**第2節：解決方案設計**
+**第2部分：解决方案设计**
 
 * [[!DNL Analytics] 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 * [[!DNL Analytics] 组件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
@@ -115,66 +115,66 @@ ht-degree: 19%
 * [[!DNL Analytics] 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
 * [管理角色](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
 * [Admin Console 概述](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
-* [個別管理使用者](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
+* [单独管理用户](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
 
-**第3節：實作後**
+**第三节　：岗位实施**
 
 * [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [[!DNL Analytics] 组件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 * [[!DNL Analytics] 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [事件導向資料層](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
+* [事件驱动型数据层](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
 * [[!DNL Analytics] 导出指南](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Target] 商務從業人員指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Target] 商业从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
 * [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
 * [[!DNL Analytics] 导入指南](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
 * [[!DNL Analytics] Tools 指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [資料插入程式](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [使用標籤在網站中實作Experience Cloud教學課程](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
+* [数据插入过程](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
+* [使用标记在网站中实施Experience Cloud教程](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加練習測試**
+**参加练习测试**
 
-建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
+我们建议您在开始之前参加免费的练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
 
-我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
+我们的实践测试都是基于与实时测试相同的Blueprint开发的。 实践测试将帮助您了解实时测试涵盖的主题。
 
-請記住，通過練習測驗並不保證您會通過認證測驗。
+请记住，通过练习测试并不保证您会通过认证测试。
 
-前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
+转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在来参加一个练习测试。
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E207
+### 考试编号：AD0-E207
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請傳送電子郵件至 `certif@adobe.com`
+还有其他问题吗？ 请发送电子邮件至 `certif@adobe.com`

@@ -1,6 +1,6 @@
 ---
-title: AEM Forms後端開發人員專業認證
-description: 瞭解如何成為認證AdobeAEM Forms後端開發人員專業人士。
+title: AEM Forms后端开发人员专业认证
+description: 了解如何成为认证AdobeAEM Forms后端开发人员专业人员。
 solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
@@ -14,168 +14,168 @@ ht-degree: 7%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager Forms] 後端開發人員專業版
+# Adobe的认证历程 [!DNL Experience Manager Forms] 后端开发人员专业版
 
-瞭解如何成為認證 [!DNL Adobe AEM Forms] 後端開發人員專業版。
+了解如何成为认证 [!DNL Adobe AEM Forms] 后端开发人员专业版。
 
-## 最低體驗
+## 最低体验
 
-您應是後端表單開發人員，且具備：
+您应是后端表单开发人员，并且具有：
 
-* 使用AEM平台的0至12個月經驗
-* 12個月使用和設定Adobe Cloud Manager的體驗
-* 至少24個月體驗設定、實施及管理持續整合/持續部署工作
+* 使用AEM平台的0-12个月经验
+* 12个月使用和配置AdobeCloud Manager的经验
+* 至少拥有24个月配置、实施和管理连续集成/连续部署任务的经验
 
-此外，您應該已經習慣使用Adobe Managed Services和Adobe Experience Manager as a Cloud Service。 能夠設定Adobe Experience Manager環境和基礎結構。
+此外，您应该能够熟练使用Adobe Managed Services和Adobe Experience Manager as a Cloud Service。 能够设置Adobe Experience Manager环境和基础架构。
 
-您應熟悉下列技術和環境：
+您应该熟悉以下技术和环境：
 
 * Cloud Manager
 * ADOBEIO CLI
 * Git CLI
-* 雲端轉換工具
-* Dispatcher轉換工具
-* 存放庫現代化工具
-* 開發測試和生產
-* 開發沙箱
-* 本機環境
+* 云过渡工具
+* Dispatcher转换器
+* 存储库现代化器
+* 开发暂存和生产
+* 开发沙盒
+* 本地环境
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* AEM開發人員
-* DevOps工程師
+* AEM开发人员
+* DevOps工程师
 * AEM Architect
-* 雲端工程師
-* 網站可靠性工程師
-* 技術管理員
-* 應用程式操作工程師
-* 系統工程師
+* 云工程师
+* 站点可靠性工程师
+* 技术经理
+* 应用程序操作工程师
+* 系统工程师
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：專業（0至12個月經驗）
-* 及格分數：29/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要相機存取）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E127
+* 级别：专业（0至12个月经验）
+* 及格分数：29/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E127
 
-**考試目標與範圍**
+**考试目标和范围**
 
-區段1：Forms建立與管理(26%)
+第1部分：Forms创建和管理(26%)
 
-* 在特定的情況下，請確定建置AEM Forms所需的步驟
-* 說明Forms資料模型
-* 識別自訂AEM Forms的步驟
-* 在情景中，識別使用Javascript ClientLib的步驟，善用GuideBridge API
+* 在场景中，确定构建AEM Forms所需的步骤
+* 描述Forms数据模型
+* 确定自定义AEM Forms的步骤
+* 在场景中，确定利用GuideBridge API使用Javascript客户端库的步骤
 
-第2節：程式與工作流程(34%)
+第2节：进程和工作流程(34%)
 
-* 在案例中，識別表單核准工作流程的步驟
-* 使用Document Services API識別OSGi套件組合的功能
-* 在特定的情況下，使用Watchfolder端點排程不同的非同步批次程式
-* 識別XFA/XDP設計的不同輸出
-* 在指定的情況下，使用Forms或組合器服務操作PDF
-* 說明實作JDBC服務的方法
+* 在场景中，确定表单审批工作流的步骤
+* 使用Document Services API识别OSGi捆绑包的功能
+* 在给定情况下，使用Watchfolder端点安排不同的异步批处理过程
+* 确定XFA/XDP设计的不同输出
+* 在给定场景下，使用Forms或汇编程序服务处理PDF
+* 描述实施JDBC服务的方法
 
-第3節：管理與疑難排解(21%)
+第3节：管理和故障排除(21%)
 
-* 識別記錄檔中產生的問題
-* 在特定的情況下，請確定執行管理活動的步驟
-* 識別AEM Forms中Service Pack的功能
-* 說明為Forms設定AEM Dispatcher的步驟
-* 說明瀏覽不同主控台的步驟
+* 识别在日志文件中生成的问题
+* 在场景中，确定执行管理活动的步骤
+* 识别AEM Forms中Service Pack的功能
+* 描述为Forms设置AEM Dispatcher的步骤
+* 描述导航不同控制台的步骤
 
-第4節：API端點和整合(10%)
+第4部分：API端点和集成(10%)
 
-* 在案例中，說明整合AEM表單與Adobe Experience Cloud的流程
-* 確定產生各種端點服務的步驟
+* 给定一个方案，描述将AEM Form与Adobe Experience Cloud集成的流程
+* 确定生成各种端点服务的步骤
 
-第5節：互動式通訊(9%)
+第5款：互动式通信(9%)
 
-* 在特定的情況下，示範並實作互動式通訊的程式
+* 在场景中，演示并实现了交互式通信过程
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**範例問題**
+**示例问题**
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
+[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
 
-**第1節：Forms建立與管理**
+**第1部分：Forms创建和管理**
 
 * [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [AEM Forms資料整合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en#data-integration-overview){target="_blank"}
-* [AEM Forms教學課程和影片](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=en){target="_blank"}
+* [AEM Forms数据集成](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en#data-integration-overview){target="_blank"}
+* [AEM Forms教程和视频](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=en){target="_blank"}
 * [AEM 6.5 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 
-**第2節：程式與工作流程**
+**第2部分：流程和工作流**
 
 * [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
 * [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
-* [管理端點](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
+* [管理端点](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
 
-**第3節：管理與疑難排解**
+**第3部分：管理和故障排除**
 
-* [疑難排解記錄檔的安裝問題 |Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
+* [日志文件安装问题疑难解答 |Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
 * [AEM 6.4 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
 * [Adobe Experience Manager 6.5 发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=en){target="_blank"}
 * [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
 * [Dispatcher 概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
 * [AEM 6.5 Authoring 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
 
-**第4節：API端點與整合**
+**第4部分：API端点和集成**
 
 * [Experience Manager as a Cloud Service 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hans){target="_blank"}
 * [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E127
+### 考试编号：AD0-E127
 
-[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127 newtab=true"}
+[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

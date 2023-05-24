@@ -1,6 +1,6 @@
 ---
-title: 商務從業人員專業認證
-description: 瞭解如何成為認證Adobe商務從業人員的專業人士 [!DNL Campaign Classic].
+title: 商业从业者专业认证
+description: 了解如何成为以下领域的认证Adobe商业从业者 [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,196 +14,196 @@ ht-degree: 8%
 
 ---
 
-# Adobe的認證歷程 [!DNL Campaign Classic] 商務從業者專業人士
+# Adobe的认证历程 [!DNL Campaign Classic] 商业从业者专业人员
 
-瞭解如何成為認證的Adobe商務從業人員專業人員。
+了解如何成为经过认证的Adobe商业从业者专业人员。
 
-## 最低體驗
+## 最低体验
 
-您應該具備：
+您应具有：
 
-* 基礎性Campaign軟體經驗至少一年
-* 瞭解如何執行查詢
-* 瞭解Adobe Campaign提供的工具組
-* 有關如何將業務目標轉換為工作流程的知識
-* 瞭解如何鎖定和劃分對象
-* 測試和傳送傳送的經驗
-* 設定跨管道、個人化工作流程和傳送內容的實作體驗
-* 分析和監控記錄和錯誤的經驗
-* 瞭解數位行銷的概念和策略
-* 基本瞭解自動化、量度和行銷活動戰術（關於資料管理、雲端服務、核准等功能）
-* 瞭解基本關聯式資料庫和行銷活動中的目標定位查詢
-* 基本HTML和個人化的體驗
-* 訂閱服務管理（選擇加入/選擇退出）
+* 至少一年的Campaign基础软件使用经验
+* 了解如何运行查询
+* 了解Adobe Campaign提供的工具包
+* 了解如何将业务目标转换为工作流
+* 了解如何定位和划分受众
+* 测试和发送投放的经验
+* 设置跨渠道、个性化工作流和发送投放的实践经验
+* 分析和监控日志和错误的经验
+* 对数字营销概念和策略的理解
+* 基本了解自动化、量度和营销活动战术（关于数据管理、云服务、审批等的功能）
+* 了解基本关系数据库和活动中的定位查询
+* 在基本HTML和个性化方面的经验
+* 订阅服务管理（选择启用/选择禁用）
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* 業務顧問
-* 業務分析人員
-* 互動管理員
-* 行銷活動管理員
-* 資料庫行銷人員
-* 商務從業人員
-* CRM專案管理員
+* 业务顾问
+* 业务分析员
+* 交互管理器
+* 营销活动管理器
+* 数据库营销人员
+* 商业从业者
+* CRM项目管理器
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：專業（0至12個月經驗）
-* 及格分數：32/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要相機存取）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E329
+* 级别：专业（0至12个月经验）
+* 及格分数：32/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E329
 
-**整備程度自我評估**
+**就绪性自我评估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
-**考試目標與範圍**
+**考试目标和范围**
 
-區段1：建立行銷活動(29%)
+第1部分：构建营销活动(29%)
 
-* 識別不同的數位行銷概念和目標
-* 識別並定義與介面相關的關鍵刀具特徵和結構
-* 決定適當的傳遞範本和子網域以使用指定的業務需求
-* 根據業務需求確定適當的傳遞準備或個人化需求
-* 在設定檔中判斷正確的目標對象，並分析預期結果的結果
-* 建議並套用正確的行銷活動核准設定
-* 根據行銷活動需求決定排程
-* 識別要在何處找到傳遞結果或輸出
-* 區分不同的錯誤和警告型別（傳送、行銷活動和工作流程層級）
+* 识别不同的数字营销概念和目标
+* 识别并定义与界面相关的关键刀具特征和结构
+* 确定适合使用给定业务要求的子域的投放模板
+* 根据业务要求确定适当的投放准备或个性化要求
+* 确定用户档案中的正确目标受众，并分析预期结果的结果
+* 推荐并应用正确的营销活动审批设置
+* 根据活动要求确定计划
+* 识别在何处查找投放结果或输出
+* 区分不同的错误和警告类型（投放、营销活动和工作流级别）
 
-第2節：工作流程管理和平台功能(16%)
+第2节：工作流管理和平台功能(16%)
 
-* 在情景中，決定應該選取哪些工作流程活動
-* 區分行銷活動與技術工作流程
-* 在情景中，確定哪個工作流程解決方案最適合連續、等待、循環、中止的情況
-* 識別與舊版比較的Campaign V8新功能和特色
+* 在给定场景下，确定应选择的工作流活动
+* 区分活动工作流和技术工作流
+* 给定一个方案，确定哪个工作流解决方案对于连续、等待、循环、中止情况最合适
+* 识别与先前版本相比的Campaign V8的新功能和特性
 
-第3節：資料作業(20%)
+第3款：数据业务(20%)
 
-* 決定如何修改檢視中的欄，以測試資料/輸出
-* 說明聯合、交集、排除和分割工作流程目標定位活動的用途
-* 決定調解資料、產生補充、刪除重複資料和匯入資料的適當方法
-* 在特定的情況下，識別應使用的資料擴充規則
-* 在情景中，決定如何劃分對象並儲存為清單和儲存格
-* 在特定的情況下，請設定目的地，以決定將資料匯出至目的地的最佳方法
+* 确定如何修改视图中的列以测试数据/输出
+* 描述并集、交集、排除和拆分工作流定位活动的用途
+* 确定协调数据、生成补充、删除重复项和导入数据的适当方法
+* 在场景中，确定应使用的数据扩充规则
+* 给定场景，确定如何划分受众并存储为列表和单元格
+* 在给定场景下，通过配置数据来确定将数据导出到目标的最佳方法
 
-區段4：傳遞設定(28%)
+第4部分：投放配置(28%)
 
-* 在給定情況下，請確定正確的傳送型別
-* 根據業務需求，決定如何建立範本
-* 根據業務需求，判斷正確的傳送屬性
-* 識別並套用可用於傳遞的OOTB個人化選項（映象頁面的連結、問候語、取消子連結）
-* 在情景中，決定適當的型別規則（控制、篩選、壓力、容量）
-* 找出記錄中收件者排除傳遞的原因，並檢查傳遞診斷
-* 指示測試傳遞內容和個人化的位置/方式
-* 區分處理和套用動作期間發生的各種傳送狀態
+* 给定场景，确定正确的投放类型
+* 根据业务要求，确定如何创建模板
+* 根据业务要求，确定正确的投放属性
+* 确定并应用可用于投放的OOTB个性化选项（镜像页面链接、问候语、取消子链接）
+* 给定场景，确定适当的分类规则（控制、过滤、压力、容量）
+* 确定日志中收件人排除投放的原因并检查投放诊断
+* 指示测试投放内容和个性化的位置/方式
+* 区分处理并应用操作期间发生的各种投放状态
 
-第5節：管理與報告(7%)
+第五节　：管理和报告(7%)
 
-* 識別常見的OOTB報告，以及存取報告的位置
-* 根據報告要求決定需要哪個OOTB報告
-* 識別Adobe Campaign中的描述性分析功能
-* 在特定的情況下，套用正確的授權以限制/允許存取Campaign物件
+* 确定常见的OOTB报告以及在何处访问它们
+* 根据报告要求确定需要哪个OOTB报告
+* 识别Adobe Campaign中的描述性分析功能
+* 在场景中，应用正确的授权以限制/允许对Campaign对象的访问
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**範例問題**
+**示例问题**
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
 
-**第1節：建立行銷活動**
+**第1部分：构建营销活动**
 
 * [Adobe Campaign 入门](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html?lang=en){target="_blank"}
 * [通信渠道](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html?lang=en){target="_blank"}
 * [营销活动入门](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=zh-Hans){target="_blank"}
 * [个性化入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en){target="_blank"}
-* [設計和執行行銷活動](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
+* [设计和执行营销活动](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
 * [关于模板](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=en){target="_blank"}
 
-**第2節：工作流程管理和平台功能**
+**第2部分：工作流管理和平台功能**
 
-* [在工作流程中鎖定目標活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
-* [工作流程中的流量控制活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=en){target="_blank"}
-* [工作流程中的動作活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
+* [工作流中的定位活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
+* [工作流中的流量控制活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=en){target="_blank"}
+* [工作流中的操作活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
 * [工作流属性](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html?lang=zh-Hans){target="_blank"}
 * [开始使用工作流](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html?lang=en){target="_blank"}
 
-**第3節：資料作業**
+**第3节：数据操作**
 
 * [Adobe Campaign 工作区](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=zh-Hans){target="_blank"}
 * [开始使用工作流](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
-* [在工作流程中鎖定目標活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
+* [工作流中的定位活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
 * [开始使用用户档案](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en){target="_blank"}
 * [营销活动入门](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=zh-Hans){target="_blank"}
 * [使用源和目标](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en){target="_blank"}
 
-**第4節：傳遞設定**
+**第4部分：投放配置**
 
 * [创建和设计电子邮件发送](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=en){target="_blank"}
 * [通信渠道](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html?lang=en){target="_blank"}
 * [关于种子地址](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=en){target="_blank"}
-* [開始使用訊息追蹤](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=en){target="_blank"}
+* [消息跟踪入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=en){target="_blank"}
 * [个性化入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en){target="_blank"}
-* [設計和執行行銷活動](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
+* [设计和执行营销活动](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
 
-**第5節：管理與報告**
+**第五节　：管理和报告**
 
 * [关于投放报告](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html?lang=en){target="_blank"}
 * [开始使用报告](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en){target="_blank"}
 * [投放监测入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
-* [開始使用描述性分析](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=en){target="_blank"}
+* [描述性分析入门](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=en){target="_blank"}
 * [权限入门](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E329
+### 考试编号：AD0-E329
 
-[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331 newtab=true"}
+[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
-title: 主要技術認證
-description: 主要使用者的憑證選項概要
+title: 主控技术认证
+description: 面向主控用户的认证选项概述
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'
@@ -8,7 +8,7 @@ ht-degree: 44%
 
 ---
 
-# 主要技術認證
+# 主控技术认证
 
 
 **Analytics**
@@ -29,7 +29,7 @@ ht-degree: 44%
 
 **Experience Manager**
 
-* [架構者（網站）](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
+* [架构师（站点）](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
 **Marketo Engage**
 
@@ -41,6 +41,6 @@ ht-degree: 44%
 
 >[!MORELIKETHIS]
 >
->* [專家技術認證](expert.md)
->* [專業技術認證](professional.md)
+>* [专家技术认证](expert.md)
+>* [专业技术认证](professional.md)
 

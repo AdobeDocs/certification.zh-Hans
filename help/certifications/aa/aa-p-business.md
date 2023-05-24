@@ -1,6 +1,6 @@
 ---
-title: 商務從業人員專業認證
-description: 瞭解如何成為認證的 [!DNL Adobe Analytics] 專業商務從業人員。
+title: 商业从业者专业认证
+description: 了解如何获得认证 [!DNL Adobe Analytics] 商业从业者专业人士。
 solution: Analytics
 product: Analytics
 role: User
@@ -14,157 +14,157 @@ ht-degree: 13%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Analytics] 商務從業者專業人士
+# 的认证历程 [!DNL Adobe Analytics] 商业从业者专业人员
 
-瞭解如何成為認證的Analytics商務從業人員專業人員。
+了解如何成为经过认证的Analytics商业从业者专业人员。
 
-## 最低體驗
+## 最低体验
 
-您至少應有3個月的經驗 [!DNL Adobe Analytics] 以及下列體驗：
+您至少应有3个月的以下工作经验： [!DNL Adobe Analytics] 和以下体验：
 
-* 行銷背景或來自行銷角色，但可能來自各種工作角色。
-* 基本熟悉數位分析量度和維度。
-* 能夠使用Analytics建立報表、回答業務問題並傳達結果。
-* 瞭解區段、報告建立、標準量度定義等基本數位分析概念。
+* 营销背景或来自营销角色，但可能来自各种工作角色。
+* 对数字分析量度和维度的基本了解。
+* 能够使用Analytics构建报表、回答业务问题并传达结果。
+* 了解基本的数字分析概念，如分段、报告构建、标准量度定义。
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* 數位行銷人員
-* 業務分析人員
-* 商業顧問
-* 資料分析人員
-* 網路分析人員
-* 數位分析師
-* 媒體/行銷分析師
-* 產品擁有者和經理
-* UI分析人員
-* 轉換/最佳化專家
+* 数字营销人员
+* 业务分析员
+* 商业顾问
+* 数据分析师
+* Web分析员
+* 数字分析师
+* 媒体/营销分析员
+* 产品所有者和经理
+* UI分析员
+* 转化/优化专家
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：專業（0至12個月經驗）
-* 及格分數： 31/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要相機存取）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E212
+* 级别：专业（0至12个月经验）
+* 及格分数：31/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E212
 
-**整備程度自我評估**
+**就绪性自我评估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
-**考試目標與範圍**
+**考试目标和范围**
 
-第1節：業務分析(34%)
+第一节　：业务分析(34%)
 
-* 根據業務需求/問題，確定適當的報表策略以執行分析
-* 分析資料以回答業務問題
-* 識別轉換漏斗（瞭解業務分析的概念）
-* 請參閱解決方案設計參考資料(SDR) ，瞭解報表中有哪些資料可用
-* 分析報表資料以總結並得出結論
-* 識別報告中的離群值和異常
+* 根据业务需求/问题，确定适当的报告策略以执行分析
+* 分析数据以回答业务问题
+* 确定转化漏斗（理解业务分析的一个概念）
+* 请参阅解决方案设计参考(SDR) ，确定报告中可用的数据
+* 分析报表数据以总结和得出结论
+* 识别报告中的异常值和异常
 
-區段2：專案的報告和控制面板(38%)
+第2部分：项目的报告和仪表板(38%)
 
-* 請根據特定情境考慮使用特定視覺效果的優點
-* 比較流失和流量視覺效果
-* 套用程式以排程並共用不同使用者和/或群組的專案
-* 套用程式以查閱及合併維度、量度、日期範圍和區段
-* 套用程式以建立視覺效果
-* 指定情境，決定要使用的適當專案
-* 行銷活動績效報表
+* 考虑根据给定场景使用特定可视化图表的优势
+* 比较流失和流量可视化图表
+* 应用该流程为不同的用户和/或组计划和共享项目
+* 应用此流程以查找和组合维度、量度、日期范围和区段
+* 应用流程以创建可视化图表
+* 给定一个方案，请确定要使用的相应项目
+* 营销活动效果报告
 
-區段3：細分和計算量度(19%)
+第3部分：分段和计算量度(19%)
 
-* 決定如何使用最佳實務來開發和設定基本區段
-* 套用程式以與組織中的其他人共用區段
-* 套用區段至專案和元件
-* 套用程式以產生基本的計算和/或分段量度
+* 确定如何使用最佳实践来开发和配置基本区段
+* 应用流程与组织中的其他人共享区段
+* 将区段应用于项目和组件
+* 应用流程以生成基本的计算和/或分段量度
 
-第4節：一般工具知識和疑難排解(9%)
+第4节：一般工具知识和故障排除(9%)
 
-* 瞭解存在於中的不同型別的尺寸與引數 [!DNL Adobe Analytics] （evar、prop和事件）
-* 決定如何從匯出資料 [!DNL Adobe Analytics]
+* 了解中存在的不同类型的尺寸和参数 [!DNL Adobe Analytics] （evar、prop和事件）
+* 确定如何从中导出数据 [!DNL Adobe Analytics]
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**範例問題**
+**示例问题**
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
 
-**第1節：業務分析**
+**第一节　：业务分析**
 
 * [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
 * [Analytics Components 指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 * [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [Data Workbench 帮助](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=en){target="_blank"}
 
-**第2節：專案的報告和控制面板**
+**第2部分：项目的报告和仪表板**
 
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 * [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [視覺效果概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hans#quick-viz){target="_blank"}
+* [可视化概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hans#quick-viz){target="_blank"}
 * [Analytics Components 指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 * [Customer Journey Analytics 指南](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en){target="_blank"}
 
-**第3節：細分和計算量度**
+**第3部分：分段和计算量度**
 
 * [Analytics Components 指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 
-**第4節：一般工具知識和疑難排解**
+**第4部分：一般工具知识和故障排除**
 
 * [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [Analytics Components 指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E212
+### 考试编号：AD0-E212
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

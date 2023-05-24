@@ -1,6 +1,6 @@
 ---
-title: 技術基礎專業認證
-description: 瞭解如何成為認證Adobe [!DNL Experience Manager] 專業。
+title: 技术基础专业认证
+description: 了解如何成为认证Adobe [!DNL Experience Manager] 专业的。
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,156 +14,156 @@ ht-degree: 6%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager] 技術基礎專業人員
+# Adobe的认证历程 [!DNL Experience Manager] 技术基础专业人员
 
-瞭解如何成為認證Adobe [!DNL Experience Manager] 專業。
+了解如何成为认证Adobe [!DNL Experience Manager] 专业的。
 
-## 最低體驗
+## 最低体验
 
-您應該成為應用程式開發人員，並擁有：
+您应是应用程序开发人员并拥有：
 
-* 使用AEM平台至少0至12個月的經驗
-* 執行進階元件開發的能力
-* 深入瞭解MVC架構
-* 對AEM中的架構和資料庫的認識
-* 瞭解AEM開發生命週期
+* 在使用AEM平台方面至少需要0-12个月的经验
+* 执行高级组件开发的能力
+* 对MVC框架的深入了解
+* 对AEM中的框架和库的认识
+* 了解AEM开发生命周期
 
-此外，您也應熟悉下列技術和環境：
+此外，您还应熟悉以下技术和环境：
 
 * Maven
 * Git
-* 開發和封裝工具
-* 命令列工具
+* 开发和打包工具
+* 命令行工具
 * JVM
-* 中繼環境
-* 不同的AEM託管功能
-* 將內容/環境同步在一起
+* 暂存环境
+* 不同的AEM托管功能
+* 将内容/环境同步在一起
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* AEM開發人員
-* 技術銷售機會
+* AEM开发人员
+* 技术潜在客户
 
-**考試詳細資料：**
+**考试详细信息：**
 
-* 等級：專業（0至12個月經驗）
-* 及格分數： 38/60
-* 時間：120分鐘
-* 傳遞：線上監護（需要相機存取）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E132
+* 级别：专业（0至12个月经验）
+* 及格分数：38/60
+* 时间：120分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E132
 
-**考試目標與範圍**
+**考试目标和范围**
 
-區段1：內容建立(33%)
+第1部分：内容创建(33%)
 
-* 管理內容頁面
-* 復寫內容
-* 設定原則
-* 使用DAM上傳和發佈資產
-* 使用內容片段
-* 套用程式概念以使用元件
-* 套用程式概念來翻譯內容
-* 使用多網站和即時副本
+* 管理内容页面
+* 复制内容
+* 配置策略
+* 使用DAM上传和发布资产
+* 使用内容片段
+* 应用过程概念以使用组件
+* 应用过程概念翻译内容
+* 使用多站点和活动副本
 
-第2節：實作(42%)
+第2款：执行(42%)
 
-* 套用程式概念以建立元件
-* 建立可編輯的範本
-* 建立使用者端資料庫
-* 更新CRX-DE Lite中的內容
-* 使用JCR結構導覽至節點
-* 建立體驗和內容片段
-* 擴充核心元件
-* 結構內容模型
+* 应用过程概念来创建组件
+* 创建可编辑的模板
+* 创建客户端库
+* 更新CRX-DE Lite中的内容
+* 使用JCR结构导航到节点
+* 创建体验和内容片段
+* 扩展核心组件
+* 结构内容建模
 
-第3節：設定和部署(13%)
+第3款：设置和部署(13%)
 
-* 安裝套件組合
-* 部署套件
-* 安裝AEM執行個體
+* 安装包
+* 部署包
+* 安装AEM实例
 
-第4節：維護和使用者管理(12%)
+第4节：维护和使用者管理(12%)
 
-* 管理使用者存取權
-* 修改OSGI設定
+* 管理用户访问权限
+* 修改OSGI配置
 * 创建查询
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**第1節：內容建立**
+**第1部分：内容创建**
 
 
-* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hans){target="_blank"}
+* [AEM 6.4 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hans){target="_blank"}
 * [AEM 6.5 Authoring 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hans){target="_blank"}
 * [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
 
-**第2節：實作**
+**第2节：实施**
 
-* [AEM元件 — 基本知識](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
+* [AEM组件 — 基础知识](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
 * [AEM中的HeadlessTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=zh-Hans){target="_blank"}
-* [建立頁面範本](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html?lang=en#creating-and-managing-templates){target="_blank"}
+* [创建页面模板](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html?lang=en#creating-and-managing-templates){target="_blank"}
 * [使用客户端库](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=en){target="_blank"}
 
-**第3節：設定和部署**
+**第3部分：设置和部署**
 
 * [Web 控制台](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
 * [AEM 项目结构](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en#embedding-3rd-party-packages){target="_blank"}
 * [包管理器](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html?lang=en#what-are-packages){target="_blank"}
 
-**第4節：維護和使用者管理**
+**第四节　：维护与用户管理**
 
 * [管理用户、组和用户角色](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
-* [使用者管理與安全性](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=en){target="_blank"}
-* [OSGi組態設定](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=en){target="_blank"}
+* [用户管理和安全性](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=en){target="_blank"}
+* [OSGi配置](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E132
+### 考试编号：AD0-E132
 
-[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132 newtab=true"}
+[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

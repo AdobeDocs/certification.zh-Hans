@@ -1,6 +1,6 @@
 ---
-title: 認證續約
-description: 瞭解如何更新 [!DNL Experience Platform] 中的認證 [!DNL Real-Time Customer Data Platform].
+title: 认证续订
+description: 了解如何续订您的 [!DNL Experience Platform] 认证位置 [!DNL Real-Time Customer Data Platform].
 solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
@@ -14,38 +14,38 @@ ht-degree: 1%
 
 ---
 
-# 續約您的Adobe [!DNL Real-Time CDP] 認證
+# 续订Adobe [!DNL Real-Time CDP] 认证
 
-您的Adobe認證有效期為兩年。 如果您快要達到兩年期限，就應該更新您的認證，以保持其作用中。
+您的Adobe认证有效期为两年。 如果您即将迎来两年的学期，是时候续订您的认证以保持其活跃状态。
 
-首先，在下列標籤上選取適當的層級（「專業」、「專家」或「主要」）。 接著，請仔細檢閱更新認證所需執行的動作。
+首先，在下面的选项卡中选择适当的级别(“专业”、“专家”或“主控”)。 然后，仔细查看续订认证所需的操作。
 
-在認證過期之前，請務必提供足夠的時間完成所有需求。
+在认证过期之前，请确保您有充足的时间完成所有要求。
 
-請務必注意，如果認證過期，您必須重新參加認證考試，這並非免費。
+请务必注意，如果认证过期，您将必须重新参加认证考试，这并非免费。
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
->[!TAB 專業]
+>[!TAB 专业]
 
 >[!NOTE]
 >
->即將推出專業更新。
+>专业更新即将推出。
 
 >[!TAB 专家]
 
 >[!NOTE]
 >
->專家續約即將推出。
+>专家更新即将推出。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

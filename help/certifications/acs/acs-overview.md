@@ -1,5 +1,5 @@
 ---
-title: Campaign Standard認證概述
+title: Campaign Standard认证概述
 description: Adobe Campaign Standard 认证选项概述
 solution: Campaign, Campaign Standard
 version: Standard
@@ -11,11 +11,11 @@ ht-degree: 27%
 
 ---
 
-# Campaign Standard認證概述
+# Campaign Standard认证概述
 
 **专家**
 
-* [商務從業人員](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
+* [商业从业者](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [开发人员](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
-造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。
+访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否提供续订选项。

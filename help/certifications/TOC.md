@@ -14,21 +14,21 @@ ht-degree: 47%
 
 + [认证主页](overview.md)
 + [快速入门](getting-started.md)
-+ [如何取得認證](how-to-get-certified.md)
-+ [更新您的認證](renew.md)
-+ [重新啟動程式](restart-program.md)
-+ [我的設定檔](my-profile.md)
++ [如何获得认证](how-to-get-certified.md)
++ [续订您的认证](renew.md)
++ [重新启动程序](restart-program.md)
++ [我的个人资料](my-profile.md)
 + [常见问题解答](faq.md)
-+ 依解決方案列出的技術認證 {#technical-certifications}
++ 按解决方案列出的技术认证 {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
-      + [廣告概述](/help/certifications/aac/aac-overview.md)
-      + 專業 {#aac-professional}
-         + [商務從業人員（搜尋）](/help/certifications/aac/aac-search-p-business.md)
-         + [商務從業人員(DSP)](/help/certifications/aac/aac-dsp-p-business.md)
-      + [續約](/help/certifications/aac/aac-renew.md)
+      + [广告概述](/help/certifications/aac/aac-overview.md)
+      + 专业 {#aac-professional}
+         + [商业从业者（搜索）](/help/certifications/aac/aac-search-p-business.md)
+         + [商业从业者(DSP)](/help/certifications/aac/aac-dsp-p-business.md)
+      + [续订](/help/certifications/aac/aac-renew.md)
    + Adobe [!DNL Analytics] {#aa}
-      + [Analytics概觀](/help/certifications/aa/aa-overview.md)
-      + 專業 {#aa-professional}
+      + [Analytics概述](/help/certifications/aa/aa-overview.md)
+      + 专业 {#aa-professional}
          + [商业从业者](/help/certifications/aa/aa-p-business.md)
          + [Developer](/help/certifications/aa/aa-p-developer.md)
       + 专家 {#aa-expert}
@@ -36,23 +36,23 @@ ht-degree: 47%
          + [Developer](/help/certifications/aa/aa-e-developer.md)
       + 主控 {#aa-master}
          + [架构师](/help/certifications/aa/aa-m-architect.md)
-      + [續約](/help/certifications/aa/aa-renew.md)
+      + [续订](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
-      + [Customer Journey Analytics概觀](/help/certifications/acja/acja-overview.md)
+      + [Customer Journey Analytics概述](/help/certifications/acja/acja-overview.md)
       + 专家 {#acja-expert}
          + [Developer](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
       + [Audience Manager 概述](/help/certifications/aam/aam-overview.md)
-      + 專業 {#aam-professional}
+      + 专业 {#aam-professional}
          + [商业从业者](/help/certifications/aam/aam-p-business.md)
       + 专家 {#aam-expert}
          + [商业从业者](/help/certifications/aam/aam-e-business.md)
       + 主控 {#aam-master}
          + [架构师](/help/certifications/aam/aam-m-architect.md)
-      + [續約](/help/certifications/aam/aam-renew.md)
+      + [续订](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
-      + [Campaign Classic概觀](/help/certifications/acc/acc-overview.md)
-      + 專業 {#acc-professional}
+      + [Campaign Classic概述](/help/certifications/acc/acc-overview.md)
+      + 专业 {#acc-professional}
          + [商业从业者](/help/certifications/acc/acc-p-business.md)
          + [Developer](/help/certifications/acc/acc-p-developer.md)
       + 专家 {#acc-expert}
@@ -60,16 +60,16 @@ ht-degree: 47%
          + [Developer](/help/certifications/acc/acc-e-developer.md)
       + 主控 {#acc-master}
          + [架构师](/help/certifications/acc/acc-m-developer.md)
-      + [續約](/help/certifications/acc/acc-renew.md)
+      + [续订](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
-      + [Campaign Standard概觀](/help/certifications/acs/acs-overview.md)
+      + [Campaign Standard概述](/help/certifications/acs/acs-overview.md)
       + 专家 {#acs-expert}
          + [商业从业者](/help/certifications/acs/acs-e-business.md)
          + [Developer](/help/certifications/acs/acs-e-developer.md)
-      + [續約](/help/certifications/acs/acs-renew.md)
+      + [续订](/help/certifications/acs/acs-renew.md)
    + Adobe [!DNL Commerce] {#ac}
       + [Commerce概述](/help/certifications/ac/ac-overview.md)
-      + 專業 {#ac-professional}
+      + 专业 {#ac-professional}
          + [商业从业者](/help/certifications/ac/ac-p-business.md)
          + [Developer](/help/certifications/ac/ac-p-developer.md)
          + [前端开发人员](/help/certifications/ac/ac-p-fedeveloper.md)
@@ -79,68 +79,68 @@ ht-degree: 47%
          + [前端开发人员](/help/certifications/ac/ac-e-fedeveloper.md)
       + 主控 {#ac-master}
          + [架构师](/help/certifications/ac/ac-m-architect.md)
-      + [續約](/help/certifications/ac/ac-renew.md)
+      + [续订](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
-      + [Experience Manager概觀](/help/certifications/aem/aem-overview.md)
-      + 專業 {#aem-professional}
+      + [Experience Manager概述](/help/certifications/aem/aem-overview.md)
+      + 专业 {#aem-professional}
          + [商业从业者](/help/certifications/aem/aem-p-business.md)
-         + [開發人員（網站）](/help/certifications/aem/aem-sites-p-developer.md)
-         + [開發人員（資產）](/help/certifications/aem/aem-assets-p-developer.md)
-         + [後端開發人員(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md)
-         + [技術基礎](/help/certifications/aem/aem-p-foundations.md)
+         + [开发人员（站点）](/help/certifications/aem/aem-sites-p-developer.md)
+         + [开发人员（资产）](/help/certifications/aem/aem-assets-p-developer.md)
+         + [后端开发人员(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md)
+         + [技术基础](/help/certifications/aem/aem-p-foundations.md)
       + 专家 {#aem-expert}
-         + [商務從業人員（網站）](/help/certifications/aem/aem-sites-e-business.md)
-         + [開發人員（網站）](/help/certifications/aem/aem-sites-e-developer.md)
+         + [商业从业者（站点）](/help/certifications/aem/aem-sites-e-business.md)
+         + [开发人员（站点）](/help/certifications/aem/aem-sites-e-developer.md)
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
-         + [開發人員(Forms)](/help/certifications/aem/aem-forms-e-developer.md)
-         + [Cloud Service移轉](/help/certifications/aem/aem-cs-e-migration.md)
+         + [开发人员(Forms)](/help/certifications/aem/aem-forms-e-developer.md)
+         + [Cloud Service迁移](/help/certifications/aem/aem-cs-e-migration.md)
       + 主控 {#aem-master}
-         + [架構者（網站）](/help/certifications/aem/aem-sites-m-architect.md)
-      + [續約](/help/certifications/aem/aem-renew.md)
+         + [架构师（站点）](/help/certifications/aem/aem-sites-m-architect.md)
+      + [续订](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
-      + [Marketo Engage概觀](/help/certifications/ame/ame-overview.md)
-      + 專業 {#ame-professional}
-         + [認證專家](/help/certifications/ame/ame-p.md)
+      + [Marketo Engage概述](/help/certifications/ame/ame-overview.md)
+      + 专业 {#ame-professional}
+         + [认证专家](/help/certifications/ame/ame-p.md)
       + 专家 {#ame-expert}
          + [商业从业者](/help/certifications/ame/ame-e-business.md)
       + 主控 {#ame-master}
          + [架构师](/help/certifications/ame/ame-m-architect.md)
-      + [續約](/help/certifications/ame/ame-renew.md)
+      + [续订](/help/certifications/ame/ame-renew.md)
    + Adobe [!DNL Document Cloud] {#adc}
-      + [Document Cloud概觀](/help/certifications/adc/adc-overview.md)
-      + 專業 {#adc-professional}
+      + [Document Cloud概述](/help/certifications/adc/adc-overview.md)
+      + 专业 {#adc-professional}
          + [商业从业者](/help/certifications/adc/adc-p-business.md)
-      + [續約](/help/certifications/adc/adc-renew.md)
+      + [续订](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
-      + [Real-Time CDP概觀](/help/certifications/rtcdp/rtcdp-overview.md)
-      + 專業 {#rtcdp-professional}
+      + [Real-Time CDP概述](/help/certifications/rtcdp/rtcdp-overview.md)
+      + 专业 {#rtcdp-professional}
          + [商业从业者](/help/certifications/rtcdp/rtcdp-p-business.md)
       + 专家 {#rtcdp-expert}
-         + [技術從業人員](/help/certifications/rtcdp/rtcdp-e-technical.md)
-      + [續約](/help/certifications/rtcdp/rtcdp-renew.md)
+         + [技术从业者](/help/certifications/rtcdp/rtcdp-e-technical.md)
+      + [续订](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
-      + [Journey Optimizer概觀](/help/certifications/ajo/ajo-overview.md)
+      + [Journey Optimizer概述](/help/certifications/ajo/ajo-overview.md)
       + 专家 {#ajo-expert}
          + [Developer](/help/certifications/ajo/ajo-e-developer.md)
-      + [續約](/help/certifications/ajo/ajo-renew.md)
+      + [续订](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Target] {#at}
-      + [Target概覽](/help/certifications/at/at-overview.md)
-      + 專業 {#at-professional}
+      + [Target概述](/help/certifications/at/at-overview.md)
+      + 专业 {#at-professional}
          + [商业从业者](/help/certifications/at/at-p-business.md)
       + 专家 {#at-expert}
          + [商业从业者](/help/certifications/at/at-e-business.md)
       + 主控 {#at-master}
          + [架构师](/help/certifications/at/at-m-architect.md)
-      + [續約](/help/certifications/at/at-renew.md)
+      + [续订](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
-      + [Workfront概觀](/help/certifications/aw/aw-overview.md)
-      + 專業 {#aw-professional}
-         + [開發人員(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
+      + [Workfront概述](/help/certifications/aw/aw-overview.md)
+      + 专业 {#aw-professional}
+         + [开发人员(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [项目管理器](/help/certifications/aw/aw-p-project-manager.md)
-         + [開發人員（核心）](/help/certifications/aw/aw-core-p-developer.md)
+         + [开发人员（核心）](/help/certifications/aw/aw-core-p-developer.md)
       + 专家 {#aw-expert}
-         + [開發人員（核心）](/help/certifications/aw/aw-core-e-developer.md)
-         + [AEM增強型聯結器](/help/certifications/aw/aw-aem-e-connector.md)
-      + [續約](/help/certifications/aw/aw-renew.md)
-+ 隱藏 {#hidden}
-   + [認證重啟資格考試檢查程式](exam-eligibility-check.md)
+         + [开发人员（核心）](/help/certifications/aw/aw-core-e-developer.md)
+         + [AEM增强型连接器](/help/certifications/aw/aw-aem-e-connector.md)
+      + [续订](/help/certifications/aw/aw-renew.md)
++ 隐藏 {#hidden}
+   + [认证重启资格考试检查程序](exam-eligibility-check.md)

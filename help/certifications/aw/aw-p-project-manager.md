@@ -1,6 +1,6 @@
 ---
-title: 專案經理專業認證
-description: 瞭解如何成為Adobe的認證Adobe專案經理專業人員 [!DNL Workfront].
+title: 项目经理专业认证
+description: 了解如何成为Adobe领域的认证Adobe项目经理专业人员 [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E903" type="positive"
@@ -13,186 +13,186 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Workfront] 專案經理專業人員
+# Adobe的认证历程 [!DNL Workfront] 项目经理专业版
 
-瞭解如何成為認證Adobe專案經理專業人員。
+了解如何成为认证Adobe项目经理专业人员。
 
-## 最低體驗
+## 最低体验
 
-您應該具備：
+您应具有：
 
-* 從初始工作請求到完成對工作流程的瞭解，或曾接觸過專案或工作管理
-* 已完成自助式訓練或訓練營，或已 [!DNL Workfront] 6-12個月的使用者，讓他們瞭解基本功能
-* 瞭解如何設定、追蹤和監控報表資料
+* 从初始工作请求到完成的理解工作过程，或接触过项目或工作管理
+* 已完成自导式训练或训练营，或已 [!DNL Workfront] 用户为6-12个月，以便他们了解基本功能
+* 了解如何配置、跟踪和监控报表数据
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備就緒]
+>[!TAB 准备就绪]
 
-**目標對象：**
+**目标受众：**
 
-* 專案經理、工作經理、計畫員
-* SCRUM主版
-* [!DNL Workfront] 超級使用者
-* 系統管理員
-* 專案經理、投資組合經理
-* Director，經理
-* 資源管理員、流量管理員
+* 项目经理、工作经理、计划员
+* SCRUM主控
+* [!DNL Workfront] 超级用户
+* 系统管理员
+* 项目经理，项目组合经理
+* Director，经理
+* 资源管理器、流量管理器
 
-**考試詳細資料 — Adobe [!DNL Workfront] 專案經理**
+**考试详细信息 — Adobe [!DNL Workfront] 项目管理器**
 
-* 等級：專業（0至12個月經驗）
-* 及格分數：45/70
-* 時間：140分鐘
-* 傳遞：線上監護（需要相機存取）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E903
+* 级别：专业（0至12个月经验）
+* 及格分数：45/70
+* 时间：140分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E903
 
-**整備程度自我評估**
+**就绪性自我评估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
-**考試目標與範圍**
+**考试目标和范围**
 
-第1節：攝入與規劃(30%)
+第1款：接收和规划(30%)
 
-* 識別接收工作請求通知的不同方式
-* 在提出要求時，請檢閱自訂資料以決定適當的動作
-* 在特定的情況下，決定活動所需的共用許可權
-* 在特定的情況下，決定適當的任務設定，以計畫特定時間範圍內的任務執行
-* 找出在專案上尋找關鍵資料的方法
-* 識別追蹤專案風險的不同方式
-* 識別中物件的正確階層 [!DNL Workfront]
-* 識別適當的欄位，以檢視指定的特定資源
-* 指定角色，在專案/工作流程的工作接受或計畫階段確定對角色有用的接受或計畫報告/儀表板
+* 确定接收工作请求通知的不同方式
+* 在提出请求后，查看自定义数据以确定适当的操作
+* 在场景中，确定活动所需的共享权限
+* 在给定场景下，确定适当的任务设置，以计划在特定时间范围内执行任务
+* 确定在项目上查找关键数据的方法
+* 确定跟踪项目风险的不同方法
+* 确定中对象的正确层次结构 [!DNL Workfront]
+* 确定相应的字段以查看特定的已分配资源
+* 给定角色，确定在项目/工作流程的工作引入或规划阶段对角色有用的引入或规划报告/仪表板
 
-區段2：執行(50%)
+第2节：执行(50%)
 
-* 識別瞭解、套用和測量專案中里程碑的方法
-* 建立 [!DNL Workfront] 單一使用核准和使用核准的時間
-* 識別系統如何使用不同的日期型別
-* 在情景中，識別日期型別傳達給專案經理的資訊
-* 在特定的情況下，決定不同的任務限制在使用時如何影響專案時間表
-* 在案例中，示範如何尋找專案團隊以及如何通知他們工作指派、更新或工作項的完成
-* 在特定的情況下，說明如何上傳檔案並產生校訂
-* 識別管理專案的不同方式
-* 在特定的案例中，決定個別專案中特定職務角色的計畫差異
-* 在情景中，找到中的特定財務元素 [!DNL Workfront]
-* 指定甘特圖，說明圖表上的物件關係
-* 比較條件和進度狀態之間的差異
-* 識別如何 [!DNL Workfront] 團隊和 [!DNL Workfront] 可以使用群組
-* 在某個案例中，說明如何為利害關係人提供他們需要的資訊
-* 在情景中，判斷日期型別和持續時間對專案條件有何影響
-* 在特定的情況下，請確定所需的自訂狀態
-* 識別中可用的各種報告型別 [!DNL Workfront]
-* 在某個案例中，請說明建立自訂報表的步驟
+* 确定了解、应用和衡量项目里程碑的方法
+* 创建 [!DNL Workfront] 一次性审批和使用审批的时间
+* 确定系统如何使用不同的日期类型
+* 在场景中，标识日期类型传达给项目经理的信息
+* 给定场景，确定不同的任务限制在使用时如何影响项目时间线
+* 在场景中，演示如何查找项目团队以及如何通知他们工作分配、更新或工作项的完成
+* 在场景中，描述如何上传文档并生成验证
+* 确定管理项目的不同方式
+* 给定一个方案，确定单个项目中特定工作角色的计划差异
+* 给定一个方案，找到中的特定财务元素 [!DNL Workfront]
+* 给定甘特图，说明图表上的对象关系
+* 比较完成情况和进度状态之间的差异
+* 识别如何 [!DNL Workfront] 团队和 [!DNL Workfront] 可以使用组
+* 在场景中，描述如何为利益相关者提供他们所需的信息
+* 给定场景，确定日期类型和持续时间对项目条件有何影响
+* 给定场景，确定需要自定义状态
+* 确定中可用的各种报告类型 [!DNL Workfront]
+* 给定一个方案，描述构建自定义报表的步骤
 
-區段3：結案(20%)
+第3节：结案(20%)
 
-* 指定特定物件狀態，決定需要執行哪些活動或觸發了哪些動作
-* 在情景中，決定報告型別和用於修改任務清單或報告的報告元素
-* 識別可用於報告的不同萬用字元
-* 識別可用來測量專案成功的專案元素
+* 给定特定对象状态，确定需要执行哪些活动或触发了哪些操作
+* 给定一个方案，确定报告的类型以及用于修改任务列表或报告的报告元素
+* 标识可在报告中使用的不同通配符
+* 确定可用于衡量项目成功的项目元素
 
->[!TAB 準備就緒]
+>[!TAB 准备好]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可帮助您准备的建议资源：
 
-**範例問題**
+**示例问题**
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
 
-**建議的培訓課程：**
+**推荐的培训课程：**
 
-[針對新版規劃人員的核心團隊培訓 [!DNL Workfront] 體驗](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[面向新版规划人员的核心团队培训 [!DNL Workfront] 体验](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
 **其他资源:**
 
-**第1節：引入與規劃**
+**第1节：接收和规划**
 
 * [使用通知](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&amp;_LANG=en){target="_blank"}
-* [任務工期和工期型別](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
-* [使用前置任務](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FUse_Prdcssrs%2F_use-task-predecessors.htm&amp;_LANG=en){target="_blank"}
-* [任務資訊](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
-* [更新專案上的工作](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
+* [任务持续时间和持续时间类型](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
+* [使用任务前置任务](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FUse_Prdcssrs%2F_use-task-predecessors.htm&amp;_LANG=en){target="_blank"}
+* [任务信息](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
+* [更新项目工作](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
 * [管理项目](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&amp;_LANG=en){target="_blank"}
-* [Adobe [!DNL Workfront] 基本知識](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2F_workfront-basics.htm&amp;_LANG=en){target="_blank"}
-* [導覽Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&amp;_LANG=en){target="_blank"}
-* [指派任務](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FAssign_tasks%2F_assign-tasks.htm&amp;_LANG=en){target="_blank"}
-* [開始使用Adobe中的敏捷 [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&amp;_LANG=en){target="_blank"}
-* [建立和管理報告](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&amp;_LANG=en){target="_blank"}
+* [Adobe [!DNL Workfront] 基础](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2F_workfront-basics.htm&amp;_LANG=en){target="_blank"}
+* [导航Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&amp;_LANG=en){target="_blank"}
+* [分配任务](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FAssign_tasks%2F_assign-tasks.htm&amp;_LANG=en){target="_blank"}
+* [Adobe中的Agile入门 [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&amp;_LANG=en){target="_blank"}
+* [创建和管理报告](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&amp;_LANG=en){target="_blank"}
 
-**第2節：執行**
+**第2节：执行**
 
-* [核准程式和里程碑路徑](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2F_config-approval-milestone-paths.htm&amp;_LANG=en){target="_blank"}
-* [管理任務](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FManage_tasks%2F_manage-tasks.htm&amp;_LANG=en){target="_blank"}
+* [批准流程和里程碑路径](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2F_config-approval-milestone-paths.htm&amp;_LANG=en){target="_blank"}
+* [管理任务](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FManage_tasks%2F_manage-tasks.htm&amp;_LANG=en){target="_blank"}
 * [管理项目](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&amp;_LANG=en){target="_blank"}
-* [任務資訊](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
+* [任务信息](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
 * [任务](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2F_tasks-overview.htm&amp;_LANG=en){target="_blank"}
-* [任務限制](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_Constraints%2F_task-constraints.htm&amp;_LANG=en){target="_blank"}
-* [使用首頁區域](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Home%2FUsing_the_Home_Area%2F_use-the-home-area.htm&amp;_LANG=en){target="_blank"}
-* [新增檔案至Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FDocuments%2FAdding_Documents_to_Workfront%2F_add-new-documents-_to-workfront.htm&amp;_LANG=en){target="_blank"}
-* [待執行工作](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FUse_Scrum_in_an_Agile_Team%2FBurndown%2F_burndown.htm&amp;_LANG=en){target="_blank"}
-* [資源使用率](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FResource_Mgmt%2FResource_utilization%2F_resource-utilization.htm&amp;_LANG=en){target="_blank"}
-* [專案財務](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&amp;_LANG=en){target="_blank"}
+* [任务限制](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_Constraints%2F_task-constraints.htm&amp;_LANG=en){target="_blank"}
+* [使用“主页”区域](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Home%2FUsing_the_Home_Area%2F_use-the-home-area.htm&amp;_LANG=en){target="_blank"}
+* [向Adobe添加新文档 [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FDocuments%2FAdding_Documents_to_Workfront%2F_add-new-documents-_to-workfront.htm&amp;_LANG=en){target="_blank"}
+* [燃尽](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FUse_Scrum_in_an_Agile_Team%2FBurndown%2F_burndown.htm&amp;_LANG=en){target="_blank"}
+* [资源利用率](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FResource_Mgmt%2FResource_utilization%2F_resource-utilization.htm&amp;_LANG=en){target="_blank"}
+* [项目财务](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&amp;_LANG=en){target="_blank"}
 * [[!DNL Workfront] 文档](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&amp;_LANG=en){target="_blank"}
-* [甘特圖概觀](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&amp;_LANG=en){target="_blank"}
-* [群組角色](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&amp;_LANG=en){target="_blank"}
-* [使用群組的物件](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&amp;_LANG=en){target="_blank"}
-* [使用群組和團隊](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FPeople_Teams_and_Groups%2FWork_with_Groups_and_Teams%2F_work-with-groups-and-teams.htm&amp;_LANG=en){target="_blank"}
-* [更新專案上的工作](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
-* [狀態和優先順序標籤](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&amp;_LANG=en){target="_blank"}
+* [甘特图概述](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&amp;_LANG=en){target="_blank"}
+* [组角色](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&amp;_LANG=en){target="_blank"}
+* [使用组的对象](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&amp;_LANG=en){target="_blank"}
+* [使用组和团队](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FPeople_Teams_and_Groups%2FWork_with_Groups_and_Teams%2F_work-with-groups-and-teams.htm&amp;_LANG=en){target="_blank"}
+* [更新项目工作](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
+* [状态和优先级标签](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&amp;_LANG=en){target="_blank"}
 
-**區段3：關閉**
+**第3节：结束**
 
-* [報表元素概觀](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FReporting_Elements%2F_reporting-elements-overview.htm&amp;_LANG=en){target="_blank"}
-* [在Adobe中建立和管理時程表 [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
+* [报表元素概述](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FReporting_Elements%2F_reporting-elements-overview.htm&amp;_LANG=en){target="_blank"}
+* [在Adobe中创建和管理时间表 [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
 * [Portfolio管理](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
-* [專案時間表](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
+* [项目时间线](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [创建项目](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登入，可直接存取下列連結。**
+**现在您已成功登录，可以直接访问以下链接。**
 
-**參加認證考試**
+**参加认证考试**
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+Adobe使用两个供应商来管理委托考试：PSI和考试。
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+* **PSI** 提供测试中心和日语考试选项（如果可用）
+* **[!DNL Examity]** 提供远程联机选项
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考試編號：AD0-E903
+### 考试编号：AD0-E903
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E903 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E903 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E903 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E903 newtab=true"}
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
 
 >[!ENDTABS]
 
 **问题**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
