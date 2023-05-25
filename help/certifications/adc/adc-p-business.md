@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 354d65edf298c2b633f6b04a76bcf3ccaa796a1c
+source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -127,15 +127,13 @@ ht-degree: 0%
 
 **现在您已成功登录，可以直接访问以下链接。**
 
-**参加练习测试**
+**参加练习测试 — 即将推出！**
 
 我们建议您在开始之前参加免费的练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
 
 我们的实践测试都是基于与实时测试相同的Blueprint开发的。 实践测试将帮助您了解实时测试涵盖的主题。
 
 请记住，通过练习测试并不保证您会通过认证测试。
-
-转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在来参加一个练习测试。
 
 **参加认证考试**
 
