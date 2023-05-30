@@ -2,12 +2,12 @@
 cloud: Experience Cloud
 solution: Experience Cloud
 product: experience cloud
-type: Documentation
+type: Certification
 topic: Certification
 mini-toc-levels: 1
 git-repo: https://github.com/AdobeDocs/certification.zh-Hans
 index: true
-source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
+source-git-commit: 985a6d165ab513843d23ab831ca3907c822ea590
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 93%
