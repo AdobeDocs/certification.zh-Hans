@@ -4,7 +4,7 @@ description: Adobe Campaign Classic 认证选项概述
 solution: Campaign, Campaign Classic v7
 version: Classic v7
 exl-id: 70d2e3e2-5e58-43e2-b093-15cdb16f0a0c
-source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
+source-git-commit: 532a84cc638ac1f8b43166da880537aa4ef13818
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 30%
@@ -25,6 +25,6 @@ ht-degree: 30%
 
 **主控**
 
-* [开发人员](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
+* [架构师](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
 访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否提供续订选项。
