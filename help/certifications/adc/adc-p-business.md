@@ -6,12 +6,11 @@ product: Document Cloud
 role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
+source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
 workflow-type: tm+mt
 source-wordcount: '967'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
