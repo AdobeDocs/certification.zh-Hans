@@ -4,9 +4,9 @@ description: 了解如何获得Adobe认证。 在获得认证之前、期间和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1462'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Adobe使用两个供应商来管理法定考试： [!DNL PSI] 和 [!DNL Examity]
 
 **请按照以下步骤注册认证考试：**
 
-* **步骤1：** 成功登录 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+* **步骤1：** 成功登录 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 * **第2步：** 返回此站点，然后单击技术认证。
 * **步骤3：** 选择您的Adobe解决方案、认证级别和角色
 * **步骤4：** 请按照 **获得认证** 部分。
@@ -50,7 +50,7 @@ Adobe使用两个供应商来管理法定考试： [!DNL PSI] 和 [!DNL Examity]
 
 Adobe支持或考试供应商均无法处理重新计划和取消请求。 48小时以下的考试取消除考试费外，还需支付重新安排费用。
 
-完成考试后，您将获得临时合格或不及格。 填充最终得分最多可能需要72小时。 您可以在History选项卡下的 [Adobe凭据管理器](http://www.certmetrics.com/adobe){target="_blank"}.
+完成考试后，您将获得临时合格或不及格。 填充最终得分最多可能需要72小时。 您可以在History选项卡下的 [Adobe凭据管理器](https://www.certmetrics.com/adobe){target="_blank"}.
 
 如果在第一次尝试时未能通过Adobe认证考试，则必须至少等待24小时再重新考试。 如果在第二次或以后任何尝试中未能通过考试，则需要经过14个日历天的等待时间，才能重新参加考试。 每次尝试都将产生单独的考试费。
 
@@ -212,6 +212,6 @@ _所有销售都是最终的。_ 不接受退货和退款。 Adobe考试凭单�
 
 **问题**
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2665'
+source-wordcount: '2655'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 认证需要承诺、有法律抗辩力，以及通过Adobe您的专业知识进行验证。 您还可以从下载徽章，以在社交个人资料上突出您的认证 [!DNL Credly].
 
-要了解有关如何管理徽章的更多信息，请参阅 [!DNL Credly]，转到 [此处](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+要了解有关如何管理徽章的更多信息，请参阅 [!DNL Credly]，转到 [此处](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,7 +43,7 @@ ht-degree: 1%
 有时，一个考试有多个版本。 最好采用最新版本。
 
 * 如果考试即将弃用，您将在认证历程页面上看到一条注释。 这意味着此考试版本不久将被删除，因为有新版本的考试可用。 我们鼓励应聘者采用最新版本，但如果您觉得更愿意采用退休版本，则可以采用最新版本。 无论哪种情况，您的认证都将持续两年。
-* 如果您的当前认证即将过期，则应续订该认证。 续订选项的问题较少，并且免费。 这些选项涵盖最新的应用程序功能。 如果认证过期，您将必须参加最新版本的认证考试，您将为此付费。 [了解有关续订选项的更多信息](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* 如果您的当前认证即将过期，则应续订该认证。 续订选项的问题较少，并且免费。 这些选项涵盖最新的应用程序功能。 如果认证过期，您将必须参加最新版本的认证考试，您将为此付费。 [了解有关续订选项的更多信息](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -154,7 +154,7 @@ Adobe认证在两年后过期。 您可以通过参加适用的Adobe认证考试
 
 您的认证将过期，并将在 [!DNL Credly] 以及您的任何社交个人资料。 此外，如果您的认证过期，则无法参加更短的续订考试或通过持续学习续订。
 
-要了解有关如何管理徽章的更多信息，请参阅 [!DNL Credly]，转到 [此处](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+要了解有关如何管理徽章的更多信息，请参阅 [!DNL Credly]，转到 [此处](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -162,7 +162,7 @@ Adobe认证在两年后过期。 您可以通过参加适用的Adobe认证考试
 
 您可以免费续订您的认证。 这为您提供了一种经济高效的方法来维护您的认证，并使您的解决方案技能保持最新。
 
-要详细了解如何续订您的认证，请转到 [此处](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+要详细了解如何续订您的认证，请转到 [此处](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -387,7 +387,7 @@ Adobe认证重启计划是一项一次性计划，允许个人免费通过在线
 
 +++为什么是Adobe [!DNL Commerce] 认证不是Adobe认证重启计划的一部分吗？
 
-当前提供的Adobe没有过期的证书持有者 [!DNL Commerce] 自2023年4月23日起的认证。 因此，所有活动Adobe [!DNL Commerce] 通过认证的候选人可以选择通过持续学习续订 [认证的续订路径](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+当前提供的Adobe没有过期的证书持有者 [!DNL Commerce] 自2023年4月23日起的认证。 因此，所有活动Adobe [!DNL Commerce] 通过认证的候选人可以选择通过持续学习续订 [认证的续订路径](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 

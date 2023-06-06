@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1296'
-ht-degree: 17%
+source-wordcount: '1246'
+ht-degree: 16%
 
 ---
 
@@ -139,68 +139,68 @@ ht-degree: 17%
 
 **第1节： [!DNL Adobe Target] 基本面**
 
-* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [了解如何使用 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [了解如何使用 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
 
 **第2节：与集成[!DNL Adobe Target]**
 
-* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [AEM Sites视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [受众创建选项](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=zh-Hans){target="_blank"}
-* [Adobe Experience Cloud 受众](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=zh_Hans){target="_blank"}
+* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [AEM Sites视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
+* [受众创建选项](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html){target="_blank"}
+* [Adobe Experience Cloud 受众](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
 * [将Audience Manager与Target集成](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
 * [Adobe.IO集成](http://developers.adobetarget.com/api/#introduction){target="_blank"}
-* [将体验片段导出到 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
-* [集成 Experience Platform Launch 和 AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html?lang=en){target="_blank"}
+* [将体验片段导出到 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
+* [集成 Experience Platform Launch 和 AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html){target="_blank"}
 * [将区段发布到 Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html){target="_blank"}
-* [手动配置集成 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html?lang=en){target="_blank"}
-* [收集的数据类型](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
+* [手动配置集成 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html){target="_blank"}
+* [收集的数据类型](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html){target="_blank"}
 
 
 **第3节： [!DNL Adobe Target] 行政和治理**
 
-* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [[!DNL Adobe Target] 安全性概述](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf){target="_blank"}
 * [Adobe Admin Console用户](https://helpx.adobe.com/cn/enterprise/using/users.html){target="_blank"}
-* [AEM 6.5 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 
 **第4节： [!DNL Adobe Target] 和受支持的接触点**
 
-* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [解决了： [!DNL Adobe Target] iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
-* [在移动应用程序中实施 Adobe Experience Cloud 指南](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=en){target="_blank"}
+* [在移动应用程序中实施 Adobe Experience Cloud 指南](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=zh-Hans){target="_blank"}
 * [Target API参考](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
 
 **第5部分：利用 [!DNL Adobe Target] recommendations**
 
-* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 
 **第6节：架构、设计和实施[!DNL Adobe Target]**
 
-* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [添加 [!DNL Adobe Target] 带有标记](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [添加 [!DNL Adobe Target] 带有标记](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
 * [客户 ID 和身份验证状态](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=zh-Hans){target="_blank"}
-* [了解如何使用 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [了解如何使用 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
 * [Target API参考](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
-* [[!DNL Adobe Target] 扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] 扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html){target="_blank"}
 * [设备上决策简介](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [何时使用设备上决策还是边缘决策](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
 * [已解决：JWT访问令牌](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
 
 **第7部分：故障排除**
 
-* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [[!DNL Adobe Target] 教程](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [[!DNL Adobe Target] 教程](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
 * [清除各种浏览器的缓存和Cookie](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
-* [将体验片段导出到 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#prerequisites){target="_blank"}
+* [将体验片段导出到 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#prerequisites){target="_blank"}
 * [已解决：为什么我的历史受众显示为“正在收集数据”？](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
-* [Adobe Experience Cloud 受众](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=zh_Hans){target="_blank"}
+* [Adobe Experience Cloud 受众](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
 
 >[!TAB 获得认证]
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **现在您已成功登录，可以直接访问以下链接。**
 
@@ -229,6 +229,6 @@ Adobe使用两个供应商来管理委托考试：PSI和考试。
 
 **问题**
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

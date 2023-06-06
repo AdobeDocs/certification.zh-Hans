@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1074'
-ht-degree: 4%
+source-wordcount: '1060'
+ht-degree: 3%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ ht-degree: 4%
 
 ## 续订认证的说明：
 
-* **步骤1**：成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
 * **步骤2**：查看考试目标和资源
 * **步骤3**：参加并通过考试
 
@@ -124,38 +124,38 @@ ht-degree: 4%
 
 **第一节　：管理和维护**
 
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （字段管理、CRM同步、审核跟踪、用户管理、工作区和分区、智能列表、自定义字段）
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （字段管理、CRM同步、审核跟踪、用户管理、工作区和分区、智能列表、自定义字段）
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （与Salesforce同步，CRM集成）
 
 **第2部分：营销活动/营销活动管理**
 
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (随机示例、具有数据值的智能营销活动、触发的等待步骤、member.webinar url、营销活动检查器、筛选逻辑、在电子邮件中使用令牌、通过表单填写创建潜在客户、资源和工作区、管理Forms)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} (智能列表、智能营销活动、需求生成Forms、需求生成事件、电子邮件营销、创建项目、事件、审核跟踪、使用项目、管理标记、滴流培养、登陆页面、令牌、管理其他集成、Webhook、项目成员自定义字段、工作区和人员分区)
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智能列表、智能营销活动、需求生成Forms、需求生成事件、电子邮件营销、创建项目、事件、审核跟踪、使用项目、管理标记、滴流培养、登陆页面、令牌、管理其他集成、Webhook、项目成员自定义字段、工作区和人员分区)
 
 **第3部分：潜在客户管理**
 
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （制作一个潜在客户生命周期计划视频，通过电子邮件取消订阅）
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} (智能营销活动、Marketo Sales Insight、有趣的时刻、管理智能列表中的人员、系统管理字段)
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智能营销活动、Marketo Sales Insight、有趣的时刻、管理智能列表中的人员、系统管理字段)
 
 **第4节：数据管理**
 
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (维护潜在客户退回电子邮件目录文章，如何管理您的Marketo数据库以实现可投放性支持博客，Marketo活动数据保留策略 — 位于标题下的文章)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （电子邮件营销硬退回和软退回、报表类型、个性化、动态内容）
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （电子邮件营销硬退回和软退回、报表类型、个性化、动态内容）
 
 **第5节：报告**
 
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （设置客户获取最佳实践文章）
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （报表、绩效分析、计划绩效报表、编辑报表、计划成员资格）
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （报表、绩效分析、计划绩效报表、编辑报表、计划成员资格）
 
 **第6部分：最佳实践**
 
 * [引导评分的最终指南](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （使用项目、电子邮件营销、A/B测试）
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （使用项目、电子邮件营销、A/B测试）
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （请注意您的QA过程）
 
 ### 续订您的认证
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Marketo EngageBusiness Practioner Expert续订链接。
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Marketo EngageBusiness Practioner Expert续订链接。
 
 [！BADGE获取Adobe [!DNL Marketo Engage] 商业从业者专家续约考试AD5-E824]{type=信息性url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
@@ -168,6 +168,6 @@ ht-degree: 4%
 
 ### 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

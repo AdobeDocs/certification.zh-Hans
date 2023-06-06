@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1053'
+source-wordcount: '1051'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ## 最低体验
 
-您至少应该有3-5年的领导经验 [!DNL Commerce] 能够利用Adobe设计、集成、实施和解释业务问题的解决方案 [!DNL Commerce] 以及相关的服务。
+您至少应有3-5年的领导经验 [!DNL Commerce] 能够利用Adobe设计、集成、实施和解释业务问题的解决方案 [!DNL Commerce] 以及相关的服务。
 
 此外，您还应非常熟悉以下活动和技术：
 
@@ -164,7 +164,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **现在您已成功登录，可以直接访问以下链接。**
@@ -194,6 +194,6 @@ Adobe使用两个供应商来管理委托考试： PSI和 [!DNL Examity].
 
 **问题**
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1675'
+source-wordcount: '1649'
 ht-degree: 0%
 
 ---
@@ -133,12 +133,12 @@ ht-degree: 0%
 **第1部分：核心功能/常规配置**
 
 * [[!DNL Commerce] 商家文档](https://docs.magento.com/user-guide/getting-started.html){target="_blank"}
-* [了解产品类型](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html?lang=en){target="_blank"}
-* [客户管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html?lang=en){target="_blank"}
+* [了解产品类型](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html){target="_blank"}
+* [客户管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html){target="_blank"}
 * [创建产品](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
-* [管理员菜单](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html?lang=en){target="_blank"}
-* [数据网格](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html?lang=en){target="_blank"}
-* [存储设置](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html?lang=en){target="_blank"}
+* [管理员菜单](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"}
+* [数据网格](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"}
+* [存储设置](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"}
 * [商店和购买体验简介](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
 * [管理系统简介：操作管理](https://docs.magento.com/user-guide/operations.html){target="_blank"}
 * [导入和导出产品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
@@ -158,14 +158,14 @@ ht-degree: 0%
 **第2部分：促销**
 
 * [促销活动](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [产品类别](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html?lang=en){target="_blank"}
+* [产品类别](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"}
 * [类别定位](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
 * [产品设置](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
 * [属性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
 * [属性集](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
 * [简单产品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"}
-* [可配置属性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html?lang=en){target="_blank"}
-* [分层导航](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html?lang=en){target="_blank"}
+* [可配置属性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html){target="_blank"}
+* [分层导航](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html){target="_blank"}
 * [目录管理简介](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
 * [高级定价](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
@@ -191,8 +191,8 @@ ht-degree: 0%
 
 **第5节：系统架构**
 
-* [Commerce商业用户版 — 站点、商店和视图](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html?lang=en){target="_blank"}
-* [Commerce企业用户 — 商店视图和缓存清除](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html?lang=en){target="_blank"}
+* [Commerce商业用户版 — 站点、商店和视图](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
+* [Commerce企业用户 — 商店视图和缓存清除](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
 * [Commerce商业用户版 — 店面](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
 * [商店详细信息](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [“报表”菜单](https://docs.magento.com/user-guide/reports.html){target="_blank"}
@@ -200,8 +200,8 @@ ht-degree: 0%
 
 **第6部分：合规/安全**
 
-* [用户和角色](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html?lang=en){target="_blank"}
-* [角色范围和权限](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html?lang=en){target="_blank"}
+* [用户和角色](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
+* [角色范围和权限](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
 * [权限](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
 * [存储隐私策略](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
 * [安全性和合规性](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
@@ -212,7 +212,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **现在您已成功登录，可以直接访问以下链接。**
 
@@ -251,6 +251,6 @@ Adobe使用两个供应商来管理委托考试：PSI和考试。
 
 **问题**
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 11%
+source-wordcount: '976'
+ht-degree: 9%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 11%
 
 **第1部分：管理和配置**
 
-* [Adobe  [!DNL Journey Optimizer]  文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 访问控制
    * 配置消息
@@ -124,7 +124,7 @@ ht-degree: 11%
 
 **第2部分：AEP基金会**
 
-* [Adobe  [!DNL Experience Platform]  文档](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hans){target="_blank"}
+* [Adobe  [!DNL Experience Platform]  文档](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * XDM指南
    * Real-time Customer Profile指南
@@ -142,17 +142,17 @@ ht-degree: 11%
 
 **第3节：Offer decisioning**
 
-* [Adobe  [!DNL Journey Optimizer]  文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 决策管理
 
-* [Adobe [!DNL Journey Optimizer] 视频和Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 视频和Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
    * 创建历程
 
 **第4部分：内容创作**
 
-* [Adobe  [!DNL Journey Optimizer]  文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 设计内容
    * 历程
@@ -162,7 +162,7 @@ ht-degree: 11%
 
 **第5节：Journey Orchestration**
 
-* [Adobe  [!DNL Journey Optimizer]  文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 历程
    * 跟踪和监测
@@ -173,7 +173,7 @@ ht-degree: 11%
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **现在您已成功登录，可以直接访问以下链接。**
@@ -215,6 +215,6 @@ Adobe使用两个供应商来管理委托考试：PSI和考试。
 
 **问题**
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
