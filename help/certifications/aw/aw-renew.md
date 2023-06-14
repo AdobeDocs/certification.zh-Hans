@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
 workflow-type: tm+mt
-source-wordcount: '3068'
+source-wordcount: '3755'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 * [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe Workfront Fusion中的函数、Adobe Workfront Fusion中的组织、Adobe Workfront Fusion中的模块、Adobe Workfront Fusion中的场景
 
-**第2部分：方案设计和架构**
+**第2部分：场景设计和架构**
 
 * [Workfront Fusion场景优化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"}  — 教程
 * [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe Workfront Fusion中的模块
@@ -220,6 +220,111 @@ ht-degree: 0%
 确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Workfront Project Manager Professional续订 — AD5-833链接。
 
 * [Workfront Project Manager专业版续订 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+
+>[!NOTE]
+>
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+
++++
+
++++Workfront核心开发人员专业版
+
+## 续订认证的说明：
+
+* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤2**：查看考试目标和资源
+* **步骤3**：参加并通过考试
+
+### 准备就绪
+
+**考试详细信息：**
+
+* 及格分数：25/35
+* 时间：70分钟
+* 费用：免费/非监督
+* 投放：按需
+* 可用语言：英语
+* 先决条件：当前（未过期）Adobe Workfront Core Developer Professional认证
+* 考试ID：AD5-E835
+
+**范围和目标**
+
+第1节：战略和接收(20%)
+
+* 使用Portfolio和程序
+* 使用请求队列
+* 使用自定义Forms
+
+第2款：预算和规划(11%)
+
+* 使用资源规划工具
+
+第3部分：用户体验(26%)
+
+* 说明创建正确用户体验过程中用户管理的最佳实践
+* 在给定情况下，在整个系统中应用正确的共享和访问权限设置
+* 描述什么是Blueprint并识别何时使用它
+* 演示如何创建和使用时间表
+* 描述连接器、插件和加载项的用途和价值
+
+第4部分：指标和报表(14%)
+
+* 描述构建、发送和自定义报告的基本概念
+* 说明如何构建和自定义仪表板
+
+第五节　：执行(29%)
+
+* 演示如何设置审批和验证工作流
+* 识别为项目创建问题的目的
+* 演示如何自定义组级别项目状态
+* 确定在Workfront中启用Agile所需的属性
+* 确定在Workfront中输入时间的方法
+
+## 准备好
+
+您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+
+以下是一些可帮助您准备的建议资源：
+
+**第1节：战略和吸纳**
+
+* [Portfolio优化器概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
+* [创建和管理请求队列](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
+* [提供对请求队列的访问权限](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
+* [自定义表单概述](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+
+**第2款：预算和规划**
+
+* [找到工作负载均衡器](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
+* [使用工作负载均衡器批量分配工作](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [在工作负载均衡器中管理用户分配](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
+
+**第3部分：用户体验**
+
+* [何时以及如何停用或删除用户](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
+* [共享项目模板](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
+* [安装Blueprint后要执行的操作](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
+* [创建一次性时间表](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
+
+**第4部分：指标和报表**
+
+* [Adobe Workfront集成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
+* [使用Adobe Workfront插件进行Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [发送和共享报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [创建仪表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+
+**第五节　执行**
+
+* [在Adobe Workfront中将问题转化为项目](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
+* [创建或编辑展示板](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
+* [在讨论区中添加或移除成员](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [了解时间表布局](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+
+## 续订您的认证
+
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Workfront Core Developer Professional续订 — AD5-835链接。
+
+* [Workfront核心开发人员专业版续订 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
