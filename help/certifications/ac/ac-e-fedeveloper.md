@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe的认证历程 [!DNL Commerce] 前端开发人员专家
 
 了解如何成为认证Adobe Developer专家。
+
+>[!NOTE]
+>
+>此测试Adobe Commerce前端开发人员专家(AD0-E710)已更新。 如果您已开始学习或计划学习此版本，请确保在2023年8月18日之前完成该版本。 如果您刚刚开始，我们建议您参加 [此考试的最新版本](ac-e-fedeveloper0623.md).
 
 ## 最低体验
 
@@ -38,10 +42,6 @@ ht-degree: 0%
 * 了解代码包
 * 实施翻译
 * 了解如何使用电子邮件模板
-
->[!NOTE]
->
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
