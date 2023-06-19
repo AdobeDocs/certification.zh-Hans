@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '1307'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
@@ -182,15 +182,7 @@ Adobe Commerce前端开发人员被视为专家级角色，在Adobe Commerce前�
 
 **现在您已成功登录，可以直接访问以下链接。**
 
-**参加练习测试**
-
-我们建议您在开始之前参加免费的练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
-
-我们的实践测试都是基于与实时测试相同的Blueprint开发的。 实践测试将帮助您了解实时测试涵盖的主题。
-
-请记住，通过练习测试并不保证您会通过认证测试。
-
-转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在来参加一个练习测试。
+**练习测试即将推出**
 
 **参加认证考试**
 
