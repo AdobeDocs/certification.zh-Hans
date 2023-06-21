@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: d48e094e6aafac4e74b38bbe7440e6d2955231be
 workflow-type: tm+mt
-source-wordcount: '1321'
+source-wordcount: '1317'
 ht-degree: 9%
 
 ---
@@ -140,14 +140,14 @@ ht-degree: 9%
 * [扩展或创建模式](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html#extending-or-creating-schemas){target="_blank"}
 * [模式结构](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
 * [列表 [!DNL Campaign Classic] options](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=zh-Hans){target="_blank"}
-* [配置外部帐户](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html%3Flang%3Dja){target="_blank"}
+* [配置外部帐户](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html){target="_blank"}
 * [类型规则](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html#typology-rules){target="_blank"}
 
 **第2部分：自定义**
 
 * [编辑架构](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html){target="_blank"}
 * [扩展架构](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html){target="_blank"}
-* [自定义实例](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html%3Flang%3Den){target="_blank"}
+* [自定义实例](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html){target="_blank"}
 * [用例：根据条件选择种子地址](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html){target="_blank"}
 * [关于 Campaign 中的选择启用和选择禁用](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html){target="_blank"}
 
