@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '769'
 ht-degree: 1%
 
 ---
@@ -123,8 +123,9 @@ ht-degree: 1%
 >[!IMPORTANT]
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
 
-**现在您已成功登录，可以直接访问以下链接。**
 
 **参加练习测试 — 即将推出！**
 
@@ -134,34 +135,26 @@ ht-degree: 1%
 
 请记住，通过练习测试并不保证您会通过认证测试。
 
-**参加认证考试**
+## 关于考试
 
-Adobe使用两个供应商来管理委托考试：PSI和考试。
+{{about-certification-exam}}
 
-* **PSI** 提供测试中心和日语考试选项（如果可用）
-* **[!DNL Examity]** 提供远程联机选项
+## 参加考试(AD0-D106)
 
-要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
+### 可用选项
 
-您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
+**[!DNL Examity]** ( *在线* )
 
-如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
-
-如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
-
-### 考试编号：AD0-D106
-
-[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106 newtab=true"}
-
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 >[!ENDTABS]
 
-**问题**
+## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

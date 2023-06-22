@@ -4,9 +4,9 @@ description: 开始使用  [!DNL Experience Cloud]  认证。了解项目和此�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 611305977b6fb73516c236983fdf5878fcc920d6
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '941'
 ht-degree: 2%
 
 ---
@@ -72,9 +72,14 @@ Adobe认证考试可自定义为三种不同的工作角色。 请阅读以下�
 
 >[!ENDTABS]
 
-[!BADGE 获得认证]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**问题**
+<span class="spectrum-Button-label has-no-wrap">
+   获得认证
+</span>
+</a>
+
+## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

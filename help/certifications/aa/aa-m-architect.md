@@ -7,9 +7,9 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '900'
 ht-degree: 17%
 
 ---
@@ -136,10 +136,15 @@ ht-degree: 17%
 >[!IMPORTANT]
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
 
-**现在您已成功登录，可以直接访问以下链接。**
 
-**参加认证考试**
+## 关于考试
+
+{{about-certification-exam}}
+
+## 参加考试
 
 Adobe使用两个供应商来管理委托考试：PSI和考试。
 
@@ -152,17 +157,31 @@ Adobe使用两个供应商来管理委托考试：PSI和考试。
 
 如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考试编号：AD0-E207
+## 参加考试(AD0-E207)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
+### 可用选项
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+**PSI** (*测试中心/日语考试选项（如果可用）*)
 
-您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
+
+**[!DNL Examity]** ( *在线* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 >[!ENDTABS]
 
-**问题**
+## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

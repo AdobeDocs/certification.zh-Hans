@@ -6,18 +6,20 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
 workflow-type: tm+mt
-source-wordcount: '5189'
+source-wordcount: '5163'
 ht-degree: 8%
 
 ---
 
 # 从已过期转为已认证，重新开始您的认证历程
 
-此限时计划，已提供 **2023年4月24日至2023年10月20日**，让您有机会更新自己的技能，并在快速变化的数字环境中保持领先地位。
-
-认证从2020年到2023年4月23日到期的个人有资格获得此资格 **免费** 程序。
+>[!AVAILABILITY]
+>
+> 此有限时间计划，提供自 **2023年4月24日至2023年10月20日**.  在快速变化的数字环境中，该计划提供了更新您的技能并保持领先地位的机会。
+>
+> **资格：认证从2020年到2023年4月23日到期的个人有资格享受此待遇 **免费** 程序。
 
 ## 简介
 
@@ -107,7 +109,7 @@ Adobe重启计划是一项允许个人过期的计划 [!DNL Experience Cloud] �
 | [导出Adobe Analytics数据并使其民主化 — 第5和第6课](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [使用自定义分段和日期过滤数据 — 第2课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [引导式Analytics实施 — 第5课](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
-| [ 实施和衡量内部站点搜索 — 第3和第4课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
+| [实施和衡量内部站点搜索 — 第3和第4课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
@@ -210,12 +212,9 @@ Adobe重启计划是一项允许个人过期的计划 [!DNL Experience Cloud] �
 
 您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是一些可帮助您准备的建议资源：
+以下是建议的资源，
 
-[!BADGE 示例问题]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
-
-**资源:**
-
+* [示例考试](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] 产品文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe支持 —  [!DNL Experience Cloud] 受众](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [[!DNL Experience Cloud]  学习和支持](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
@@ -223,9 +222,14 @@ Adobe重启计划是一项允许个人过期的计划 [!DNL Experience Cloud] �
 
 **重新启动您的认证**
 
-这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+Adobe Audience Manager业务从业者专家重新开始考试ADS-E826是免费的、可公开预订的，并且不受监督。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
 
-[!BADGE 参加Adobe Audience Manager业务从业者专家重新开始的考试ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E826 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 +++
 
@@ -319,9 +323,14 @@ Adobe重启计划是一项允许个人过期的计划 [!DNL Experience Cloud] �
 
 ### 重新启动您的认证
 
-这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+Adobe Audience Manager Architect主控复习考试ADS-E825是免费的、可打开的书，并且不受监考。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
 
-[!BADGE 参加Adobe Audience Manager Architect主控复习考试ADS-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 +++
 
@@ -429,9 +438,14 @@ Adobe重启计划是一项允许个人过期的计划 [!DNL Experience Cloud] �
 
 ### 重新启动您的认证
 
-这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+Adobe [!DNL Campaign Standard] Developer Expert复习考试ADS-821是免费的、打开的书本，并且不受监督。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
 
-[！BADGE获取Adobe [!DNL Campaign Standard] Developer Expert重新开始考试ADS-821]{type=Informational url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 +++
 
@@ -502,9 +516,14 @@ Adobe重启计划是一项允许个人过期的计划 [!DNL Experience Cloud] �
 
 ### 重新启动您的认证
 
-这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+Adobe [!DNL Campaign Standard] 商业从业者专家复习考试ADS-822是免费的、公开的，并且不受监护。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
 
-[！BADGE获取Adobe [!DNL Campaign Standard] 商业从业者专家重新开始考试ADS-822]{type=信息性url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 +++
 
@@ -607,9 +626,14 @@ Adobe重启计划是一项允许个人过期的计划 [!DNL Experience Cloud] �
 
 ### 重新启动您的认证
 
-这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+Adobe Campaign Classic复习考试ADS-823是免费的、公开的，并且没有监考。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
 
-[!BADGE 参加Adobe Campaign Classic复习考试ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 +++
 
@@ -728,13 +752,18 @@ Adobe重启计划是一项允许个人过期的计划 [!DNL Experience Cloud] �
 
 ### 重新启动您的认证
 
-这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+Adobe Marketo Engage业务从业者专家重新开始考试ADS-E824是免费的、可公开预订的，并且不受监督。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
 
-[!BADGE 参加Adobe Marketo Engage业务从业者专家重新开始的考试ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 >[!ENDTABS]
 
-### 问题
+## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

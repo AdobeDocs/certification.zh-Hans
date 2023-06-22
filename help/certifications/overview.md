@@ -4,10 +4,10 @@ description: 了解 Adobe 的  [!DNL Experience Cloud]  认证。了解获得认
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: c488851695d2eb1c2c8369126760aaa74c44ef58
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 8%
+source-wordcount: '460'
+ht-degree: 13%
 
 ---
 
@@ -36,6 +36,28 @@ Adobe明白，拥有合适的资历在职业生涯中取得进展并在竞争中
 
 我们的认证计划专为众多领域的专业人士而设计，其中包括开发人员、业务从业人员和架构师。 您可以从多种认证途径中进行选择，以展示您在Adobe中的熟练技能和专业知识 [!DNL Experience Cloud] 给顾客和雇主留下深刻印象。
 
+## 查看所有认证
+
+有关每个可用产品认证的所有详细信息都列在左侧目录和以下列表中，
+
+* [Adobe Analytics](/help/certifications/aa/aa-overview.md)
+* [Adobe Advertising Cloud](/help/certifications/aac/aac-overview.md)
+* [Adobe Audience Manager](/help/certifications/aam/aam-overview.md)
+* [Adobe Commerce](/help/certifications/ac/ac-overview.md)
+* [Adobe Campaign Classic](/help/certifications/acc/acc-overview.md)
+* [了解 Adobe Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+* [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
+* [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
+* [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
+<!-- * [Adobe Experience Platform](/help/certifications/aep/aep-overview.md) -->
+* [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
+* [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
+* [Adobe Target](/help/certifications/at/at-overview.md)
+* [Adobe Workfront](/help/certifications/aw/aw-overview.md)
+
+
+## 快速入门
+
 那为什么还要等呢？ 立即踏出释放您的专业潜力的第一步，探索我们的认证途径！
 
-[!BADGE 开始使用]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">开始使用</span></a>

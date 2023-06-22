@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
+source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 * [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe Workfront Fusion中的函数、Adobe Workfront Fusion中的组织、Adobe Workfront Fusion中的模块、Adobe Workfront Fusion中的场景
 
-**第2部分：场景设计和架构**
+**第2部分：方案设计和架构**
 
 * [Workfront Fusion场景优化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"}  — 教程
 * [Workfront文档](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe Workfront Fusion中的模块
@@ -464,7 +464,7 @@ ht-degree: 0%
 
 >[!ENDTABS]
 
-**问题**
+## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

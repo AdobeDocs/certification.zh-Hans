@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '1148'
-ht-degree: 8%
+source-wordcount: '1063'
+ht-degree: 9%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 8%
 工具:
 
 * Adobe Experience Platform Launch(Adobe发布)
-* 调试工具与 [!DNL Adobe Analytics] (数据包监视器，如Adobe调试器、浏览器开发人员工具、Charles)
+* 调试工具与 [!DNL Adobe Analytics] (数据包监视器，如Adobe Debugger、浏览器开发人员工具、Charles)
 * [!DNL Adobe Analytics] Admin Console报表包设置
 * Workspace基本知识
 * Web开发工具、代码编辑器和移动调试工具
@@ -162,21 +162,18 @@ ht-degree: 8%
 >[!IMPORTANT]
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
 
+## 参加练习测试
 
-**现在您已成功登录，可以直接访问以下链接。**
+{{practice-test}}
 
-**参加练习测试**
+## 关于考试
 
-我们建议您在开始之前参加免费的练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
+{{about-certification-exam}}
 
-我们的实践测试都是基于与实时测试相同的Blueprint开发的。 实践测试将帮助您了解实时测试涵盖的主题。
-
-请记住，通过练习测试并不保证您会通过认证测试。
-
-转到 [Adobe认证考试准备门户](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 现在来参加一个练习测试。
-
-**参加认证考试**
+## 参加考试
 
 Adobe使用两个供应商来管理委托考试：PSI和考试。
 
@@ -189,17 +186,31 @@ Adobe使用两个供应商来管理委托考试：PSI和考试。
 
 如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
-### 考试编号：AD0-E209
+## 参加考试(AD0-E209)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209 newtab=true"}
+### 可用选项
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+**PSI** (*测试中心/日语考试选项（如果可用）*)
 
-您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
+
+**[!DNL Examity]** ( *在线* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 >[!ENDTABS]
 
-**问题**
+## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

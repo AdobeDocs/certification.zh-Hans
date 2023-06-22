@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
+source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
 workflow-type: tm+mt
-source-wordcount: '1198'
+source-wordcount: '1079'
 ht-degree: 1%
 
 ---
@@ -176,34 +176,39 @@ ht-degree: 1%
 >[!IMPORTANT]
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
 
 
-**现在您已成功登录，可以直接访问以下链接。**
+## 关于考试
 
-**参加认证考试**
+{{about-certification-exam}}
 
-Adobe使用两个供应商来管理委托考试：PSI和考试。
+## 参加考试(AD0-E719)
 
-* **PSI** 提供测试中心和日语考试选项（如果可用）
-* **[!DNL Examity]** 提供远程联机选项
+### 可用选项
 
-要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
+**PSI** (*测试中心/日语考试选项（如果可用）*)
 
-您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
-### 考试编号：AD0-E719
+**[!DNL Examity]** ( *在线* )
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719 newtab=true"}[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
+<span class="spectrum-Button-label has-no-wrap">
+   参加考试
+</span>
+</a>
 
 >[!ENDTABS]
 
-**问题**
+## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
