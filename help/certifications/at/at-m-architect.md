@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1149'
 ht-degree: 19%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 19%
 # 的认证历程 [!DNL Adobe Target] 架构师主控
 
 了解如何成为认证Adobe架构师主控。
+
+>[!NOTE]
+>
+>此测试(Adobe Target Architect主控(AD0-E407))已更新。 如果您已开始学习或计划学习此版本，请确保在2023年8月18日之前完成该版本。 如果您刚刚开始，我们建议您参加 [此考试的最新版本](at-m-architect0623.md).
 
 ## 最低体验
 
@@ -52,10 +56,6 @@ ht-degree: 19%
 * Web和移动环境
 * AMS托管环境
 * Adobe I/O Runtime
-
->[!NOTE]
->
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
