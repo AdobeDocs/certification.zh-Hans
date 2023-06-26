@@ -6,7 +6,7 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 10%
@@ -19,7 +19,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->这是最新的Adobe Target Architect主控考试。 如果您已经开始学习或计划了 [旧版本](at-m-architect.md) 您必须在2023年8月25日之前完成此操作。
+>这是最新的Adobe Target Architect主控考试。 如果您已经开始学习或计划了 [旧版本](at-m-architect.md) 您必须在2023年9月8日之前完成此操作。
 
 ## 最低体验
 
