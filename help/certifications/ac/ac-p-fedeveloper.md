@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1076'
 ht-degree: 1%
 
 ---
@@ -94,10 +94,12 @@ ht-degree: 1%
 
 第4部分：JavaScript (16%)
 
-* 演示内容管理的基本用法
-* 描述将主题应用/安排到特定范围（网站、商店、商店视图）的步骤
-* 描述使用管理员配置将设计更改应用于类别、产品和CMS页面的步骤
-* 描述自定义事务性电子邮件的步骤
+* 演示初始化和调用JavaScript组件的能力
+* 演示RequireJS的用法
+* 描述mixin的使用
+* 描述如何在JS中添加翻译
+* 描述挖空JS的使用
+* 描述jQuery小组件的用法
 
 第5部分：管理员配置和页面生成器(12%)
 
