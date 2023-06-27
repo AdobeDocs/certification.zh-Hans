@@ -3,7 +3,7 @@ title: Target认证概述
 description: Adobe Target 认证选项概述
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 11%
@@ -36,7 +36,7 @@ Adobe Target Architect主控认证已更新。
 
 **主控**
 
-* [架构师 — 有效期至2023年8月25日](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [架构师 — 截止日期为2023年9月8日](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [架构师新建](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
 访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否提供续订选项。
