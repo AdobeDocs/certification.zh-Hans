@@ -4,10 +4,11 @@ description: 了解如何获得Adobe认证 [!DNL Audience Manager] 主控架构�
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
+level: Experienced
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 12%

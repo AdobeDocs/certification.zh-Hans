@@ -4,10 +4,11 @@ description: 了解如何获得Adobe认证 [!DNL Audience Manager] 商业从业�
 solution: Audience Manager
 product: Audience Manager
 role: User
+level: Experienced
 badge: label="Exam AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '909'
 ht-degree: 13%

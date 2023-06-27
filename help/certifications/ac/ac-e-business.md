@@ -4,10 +4,11 @@ description: 了解如何成为Adobe领域的Adobe业务从业者认证专家 [!
 solution: Commerce
 product: Magento
 role: User
+level: Experienced
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '1443'
 ht-degree: 0%

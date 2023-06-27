@@ -2,12 +2,13 @@
 title: 认证续订
 description: 了解如何续订您的 [!DNL Experience Platform] 认证位置 [!DNL Real-Time Customer Data Platform].
 solution: Real-time Customer Data Platform
+product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 1%

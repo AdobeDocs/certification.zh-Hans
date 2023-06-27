@@ -4,10 +4,11 @@ description: 了解如何成为Adobe领域的认证Adobe Developer专家 [!DNL C
 solution: Commerce
 product: Magento
 role: Developer
+level: Experienced
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 1%

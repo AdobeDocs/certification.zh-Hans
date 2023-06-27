@@ -4,10 +4,11 @@ description: 了解如何在Adobe中成为认证Adobe架构师主控 [!DNL Comme
 solution: Commerce
 product: Magento
 role: Data Architect
+level: Experienced
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '881'
 ht-degree: 1%
@@ -20,7 +21,7 @@ ht-degree: 1%
 
 ## 最低体验
 
-您至少应有3-5年的领导经验 [!DNL Commerce] 能够利用Adobe设计、集成、实施和解释业务问题的解决方案 [!DNL Commerce] 以及相关的服务。
+您至少应该有3-5年的领导经验 [!DNL Commerce] 能够利用Adobe设计、集成、实施和解释业务问题的解决方案 [!DNL Commerce] 以及相关的服务。
 
 此外，您还应非常熟悉以下活动和技术：
 

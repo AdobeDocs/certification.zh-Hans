@@ -4,10 +4,11 @@ description: 了解如何获得认证 [!DNL Adobe Analytics] 开发人员专家�
 solution: Analytics
 product: Analytics
 role: Developer
+level: Experienced
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 9%
