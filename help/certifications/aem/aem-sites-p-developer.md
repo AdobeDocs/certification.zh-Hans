@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: d0f36986ffb20d9a338ba80932643d9b79ab9a9e
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 12%
+source-wordcount: '708'
+ht-degree: 14%
 
 ---
 
@@ -49,10 +49,6 @@ ht-degree: 12%
 * 可用语言：英语
 * 费用：125美元（全球）/95美元（印度）
 * 考试ID：AD0-E123
-
-**就绪性自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
 **考试目标和范围**
 
@@ -124,7 +120,7 @@ ht-degree: 12%
 * [[!DNL Experience Manager as a Cloud Service] 概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [核心组件简介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)
 * [[!DNL AEM as Cloud Service] 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 版本更新和路线图](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] 版本更新和路线图](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hans){target="_blank"}
 
 >[!TAB 获得认证]
 
