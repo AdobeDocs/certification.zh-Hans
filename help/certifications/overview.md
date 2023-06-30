@@ -4,7 +4,7 @@ description: 了解 Adobe 的  [!DNL Experience Cloud]  认证。了解获得认
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: c488851695d2eb1c2c8369126760aaa74c44ef58
+source-git-commit: 54141526d798a3204f5e4f12444e78c77814fd3e
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 13%
@@ -49,7 +49,6 @@ Adobe明白，拥有合适的资历在职业生涯中取得进展并在竞争中
 * [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
 * [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
 * [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
-<!-- * [Adobe Experience Platform](/help/certifications/aep/aep-overview.md) -->
 * [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
 * [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
 * [Adobe Target](/help/certifications/at/at-overview.md)
