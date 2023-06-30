@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1019'
 ht-degree: 14%
@@ -38,7 +38,7 @@ ht-degree: 14%
 
 * FTP客户端
 * 当前 [!DNL Adobe Analytics] Workspace功能和Workspace之外的其他报表选项(例如 计划项目和计划报告)
-* 调试工具与 [!DNL Adobe Analytics] (数据包监视器，如Adobe Debugger、浏览器开发人员工具、Charles)
+* 调试工具与 [!DNL Adobe Analytics] (数据包监视器，如Adobe调试器、浏览器开发人员工具、Charles)
 * Admin Console(Analytics报表包管理控制台和Experience Cloud管理控制台)
 * Adobe启动基础知识/基础知识
 * 应用程序、SPA、基本网站了解
@@ -181,7 +181,7 @@ ht-degree: 14%
 
 ### 可用选项
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

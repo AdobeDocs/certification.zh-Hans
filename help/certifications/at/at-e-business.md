@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 1%
@@ -199,7 +199,7 @@ ht-degree: 1%
 
 ### 可用选项
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

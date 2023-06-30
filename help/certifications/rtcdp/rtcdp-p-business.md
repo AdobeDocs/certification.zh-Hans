@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 4%
@@ -155,7 +155,7 @@ ht-degree: 4%
 
 ### 可用选项
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

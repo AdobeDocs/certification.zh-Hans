@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '881'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 ## 最低体验
 
-您至少应该有3-5年的领导经验 [!DNL Commerce] 能够利用Adobe设计、集成、实施和解释业务问题的解决方案 [!DNL Commerce] 以及相关的服务。
+您至少应有3-5年的领导经验 [!DNL Commerce] 能够利用Adobe设计、集成、实施和解释业务问题的解决方案 [!DNL Commerce] 以及相关的服务。
 
 此外，您还应非常熟悉以下活动和技术：
 
@@ -177,7 +177,7 @@ ht-degree: 1%
 
 ### 可用选项
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 
