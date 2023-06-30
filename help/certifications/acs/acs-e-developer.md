@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1096'
 ht-degree: 12%
@@ -170,6 +170,8 @@ ht-degree: 12%
 ## 参加考试(AD0-E306)
 
 ### 可用选项
+
+{#PSI-note}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

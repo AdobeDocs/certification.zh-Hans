@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1443'
 ht-degree: 0%
@@ -228,6 +228,8 @@ ht-degree: 0%
 ## 参加考试(AD0-E708)
 
 ### 可用选项
+
+{#PSI-note}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

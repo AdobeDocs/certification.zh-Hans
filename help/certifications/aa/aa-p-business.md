@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '797'
 ht-degree: 12%
@@ -146,6 +146,8 @@ ht-degree: 12%
 ## 参加考试(AD0-E212)
 
 ### 可用选项
+
+{#PSI-note}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1006'
 ht-degree: 1%
@@ -171,6 +171,8 @@ Adobe认证计划为有兴趣获得认证主控称号的候选人推出了新的
 ## 参加考试(AD0-E556)
 
 ### 可用选项
+
+{#PSI-note}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

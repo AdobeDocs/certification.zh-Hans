@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 12%
@@ -178,6 +178,8 @@ ht-degree: 12%
 ## 参加考试(AD0-E213)
 
 ### 可用选项
+
+{#PSI-note}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

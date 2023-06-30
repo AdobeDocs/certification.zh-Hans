@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E600和AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: b9231e1a3b80440862b5004f42acf10b704b91a7
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1686'
 ht-degree: 6%
@@ -219,7 +219,7 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 * [AEP应用程序服务：Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Real-Time CDP快速入门](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform主页和功能板](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
-* [在UI中监视目标的数据流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
+* [在UI中监视目标的数据流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=zh-Hans){target="_blank"}
 * [在Adobe中创建和激活区段 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [隐私概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Real-time CDP中的数据治理](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
@@ -288,6 +288,8 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 ## 参加考试(AD0-E601)
 
 ### 可用选项
+
+{#PSI-note}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

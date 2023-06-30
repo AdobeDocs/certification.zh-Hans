@@ -8,7 +8,7 @@ role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '905'
 ht-degree: 5%
@@ -163,6 +163,8 @@ ht-degree: 5%
 ## 参加考试(AD0-E501)
 
 ### 可用选项
+
+{#PSI-note}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

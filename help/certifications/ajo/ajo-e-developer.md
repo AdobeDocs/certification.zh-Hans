@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 12%
@@ -138,7 +138,7 @@ ht-degree: 12%
 * [Adobe简介 [!DNL Experience Platform] 课程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Adobe快速入门 [!DNL Experience Platform] 面向数据工程师的课程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [面向数据工程师的数据引入课程](https://experienceleague.adobe.com/?lang=zh-Hans?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [数字体验 Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=zh-Hans){target="_blank"}
+* [数字体验 Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
 
 **第3节：Offer decisioning**
 
@@ -188,6 +188,8 @@ ht-degree: 12%
 ## 参加考试(AD0-E603)
 
 ### 可用选项
+
+{#PSI-note}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 

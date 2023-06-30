@@ -1,7 +1,7 @@
 ---
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -29,3 +29,9 @@ Adobe使用两个供应商来管理委托考试： PSI和 [!DNL Examity].
 如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
 
 通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}. 您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
+
+## PSI注释 {#PSI-note}
+
+>[!IMPORTANT]
+>
+>从2023年8月1日开始，PSI将不再提供考试时间安排。 如果您已经安排了绩效考核考试，则必须在2023年8月1日之前参加该考试。 如果您安排了2023年8月1日之后的PSI考试，请重新安排在该日期之前举行的考试。 如果您在2023年8月1日之前无法参加或没有准备好参加考试，请发送电子邮件至 <certif@adobe.edu> 以便我们支持你将考试转交给考试。 这包括日语考试。

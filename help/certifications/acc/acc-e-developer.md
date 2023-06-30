@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1140'
 ht-degree: 14%
@@ -192,6 +192,8 @@ ht-degree: 14%
 ## 参加考试(AD0-E330)
 
 ### 可用选项
+
+{#PSI-note}
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 
