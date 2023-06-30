@@ -4,7 +4,7 @@ description: 了解如何获得Adobe认证。 在获得认证之前、期间和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '1462'
 ht-degree: 1%
@@ -20,6 +20,8 @@ ht-degree: 1%
 >[!TAB 注册]
 
 Adobe使用两个供应商来管理法定考试： [!DNL PSI] 和 [!DNL Examity].
+
+{{PSI-note}}
 
 * **[!DNL PSI]：** 提供测试中心和日语考试选项（如果可用）
 * **[!DNL Examity]：** 提供远程联机选项
@@ -85,6 +87,8 @@ Adobe支持或考试供应商均无法处理重新计划和取消请求。 48小
 >[!TAB 认证供应商]
 
 Adobe凭据团队与供应商合作，帮助支持计划的计划和目标。  以下是供应商及其联系信息：
+
+{{PSI-note}}
 
 | 供应商名称 | 描述 | 支持页面/电子邮件 |
 | ------- | ------- | ------- |

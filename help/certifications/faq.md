@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '2655'
 ht-degree: 1%
@@ -116,6 +116,8 @@ Adobe可满足某些特殊要求。 如果您需要更多时间来完成考试�
 +++
 
 +++除英语外，是否还有其他语言的考试？
+
+{{PSI-note}}
 
 我们通过PSI（我们的供应商之一）提供了一些日语版的考试。 如果该考试有日语版，则会在该考试的详细信息中注明。 可在认证历程页面的“准备就绪”选项卡上找到考试详细信息。
 
