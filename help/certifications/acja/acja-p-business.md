@@ -4,11 +4,11 @@ description: 了解如何成为以下领域的认证Adobe专家： [!DNL Custome
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
-badge: label="Exam AD0-E608" type="positive"
+badge: label="考试AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '626'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 13%
 
 ## 最低体验
 
-理想的MQC是拥有至少6个月Customer Journey Analytics经验的分析师，并对CJA如何与Adobe Experience Platform结合使用具有基本了解。 候选人能够使用适当的报表和可视化选项执行基本和高级分析，以满足给定的业务需求。
+最理想的符合最低条件的候选人是具有6个月Customer Journey Analytics经验并基本了解CJA如何与Adobe Experience Platform配合使用的分析师。 候选人能够使用适当的报表和可视化选项执行基本和高级分析，以满足给定的业务需求。
 
 >[!NOTE]
 >
