@@ -6,7 +6,7 @@ product: Customer Journey Analytics
 role: User
 badge: label="考试AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: 5d7c136e3d38f3fed5443dcb476c8a2af9fad24d
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 13%
@@ -125,13 +125,13 @@ ht-degree: 13%
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-D608)
+## 参加考试(AD0-E608)
 
 ### 可用选项
 
 **[!DNL Examity]** ( *在线* )
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    参加考试
@@ -145,4 +145,3 @@ ht-degree: 13%
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
-
