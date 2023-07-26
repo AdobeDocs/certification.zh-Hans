@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '5199'
+source-wordcount: '5347'
 ht-degree: 8%
 
 ---
@@ -120,13 +120,19 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 * **步骤2**：学习Experience League课程
 * **步骤3**：从以下选项中进行选择。
 
-**选项1：** 选择 **三个活动** 完成并通过与每个课程相关的课程评估，且分数不低于80%。 课程评估是免费的、按需进行的，并且不受监督。 您可以重复这些课程，直到成功通过80%的评估为止。
+  **选项A：**
 
-**选项2：** 选择 **两个活动** 完成并通过与每个课程相关的课程评估，且分数不低于80%。 课程评估是免费的、按需进行的，并且不受监督。 您可以重复这些课程，直到成功通过80%的评估为止。 然后， **提交客户推荐表** 验证您在过去12个月中总计至少100小时的项目参与情况。
+  选择 **三门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
 
-[Adobe Experience Manager客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **选项B：**
 
-当您的客户参考资料经过审核后，Adobe凭据团队会通知您。
+  首先，选择 **两门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+
+  第二， **提交客户推荐表** 验证您作为Adobe认证的个人，继续领导、管理和/或参与Adobe Experience Cloud实施项目的工作情况。 本表确认您在过去12个月中至少参加了100小时的项目参与演示。
+
+  [Adobe Experience Manager客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+
+  当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
 
 ### 面向专家和主控人员的课程和课程评估：
 
@@ -149,13 +155,19 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 * **步骤2**：学习Experience League课程
 * **步骤3**：从以下选项中进行选择。
 
-**选项1：** 选择 **三个活动** 完成并通过与每个课程相关的课程评估，且分数不低于80%。 课程评估是免费的、按需进行的，并且不受监督。 您可以重复这些课程，直到成功通过80%的评估为止。
+  **选项A：**
 
-**选项2：** 选择 **两个活动** 完成并通过与每个课程相关的课程评估，且分数不低于80%。 课程评估是免费的、按需进行的，并且不受监督。 您可以重复这些课程，直到成功通过80%的评估为止。 然后， **提交客户推荐表** 验证您在过去12个月中总计至少100小时的项目参与情况。
+  选择 **三门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
 
-[Adobe Experience Manager客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **选项B：**
 
-当您的客户参考资料经过审核后，Adobe凭据团队会通知您。
+  首先，选择 **两门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+
+  第二， **提交客户推荐表** 验证您作为Adobe认证的个人，继续领导、管理和/或参与Adobe Experience Cloud实施项目的工作情况。 本表确认您在过去12个月中至少参加了100小时的项目参与演示。
+
+  [Adobe Analytics客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+
+  当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
 
 ### 面向专家和主控人员的课程和课程评估：
 
@@ -176,13 +188,19 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 * **步骤2**：学习Experience League课程
 * **步骤3**：从以下选项中进行选择。
 
-**选项1：** 选择 **三个活动** 完成并通过与每个课程相关的课程评估，且分数不低于80%。 课程评估是免费的、按需进行的，并且不受监督。 您可以重复这些课程，直到成功通过80%的评估为止。
+  **选项A：**
 
-**选项2：** 选择 **两个活动** 完成并通过与每个课程相关的课程评估，且分数不低于80%。 课程评估是免费的、按需进行的，并且不受监督。 您可以重复这些课程，直到成功通过80%的评估为止。 然后， **提交客户推荐表** 验证您在过去12个月中总计至少100小时的项目参与情况。
+  选择 **三门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
 
-[Adobe Experience Manager客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
+  **选项B：**
 
-当您的客户参考资料经过审核后，Adobe凭据团队会通知您。
+  首先，选择 **两门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+
+  第二， **提交客户推荐表** 验证您作为Adobe认证的个人，继续领导、管理和/或参与Adobe Experience Cloud实施项目的工作情况。 本表确认您在过去12个月中至少参加了100小时的项目参与演示。
+
+  [Adobe Target客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+
+  当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
 
 ### 面向专家和主控人员的课程和课程评估：
 
