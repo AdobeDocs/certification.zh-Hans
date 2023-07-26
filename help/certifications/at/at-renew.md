@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '539'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 确保在认证过期之前有充足的时间完成所有要求。
 
-请务必注意，如果认证过期，您将必须重新参加认证考试，该考试不免费。
+请务必注意，如果认证在续订完成之前过期，则必须重新参加认证考试，该考试不免费。
 
 >[!IMPORTANT]
 >
@@ -45,22 +45,22 @@ ht-degree: 1%
 
 ## 有关续订的说明 [!DNL Adobe Target] 认证
 
-**第1步：** 成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-**第2步：** 学习Experience League中的课程**步骤3：**从以下选项中进行选择以完成续订。
+* **第1步：** 成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **第2步：** 学习Experience League课程
+* **步骤3：** 从以下选项中选择以完成续订。
 
-**选项A：**
+  **选项A：**
 
-选择 **三门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+  选择 **三门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
 
-**选项B：**
-
+  **选项B：**
 首先，选择 **两门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
 
-第二， **提交客户推荐表** 验证您作为Adobe认证的个人，继续领导、管理和/或参与Adobe Experience Cloud实施项目的工作情况。 本表确认您在认证续订2年间隔内至少参加了100小时的演示项目参与。
+  第二， **提交客户推荐表** 验证您作为Adobe认证的个人，继续领导、管理和/或参与Adobe Experience Cloud实施项目的工作情况。 本表确认您在认证续订2年间隔内至少参加了100小时的演示项目参与。
 
-[客户参考表 [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
+  [客户参考表 [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
-当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
+  当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
 
 >[!NOTE]
 >
@@ -68,8 +68,8 @@ ht-degree: 1%
 
 ## 面向专家和主控人员的课程和课程评估：
 
-| 面向专家和主控的课程和课程评估 | 课程评估 |
-| ------- | ------- |
+| 专家和主控课程 | 课程评估 |
+| ------ | ------ |
 | [[!DNL Adobe Target] 设备上决策概述](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
 | [[!DNL Adobe Target] 个性化课程的创新](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
 | [移动应用程序实施和个性化课程](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |

@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 8%
@@ -27,7 +27,7 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 
 认证过期但符合此计划资格的人员，应该已经收到Adobe认证计划的一封电子邮件，邮件主题为“免费再次获得Adobe认证”。
 
-如果您不确定您是否符合条件，请查看 [此处](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+如果您不确定您是否符合条件，请查看 [此处](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 您的认证必须符合 **所有** 符合以下条件之一：
 
@@ -198,7 +198,7 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 
   第二， **提交客户推荐表** 验证您作为Adobe认证的个人，继续领导、管理和/或参与Adobe Experience Cloud实施项目的工作情况。 本表确认您在过去12个月中至少参加了100小时的项目参与演示。
 
-  [Adobe Target客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Adobe Target客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
 
@@ -272,7 +272,7 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 
 在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
-以下是建议的资源，
+以下是建议的资源：
 
 * [示例考试](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] 产品文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
