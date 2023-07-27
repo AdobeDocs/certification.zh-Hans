@@ -1,15 +1,15 @@
 ---
 title: 商业从业者专家认证
-description: 了解如何成为认证Adobe业务从业专家 [!DNL Marketo Engage].
+description: 了解如何成为认证Adobe业务从业者专家 [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Exam AD0-E559" type="positive"
+badge: label="考试AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
-* 约18个月的使用经验 [!DNL Marketo] 创建营销活动和利用客户行为数据所需的特性和功能
+* 约18个月的使用经验 [!DNL Marketo] 创建营销活动和利用客户行为数据所需的功能
 
-您应该是在以下方面拥有经验的营销人员：
+您应该是在以下领域拥有经验的营销人员：
 
 * 构建、启动和分析营销活动
 * 使用底层电子邮件行为和技术，包括HTML、集成、数据库和CRM
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -55,13 +55,13 @@ ht-degree: 0%
 * [!DNL Marketo Engage] 顾问
 * 数字/营销自动化经理/专家/专家/分析师
 * 营销系统管理员
-* Demand generation manager
+* 需求生成管理器
 * 电子邮件营销经理
 * 收入运营经理
 * Growth operations manager
 * Martech设计师
 * 营销技术经理
-* 集成式营销活动经理
+* 集成式活动管理器
 * 业务系统分析师
 
 **考试详细信息：**
@@ -69,37 +69,37 @@ ht-degree: 0%
 * 级别：专家（1-3年经验）
 * 及格分数：32/50
 * 时间：110分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语和日语
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E559
 
-**就绪性自我评估**
+**准备情况自我评估**
 
 完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
 **考试目标和范围**
 
-第1款：管理和维护(12%)
+第一节　：管理和维修(12%)
 
 * 确定Marketo与CRM之间的映射过程
-* 使用审核记录识别资产发生了什么情况
+* 使用审核记录识别资产所发生的情况
 * 识别用户和角色之间的差异
-* 给定一个方案，确定最适合使用工作区和分区
+* 给定一个方案，确定最适合使用工作区和分区的方法
 * 通过本机Marketo同步识别CRM平台
-* 在给定场景下，找到引用信息的位置
+* 给定场景，找到引用信息的位置
 
-第2部分：营销活动/Campaign Management (46%)
+第2部分：营销活动/Campaign Management(46%)
 
 * 演示对智能营销活动、逻辑、限制和流程步骤的了解
-* 给定一个方案，定义下一步
+* 给定场景，定义下一步
 * 确定问题的根本原因
 * 解释计划、渠道、标记和期间成本之间的关系
 * 演示/将正确的配置应用于参与计划
 * 给出不同类型令牌的使用示例
 * 概述Webhook在Marketo中的用途及其使用方式
-* 确定并适用适当的PMCF
-* 解释全球资产的好处以及如何使用它们
+* 确定并正确使用周转基金
+* 解释全球资产的好处及其使用方法
 * 演示表单的功能
 * 执行和分析A/B测试策略
 * 识别在何处使用“使用者”引用了项目或资产
@@ -109,7 +109,7 @@ ht-degree: 0%
 第3款：销售线索管理(12%)
 
 * 概述定义生命周期模型时的关键决策点
-* 在商机评分方面应用最佳实践
+* 在潜在客户评分方面应用最佳实践
 * 实施适当的有趣时刻
 * 解释潜在客户活动日志
 * 给定场景，标识创建源
@@ -123,8 +123,8 @@ ht-degree: 0%
 
 第5节：报告(4%)
 
-* 根据营销活动结果，确定如何设置项目以提供最佳报告
-* 在给定场景下，能够调查和分配适当的客户获取计划
+* 给定活动结果，确定如何设置项目以提供最佳报告
+* 在场景中，能够调查和分配适当的客户获取项目
 
 第6节：最佳做法(16%)
 
@@ -136,11 +136,11 @@ ht-degree: 0%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
-**第一节　：管理和维护**
+**第一节　管理和维护**
 
 * [了解 [!DNL Salesforce] 同步](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
 * [[!DNL Marketo]：业务从业者管理](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
@@ -156,8 +156,8 @@ ht-degree: 0%
 * [查找筛选器并将其添加到智能列表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.html){target="_blank"}
 * [了解智能营销活动](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
 * [在流程步骤中使用添加选项](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.html){target="_blank"}
-* [了解计划会员资格](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-* [创建项目群渠道](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
+* [了解计划成员资格](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
+* [创建项目频道](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
 * [令牌概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
 * [管理我的令牌](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.html){target="_blank"}
 * [了解参与计划](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
@@ -174,24 +174,24 @@ ht-degree: 0%
 * [发送警报](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.html){target="_blank"}
 * [在人员的活动日志中过滤活动类型](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.html){target="_blank"}
 * [有趣的时刻](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.html){target="_blank"}
-* [有趣时刻的触发器令牌](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
+* [触发有趣时刻的令牌](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
 * [了解收入模型](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
 
 **第4节：数据管理**
 
 * [更改数据值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
-* [定义单选字段或表单中的选定字段中的值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html){target="_blank"}
+* [定义表单中单选或选定字段的值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html){target="_blank"}
 * [Marketo活动数据保留策略](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
 * [创建分段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [在智能列表中使用区段过滤器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
 
 
-**第5节：报告**
+**第五节　：报告**
 
 * [报表类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [了解计划会员资格](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-* [创建项目群绩效报表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.html){target="_blank"}
+* [了解计划成员资格](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
+* [创建计划绩效报表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.html){target="_blank"}
 * [创建程序分析器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.html){target="_blank"}
 * [订阅基本报表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html){target="_blank"}
 
@@ -210,7 +210,7 @@ ht-degree: 0%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 ## 参加练习测试
 
@@ -228,19 +228,17 @@ ht-degree: 0%
 
 **PSI** (*测试中心/日语考试选项（如果可用）*)
 
-*英语*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   参加英语考试
 </span>
 </a>
 
-*日语*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   参加日语考试
 </span>
 </a>
 
@@ -259,4 +257,4 @@ ht-degree: 0%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
