@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="考试AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
+source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
 workflow-type: tm+mt
-source-wordcount: '1514'
+source-wordcount: '1498'
 ht-degree: 19%
 
 ---
@@ -18,14 +18,7 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->此考试(AD0-E117)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 请使用下面的按钮进行注册，以便在它再次可用时接收通知。
-
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   通知我
-</span>
-</a>
+>此考试(AD0-E117)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
 
 了解如何成为认证架构师主控。
 
@@ -229,14 +222,7 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->此考试(AD0-E117)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 请使用下面的按钮进行注册，以便在它再次可用时接收通知。
-
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   通知我
-</span>
-</a>
+>此考试(AD0-E117)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
 
 >[!ENDTABS]
 
