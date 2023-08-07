@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="考试AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
+source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
 workflow-type: tm+mt
-source-wordcount: '1498'
-ht-degree: 19%
+source-wordcount: '1722'
+ht-degree: 17%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 19%
 >[!NOTE]
 >
 >此考试(AD0-E117)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
+>
+>**问题?** 查看我们的 [常见问题解答](#AEM-FAQ) ，位于本页底部。
 
 了解如何成为认证架构师主控。
 
@@ -211,7 +213,6 @@ ht-degree: 19%
 >
 >此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
-
 ## 关于考试
 
 {{about-certification-exam}}
@@ -223,6 +224,8 @@ ht-degree: 19%
 >[!NOTE]
 >
 >此考试(AD0-E117)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
+>
+>**问题?** 查看我们的 [常见问题解答](#AEM-FAQ) ，位于本页底部。
 
 >[!ENDTABS]
 
@@ -231,3 +234,23 @@ ht-degree: 19%
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+
+## Adobe Experience Manager Sites Architect主控考试常见问题解答(AD0-E117) {#AEM-FAQ}
+
+认证考试AD0-E117正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
+
+**如果我已经安排了考试，会发生什么？**
+
+已取消所有计划的AD0-E117考试。 在新版本可用时，受影响的考生需要再次安排考试。
+
+**我已经付了考试钱。 我会收到退款吗？**
+
+* 如果您通过Examity使用信用卡支付考试费用，您将获得全额退款。  
+* 如果用优惠券付费，您的代码将重置，并且您可以将其应用于新的考试预约。  
+* 如果您的优惠券在您可以使用之前过期，则我们会在您准备好安排时间后为您颁发一个新优惠券。
+
+**我需要在10月之前续订认证；这是否会影响我的续订？**
+
+不会。您可以通过持续学习进行更新。 请确保遵循下提供的说明和流程 [续订您的认证](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
