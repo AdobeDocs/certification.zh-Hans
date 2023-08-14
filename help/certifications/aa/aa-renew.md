@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
+source-git-commit: 21a1ff4a0b8fe66004e5dae8e7a75f4196e74375
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 5%
+source-wordcount: '1300'
+ht-degree: 8%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
 
-首先，在下面的选项卡中选择适当的级别(“专业”、“专家”或“主控”)。 然后，仔细查看续订认证所需的操作。
+首先，在下面的选项卡中选择适当的级别（“专业”、“专家”或“主人”）。 然后，仔细查看续订认证所需的操作。
 
 确保在认证过期之前有充足的时间完成所有要求。
 
@@ -32,17 +32,136 @@ ht-degree: 5%
 
 >[!TAB 专业]
 
++++Adobe Analytics开发人员专业版
+
+## 续订认证的说明：
+
+* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤2**：查看考试目标和资源
+* **步骤3**：参加并通过考试
+
+### 准备就绪
+
+**考试详细信息：**
+
+* 及格分数：30/40
+* 时间：80分钟
+* 费用：免费/非监护
+* 投放：按需
+* 可用语言：英语
+* 先决条件：当前（未过期）Adobe Analytics开发人员专业认证
+* 考试ID：AD5-E831
+
+**范围和目标**
+
+第1部分：Adobe Experience Cloud生态系统中的分析(13%)
+
+* 识别Adobe Experience Cloud ID的特性和功能。
+* 确定Adobe启动项的用途。
+* 了解如何在Adobe Experience Cloud生态系统中启用/支持Adobe Analytics标签。
+
+第2部分：基于SDR的分析策略和设计(13%)
+
+* 参考解决方案设计，确定必须填充哪些数据对象。
+* 阅读技术规格文档的一部分，确定如何实施数据捕获。
+
+第3部分：Analytics实施和配置(30%)
+
+* 确定部署Adobe Analytics代码的步骤。
+* 识别用于Analytics跟踪的最小部署代码的功能。
+* 确定在Adobe Analytics UI中配置各种组件的步骤。
+* 识别Adobe Analytics报表包的功能和变量设置。
+* 识别数据层和数据层值的特性。
+* 识别用于跟踪功能（如链接跟踪和电子商务跟踪）的App Measurement函数。
+
+第四节　：Tag Management系统(17%)
+
+* 使用标记审核确定是否已满足要求。
+* 确定使用AdobeLaunch配置网站标记的步骤。
+* 给定场景，请确定如何在AdobeLaunch中启用、修改扩展并对其进行故障排除。
+* 确定如何创建规则和数据元素。
+
+第5部分：Adobe Analytics的组件(7%)
+
+* 识别Adobe Analytics API的功能（数据馈送、Warehouse、数据源、报表）。
+* 识别处理规则和移动服务的特征。
+
+第6部分：测试、验证和故障排除(20%)
+
+* 确定常见JavaScript错误的含义。
+* 确定常见Adobe Analytics变量错误的含义。
+* 给定场景，确定应遵循的测试和调试验证最佳实践。
+* 识别如何在Adobe Analytics服务器调用的整个生命周期内对其进行跟踪(即从信标请求到显示在报表中。)
+
+## 准备好
+
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+
+以下是一些可帮助您准备的建议资源：
+
+**章节1**
+
+* [Analytics Cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=zh-Hans)
+* [添加数据元素、规则和库](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [添加嵌入代码](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+
+**章节2**
+
+* [在 Launch 中验证全局页面加载规则](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
+* [卫星对象引用](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
+* [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
+
+**章节3**
+
+* [appendVisitorIDsTo（跨域跟踪）](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html?lang=zh-Hans){target="_blank"}
+* [s_objectID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/s-objectid.html){target="_blank"}
+* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
+
+**章节4**
+
+* [添加嵌入代码](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+* [Adobe Experience Cloud Identity Service扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html){target="_blank"}
+* [选择加入参考](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
+
+**章节5**
+
+* [Analytics Export 指南](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=zh-Hans){target="_blank"}
+* [处理规则的工作原理](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
+* [Adobe Analytics API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+
+**章节6**
+
+* [JavaScript 实施疑难解答](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [使用Experience Cloud Debugger切换标记环境](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
+* [数据收集查询参数](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html?lang=zh-Hans){target="_blank"}
+
+## 续订您的认证
+
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Adobe Analytics Developer Professional Renewal Exam - AD5-E831链接。
+
+* [Adobe Analytics开发人员专业续订考试 — AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
+
 >[!NOTE]
 >
->专业更新即将推出。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
 
->[!TAB 专业且主控]
++++
+
++++商业从业者专业人员
+
+>[!NOTE]
+>
+>更新即将推出。
+
++++
+
+>[!TAB 专家和主人]
 
 ## 您必须至少具备以下任一项 **活动** 要续订的认证：
 
 * Adobe Analytics Developer Expert
 * Adobe Analytics商业从业者专家
-* Adobe Analytics Architect主控
+* Adobe Analytics架构师母版
 
 ## 有关续订Adobe Analytics认证的说明
 
@@ -64,11 +183,11 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->如果您拥有多个Adobe Analytics Expert和主控认证，请仅完成一个认证的续订要求，其他认证将自动续订。
+>如果您拥有多个Adobe Analytics Expert和Master认证，请仅完成一个认证的续订要求，其余认证将自动续订。
 
-### 面向专家和主控人员的课程和课程评估：
+### 针对专家和硕士的课程和课程评估：
 
-| 专家和主控课程 | 课程评估 |
+| 专家与硕士课程 | 课程评估 |
 | ------- | ------- |
 | [Adobe Analytics将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
 | [导出Adobe Analytics数据并使其民主化 — 第5和第6课](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
