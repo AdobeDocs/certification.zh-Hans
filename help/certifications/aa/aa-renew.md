@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 21a1ff4a0b8fe66004e5dae8e7a75f4196e74375
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1300'
+source-wordcount: '1298'
 ht-degree: 8%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 8%
 
 >[!TAB 专业]
 
-+++Adobe Analytics开发人员专业版
++++[!DNL Adobe Analytics] 开发人员专业版
 
 ## 续订认证的说明：
 
@@ -147,7 +147,7 @@ ht-degree: 8%
 
 +++
 
-+++商业从业者专业人员
++++[!DNL Adobe Analytics] 商业从业者专业人员
 
 >[!NOTE]
 >
