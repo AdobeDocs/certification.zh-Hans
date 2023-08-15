@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 9%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 9%
 您应该拥有：
 
 * 6-12个月的使用经验 [!DNL Adobe Analytics] 实施（Web和移动应用程序）
-* 根据分析人员提供的要求，作为支持Analytics实施团队在IT和业务之间架起桥梁，了解业务需求如何转化为技术解决方案(SDR)的参与者的经验
+* 根据分析人员提供的要求，在支持Analytics实施团队在IT和业务之间架起桥梁，了解业务要求如何转化为技术解决方案(SDR)方面的经验
 * 了解需要哪种类型的变量、在何处以及如何收集数据、设计数据模型（数据层）、配置和维护标签管理解决方案
 
 体验以下任务：
