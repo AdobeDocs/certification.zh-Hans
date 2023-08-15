@@ -8,16 +8,16 @@ level: Experienced
 badge: label="考试AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1120'
 ht-degree: 9%
 
 ---
 
 # 的认证历程 [!DNL Adobe Analytics] 开发人员专业版
 
-了解如何成为认证用户 [!DNL Analytics] 开发人员专业版。
+了解如何成为认证用户 [!DNL Adobe Analytics] 开发人员专业版。
 
 ## 最低体验
 
@@ -170,35 +170,20 @@ ht-degree: 9%
 >
 >此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
-## 关于考试
-
-{{about-certification-exam}}
-
 ## 参加练习测试
 
 {{practice-test}}
 
-## 参加考试(AD0-E213)
+## 关于认证考试
 
-### 可用选项
+{{about-certification-exam}}
 
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E213
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 

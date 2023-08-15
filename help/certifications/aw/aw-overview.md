@@ -3,14 +3,14 @@ title: Workfront认证概述
 description: Adobe Workfront 认证选项概述
 solution: Workfront
 exl-id: 0bd627c8-6ba2-49bb-b0e7-477d61b6ce3e
-source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 23%
 
 ---
 
-# Workfront认证概述
+# Adobe [!DNL Workfront] 认证概述
 
 **专业**
 
@@ -23,4 +23,4 @@ ht-degree: 23%
 * [开发人员（核心）](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
 * [AEM增强型连接器](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否提供续订选项。
+访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否有续订选项。

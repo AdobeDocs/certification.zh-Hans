@@ -4,29 +4,29 @@ description: 了解如何获得Adobe认证 [!DNL Audience Manager] Business Mana
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="Exam AD0-E457" type="positive"
+badge: label="考试AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '965'
-ht-degree: 9%
+source-wordcount: '940'
+ht-degree: 10%
 
 ---
 
-# Adobe的认证历程 [!DNL Audience Manager] 商业从业者专家
+# 的认证历程 [!DNL Adobe Audience Manager] 商业从业者专家
 
-了解如何成为认证 [!DNL Audience Manager] 商业从业者专家。
+了解如何成为认证用户 [!DNL Adobe Audience Manager] 商业从业者专家。
 
 ## 最低体验
 
-您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
-您应具有：
+您应该拥有：
 
 * 1至2年市场推广技术经验
-* 在Audience Activation方面有3-6个月的经验
-* 使用布尔逻辑、数字营销行话、数据分析和策略的体验
+* 3至6个月的Audience Activation体验
+* 使用布尔逻辑、数字营销术语、数据分析和策略的体验
 * 了解业务目标和KPI，熟悉数字营销技术栈栈和各种平台集成，并了解数据流（ID类型、ID同步、像素跟踪、基于人员的目标）
 
 您应该熟悉以下技术和环境：
@@ -43,13 +43,13 @@ ht-degree: 9%
 
 环境:
 
-* 中小/企业级业务
+* 中小企业/企业级业务
 * 数字营销
 * 数据和分析
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -70,12 +70,12 @@ ht-degree: 9%
 * 级别：专家（1-3年经验）
 * 及格分数：36/50
 * 时间：100分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：225美元（全球）和150美元（印度）
 * 考试ID：AD0-E457
 
-**就绪性自我评估**
+**准备情况自我评估**
 
 完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
@@ -83,8 +83,8 @@ ht-degree: 9%
 
 第1部分：区段创建和联合(25%)
 
-* 确定利用第一方、第二方和第三方数据创建区段的适当方法，以进行定位和分析
-* 在场景中，建议与业务或营销活动目标一致的激活区段
+* 确定适当的方法，以利用第一方、第二方和第三方数据创建区段以用于定位和分析目的
+* 给定场景，建议与业务或营销活动目标一致的激活区段
 * 确定将区段联合到目标以供激活的适当方法
 * 区分不同类型的目标
 
@@ -95,30 +95,30 @@ ht-degree: 9%
 
 第3款：报告和计量(22%)
 
-* 在场景中，分析报表以提供满足业务目标的可操作的后续步骤
+* 在场景中，分析报表以提供可操作的后续步骤来实现业务目标
 * 给定场景，分析受众优化
 
-第4部分：故障排除和管理(26%)
+第4节：疑难解答和管理(26%)
 
-* 在场景中，验证受众交付信息以确保计划的交付需求
-* 确定验证脱机入站文件的适当实践
-* 在给定场景下，确定对ID同步执行QA的正确方法
+* 在场景中，验证受众交付信息，以确保计划的交付需求
+* 确定验证离线入站文件的相应实践
+* 给定场景，确定对ID同步执行QA的正确方法
 * 确定从AdobeAudience Marketplace导航和激活的适当方法
 
-第5节：分类(10%)
+第五节　：分类(10%)
 
-* 确定适当的结构，以创建使用清晰、一致的命名法的特性和区段
-* 确定使用清晰的文件夹结构维护有条理的平台的正确技术
+* 确定适当的结构，以创建使用清晰一致命名法的特性和区段
+* 确定使用明确的文件夹结构维护有组织的平台的正确技术
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
 **第1部分：区段创建和联合**
 
-* [在区段级别报告Audience Marketplace中的第二方和第三方数据使用情况](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
+* [报告在区段级别的Audience Marketplace中的第二方和第三方数据使用情况](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
 * [使用筛选器和推荐在Audience Marketplace中选择第三方数据](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
 * [了解分段](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
 * [区段：目的、构成和规则](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
@@ -143,12 +143,12 @@ ht-degree: 9%
 
 **第4部分：疑难解答和管理**
 
-* [Experience Platform区段共享 [!DNL Audience Manager] 和其他Experience Cloud解决方案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
-* [摄取基于文件的数据的步骤](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
+* [Experience Platform区段共享对象 [!DNL Audience Manager] 和其他Experience Cloud解决方案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
+* [引入基于文件的数据的步骤](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
 * [ID 同步文件的名称和内容要求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
 * [在中创建和管理数据激活 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
 
-**第5节：分类**
+**第五节　：分类**
 
 * [信号、特征和区段](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=zh-Hans){target="_blank"}
 * [使用限制](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html){target="_blank"}
@@ -166,31 +166,16 @@ ht-degree: 9%
 
 {{practice-test}}
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E457)
-
-### 可用选项
-
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E457
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -200,4 +185,4 @@ ht-degree: 9%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

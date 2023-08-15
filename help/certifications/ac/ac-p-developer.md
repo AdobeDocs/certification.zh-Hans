@@ -4,35 +4,35 @@ description: 了解如何成为Adobe领域的认证Adobe Developer专业人员 [
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E717" type="positive"
+badge: label="考试AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1351'
+source-wordcount: '1348'
 ht-degree: 1%
 
 ---
 
 # Adobe的认证历程 [!DNL Commerce] 开发人员专业版
 
-了解如何成为经过认证的Adobe Developer专业人员。
+了解如何成为认证用户 [!DNL Adobe Commerce] 开发人员专业版。
 
 ## 最低体验
 
-你应该习惯在Adobe工作 [!DNL Commerce] 并对Adobe有基本的了解 [!DNL Commerce] 管理开发、架构、EAV/数据库、布局/用户界面、结帐和销售以及目录。
+你应该在Adobe里工作很舒服 [!DNL Commerce] 并且对Adobe有基本的了解 [!DNL Commerce] 管理开发、架构、EAV/数据库、布局/UI、结账和销售以及目录。
 
 此外，您还应熟悉以下技术和环境：
 
 * Adobe [!DNL Commerce]  — 版本2.4
 * 对PHP的良好理解
-* MYSQL知识
+* 了解MYSQL
 * 面向对象程序设计知识
 * 云架构知识
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -48,7 +48,7 @@ ht-degree: 1%
 
 **考试详细信息：**
 
-* 级别：专业（0至12个月经验）
+* 级别：专业（0-12个月经验）
 * 及格分数：50/77
 * 时间：154分钟
 * 投放：在线监护（需要访问摄像头）
@@ -56,7 +56,7 @@ ht-degree: 1%
 * 费用：125美元（全球）/95美元（印度）
 * 考试ID：AD0-E717
 
-**就绪性自我评估**
+**准备情况自我评估**
 
 完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
@@ -86,9 +86,9 @@ ht-degree: 1%
 
 第3款：EAV/数据库(13%)
 
-* 给定一个方案，更改/添加/删除属性集和/或属性
+* 给定方案，更改/添加/删除属性集和/或属性
 * 描述不同类型的属性
-* 给定一个方案，使用DB模式更改数据库表
+* 给定方案，使用数据库模式更改数据库表
 * 描述模型、资源模型和集合
 * 描述实体属性值(EAV)的基础知识
 
@@ -96,7 +96,7 @@ ht-degree: 1%
 
 * 将更改应用于现有产品类型并创建新产品类型
 * 修改和扩展现有目录实体
-* 展示管理索引和自定义价格输出的能力
+* 展示管理指数和自定义价格输出的能力
 * 说明多来源库存如何影响库存（方案级别）
 
 第五节　：结账和销售(8%)
@@ -121,14 +121,14 @@ ht-degree: 1%
 * 描述云项目文件、权限和结构
 * 列出Adobe上可用的服务 [!DNL Commerce] 在云上
 * 描述如何访问不同类型的日志
-* 描述应用修补程序的步骤（确定要在哪个文件夹中放置修补程序）
+* 描述应用修补程序的步骤（确定要将修补程序放入哪个文件夹）
 * 介绍如何维护和升级ECE工具
-* 确定何时调用支持*Yaml文件和限制（DIY与支持票证）
+* 确定何时调用支持*Yaml文件和限制（DIY与支持工单）
 
 第8部分：设置/配置Adobe [!DNL Commerce] 云(4%)
 
 * 了解如何设置/配置Adobe [!DNL Commerce] 云
-* 定义基本云故障排除（Web UI和变量的层次结构、配置优先级）
+* 定义基本云故障排除（Web UI和变量的层次结构，配置优先级）
 * 了解云用户管理和载入UI的基本知识
 * 使用UI描述环境管理
 * 描述使用UI的分支
@@ -142,13 +142,13 @@ ht-degree: 1%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
 **示例问题**
 
-通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
+通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
 
 [请参阅示例问题](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
@@ -172,7 +172,7 @@ ht-degree: 1%
 * [URL重写](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
 * [配置缓存](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
 * [配置和使用清漆](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-* [网站商店和查看次数](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
+* [网站商店和视图](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
 * [站点、存储和查看范围](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
 * [创建类别](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
 * [存储和站点结构](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
@@ -217,10 +217,10 @@ ht-degree: 1%
 **第7节：Adobe [!DNL Commerce] 云架构**
 
 * [[!DNL Commerce] 在云基础架构上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
-* [云架构 [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
+* [的云架构 [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
 * [入门级架构](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/starter-architecture.html){target="_blank"}
 * [专业体系结构](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
-* [扩展体系结构](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
+* [扩展的体系结构](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
 
 **第8部分：设置/配置Adobe [!DNL Commerce] 云**
 
@@ -229,7 +229,7 @@ ht-degree: 1%
 * [配置环境变量以进行部署](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
 * [Adobe [!DNL Commerce] 在云产品描述上](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
 
-**第9节： [!DNL Commerce] Cloud CLI工具（管理部分）**
+**第9节： [!DNL Commerce] Cloud CLI工具（管理部件）**
 
 * [Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
 * [使用CLI管理分支](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
@@ -241,24 +241,20 @@ ht-degree: 1%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E717)
-
-### 可用选项
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E717
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -268,4 +264,4 @@ ht-degree: 1%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

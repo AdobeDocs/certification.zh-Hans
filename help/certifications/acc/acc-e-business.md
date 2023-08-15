@@ -4,34 +4,34 @@ description: 了解如何成为认证Adobe业务从业专家 [!DNL Campaign Clas
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E327" type="positive"
+badge: label="考试AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 15%
 
 ---
 
 # Adobe的认证历程 [!DNL Campaign Classic] 商业从业者专家
 
-了解如何成为认证Adobe业务从业专家。
+了解如何成为认证Adobe [!DNL Campaign Classic] 商业从业者专家。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
-* 至少2年的广泛性 [!DNL Campaign Classic] 软件体验
+* 至少2年广泛Adobe [!DNL Campaign Classic] 软件体验
 * 使用数字全渠道开发营销活动和策略的多年经验
 * 将业务需求解释/转换为可操作的Campaign交付件方面的经验
-* 体验ROI、点进率和转化率等营销量度
-* 对类型应用、访问管理、Web技术和数据库营销的了解
-* 对营销法律和道德准则的认识
+* 体验ROI、点进率和转化率等营销指标
+* 对类型应用程序、访问管理、Web技术和数据库营销的了解
+* 对营销的法律和道德准则的认识
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -40,7 +40,7 @@ ht-degree: 15%
 **目标受众：**
 
 * 业务顾问
-* 业务分析员
+* 业务分析师
 * 交互管理器
 * 营销活动管理器
 * 数据库营销人员
@@ -52,12 +52,12 @@ ht-degree: 15%
 * 级别：专家（1-3年经验）
 * 及格分数：32/50
 * 时间：100分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E327
 
-**就绪性自我评估**
+**准备情况自我评估**
 
 完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
@@ -66,7 +66,7 @@ ht-degree: 15%
 第1部分：营销活动管理(20%)
 
 * 应用最佳实践来构建营销活动
-* 在给定场景下，确定正确的营销活动模板
+* 给定场景，确定正确的活动模板
 * 说明分类的重要性
 * 描述目标映射
 * 说明如何配置Web应用程序和Web窗体
@@ -85,18 +85,18 @@ ht-degree: 15%
 * 确定导出数据的正确方法
 * 给定场景，确定要使用的数据调查方法
 * 应用最佳实践来创建列表
-* 应用这些步骤配置预定义过滤器
+* 应用这些步骤来配置预定义过滤器
 * 根据业务要求，确定适当的输入表单
 
-第4款：交付管理(14%)
+第4节：交付管理(14%)
 
-* 应用这些步骤以创建/配置投放
-* 给定一个方案，选择并设置适当的验证受众以供审批
+* 应用这些步骤来创建/配置投放
+* 给定场景，选择并设置适当的验证受众以供审批
 * 分析和解释投放审核
 
 第5节：报告(12%)
 
-* 在给定场景下，确定要生成的相应报告
+* 给定场景，确定要生成的相应报表
 * 解释内置报告
 * 解释日志清理/清除对报告的影响
 
@@ -104,11 +104,11 @@ ht-degree: 15%
 
 * 在场景中，解释日志清除对报告的影响
 * 根据业务要求，授予适当的授权和访问权限
-* 应用步骤以通过控制面板启用SFTP
+* 应用这些步骤以通过控制面板启用SFTP
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
@@ -126,10 +126,10 @@ ht-degree: 15%
 * [A/B 测试入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html){target="_blank"}
 * [消息跟踪入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
 * [开始使用工作流](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/build-a-workflow.html?lang=zh-Hans){target="_blank"}
-* [工作流中的定位活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
+* [在工作流中定位活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
 * [查询](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
 
-**第3节：数据管理**
+**第3部分：数据管理**
 
 * [数据模式](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
 * [工作流中的操作活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
@@ -146,12 +146,12 @@ ht-degree: 15%
 * [关于投放创建步骤](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=zh-Hans){target="_blank"}
 * [投放监测入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=zh-Hans){target="_blank"}
 
-**第5节：报告**
+**第五节　：报告**
 
 * [关于投放报告](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [开始使用报告](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 
-**第6节：管理**
+**第六节　：管理**
 
 * [配置原则](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
 * [权限入门](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
@@ -164,26 +164,22 @@ ht-degree: 15%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 ## 参加练习测试
 
 {{practice-test}}
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E327)
-
-### 可用选项
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E327
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -193,4 +189,4 @@ ht-degree: 15%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

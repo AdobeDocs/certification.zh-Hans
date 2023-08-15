@@ -3,38 +3,38 @@ title: 开发人员专业认证
 description: 了解如何成为Adobe领域的认证Adobe Developer专业人员 [!DNL Workfront Fusion].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E902" type="positive"
+badge: label="考试AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Workfront Fusion] 开发人员专业版
 
-了解如何成为经过认证的Adobe Developer专业人员。
+了解如何成为认证Adobe [!DNL Workfront] 开发人员专业版。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
-* 与配合使用的功能 [!DNL Workfront] API和API资源管理器，但不一定熟悉API调用
-* 使用自定义API调用的功能 [!DNL Workfront] 和其他API
+* 与配合使用的功能 [!DNL Workfront] API和API Explorer，但不一定精通API调用
+* 能够使用自定义API调用以处理 [!DNL Workfront] 和其他API
 * 能够将模块用于 [!DNL Workfront] 应用程序和其他操作，例如创建、读取、更新、删除和搜索
-* 能够在不影响的情况下构建产生业务成果的可行解决方案 [!DNL Fusion] 护栏
-* 能够选择适当的触发模块以实现业务成果
+* 能够构建可行的解决方案，在不影响业务成果的情况下实现业务成果 [!DNL Fusion] 护栏
+* 能够选择适当的触发器模块来实现业务成果
 * 了解如何使用流量控制（路由、迭代器/聚合器、流量说明）
-* 执行基本故障排除和错误处理的能力
-* 有效测试和启用场景的能力
+* 能够执行基本故障排除和错误处理
+* 能够有效地测试场景并使其上线
 * 管理组织团队和用户的能力
 * 了解REST API Oauth2通用连接器的用途和用法
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 **目标受众：**
 
 * 开发人员、自动化工程师
-* 自动机、流程优化和自动化管理器
+* 自动机，流程优化和自动化管理器
 * 集成顾问、顾问、合作伙伴
 * 系统集成商/合作伙伴
 * 业务分析师、应用业务分析师
@@ -51,10 +51,10 @@ ht-degree: 0%
 
 **考试详细信息：**
 
-* 级别：专业（0至12个月经验）
+* 级别：专业（0-12个月经验）
 * 及格分数：33/51
 * 时间：102分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：125美元（全球）/95美元（印度）
 * 考试ID：AD0-E902
@@ -63,60 +63,60 @@ ht-degree: 0%
 
 第1款：基本技术概念(39%)
 
-* 给定 [!DNL Fusion] 场景中一个字段格式需要采用另一个字段格式，请提供可用于正确转换数据的可能函数
-* 给定 [!DNL Fusion] 要求将函数嵌套在另一个函数中的方案，请选择格式正确的表达式
+* 给定 [!DNL Fusion] 如果一个字段格式需要采用其他字段格式，请提供可用于正确转换数据的可能函数
+* 给定 [!DNL Fusion] 如果方案要求将函数嵌套在另一个函数中，请选择格式正确的表达式
 * 确定使用团队控制对连接和其他内容的访问的方法 [!DNL Fusion] 功能
 * 给定 [!DNL Fusion] 场景，确定系统和功能的限制
 * 给定 [!DNL Fusion] 需要时区操纵的场景，区分用户、可见组织和需要覆盖时区的位置
 * 给定 [!DNL Fusion] 方案，选择适当的 [!DNL Workfront] 模块或操作
 * 给定 [!DNL Fusion] 方案，选择将输入数据适当转换为输出数据的映射面板表达式和/或模块
-* 确定利用 [!DNL Fusion] 开发工具，用于排除执行错误或确定对第三方系统的调用和响应
-* 给定 [!DNL Fusion] 当一条路径中的数据需要另一条路径中的数据时，提供一整套解决方案，使数据在其他路由路径上可用
-* 确定使用或生产 [!DNL Fusion] 满足业务需求的模板
+* 确定利用 [!DNL Fusion] 开发工具，用于排除执行中的错误或确定对第三方系统的调用和响应
+* 给定 [!DNL Fusion] 当一条路径中的数据需要另一条路径中的数据时，提供设置获取解决方案，以便能够在其他路由路径上使用该数据
+* 确定使用或生成 [!DNL Fusion] 业务需求模板
 * 给定 [!DNL Fusion] 场景，标识要查看执行和/或解决错误所需执行的操作
-* 确定 [!DNL Fusion] 用于满足方案需求的方案设置
-* 给定 [!DNL Fusion] 场景下，选择适当的流量控制和/或确定流量控制模块的正确组合
+* 确定中的不同选项 [!DNL Fusion] 用于满足方案需求的方案设置
+* 给定 [!DNL Fusion] 方案，选择适当的流控制和/或确定流控制模块的正确组合
 
 第2部分：方案设计和架构(35%)
 
-* 给出一个步骤列表，选择正确的序列以解析JSON并转换为捆绑包
+* 给出一个步骤列表，选择要解析JSON并转换为捆绑包的正确序列
 * 给定一组要求，确定正确的数据查找方法
 * 识别即时触发器和计划触发器之间的区别
-* 确定用于将文档上传到的正确模块 [!DNL Workfront]
+* 确定要将文档上传到的正确模块 [!DNL Workfront]
 * 根据业务需求，确定正确的跟踪方法 [!DNL Fusion] 已处理记录（不是用户）并且时间
-* 给定 [!DNL Fusion] 情景，确定简化设计和/或优化维护的机会
+* 给定 [!DNL Fusion] 方案，确定简化设计和/或优化维护的机会
 * 识别 [!DNL Fusion] 记录场景的最佳实践
-* 在某种情况下，找出减少场景中数据流量的机会
+* 在给定情况下，识别减少场景中数据流的机会
 * 给定搜索模块和以下聚合器上显示的捆绑包数量的示例，说明捆绑包检查器处理和显示的操作数量的变化
 * 标识在包检查器中找到的信息
-* 说明了将场景存档超过60天的需要，并选择了唯一可行的方法（导入/导出Blueprint）
+* 说明了需要存档场景超过60天并选择唯一可行的方法（导入/导出Blueprint）
 * 以错误403：禁止为例，正确选择错误消息的来源和原因
 
-第3节：检测和错误处理(16%)
+第三节　：检测和差错处理(16%)
 
 * 确定测试计划的要素
 * 识别测试用例的元素
-* 给定 [!DNL Fusion] 场景，正确识别用于处理不可靠服务的适当指令
+* 给定 [!DNL Fusion] 场景，正确识别相应的指令以处理不可靠的服务
 * 确定在中添加自定义错误处理的流程 [!DNL Fusion] 方案
 * 确定如何跟踪、读取和解决未完成的执行
 * 给定 [!DNL Fusion] 缺少所需数据的方案，请选择处理无效数据的方法
 
 第4部分：使用API (10%)
 
-* 假定第三方API返回429：请求过多，请确定解决方案以防止或处理错误
-* 给定 [!DNL Fusion] 新功能在中不可用的场景 [!DNL Workfront] 模块，识别正确的引用和模块类型以使用新功能
+* 给定返回429：请求过量的第三方API，请确定解决方案以防止或处理错误
+* 给定 [!DNL Fusion] 新功能在中不可用的场景 [!DNL Workfront] 模块，识别正确的参考和模块类型以使用新功能
 * 对于没有专用应用程序的第三方系统，请识别HTTP应用程序并选择适当的模块
-* 确定CRUD操作与REST API其他常用功能之间的区别
+* 识别CRUD操作与REST API其他常用功能之间的区别
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
 **示例问题**
 
-通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
+通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
 
 [请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
 
@@ -139,7 +139,7 @@ ht-degree: 0%
 * [系统跟踪的更新馈送](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
 * [Adobe中的场景 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
 
-**第三节　：检测和错误处理**
+**第三节　检测和错误处理**
 
 * [Adobe中的错误 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FErrors%2F_errors.htm&amp;_LANG=en){target="_blank"}
 * [Adobe中的场景 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
@@ -157,34 +157,19 @@ ht-degree: 0%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E902)
-
-### 可用选项
-
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E902" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E902
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -194,4 +179,4 @@ ht-degree: 0%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

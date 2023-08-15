@@ -4,28 +4,28 @@ description: 了解如何成为认证Adobe [!DNL Experience Manager Sites] 专�
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E134" type="positive"
+badge: label="考试AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '789'
 ht-degree: 13%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Sites] 开发人员专家
 
-了解如何成为认证Adobe Experience Manager专家。
+了解如何成为认证Adobe [!DNL Experience Manager] 开发人员专家。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
-* 使用AEM平台至少1至3年的经验
+* 在使用AEM平台方面至少拥有1-3年的经验
 * 执行高级组件开发的能力
 * 深入了解模型视图控制器(MVC)框架
-* AEM中的框架和库知识
+* 了解AEM中的框架和库
 * 了解AEM开发生命周期
 
 此外，您还熟悉以下技术和环境：
@@ -41,7 +41,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -58,12 +58,12 @@ ht-degree: 13%
 * 级别：专家（1-3年经验）
 * 及格分数：26/50
 * 时间：100分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E134
 
-**就绪性自我评估**
+**准备情况自我评估**
 
 完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
@@ -71,9 +71,9 @@ ht-degree: 13%
 
 第1部分：配置(22%)
 
-* 确定创建和管理AEM Dispatcher配置的步骤
+* 确定创建和管理AEM调度程序配置的步骤
 * 确定配置多租户的正确步骤
-* 解释如何创建和管理OSGi配置
+* 说明如何创建和管理OSGi配置
 * 给定场景，确定创建和管理自定义OAK索引的正确方法
 * 确定配置OOTB SAML和LDAP集成的正确步骤
 
@@ -82,11 +82,11 @@ ht-degree: 13%
 * 确定实施SPA结构、模板和组件的正确步骤
 * 根据设计，创建自定义组件，包括HTL、模型和服务
 * 确定创建单元测试和映射模拟数据的正确方法
-* 在场景中，确定开发工作流的正确步骤
+* 给定场景，确定开发工作流的正确步骤
 * 在场景中，确定任何第三方集成的方法
 * 确定实施Headless或混合实施的方法
 
-第3节：建立和部署(14%)
+第3款：建立和部署(14%)
 
 * 确定设置和维护前端和后端依赖关系管理的步骤
 * 在构建项目时确定正确的原型
@@ -100,7 +100,7 @@ ht-degree: 13%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
@@ -129,7 +129,7 @@ ht-degree: 13%
 * [Adobe [!DNL Experience Manager as a Cloud Service] 视频和Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
 * [AEM 6.5 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
-**第4节：环境维护**
+**第四节　：环境维护**
 
 * [[!DNL Experience Manager as a Cloud Service] 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [AEM Foundation视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
@@ -143,37 +143,22 @@ ht-degree: 13%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 ## 参加练习测试
 
 {{practice-test}}
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E134)
-
-### 可用选项
-
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E134
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -183,4 +168,4 @@ ht-degree: 13%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

@@ -3,12 +3,12 @@ title: 增强型连接器专家认证
 description: 了解如何成为Adobe领域的认证Adobe认证专家 [!DNL Workfront] 对象 [!DNL Experience Manager]
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E906" type="positive"
+badge: label="考试AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '867'
 ht-degree: 0%
 
 ---
@@ -28,17 +28,17 @@ ht-degree: 0%
 而且，您应该拥有：
 
 * 1年以上的CMS经验
-* 1年以上的AEM经验
+* 1年以上的AEM体验
 * 1年以上 [!DNL Workfront] 体验
 * 2年以上的Java/J2EE开发人员经验
-* 共同构造至少一个基于AEM的解决方案
-* 体验直接与客户合作以创建定制的解决方案
+* 联合构建至少一个基于AEM的解决方案
+* 体验直接与客户合作来创建自定义解决方案
 * 了解分类和AEM标记、AEM工作流、JCR、Sling、OSGi和数据库
 * 了解工作管理最佳实践
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -56,18 +56,18 @@ ht-degree: 0%
 * 级别：专家（1-3年经验）
 * 及格分数：34/55
 * 时间：110分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E906
 
 **考试目标和范围**
 
-第1节：技术要求(25%)
+第1款：技术要求(25%)
 
 * 使用 [!DNL Workfront] 自定义Forms
-* 在场景中，演示文档管理
-* 演示跨环境推广代码方面的知识
+* 在给定场景下，演示文档管理
+* 演示跨环境提升代码的相关知识
 * 给定一个方案，标识如何将值传递到 [!DNL Workfront] 自定义表单
 * 服务器端代码疑难解答
 
@@ -80,11 +80,11 @@ ht-degree: 0%
 
 第3节：业务做法(21%)
 
-* 解释客户需求，以便推荐合适的工作流策略
-* 演示如何设置 [!DNL Workfront] 审批和验证工作流
+* 解释客户需求以建议合适的工作流策略
+* 演示如何设置 [!DNL Workfront] 审批和校对工作流
 * 在场景中，确定使用验证查看器、设置和标记功能的最佳实践
-* 演示对跟踪投放项作为营销活动管理一部分的理解
-* 在场景中，确定以下项的更改管理关键注意事项 [!DNL Workfront] 实现
+* 演示对作为营销活动管理一部分的跟踪交付项的了解
+* 在场景中，确定以下项的更改管理的主要注意事项 [!DNL Workfront] 实现
 
 第4节：连接器的安装和配置(28%)
 
@@ -93,22 +93,22 @@ ht-degree: 0%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
 **示例问题**
 
-通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
+通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
 
 [请参阅示例问题](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
 
-**第一节　：技术要求**
+**第一节　技术要求**
 
 * [自定义表单概述](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [配置文档集成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
 * [了解多租户和并行开发](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html){target="_blank"}
-* [使用旧版表单生成器将计算数据添加到自定义表单](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
+* [使用旧版表单生成器将计算的数据添加到自定义表单](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
 * [Adobe [!DNL Workfront] 状态站点](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
 * [使用开发工具进行高级故障排除](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html){target="_blank"}
 
@@ -123,7 +123,7 @@ ht-degree: 0%
 **第三节　：业务做法**
 
 * [开发 [!DNL Workfront] DAM策略](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html){target="_blank"}
-* [为工作项创建批准流程](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
+* [创建工作项的审批流程](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [自动化工作流概述](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
 * [审阅和批准验证](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
 * [从项目时间线中跟踪进度](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
@@ -142,34 +142,19 @@ ht-degree: 0%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E906)
-
-### 可用选项
-
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E906
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -179,4 +164,4 @@ ht-degree: 0%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

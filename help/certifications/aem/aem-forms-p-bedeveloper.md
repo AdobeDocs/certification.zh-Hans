@@ -4,34 +4,34 @@ description: 了解如何成为认证AdobeAEM Forms后端开发人员专业人�
 solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E127" type="positive"
+badge: label="考试AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 7%
+source-wordcount: '825'
+ht-degree: 11%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Forms] 后端开发人员专业版
 
-了解如何成为认证 [!DNL Adobe AEM Forms] 后端开发人员专业版。
+了解如何成为认证Adobe [!DNL Experience Manager Forms] 后端开发人员专业版。
 
 ## 最低体验
 
 您应是后端表单开发人员，并且具有：
 
 * 使用AEM平台的0-12个月经验
-* 12个月使用和配置AdobeCloud Manager的经验
-* 至少拥有24个月配置、实施和管理连续集成/连续部署任务的经验
+* 12个月使用和配置AdobeCloud Manager的体验
+* 在配置、实施和管理持续集成/持续部署任务方面至少拥有24个月的经验
 
-此外，您应该能够熟练使用Adobe Managed Services和Adobe Experience Manager as a Cloud Service。 能够设置Adobe Experience Manager环境和基础架构。
+此外，您应该已经能够熟练使用AdobeManaged Services和Adobe Experience Manager as a Cloud Service。 能够设置Adobe Experience Manager环境和基础架构。
 
 您应该熟悉以下技术和环境：
 
 * Cloud Manager
-* ADOBEIO CLI
+* IO CLIADOBE
 * Git CLI
 * 云过渡工具
 * Dispatcher转换器
@@ -42,7 +42,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -61,7 +61,7 @@ ht-degree: 7%
 
 **考试详细信息：**
 
-* 级别：专业（0至12个月经验）
+* 级别：专业（0-12个月经验）
 * 及格分数：29/50
 * 时间：100分钟
 * 投放：在线监护（需要访问摄像头）
@@ -73,24 +73,24 @@ ht-degree: 7%
 
 第1部分：Forms创建和管理(26%)
 
-* 在场景中，确定构建AEM Forms所需的步骤
+* 给定场景，确定构建AEM Forms所需的步骤
 * 描述Forms数据模型
 * 确定自定义AEM Forms的步骤
-* 在场景中，确定利用GuideBridge API使用Javascript客户端库的步骤
+* 在场景中，确定利用GuideBridge API使用Javascript ClientLib的步骤
 
-第2节：进程和工作流程(34%)
+第2款：流程和工作流(34%)
 
-* 在场景中，确定表单审批工作流的步骤
+* 给定场景，确定表单审批工作流的步骤
 * 使用Document Services API识别OSGi捆绑包的功能
-* 在给定情况下，使用Watchfolder端点安排不同的异步批处理过程
+* 给定一个方案，使用Watchfolder端点安排不同的异步批处理过程
 * 确定XFA/XDP设计的不同输出
-* 在给定场景下，使用Forms或汇编程序服务处理PDF
+* 给定场景，使用Forms或汇编程序服务处理PDF
 * 描述实施JDBC服务的方法
 
 第3节：管理和故障排除(21%)
 
 * 识别在日志文件中生成的问题
-* 在场景中，确定执行管理活动的步骤
+* 给定场景，确定执行管理活动的步骤
 * 识别AEM Forms中Service Pack的功能
 * 描述为Forms设置AEM Dispatcher的步骤
 * 描述导航不同控制台的步骤
@@ -100,19 +100,19 @@ ht-degree: 7%
 * 给定一个方案，描述将AEM Form与Adobe Experience Cloud集成的流程
 * 确定生成各种端点服务的步骤
 
-第5款：互动式通信(9%)
+第5款：互动交流(9%)
 
-* 在场景中，演示并实现了交互式通信过程
+* 在场景中，演示并实现了交互通信过程
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
 **示例问题**
 
-通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
+通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
 
 [请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
 
@@ -149,23 +149,19 @@ ht-degree: 7%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E127)
-
-### 可用选项
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E127
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -175,4 +171,4 @@ ht-degree: 7%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

@@ -4,16 +4,16 @@ description: Adobe Advertising 认证选项概述
 solution: Advertising
 product: Advertising Cloud
 exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
-source-git-commit: a366e8b2ba3fa0fa0a22b05ff26821a7f1fc66a4
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 8%
 
 ---
 
-# Advertising认证概述
+# Adobe Advertising认证概述
 
-Adobe为Advertising Business从业人员提供了多项认证。  本页包含开始认证历程或续订现有认证所需的所有信息。
+Adobe为Advertising业务从业者提供多项认证。  本页包含开始认证历程或续订现有认证所需的所有信息。
 
 ## 证书
 
@@ -24,7 +24,7 @@ Adobe为Advertising Business从业人员提供了多项认证。  本页包含�
 
 ## 续订
 
-访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否提供续订选项。
+访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否有续订选项。
 
 ## 资源
 
@@ -37,4 +37,4 @@ Adobe为Advertising Business从业人员提供了多项认证。  本页包含�
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

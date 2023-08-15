@@ -3,14 +3,14 @@ title: Marketo Engage认证概述
 description: Adobe Marketo Engage 认证选项概述
 solution: Experience Manager
 exl-id: e86c3ed5-84b1-47d5-a852-d87d3f232c11
-source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 26%
+source-wordcount: '40'
+ht-degree: 27%
 
 ---
 
-# Marketo Engage认证概述
+# Adobe [!DNL Marketo Engage] 认证概述
 
 **专业**
 
@@ -24,4 +24,4 @@ ht-degree: 26%
 
 * [架构师](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
-访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否提供续订选项。
+访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否有续订选项。

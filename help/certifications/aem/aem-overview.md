@@ -3,14 +3,14 @@ title: Experience Manager认证概述
 description: Adobe Experience Manager 认证选项概述
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 3%
 
 ---
 
-# Experience Manager认证概述
+# Adobe [!DNL Experience Manager] 认证概述
 
 选择您的级别和工作角色，以查找有关您感兴趣的认证的更多信息。
 
@@ -36,7 +36,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->此 **Adobe Experience Manager Architect Sites主控考试(AD0-E117)** 正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
+>此 **Adobe Experience Manager架构师站点硕士考试(AD0-E117)** 正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
 >
 >**问题?** 查看我们的 [常见问题解答](#AEM-FAQ) ，位于本页底部。
 
@@ -44,7 +44,7 @@ ht-degree: 3%
 
 
 
-## Adobe Experience Manager Sites Architect主控考试常见问题解答(AD0-E117) {#AEM-FAQ}
+## Adobe Experience Manager Sites架构师硕士考试常见问题解答(AD0-E117) {#AEM-FAQ}
 
 认证考试AD0-E117正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
 

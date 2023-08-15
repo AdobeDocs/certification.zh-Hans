@@ -1,37 +1,37 @@
 ---
 title: 商业从业者专业认证
-description: 了解如何成为认证 [!DNL Adobe Target] 商业从业者专业人士。
+description: 了解如何成为认证用户 [!DNL Adobe Target] 商业从业者专业人士。
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E408" type="positive"
+badge: label="考试AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 8%
+source-wordcount: '867'
+ht-degree: 9%
 
 ---
 
 # 的认证历程 [!DNL Adobe Target] 商业从业者专业人员
 
-了解如何成为经过认证的Adobe商业从业者专业人员。
+了解如何成为认证用户 [!DNL Adobe Target] 商业从业者专业人士。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
 * 在优化平台方面有0-12个月的经验，包括 [!DNL Adobe Target]
-* 带指导的动手体验 [!DNL Adobe Target]
-* 0至12个月的经验可引导/促进优化计划
-* 能够确定基本的Target/Adobe Marketing Cloud管理任务（首选项、用户角色和权限、设置）
+* 指导下的动手体验 [!DNL Adobe Target]
+* 0至12个月的体验引导/促进优化计划
+* 能够识别基本的Target/Adobe Marketing Cloud管理任务（首选项、用户角色和权限、设置）
 * 三步工作流程的基本知识（体验、定位以及目标和设置，包括所有报表源）
 * 能够阅读和理解活动报告结果
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -46,7 +46,7 @@ ht-degree: 8%
 
 **考试详细信息：**
 
-* 级别：专业（0至12个月经验）
+* 级别：专业（0-12个月经验）
 * 及格分数：31/50
 * 时间：100分钟
 * 投放：在线监护（需要访问摄像头）
@@ -61,11 +61,11 @@ ht-degree: 8%
 * 确定业务KPI
 * 给定业务KPI和数据分析方案，找出优化机会
 * 描述变量如何影响活动
-* 根据给定的场景构建测试假设
+* 基于给定场景构建测试假设
 * 确定假设要素
 * 描述基于KPI的主要和次要成功量度
-* 在场景中，评估受众需求
-* 描述相应的Analytics报表源(即Target或Adobe Analytics)
+* 给定场景，评估受众要求
+* 描述适当的分析报表源(即Target或Adobe Analytics)
 
 第2节：配置、执行和管理(50%)
 
@@ -75,39 +75,39 @@ ht-degree: 8%
 * 描述在体验编辑器中管理体验的过程
 * 描述适用于创建Target活动的工作流
 * 在场景中，应用过程创建A/B测试活动
-* 在场景中，应用过程创建XT活动
-* 在场景中，应用过程创建MVT活动
+* 给定场景，应用过程创建XT活动
+* 给定场景，应用过程创建MVT活动
 * 确定如何将AP用于解决方案
 * 确定何时使用推荐活动
 * 描述在Target中创建受众的过程
 * 描述设置目标和设置的过程
 * 描述执行活动QA的过程
-* 描述在Target中管理活动和受众的过程
+* 描述用于管理Target中的活动和受众的过程
 
 第3款：分析和报告(16%)
 
 * 描述有助于设置报表中显示的元素的设置
-* 描述以下各项的差异： [!DNL Adobe Target] 规划与验证之间的样本量计算器设置
+* 描述以下内容中的差异 [!DNL Adobe Target] 计划和验证之间的样本量计算器设置
 * 描述与A/B测试相关的常见问题
-* 确定Automated Personalization摘要报表与其他报表的不同之处
+* 确定Automated Personalization摘要报表与其他报表的差异
 * 描述体验性能报表(MVT)的功能
 * 描述在A/B测试执行中应遵循的最佳实践
 
 第4部分：故障排除(8%)
 
-* 在场景中，确定活动资格问题
+* 给定场景，确定活动资格问题
 * 识别浏览器调试工具(包括Experience Cloud Debugger)的功能
 * 确定指标和报表
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
 **示例问题**
 
-通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
+通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
 
 [请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
 
@@ -115,7 +115,7 @@ ht-degree: 8%
 
 * [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [[!DNL Adobe Target] 文档](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
-* [访客资料](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
+* [访客配置文件](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
 * [[!DNL Adobe Target] 欢迎套件](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
 * [成功量度](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
 * [受众类别](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
@@ -147,34 +147,19 @@ ht-degree: 8%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E408)
-
-### 可用选项
-
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E408
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -184,4 +169,4 @@ ht-degree: 8%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

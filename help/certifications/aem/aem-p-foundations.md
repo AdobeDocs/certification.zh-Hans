@@ -1,26 +1,26 @@
 ---
 title: 技术基础专业认证
-description: 了解如何成为认证Adobe [!DNL Experience Manager] 专业的。
+description: 了解如何成为认证Adobe [!DNL Experience Manager] 专业。
 solution: Experience Manager
 product: Experience Manager
 role: User
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 8%
+source-wordcount: '600'
+ht-degree: 10%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager] 技术基础专业人员
 
-了解如何成为认证Adobe [!DNL Experience Manager] 专业的。
+了解如何成为认证Adobe [!DNL Experience Manager] 专业。
 
 ## 最低体验
 
-您应是应用程序开发人员并拥有：
+您应该成为应用程序开发人员并拥有：
 
 * 在使用AEM平台方面至少需要0-12个月的经验
 * 执行高级组件开发的能力
@@ -41,7 +41,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -54,7 +54,7 @@ ht-degree: 8%
 
 **考试详细信息：**
 
-* 级别：专业（0至12个月经验）
+* 级别：专业（0-12个月经验）
 * 及格分数：38/60
 * 时间：120分钟
 * 投放：在线监护（需要访问摄像头）
@@ -72,7 +72,7 @@ ht-degree: 8%
 * 使用DAM上传和发布资产
 * 使用内容片段
 * 应用过程概念以使用组件
-* 应用过程概念翻译内容
+* 应用过程概念来翻译内容
 * 使用多站点和活动副本
 
 第2款：执行(42%)
@@ -92,7 +92,7 @@ ht-degree: 8%
 * 部署包
 * 安装AEM实例
 
-第4节：维护和使用者管理(12%)
+第4节：维护和用户管理(12%)
 
 * 管理用户访问权限
 * 修改OSGI配置
@@ -100,7 +100,7 @@ ht-degree: 8%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
@@ -115,7 +115,7 @@ ht-degree: 8%
 **第2节：实施**
 
 * [AEM组件 — 基础知识](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
-* [AEM中的HeadlessTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=zh-Hans){target="_blank"}
+* [AEM中的HeadlessTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
 * [创建页面模板](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
 * [使用客户端库](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html){target="_blank"}
 
@@ -129,7 +129,7 @@ ht-degree: 8%
 
 * [管理用户、组和用户角色](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html#add-a-user){target="_blank"}
 * [用户管理和安全性](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
-* [OSGi配置](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
+* [osgi配置设置](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
 
 >[!TAB 获得认证]
 
@@ -137,23 +137,19 @@ ht-degree: 8%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E132)
-
-### 可用选项
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E132
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -163,4 +159,4 @@ ht-degree: 8%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

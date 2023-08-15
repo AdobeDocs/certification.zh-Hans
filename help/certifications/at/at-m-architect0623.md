@@ -1,32 +1,32 @@
 ---
-title: 架构师主控新认证
-description: 了解如何成为认证 [!DNL Adobe Target] 主控架构师。
+title: 架构师主新认证
+description: 了解如何成为认证用户 [!DNL Adobe Target] 架构师母版。
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E409" type="positive"
+badge: label="考试AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
-ht-degree: 10%
+source-wordcount: '943'
+ht-degree: 14%
 
 ---
 
-# 的认证历程 [!DNL Adobe Target] 架构师主控
+# 的认证历程 [!DNL Adobe Target] 架构师母版
 
-了解如何成为认证Adobe架构师主控。
+了解如何成为认证用户 [!DNL Adobe Target] 架构师母版。
 
 >[!NOTE]
 >
->这是最新的Adobe Target Architect主控考试。 如果您已经开始学习或计划了 [旧版本](at-m-architect.md) 您必须在2023年9月8日之前完成此操作。
+>这是最新的 [!DNL Adobe Target] 架构师级考试。 如果您已开始学习或计划了 [较旧版本](at-m-architect.md) 您必须在2023年9月8日之前完成它。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
 * 至少三年数字营销优化经验
-* 至少拥有两年（或五次参与）实施、部署和故障排除Adobe Target的经验
+* 具有Adobe Target实施、部署和故障排除至少两年（或五次参与）的经验
 * 体验将Target与Adobe Experience Cloud集成
 * 对JavaScript、HTML、CSS和前端Web开发的基本了解
 * 熟悉/了解Adobe Target API/SDK、服务器端集成、报表和管理
@@ -34,7 +34,7 @@ ht-degree: 10%
 
 技术：
 
-* 多个Adobe Experience Cloud程序(Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud Debugger、Target API)
+* 多个Adobe Experience Cloud程序(Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud调试器、Target API)
 * JavaScript（Ajax、JQuery等）
 * 基于浏览器的调试工具（Chrome开发人员工具、VEC助手）、用于调试来自Target的响应的JSON
 * 本机应用程序的调试工具（Charles代理、Fiddler）
@@ -46,7 +46,7 @@ ht-degree: 10%
 环境:
 
 * Adobe Experience Cloud
-* 不通过标签管理器进行客户端实施
+* 无需标签管理器的客户端实施
 * Tag Management Systems，特别是Launch (IF)
 * 服务器端环境（用于API使用）
 * 电子邮件
@@ -62,7 +62,7 @@ ht-degree: 10%
 
 * 转化率优化工程师/架构师
 * 个性化工程师/架构师
-* 数字解决方案设计师
+* 数字解决方案架构师
 * 数字转型顾问
 * 体验优化潜在客户
 * 优化管理器
@@ -70,10 +70,10 @@ ht-degree: 10%
 
 **考试详细信息：**
 
-* 级别：主控（3-5年经验）
+* 级别：硕士（3-5年经验）
 * 及格分数：32/50
 * 时间：100分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E409
@@ -82,20 +82,20 @@ ht-degree: 10%
 
 第1节： [!DNL Adobe Target] 基本面(13%)
 
-* 确定适当的 [!DNL Adobe Target] 给定方案的使用情况
-* 解释的基本技术 [!DNL Adobe Target] 实现
+* 确定适当的 [!DNL Adobe Target] 给定场景的使用情况
+* 解释的基础技术 [!DNL Adobe Target] 实现
 
-第2节：与集成 [!DNL Adobe Target] (18%)
+第2部分：与集成 [!DNL Adobe Target] (18%)
 
 * 应用进程以集成 [!DNL Adobe Target] 使用Adobe Analytics (A4T)
-* 应用进程以集成 [!DNL Adobe Target] 到Adobe Experience Manager
+* 应用进程以集成 [!DNL Adobe Target] 至Adobe Experience Manager
 * 描述与Adobe Experience Cloud解决方案和Adobe Experience Platform解决方案的集成
 * 描述与Adobe Experience Cloud受众的集成
 
 第3节： [!DNL Adobe Target] 行政和治理(6%)
 
 * 定义正在进行的 [!DNL Adobe Target] 实施战略和系统治理
-* 应用该过程和最佳实践来管理用户
+* 应用该流程和最佳实践来管理用户
 * 描述实施设置的管理方面
 
 第4节： [!DNL Adobe Target] 和受支持的接触点(6%)
@@ -107,14 +107,14 @@ ht-degree: 10%
 第5部分：利用 [!DNL Adobe Target] 建议(11%)
 
 * 演示对建议、目录和标准的理解
-* 应用流程以配置Target推荐
+* 应用此过程以配置Target推荐
 
-第6节：架构、设计和实施 [!DNL Adobe Target] (18%)
+第6节：架构师、设计和实施 [!DNL Adobe Target] (18%)
 
 * 选择正确的Target请求实施（全局、订单确认、混合）评估和设计 [!DNL Adobe Target] 实现
-* 描述实施 [!DNL Adobe Target] 在本机移动设备应用程序中
+* 描述实现 [!DNL Adobe Target] 在本机移动设备应用程序中
 
-第7节：故障排除(28%)
+第7部分：故障排除(28%)
 
 * mbox错误疑难解答
 * Target请求和响应错误疑难解答
@@ -124,7 +124,7 @@ ht-degree: 10%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
@@ -140,7 +140,7 @@ ht-degree: 10%
 * [将 Target 与 Adobe Campaign 集成](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html){target="_blank"}
 * [将 Adobe Analytics 作为 Adobe Target 报表源 (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
 * [Experience Cloud 受众](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=zh_Hans){target="_blank"}
-* [在Adobe Target中使用体验片段选件](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html){target="_blank"}
+* [在Adobe Target中使用“体验片段选件”](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html){target="_blank"}
 
 **章节3**
 
@@ -168,7 +168,7 @@ ht-degree: 10%
 * [Adobe Target混合部署](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/hybrid-deployment.html){target="_blank"}
 * [Target 在移动应用程序中的工作原理](https://experienceleague.adobe.com/docs/target-dev/developer/mobile-apps/version-4/how-target-works-mobile-apps.html){target="_blank"}
 * [设计Target实施](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
-* [在Platform Web SDK中使用Adobe Target](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html){target="_blank"}
+* [将Adobe Target与Platform Web SDK一起使用](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html){target="_blank"}
 
 **章节7**
 
@@ -176,7 +176,7 @@ ht-degree: 10%
 [内容交付故障诊断](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
 [设计常见问题解答](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
 [Recommendations常见问题解答](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[Platform Web SDK中的Adobe Analytics for Target (A4T)记录](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+[Platform Web SDK中的Adobe Analytics for Target (A4T)日志记录](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
 
 >[!TAB 获得认证]
@@ -187,26 +187,18 @@ ht-degree: 10%
 
 **现在您已成功登录，可以直接访问以下链接。**
 
-**参加认证考试**
+## 关于认证考试
 
-Adobe使用两个供应商来管理委托考试：PSI和考试。
+{{about-certification-exam}}
 
-* **PSI** 提供测试中心和日语考试选项（如果可用）
-* **[!DNL Examity]** 提供远程联机选项
+## 安排或参加考试AD0-E409
 
-要安排、重新安排或取消考试，只需单击所选供应商，然后按照屏幕上提供的说明操作。 就这么简单！
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-您在Adobe凭据管理系统中的配置文件名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
-
-如果在安排的考试预约之前48小时发起，则可以取消和重新安排。 候选人必须自行修改此约会。
-
-### 考试编号：AD0-E409
-
-[!BADGE 考试]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-您可以在安排考试时应用优惠券代码。 如果您有折扣，则将在结账时应用。
+<span class="spectrum-Button-label has-no-wrap">
+   转到考试门户
+</span>
+</a>
 
 >[!ENDTABS]
 
@@ -214,4 +206,4 @@ Adobe使用两个供应商来管理委托考试：PSI和考试。
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

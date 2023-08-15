@@ -1,20 +1,20 @@
 ---
-title: 架构师主控认证
-description: 了解如何在Experience Manager Sites中成为认证架构师主控。
+title: 架构师主认证
+description: 了解如何在Experience Manager Sites中成为认证架构师。
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="考试AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1723'
 ht-degree: 17%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager Sites] 架构师主控
+# Adobe的认证历程 [!DNL Experience Manager Sites] 架构师母版
 
 >[!NOTE]
 >
@@ -22,14 +22,14 @@ ht-degree: 17%
 >
 >**问题?** 查看我们的 [常见问题解答](#AEM-FAQ) ，位于本页底部。
 
-了解如何成为认证架构师主控。
+了解如何成为认证Adobe [!DNL Experience Manager Sites] 架构师母版。
 
 ## 最低体验
 
 您应该拥有：
 
 * 至少3年建筑AEM Sites的建筑师经验
-* 能够使用Adobe Managed Services和Adobe [!DNL Experience Manager as a Cloud Service]
+* 能够在AdobeManaged Services和Adobe中工作 [!DNL Experience Manager as a Cloud Service]
 * 设置Adobe的功能 [!DNL Experience Manager] 环境和基础架构
 
 此外，您还应能够执行以下任务：
@@ -73,7 +73,7 @@ ht-degree: 17%
 
 **考试详细信息：**
 
-* 级别：主控（3-5年经验）
+* 级别：硕士（3-5年经验）
 * 及格分数：29/50
 * 时间：100分钟
 * 交付：在线监护（需要摄像头访问）或测试中心监护
@@ -213,13 +213,11 @@ ht-degree: 17%
 >
 >此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E117)
-
-### 可用选项
+## 安排或参加考试AD0-E117
 
 >[!NOTE]
 >
@@ -235,7 +233,7 @@ ht-degree: 17%
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
 
-## Adobe Experience Manager Sites Architect主控考试常见问题解答(AD0-E117) {#AEM-FAQ}
+## Adobe Experience Manager Sites架构师硕士考试常见问题解答(AD0-E117) {#AEM-FAQ}
 
 认证考试AD0-E117正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
 

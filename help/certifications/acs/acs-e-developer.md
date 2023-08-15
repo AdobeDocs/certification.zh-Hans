@@ -4,25 +4,25 @@ description: 了解如何成为认证Adobe Developer专家Adobe [!DNL Campaign S
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E306" type="positive"
+badge: label="考试AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1073'
 ht-degree: 12%
 
 ---
 
 # Adobe的认证历程 [!DNL Campaign Standard] 开发人员专家
 
-了解如何成为认证Adobe Developer专家。
+了解如何成为认证Adobe [!DNL Campaign Standard] 开发人员专家。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
-* 至少两年 [!DNL Campaign] 软件体验
+* Adobe至少两年 [!DNL Campaign Standard] 软件体验
 * 至少两年在多渠道数字营销活动和Web开发（例如REST API）方面的相关经验
 * 能够在Adobe Campaign中执行任务（包括模板开发、技术工作流、模式开发和集成），并能够使用控制面板监控实例
 * 在渠道投放环境（电子邮件、直邮、移动设备和社交）中工作的体验
@@ -30,19 +30,19 @@ ht-degree: 12%
 * 了解营销指标，如ROI、点进率和转化。
 * 管理营销自动化平台的体验
 * CSS、HTML和JavaScript的基础知识，电子邮件
-* 关系数据库和数据建模的基础知识
+* 关系数据库和数据建模的基本知识
 * 了解并配置技术工作流
-* 扩展收件人表或方案和数据管理的体验
+* 扩展收件人表或模式和数据管理的体验
 * 创建了类型规则、工作流、投放和活动模板
 * 已配置的角色和权限
 * 体验管理控制台以及与其他Adobe应用程序的集成
 * 对Adobe I/O和Adobe I/O Runtime的认识
 * 在多渠道上体验事务性消息传递和消息投放
-* 托管包的体验
+* 使用托管包的体验
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -52,7 +52,7 @@ ht-degree: 12%
 
 * 营销自动化管理员
 * Adobe Experience Cloud开发人员
-* 电子邮件营销分析员
+* 电子邮件营销分析师
 * 应用程序开发人员
 * Campaign开发人员
 * Martech开发人员
@@ -62,12 +62,12 @@ ht-degree: 12%
 * 级别：专家（1-3年经验）
 * 及格分数：29/50
 * 时间：100分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E306
 
-**就绪性自我评估**
+**准备情况自我评估**
 
 完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
@@ -77,7 +77,7 @@ ht-degree: 12%
 
 * 在给定的场景中，将客户端需求转换为自定义资源
 * 确定如何配置屏幕和过滤器定义
-* 在给定场景下，确定定义键、索引和链接的正确策略
+* 给定场景，确定定义键、索引和链接的正确策略
 * 确定发布资源更新的正确方法
 * 数据建模问题疑难解答
 * 确定构建技术工作流的正确方法
@@ -87,18 +87,18 @@ ht-degree: 12%
 * 工作流错误疑难解答
 * 确定构建营销活动的正确方法
 * 确定使用受众和用户档案的正确方法
-* 通过类型应用并创建过滤器规则
+* 通过类型应用和创建过滤器规则
 * 确定创建和管理模板的正确方法
 * 确定配置登陆页面的正确方法
 * 确定使用服务和订阅的正确方法
 * 给定场景，验证投放机制
-* 确定使用创意设计工具构建电子邮件的正确方法
+* 确定使用创意设计器构建电子邮件的正确方法
 * 确定创建自定义报表的正确方法
 
-第3节：管理(24%)
+第三节　：管理(24%)
 
 * 确定创建用户安全组和组织单位的正确方法
-* 确定管理和部署包的正确方法
+* 确定管理和部署软件包的正确方法
 * 确定配置外部帐户的正确方法
 * 确定配置选项的正确方法
 * 确定创建品牌的正确方法
@@ -106,7 +106,7 @@ ht-degree: 12%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 **第1节：数据建模和管理**
 
@@ -138,7 +138,7 @@ ht-degree: 12%
 * [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
 * [动态报告快速入门](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
 
-**第三节　：管理**
+**第三节　管理**
 
 * [管理组和用户](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 * [组织实体](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
@@ -157,37 +157,22 @@ ht-degree: 12%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 ## 参加练习测试
 
 {{practice-test}}
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E306)
-
-### 可用选项
-
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E306
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -197,4 +182,4 @@ ht-degree: 12%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

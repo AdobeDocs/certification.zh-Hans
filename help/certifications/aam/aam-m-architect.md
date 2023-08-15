@@ -1,27 +1,27 @@
 ---
-title: 架构师主控认证
-description: 了解如何获得Adobe认证 [!DNL Audience Manager] 主控架构师。
+title: 架构师主认证
+description: 了解如何获得Adobe认证 [!DNL Audience Manager] 架构师母版。
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
 level: Experienced
-badge: label="Exam AD0-E454" type="positive"
+badge: label="考试AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 12%
+source-wordcount: '708'
+ht-degree: 13%
 
 ---
 
-# Adobe的认证历程 [!DNL Audience Manager] 架构师主控
+# 的认证历程 [!DNL Adobe Audience Manager] 架构师母版
 
-了解如何成为认证 [!DNL Audience Manager] 主控架构师。
+了解如何成为认证用户 [!DNL Adobe Audience Manager] 架构师母版。
 
 ## 最低体验
 
-您应至少拥有3年跨Adobe和非Adobe营销平台的数据收集方法、数据管理平台和数字营销技术栈栈经验。 您了解客户独特的技术和业务要求，并开发定制的解决方案。
+您应在Adobe和非Adobe营销平台的数据收集方法、数据管理平台和数字营销技术栈栈方面拥有至少3年的经验。 您了解客户独特的技术和业务要求，并开发定制的解决方案。
 
 此外，您应该能够完成以下任务：
 
@@ -35,7 +35,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -46,8 +46,8 @@ ht-degree: 12%
 * [!DNL Audience Manager] 顾问
 * 多解决方案架构师
 * Adobe实践主管
-* Enterprise Architect
-* Martech Architect
+* 企业架构师
+* Martech架构师
 * 技术产品所有者
 * 数字营销专家
 * 技术架构师
@@ -56,15 +56,15 @@ ht-degree: 12%
 
 **考试详细信息**
 
-* 级别：主控（3-5年经验）
+* 级别：硕士（3-5年经验）
 * 及格分数：29/50
 * 时间：100分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E454
 
-**就绪性自我评估**
+**准备情况自我评估**
 
 完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
@@ -72,7 +72,7 @@ ht-degree: 12%
 
 第1款：实施情况分析(26%)
 
-* 确定如何指导和支持将AAM作为独立产品或云解决方案的一部分实施
+* 确定如何指导和支持将AAM作为独立产品或云解决方案的一部分进行实施
 * 分析出站目标选项并推荐AAM实施方法
 * 确定业务用例的数据载入策略
 * 识别访客资料查看器、标记、RBAC等功能以与业务目标保持一致
@@ -80,8 +80,8 @@ ht-degree: 12%
 
 第2部分：解决方案设计和建议(18%)
 
-* 根据受众和激活的客户用例确定AAM功能
-* 应用过程概念利用受众身份解决方案来补充设计架构
+* 根据客户的Audience和Activation用例确定AAM功能
+* 应用过程概念以利用受众身份解决方案来补充设计架构
 * 识别属性和行为数据，并将其映射到特定的业务用例
 * 应用过程概念设计文件夹分类和命名约定
 
@@ -101,19 +101,19 @@ ht-degree: 12%
 
 第5款：业绩和报告(18%)
 
-* 确定如何在AAM中配置报表，以收集信号、特征并根据业务需求细分性能
+* 确定如何在AAM中配置报表以收集信号、特征并根据业务需求细分性能
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
-**第1节：实施分析**
+**第一节　：实施情况分析**
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Analytics 集成](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=zh-Hans){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **第2部分：解决方案设计和Recommendations**
 
@@ -134,7 +134,7 @@ ht-degree: 12%
 
 **第5节：业绩和报告**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 >[!TAB 获得认证]
 
@@ -144,31 +144,16 @@ ht-degree: 12%
 
 
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E454)
-
-### 可用选项
-
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E454
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -178,4 +163,4 @@ ht-degree: 12%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

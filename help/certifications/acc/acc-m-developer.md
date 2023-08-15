@@ -1,46 +1,46 @@
 ---
-title: 架构师主控认证
-description: 了解如何在中成为认证Adobe架构师主控 [!DNL Campaign Classic].
+title: 架构师主认证
+description: 了解如何在中成为认证Adobe架构师 [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
-badge: label="Exam AD0-E328" type="positive"
+badge: label="考试AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1013'
+source-wordcount: '1011'
 ht-degree: 11%
 
 ---
 
-# Adobe的认证历程 [!DNL Campaign Classic] 架构师主控
+# Adobe的认证历程 [!DNL Campaign Classic] 架构师母版
 
-了解如何在中成为认证Adobe架构师主控 [!DNL Campaign Classic].
+了解如何成为认证Adobe [!DNL Campaign Classic] 架构师母版。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
-* 体验多个 [!DNL Campaign] 实施
+* 具有多个Adobe的体验 [!DNL Campaign Classic] 实施
 * 了解Adobe Campaign如何作为数字营销解决方案使用，并根据项目要求进行实施
-* 创建功能设计文档的功能
-* 能够为Adobe Campaign安装创建功能工作范围
+* 创建功能设计文档的能力
+* 能够为Adobe Campaign安装创建功能性的工作范围
 * 能够提供技术路线图，包括低地球轨道和任务依赖性
-* 为项目范围和时间表提供技术要求信息的能力
+* 能够为项目范围和时间线提供技术要求信息
 * 业务需求研讨会经验
 * 体验领先的解决方案设计研讨会
 * 能够评估多种解决方案方法并提供建议
-* 能够审查其他平台上的现有营销活动和流程，以确定Adobe Campaign实施需求
+* 能够审查其他平台上的现有活动和流程，以确定Adobe Campaign实施需求
 * 能够描述和演示产品特性和功能
 * 能够将产品功能映射到高用例
 * 支持售前团队的经验
 * 能够提供现场指导（产品最佳实践、报告量度等）
-* 描述部署模型之间差异的经验
+* 描述部署模型之间差异的体验
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -48,22 +48,22 @@ ht-degree: 11%
 
 **目标受众：**
 
-* 具有Adobe的技术主管 [!DNL Campaign Classic] 背景
+* Adobe技术主管 [!DNL Campaign Classic] 背景
 * ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] 开发人员
 * Adobe [!DNL Campaign Classic] 开发人员或类似角色
 * Martech解决方案架构师
 
 **考试详细信息：**
 
-* 级别：主控（3-5年经验）
+* 级别：硕士（3-5年经验）
 * 及格分数：30/50
 * 时间：100分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E328
 
-**就绪性自我评估**
+**准备情况自我评估**
 
 完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
@@ -72,16 +72,16 @@ ht-degree: 11%
 第1节：解决方案定义(24%)
 
 * 根据特定的业务需求，确定与解决方案设计相关的信息
-* 在场景中，提供性能、基础架构和配置建议
+* 给定场景，提供性能、基础架构和配置建议
 * 分析 [!DNL Campaign Classic] 设置以提供改进建议
 * 确定设计数字营销解决方案的业务需求
-* 在场景中，指定正确的产品部署方法
+* 给定方案，请指定正确的产品部署方法
 
 第2部分：数据景观(24%)
 
-* 通过其他客户工具为Campaign解决方案指定数据模型和集成图设计参数
-* 在情景中，确定符合法律法规要求的解决方案设计
-* 给定一个场景，确定最佳的技术工作流设计
+* 指定用于Campaign解决方案和其他客户工具的数据模型和集成图设计参数
+* 在场景中，确定符合法律法规所需的解决方案设计
+* 给定场景，确定最佳的技术工作流设计
 
 第3节：安装和管理(16%)
 
@@ -94,9 +94,9 @@ ht-degree: 11%
 
 第4款：项目领导(10%)
 
-* 根据客户的需求，确定所需的适当活动和资源
-* 在情景中，分析整体解决方案以确定技术风险、假设、问题和依赖关系
-* 向内部和外部团队传达行政协调会的技术专业知识
+* 根据客户需求，确定所需的适当活动和资源
+* 给定一个方案，分析整个解决方案以确定技术风险、假设、问题和依赖关系
+* 向内部和外部团队传达ACC的技术专业知识
 
 第5节：定制(26%)
 
@@ -107,11 +107,11 @@ ht-degree: 11%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
-**第1节：解决方案定义**
+**第1部分：解决方案定义**
 
 * [管理订阅](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html){target="_blank"}
 * [Campaign服务器配置入门](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html){target="_blank"}
@@ -157,23 +157,19 @@ ht-degree: 11%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E328)
-
-### 可用选项
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E328
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E328" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -183,4 +179,4 @@ ht-degree: 11%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

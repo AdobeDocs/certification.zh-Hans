@@ -1,34 +1,34 @@
 ---
 title: 专业认证
-description: 了解如何成为认证AdobeDoc Cloud Professional。
+description: 了解如何成为认证AdobeDoc Cloud专业人员。
 solution: Document Cloud
 product: Document Cloud
 role: User
 badge: label="考试AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Adobe Document Cloud商业从业者专业人员的认证历程
+# 的认证历程 [!DNL Adobe Document Cloud] 商业从业者专业人员
 
-了解如何成为经过认证的Adobe商业从业者专业人员。
+了解如何成为认证用户 [!DNL Adobe Document Cloud] 商业从业者专业人士。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
-* 在Adobe Document Cloud中拥有至少0-12个月的工作经验
+* 至少于0-12个月内拥有经验 [!DNL Adobe Document Cloud]
 * 能够确定和传达业务需求
-* 能够对Adobe Document Cloud解决方案执行产品启用建议。
+* 能够执行以下产品启用建议 [!DNL Adobe Document Cloud] 解决方案。
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -37,12 +37,12 @@ ht-degree: 1%
 **目标受众：**
 
 * 解决方案顾问
-* 业务分析员
+* 业务分析师
 * 销售
 
 **考试详细信息：**
 
-* 级别：专业（0至12个月经验）
+* 级别：专业（0-12个月经验）
 * 及格分数：34/50
 * 时间：100分钟
 * 投放：在线监护（需要访问摄像头）
@@ -61,7 +61,7 @@ ht-degree: 1%
 
 * 确定流程改进和解决方案适合性的关键领域
 * 使业务目标与Document Cloud功能相协调
-* 为高级最终用户提供各种Document Cloud组件的重点演示
+* 提供以高级最终用户为中心的Document Cloud不同组件演示
 
 第3部分：定义Document Cloud(DC)功能(18%)
 
@@ -74,7 +74,7 @@ ht-degree: 1%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
@@ -84,7 +84,7 @@ ht-degree: 1%
 * [欢迎使用全新的文档体验](https://www.adobe.com/documentcloud.html){target="_blank"}
 * [Adobe文档生成API](https://developer.adobe.com/document-services/apis/doc-generation){target="_blank"}
 * [Acrobat服务API用例](https://developer.adobe.com/document-services/use-cases/agreements-and-contracts/legal-contracts/){target="_blank"}
-* [了解Acrobat Sign如何加快业务发展](https://www.adobe.com/sign.html){target="_blank"}
+* [了解Acrobat Sign如何加速您的业务](https://www.adobe.com/sign.html){target="_blank"}
 * [Adobe Acrobat Sign功能](https://www.adobe.com/sign/features.html){target="_blank"}
 
 **第二节　：业务流程评估**
@@ -102,7 +102,7 @@ ht-degree: 1%
 **第3部分：定义Document Cloud(DC)功能**
 
 * [Adobe法规遵从性认证、标准和法规](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
-* [适用于生命科学的Adobe Sign](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
+* [Adobe Sign生命科学版](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
 * [法规遵从性成为标准](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
 * [什么是数字签名？](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [Adobe Sign的总经济影响](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
@@ -111,8 +111,8 @@ ht-degree: 1%
 
 **第4部分：推荐解决方案**
 
-* [Adobe Acrobat Services API安全概述](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
-* [Acrobat Services API入门](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html){target="_blank"}
+* [Adobe Acrobat服务API安全概述](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
+* [Acrobat服务API快速入门](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html){target="_blank"}
 * [Adobe Acrobat自动化和文档工作流](https://helpx.adobe.com/acrobat/kb/automation-and-document-workflows.html){target="_blank"}
 * [欢迎使用全新的文档体验。](https://www.adobe.com/documentcloud.html){target="_blank"}
 * [Adobe Acrobat功能和工具](https://www.adobe.com/acrobat/features.html){target="_blank"}
@@ -124,27 +124,23 @@ ht-degree: 1%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 
 ## 参加练习测试
 
 {{practice-test}}
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-D106)
-
-### 可用选项
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加AD0-D106考试
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -154,5 +150,5 @@ ht-degree: 1%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
 

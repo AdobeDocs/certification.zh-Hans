@@ -3,42 +3,42 @@ title: 核心开发人员专业认证
 description: 了解如何成为Adobe领域的认证Adobe Developer专业人员 [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E905" type="positive"
+badge: label="考试AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1011'
 ht-degree: 2%
 
 ---
 
 # Adobe的认证历程 [!DNL Workfront] 核心开发人员专业版
 
-了解如何成为经过认证的Adobe Developer专业人员。
+了解如何成为认证Adobe [!DNL Workfront] 核心开发人员专业人员。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
-* 至少拥有3 - 6个月的Adobe实践经验 [!DNL Workfront]
-* Adobe体验 [!DNL Workfront] 功能和连接性（通过接收、批准、规划、执行和报告）
+* 使用Adobe至少3至6个月的实践经验 [!DNL Workfront]
+* Adobe体验 [!DNL Workfront] 功能和连通性（通过接收、批准、规划、执行和报告）
 * 对Adobe的深入了解 [!DNL Workfront] 对象类型，包括自定义表单和审批工作流、模板、持续时间、工作量/计划小时数
-* 对Adobe的深入了解 [!DNL Workfront] 设置，包括访问级别、布局模板、项目偏好设置和其他方法，以实现最终用户设计的简化
+* 对Adobe的深入了解 [!DNL Workfront] 设置，包括访问级别、布局模板、项目偏好设置和其他方法以简化最终用户设计
 * 对流程映射的理解和经验
-* 对不同的Adobe的理解 [!DNL Workfront] 角色以及如何参与支持
+* 了解不同的Adobe [!DNL Workfront] 角色以及如何参与支持
 
 而且，您应该拥有：
 
-* 熟悉 [!DNL Workfront] API和API资源管理器，但不一定熟悉API调用
-* 使用自定义API调用的功能 [!DNL Workfront] 和其他API
+* 熟悉 [!DNL Workfront] API和API Explorer，但不一定精通API调用
+* 能够使用自定义API调用以处理 [!DNL Workfront] 和其他API
 * 熟悉Adobe [!DNL Workfront]
 * 熟悉本机连接器和其他Adobe [!DNL Workfront] 产品和服务
-* 熟悉项目管理（包括敏捷和瀑布）以及资源管理概念
+* 熟悉项目管理（包括敏捷和瀑布式管理）以及资源管理概念
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -49,16 +49,16 @@ ht-degree: 2%
 * 技术顾问
 * 系统管理员
 * 项目经理
-* 项目协调人
-* 策略专家
+* 项目协调员
+* 策略师
 * 资源管理器
-* 分析员
+* 分析师
 * IT专家
 * [!DNL Workfront] 实施顾问/主管
 
 **考试详细信息：**
 
-* 级别：专业（0至12个月经验）
+* 级别：专业（0-12个月经验）
 * 及格分数：44/70
 * 时间：140分钟
 * 投放：在线监护（需要访问摄像头）
@@ -66,13 +66,13 @@ ht-degree: 2%
 * 费用：125美元（全球）/95美元（印度）
 * 考试ID：AD0-E905
 
-**就绪性自我评估**
+**准备情况自我评估**
 
 完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
 
 **考试目标和范围**
 
-第1节。 战略和吸纳(24%)
+第1节。 战略和接收(24%)
 
 * 使用项目组合和程序
 * 使用请求队列
@@ -82,40 +82,40 @@ ht-degree: 2%
 第2节。 预算和规划(11%)
 
 * 使用资源规划者
-* 给定方案/一组要求，应用配置以设置项目模板
+* 给定场景/需求集，应用配置以设置项目模板
 
 第3节。 用户体验(25%)
 
 * 说明创建正确用户体验过程中用户管理的最佳实践
 * 在给定情况下，在整个系统中应用正确的共享和访问权限设置
-* 描述Kickstart是什么，并识别何时使用它
+* 描述什么是Kickstart并识别何时使用它
 * 演示如何创建和使用时间表
 * 描述连接器、插件和加载项的用途和价值
 
 第4节。 指标和报表(16%)
 
-* 描述构建、发送和自定义报告的基本概念
-* 说明如何构建和自定义仪表板
+* 描述构建、发送和自定义报表的基本概念
+* 说明如何构建和自定义功能板
 * 演示如何配置报告的功能视图
 
-第5节。 执行(24%)
+第五节　。 执行(24%)
 
-* 演示如何设置审批和验证工作流
+* 演示如何设置批准和验证工作流
 * 识别为项目创建问题的目的
-* 演示如何自定义组级别项目状态
+* 演示如何自定义组级项目状态
 * 确定在中启用Agile所需的属性 [!DNL Workfront]
 * 确定输入时间的方法 [!DNL Workfront]
 * 确定中财务跟踪的元素 [!DNL Workfront]
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
 **示例问题**
 
-通过样题可以查看实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测您的实际测试结果。
+通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
 
 [请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
@@ -149,7 +149,7 @@ ht-degree: 2%
 **第4部分：指标和报表**
 
 * [创建自定义报表](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
-* [发送和共享报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
+* [发送和共享报表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
 * [最佳实践 — 自定义报表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
 
@@ -166,35 +166,20 @@ ht-degree: 2%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E905)
-
-### 可用选项
-
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E905
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -204,4 +189,4 @@ ht-degree: 2%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.

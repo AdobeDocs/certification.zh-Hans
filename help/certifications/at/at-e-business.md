@@ -1,26 +1,26 @@
 ---
 title: 商业从业者专家认证
-description: 了解如何成为认证Adobe业务从业专家 [!DNL Adobe Target].
+description: 了解如何成为认证Adobe业务从业者专家 [!DNL Adobe Target].
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E406" type="positive"
+badge: label="考试AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '1207'
 ht-degree: 1%
 
 ---
 
 # 的认证历程 [!DNL Adobe Target] 商业从业者专家
 
-了解如何成为认证Adobe业务从业专家。
+了解如何成为认证用户 [!DNL Adobe Target] 商业从业者专家。
 
 ## 最低体验
 
-您应具有：
+您应该拥有：
 
 * 2年以上的优化平台使用经验，包括 [!DNL Adobe Target]
 * 动手体验 [!DNL Adobe Target]
@@ -30,19 +30,19 @@ ht-degree: 1%
 * 根据需求评估提出建议的能力
 * 能够确定适当的 [!DNL Adobe Target] 基于优化目标的活动类型
 * 了解如何使用HTML和CSS优化用户体验
-* 了解JavaScript概念
+* 了解JavaScript的概念
 * 适用于优化的统计概念和数据分析知识
 * 深入了解三步工作流程（体验、定位、目标和设置，包括所有报表源）
 * 能够将活动报告结果转换为可操作见解和建议
 * 了解不断变化的技术对Target的影响(ITP、GDPR/CCPA、SPA)
-* 了解如何将“推荐活动”用作解决方案
+* 了解如何将推荐活动用作解决方案
 
 此外，您还应熟悉以下技术和环境：
 
 技术：
 
 * Marketing Cloud Debugger/也称为Adobe Experience Cloud Debugger
-* Adobe Analytics作为Target的报表源，专门用于A4T集成
+* 将Adobe Analytics作为特定于Target的A4T集成的报表源
 * 浏览器的控制台/浏览器开发人员工具，例如控制台、网络选项卡
 * 浏览器中的网络工具
 * 对其他Adobe工具的基本了解
@@ -52,23 +52,23 @@ ht-degree: 1%
 * Adobe Experience Cloud（作为Target的受众源）
 * Adobe Experience Manager
 * 与Target相关的统计数据中使用的术语的基本知识
-* Cookie行为的基本知识
+* 有关Cookie行为的基本知识
 * 如何阅读解决方案设计参考
 
 环境:
 
 * 台式机/网站（包括台式机和移动设备）
-* 移动设备移动设备应用程序（基本了解）/使用Target
+* 移动设备应用程序（基本了解）/在移动设备中使用Target
 * 暂存 — 开发
 * 生产
 * 跨移动设备、平板电脑设备和桌面设备的生产环境
 * 相关托管平台
-* 将Target用于单页应用程序
+* 将目标用于单页应用程序
 * 电子邮件
 
 >[!NOTE]
 >
->您的认证从您通过之日起有效期为两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+>您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
 
 >[!BEGINTABS]
 
@@ -86,7 +86,7 @@ ht-degree: 1%
 * 级别：专家（1-3年经验）
 * 及格分数：46/68
 * 时间：136分钟
-* 投放：在线监护（需要访问摄像头）或测试中心监护
+* 交付：在线监护（需要摄像头访问）或测试中心监护
 * 可用语言：英语
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E406
@@ -95,29 +95,29 @@ ht-degree: 1%
 
 第1款：规划和战略(31%)
 
-* 确定业务KPI并在满足关键业务要求的情况下成功地将这些指标转换为优化目标
+* 确定业务KPI，并根据关键业务需求成功地将其转换为优化目标
 * 根据业务KPI和数据分析发现优化机会
-* 根据业务需求、工作量和提升潜力对测试想法进行优先排序
+* 根据业务需求、工作量和提升潜力，对测试想法进行优先排序
 * 基于Adobe样本量计算器，确定变量对活动有何影响
-* 基于给定场景构建测试假设并识别假设元素
-* 基于给定场景分析测试假设验证，并识别有效假设验证的各个方面
+* 基于给定场景构建测试假设并识别假设要素
+* 基于给定场景分析测试假设并识别有效假设的各个方面
 * 确定基于KPI的主要和次要成功量度
 * 评估受众要求
-* 确定适当的Analytics报表源(即Target或Adobe Analytics)
+* 确定适当的分析报表源(即Target或Adobe Analytics)
 
 第2节：配置、执行和管理(42%)
 
 * 解释基于表单的体验编辑器与可视化体验编辑器的用法
 * 应用过程以使用VEC创建体验
 * 应用过程以使用基于表单的编辑器创建体验
-* 应用过程来管理体验编辑器中的体验
+* 应用过程在体验编辑器中管理体验
 * 描述适用于创建Target活动的工作流
 * 应用过程以创建A/B测试活动
 * 应用过程以创建XT活动
 * 应用过程以创建MVT活动
 * 了解如何将AP用于解决方案
 * 应用过程以创建推荐活动
-* 应用过程以在Target中创建受众
+* 应用过程在Target中创建受众
 * 应用过程以设置目标和设置
 * 应用过程以执行活动QA
 * 应用过程管理Target中的活动和受众
@@ -127,7 +127,7 @@ ht-degree: 1%
 * 定义并评估报表设置，以帮助设置报表中显示的元素
 * 评估和比较 [!DNL Adobe Target] 规划Target活动和验证Target活动报表时的样本量计算器设置
 * 评估并识别与A/B测试相关的常见问题以及如何避免这些问题
-* 了解Automated Personalization摘要报表与其他报表的不同之处
+* 了解Automated Personalization摘要报表与其他报表有何不同
 * 评估体验性能报表(MVT)
 * 根据观察到的提升度、置信水平和业务目标确定入选变量
 
@@ -139,7 +139,7 @@ ht-degree: 1%
 
 >[!TAB 准备好]
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
@@ -160,7 +160,7 @@ ht-degree: 1%
 * [Target请求简介](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.3-intro-to-target-requests.html){target="_blank"}
 * [Target参数简介](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.4-intro-to-target-params.html){target="_blank"}
 * [了解如何操作 [!DNL Adobe Target]的at.js 2.0的工作原理](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
-* [实施 [!DNL Adobe Target]在单页应用程序(SPA)中提供的at.js 2.0](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
+* [实施 [!DNL Adobe Target]单页应用程序(SPA)中的at.js 2.0](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
 * [设计Target实施](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
 * [设计Target实施的后续步骤](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
 
@@ -185,37 +185,22 @@ ht-degree: 1%
 >
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您的个人资料名称位于 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时支付额外的考试费用。*
+>此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
 
 ## 参加练习测试
 
 {{practice-test}}
 
-## 关于考试
+## 关于认证考试
 
 {{about-certification-exam}}
 
-## 参加考试(AD0-E406)
-
-### 可用选项
-
-{{PSI-note}}
-
-**PSI** (*测试中心/日语考试选项（如果可用）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
-</span>
-</a>
-
-**[!DNL Examity]** ( *在线* )
+## 安排或参加考试AD0-E406
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加考试
+   转到考试门户
 </span>
 </a>
 
@@ -225,4 +210,4 @@ ht-degree: 1%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
