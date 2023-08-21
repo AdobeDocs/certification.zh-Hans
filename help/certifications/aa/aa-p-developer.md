@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
 workflow-type: tm+mt
-source-wordcount: '1120'
+source-wordcount: '1116'
 ht-degree: 9%
 
 ---
@@ -169,10 +169,6 @@ ht-degree: 9%
 >以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 >此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
-
-## 参加练习测试
-
-{{practice-test}}
 
 ## 关于认证考试
 
