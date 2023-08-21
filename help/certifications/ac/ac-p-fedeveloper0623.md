@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="考试AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Adobe的认证历程 [!DNL Commerce] 前端开发人员专业版
 
 了解如何成为认证用户 [!DNL Adobe Commerce] 开发人员专业版。
-
->[!NOTE]
->
->这是最新的 [!DNL Adobe Commerce] 前端开发人员专业资格考试。 如果您已开始学习或计划了 [较旧版本](ac-p-fedeveloper.md) 您必须在2023年8月18日之前完成它。
 
 ## 最低体验
 

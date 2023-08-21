@@ -8,7 +8,8 @@ level: Experienced
 badge: label="考试AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+hide-from-toc: true
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
 source-wordcount: '1337'
 ht-degree: 1%

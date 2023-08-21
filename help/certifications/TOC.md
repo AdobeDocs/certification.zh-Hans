@@ -2,10 +2,10 @@
 user-guide-title: Adobe 认证
 breadcrumb-title: Adobe 认证
 user-guide-description: 了解 Adobe 的  [!DNL Experience Cloud]  认证。了解获得认证能为您做什么。
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 45%
+source-wordcount: '255'
+ht-degree: 47%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 45%
 + [重新启动程序](restart-program.md)
 + [我的个人资料](my-profile.md)
 + [常见问题解答](faq.md)
-+ 按解决方案列出的技术认证 {#technical-certifications}
++ 技术认证（按解决方案） {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [广告概述](/help/certifications/aac/aac-overview.md)
       + 专业 {#aac-professional}
@@ -74,13 +74,11 @@ ht-degree: 45%
       + 专业 {#ac-professional}
          + [商业从业者](/help/certifications/ac/ac-p-business.md)
          + [Developer](/help/certifications/ac/ac-p-developer.md)
-         + [前端开发人员](/help/certifications/ac/ac-p-fedeveloper.md)
-         + [前端开发人员（新）](/help/certifications/ac/ac-p-fedeveloper0623.md)
+         + [前端开发人员](/help/certifications/ac/ac-p-fedeveloper0623.md)
       + 专家 {#ac-expert}
          + [商业从业者](/help/certifications/ac/ac-e-business.md)
          + [Developer](/help/certifications/ac/ac-e-developer.md)
-         + [前端开发人员](/help/certifications/ac/ac-e-fedeveloper.md)
-         + [前端开发人员（新）](/help/certifications/ac/ac-e-fedeveloper0623.md)
+         + [前端开发人员](/help/certifications/ac/ac-e-fedeveloper0623.md)
       + 主控 {#ac-master}
          + [架构师](/help/certifications/ac/ac-m-architect.md)
       + [续订](/help/certifications/ac/ac-renew.md)

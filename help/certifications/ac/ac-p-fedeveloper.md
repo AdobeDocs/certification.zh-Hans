@@ -7,7 +7,8 @@ role: Developer
 badge: label="考试AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+hide-from-toc: true
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
 source-wordcount: '1049'
 ht-degree: 1%
