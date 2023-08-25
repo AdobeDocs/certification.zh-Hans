@@ -2,10 +2,10 @@
 user-guide-title: Adobe 认证
 breadcrumb-title: Adobe 认证
 user-guide-description: 了解 Adobe 的  [!DNL Experience Cloud]  认证。了解获得认证能为您做什么。
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 47%
+source-wordcount: '260'
+ht-degree: 46%
 
 ---
 
@@ -112,6 +112,7 @@ ht-degree: 47%
          + [商业从业者](/help/certifications/ame/ame-e-business.md)
       + 主控 {#ame-master}
          + [架构师](/help/certifications/ame/ame-m-architect.md)
+         + [架构师 — 新建](/help/certifications/ame/ame-m-architect-23-08.md)
       + [续订](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP概述](/help/certifications/rtcdp/rtcdp-overview.md)
@@ -143,6 +144,7 @@ ht-degree: 47%
          + [开发人员（核心）](/help/certifications/aw/aw-core-p-developer.md)
       + 专家 {#aw-expert}
          + [开发人员（核心）](/help/certifications/aw/aw-core-e-developer.md)
+         + [开发人员（核心） — 新](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM增强型连接器](/help/certifications/aw/aw-aem-e-connector.md)
       + [续订](/help/certifications/aw/aw-renew.md)
 + [最终用户的凭据](https://learning.adobe.com/certification/credentials)
