@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
+source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '766'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 1%
 
 * 级别：硕士（3-5年经验）
 * 及格分数：30/50
-* 时间：120分钟
+* 时间：100分钟
 * 投放：在线监护（需要访问摄像头）
 * 可用语言：英语
 * 费用：225美元（全球）/150美元（印度）
@@ -111,12 +111,6 @@ ht-degree: 1%
 * 配置Adobe的各个方面 [!DNL Commerce] 云
 * 监督和改进部署过程
 * 基础架构和配置问题疑难解答
-
-第4部分：合规/安全基本知识(13%)
-
-* 了解隐私法律和支付安全合规性的基础知识
-* 识别Adobe的常见安全方面 [!DNL Commerce] 项目
-* 确定无障碍合规性的最佳实践和法律要求
 
 >[!TAB 准备好]
 
