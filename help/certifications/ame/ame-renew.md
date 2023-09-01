@@ -7,22 +7,22 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '1060'
-ht-degree: 3%
+source-wordcount: '1804'
+ht-degree: 2%
 
 ---
 
 # 续订Adobe [!DNL Marketo Engage] 认证
 
-您的Adobe认证有效期为两年。 如果您即将迎来两年的学期，是时候续订您的认证以保持其活跃状态。
+您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
 
-首先，在下面的选项卡中选择适当的级别(“专业”、“专家”或“主控”)。 然后，仔细查看续订认证所需的操作。
+首先，在下面的选项卡中选择适当的级别（“专业”、“专家”或“主人”）。 然后，仔细查看续订认证所需的操作。
 
-在认证过期之前，请确保您有充足的时间完成所有要求。
+确保在认证过期之前有充足的时间完成所有要求。
 
-请务必注意，如果认证过期，您将必须重新参加认证考试，这并非免费。
+请务必注意，如果认证过期，您将必须重新参加认证考试，该考试不免费。
 
 >[!IMPORTANT]
 >
@@ -58,30 +58,30 @@ ht-degree: 3%
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：AD5-E824 -Adobe [!DNL Marketo Engage] 商业从业者专家续约考试
+* 考试ID：AD5-E824 -Adobe [!DNL Marketo Engage] 业务从业者专家续约考试
 
 **范围和目标：**
 
-第1款：管理和维护(12%)
+第一节　：管理和维修(12%)
 
 * 确定Marketo与CRM之间的映射过程
-* 使用审核记录识别资产发生了什么情况
+* 使用审核记录识别资产所发生的情况
 * 识别用户和角色之间的差异
-* 给定一个方案，确定最适合使用工作区和分区
+* 给定一个方案，确定最适合使用工作区和分区的方法
 * 通过本机Marketo同步识别CRM平台
-* 在给定场景下，找到引用信息的位置
+* 给定场景，找到引用信息的位置
 
 第2部分：营销活动/营销活动管理(48%)
 
 * 演示对智能营销活动、逻辑、限制和流程步骤的了解
-* 给定一个方案，定义下一步
+* 给定场景，定义下一步
 * 确定问题的根本原因
-* 解释程序、渠道、标记和期间成本之间的关系
+* 解释计划、渠道、标记和期间成本之间的关系
 * 演示/将正确的配置应用于参与计划
 * 给出不同类型令牌的使用示例
 * 概述Webhook在Marketo中的用途及其使用方式
-* 确定并适用适当的PMCF
-* 解释全球资产的好处以及如何使用它们
+* 确定并正确使用周转基金
+* 解释全球资产的好处及其使用方法
 * 演示表单的功能
 * 执行和分析A/B测试策略
 * 识别在何处使用“使用者”引用了项目或资产
@@ -91,7 +91,7 @@ ht-degree: 3%
 第3款：销售线索管理(10%)
 
 * 概述定义生命周期模型时的关键决策点
-* 在商机评分方面应用最佳实践
+* 在潜在客户评分方面应用最佳实践
 * 实施适当的有趣时刻
 * 解释潜在客户活动日志
 * 给定场景，标识创建源
@@ -105,8 +105,8 @@ ht-degree: 3%
 
 第5节：报告(5%)
 
-* 根据营销活动结果，确定如何设置项目以提供最佳报告
-* 在给定场景下，能够调查和分配适当的客户获取计划
+* 给定活动结果，确定如何设置项目以提供最佳报告
+* 在场景中，能够调查和分配适当的客户获取项目
 
 第6节：最佳做法(15%)
 
@@ -118,19 +118,19 @@ ht-degree: 3%
 
 ### 准备好
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
-**第一节　：管理和维护**
+**第一节　管理和维护**
 
 * [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （字段管理、CRM同步、审核跟踪、用户管理、工作区和分区、智能列表、自定义字段）
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （与Salesforce同步，CRM集成）
 
 **第2部分：营销活动/营销活动管理**
 
-* [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (随机示例、具有数据值的智能营销活动、触发的等待步骤、member.webinar url、营销活动检查器、筛选逻辑、在电子邮件中使用令牌、通过表单填写创建潜在客户、资源和工作区、管理Forms)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智能列表、智能营销活动、需求生成Forms、需求生成事件、电子邮件营销、创建项目、事件、审核跟踪、使用项目、管理标记、滴流培养、登陆页面、令牌、管理其他集成、Webhook、项目成员自定义字段、工作区和人员分区)
+* [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (随机样本、具有数据值的智能营销活动触发、等待步骤、member.webinar url、营销活动检查器、过滤器逻辑、在电子邮件中使用令牌、通过表单填写创建潜在客户、资源和工作区、管理Forms)
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智能列表、智能营销活动、需求生成Forms、需求生成事件、电子邮件营销、创建项目、事件、审核跟踪、使用项目、管理标记、点滴培养、登陆页面、令牌、管理其他集成、Webhook、项目成员自定义字段、工作区和人员分区)
 
 **第3部分：潜在客户管理**
 
@@ -139,29 +139,142 @@ ht-degree: 3%
 
 **第4节：数据管理**
 
-* [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (维护潜在客户退回电子邮件目录文章，如何管理您的Marketo数据库以实现可投放性支持博客，Marketo活动数据保留策略 — 位于标题下的文章)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （电子邮件营销硬退回和软退回、报表类型、个性化、动态内容）
+* [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (维护潜在客户退回电子邮件目录，文章“如何管理Marketo数据库以提供可投放性支持”博客， Marketo活动数据保留策略 — 在标题下)
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （电子邮件营销硬退信和软退信、报表类型、个性化、动态内容）
 
-**第5节：报告**
+**第五节　：报告**
 
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （设置客户获取最佳实践文章）
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （报表、绩效分析、计划绩效报表、编辑报表、计划成员资格）
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （报表、性能分析、项目性能报表、编辑报表、项目成员资格）
 
 **第6部分：最佳实践**
 
 * [引导评分的最终指南](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
 * [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （使用项目、电子邮件营销、A/B测试）
-* [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （请注意您的QA过程）
+* [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （请注意QA流程）
 
 ### 续订您的认证
 
 确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Marketo EngageBusiness Practioner Expert续订链接。
 
-[！BADGE获取Adobe [!DNL Marketo Engage] 商业从业者专家续约考试AD5-E824]{type=信息性url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[！BADGE接受Adobe [!DNL Marketo Engage] 商业从业者专家续订考试AD5-E824]{type=Informational url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+
+>[!TAB 主控]
+
+您当前应在以下位置获得认证（未过期）：
+
+* Adobe Marketo Engage架构师母版
+
+## 续订认证的说明：
+
+* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤2**：查看考试目标和资源
+* **步骤3**：参加并通过考试
+
+### 准备就绪
+
+**考试详细信息：**
+
+* 级别：专家（3-5年经验）
+* 及格分数：27/36
+* 时间：72分钟
+* 交付：按需/非托管
+* 可用语言：英语
+* 费用：免费
+* 考试ID：AD5-E834 -Adobe [!DNL Marketo Engage] 架构师母版
+
+**范围和目标：**
+
+第1款：项目领导力16%
+
+* 1.1根据案例研究，确定适当的利益攸关方
+* 1.2评估一套要求并建议项目界限、预算、资源和范围
+* 1.3在修改流程后，确定影响、更改管理和启用要求
+* 1.4根据一系列业务要求，评估、审计并建议优先事项和时限
+
+第2部分：Marketo架构设计48%
+
+* 2.1收集需求/需求，并推荐潜在客户管理和生命周期设计
+* 2.2审查现有的实施情况并提供调查结果
+* 2.3根据业务需求，确定设置评分的最有效方法
+* 2.4审查现有工作流程并提出行动建议，以有效扩大活动执行范围
+* 2.5概述促进多个国家/地区的营销运作和领导管理的最有效方法
+* 2.6根据设想方案，评价将新技术纳入一个实例的影响和要求
+* 2.7确定不同类型的集成(Adobe Experience Cloud或外部产品)以及何时使用这些集成
+* 2.8根据情景/案例研究，确定潜在客户生命周期中受建议更改或需求影响的不同阶段。
+* 2.9推荐适当的营销活动逻辑，以支持特定的业务需求
+
+第3节：报告和归因20%
+
+* 3.1给出一个模型，在生命周期建模器中解释/阐述绕线的概念
+* 3.2鉴于多渠道营销活动（在线广告/有机社交/内容），建议采用一种报告方法
+* 3.3验证Marketo报表是否跟踪生命周期更改
+* 3.4确定在给定报表类型中使用的量度
+* 3.5确定如何跟踪多渠道归因以评估ROI
+* 3.6确定并描述不同归因模型的利弊
+* 3.7根据业务要求，说明渠道设置对报告的影响
+
+第四节　：高级行政管理16%
+
+* 4.1在某种情况下，确定改进平台治理的适当步骤
+* 4.2给定一个集成规范，推荐一个高效的数据模式
+* 4.3评估实施并建议改进电子邮件性能的操作
+* 4.4评价实施情况并提出行动建议，以改善行政管理
+* 4.5收集关于实施的信息并推荐安全做法
+* 4.6说明工作区和分区在给定场景下的适用性
+
+### 准备好
+
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+
+以下是一些可帮助您准备的建议资源：
+
+**第一节　：项目领导**
+
+* [Champion博客 — Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [文档 — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
+* [了解收入模型](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
+
+**第2部分：Adobe [!DNL Marketo Engage] 架构设计**
+
+* [有关创建自定义同步规则的说明](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [引导评分的最终指南](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [电子邮件脚本](https://developers.marketo.com/email-scripting/){target="_blank"}
+* [初始设置](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html){target="_blank"}
+
+**第3节：报告和归因**
+
+* [报表类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [了解归因](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
+* [Champion博客 — Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [预测内容摘要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/predictive-content/the-predictive-content-summary.html){target="_blank"}
+
+**第4节：高级操作**
+
+* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [禁止软退回](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [了解工作区和人员分区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [了解Marketo自定义对象](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
+
+### 续订您的认证
+
+首先，确保您已成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}. 然后，续订您的Adobe [!DNL Marketo Engage] 架构师主认证，请单击下面的链接。
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E834" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加AD5-E834考试
+</span>
+</a>
+
+>[!NOTE]
+>
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
 
 >[!ENDTABS]
 
@@ -170,4 +283,4 @@ ht-degree: 3%
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
