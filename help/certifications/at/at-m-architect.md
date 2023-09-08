@@ -7,20 +7,17 @@ role: Data Architect
 badge: label="考试AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+hidefromtoc: true
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 19%
+source-wordcount: '1077'
+ht-degree: 20%
 
 ---
 
 # 的认证历程 [!DNL Adobe Target] 架构师母版
 
 了解如何成为认证用户 [!DNL Adobe Target] 架构师母版。
-
->[!NOTE]
->
->这次考试， [!DNL Adobe Target] 架构师母版(AD0-E407)已更新。 如果您已开始学习或计划学习此版本，请确保在2023年9月8日之前完成该课程。 如果您刚刚开始，我们建议您参加 [该考试的最新版本](at-m-architect0623.md).
 
 ## 最低体验
 
