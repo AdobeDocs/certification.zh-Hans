@@ -4,13 +4,13 @@ description: 了解如何成为认证Adobe [!DNL Experience Manager] 专业。
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Exam AD0-E132 type="positive"
+badge: label="考试AD0-E132" type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: b7518560c9ab89e0cdb6a45853244d1790f81b44
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 10%
+source-wordcount: '603'
+ht-degree: 11%
 
 ---
 
@@ -115,7 +115,7 @@ ht-degree: 10%
 **第2节：实施**
 
 * [AEM组件 — 基础知识](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
-* [AEM中的HeadlessTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
+* [AEM 中的 Headless 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
 * [创建页面模板](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
 * [使用客户端库](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html){target="_blank"}
 
