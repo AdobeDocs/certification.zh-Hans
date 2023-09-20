@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="考试AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1019'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,9 @@ ht-degree: 0%
 * 演示jQuery小组件的使用
 * 演示使用布局XML的JS组件
 
-第5部分：管理员配置和PageBuilder (12%)
+第5部分：管理员配置和页面生成器(12%)
 
-* 演示自定义Page Builder内容的能力”
+* 演示自定义页面生成器内容的能力
 * 描述前端优化
 * 自定义事务性电子邮件
 * 演示管理开发工具的使用

@@ -6,7 +6,7 @@ product: Magento
 role: Developer
 badge: label="考试AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
 source-wordcount: '860'
 ht-degree: 0%
