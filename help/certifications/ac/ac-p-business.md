@@ -7,7 +7,7 @@ role: User
 badge: label="考试AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 2f4cc72e494787c43205e84cae4a4f3b5ecbf900
 workflow-type: tm+mt
 source-wordcount: '932'
 ht-degree: 2%
@@ -69,7 +69,7 @@ ht-degree: 2%
 
 **考试目标和范围**
 
-第1节： [!DNL Magento Open Source] 核心功能(49%)
+第1节： [!DNL Magento Open Source] 核心特性(49%)
 
 * 识别的功能 [!DNL Magento Open Source]
 * 区分正确的范围以及何时使用每个
