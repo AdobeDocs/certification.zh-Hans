@@ -4,10 +4,10 @@ description: 了解如何成为认证用户 [!DNL Adobe Target] 商业从业者�
 solution: Target
 product: Target
 role: User
-badge: label="考试AD0-E408" type="positive"
+badge: label="考试AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 11%

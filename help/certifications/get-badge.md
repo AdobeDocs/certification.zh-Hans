@@ -1,11 +1,11 @@
 ---
 title: Adobe Real-time Customer Data Platform认证
-description: 您掌握有关受众分段、目标导出以及统一用户档案实时激活的技术知识，这些用户档案遵守数据和隐私法规、客户数据平台(CDP)并了解Adobe Experience Platform。
+description: 您掌握有关受众分段、目标导出和实时激活的技术知识，可了解遵守数据和隐私法规、客户数据平台(CDP)的统一用户档案以及了解Adobe Experience Platform。
 solution: Real-Time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
-badge: label="如何获得认证" type="positive"
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+badge: label="如何获得认证" type="neutral"
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

@@ -5,10 +5,10 @@ solution: Analytics
 product: Analytics
 role: Developer
 level: Experienced
-badge: label="考试AD0-E209" type="positive"
+badge: label="考试AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '809'
 ht-degree: 12%

@@ -4,10 +4,10 @@ description: 了解如何成为以下领域的认证Adobe商业从业者 [!DNL C
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="考试AD0-E329" type="positive"
+badge: label="考试AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '1027'
 ht-degree: 14%

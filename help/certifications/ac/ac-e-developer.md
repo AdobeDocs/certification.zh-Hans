@@ -4,10 +4,10 @@ description: 了解如何成为Adobe领域的认证Adobe Developer专家 [!DNL C
 solution: Commerce
 role: Developer
 level: Experienced
-badge: label="考试AD0-E716" type="positive"
+badge: label="考试AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '1707'
 ht-degree: 2%

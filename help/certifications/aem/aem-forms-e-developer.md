@@ -4,10 +4,10 @@ description: 了解如何成为认证Adobe [!DNL Experience Manager Forms] 后�
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="考试AD0-E125" type="positive"
+badge: label="考试AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 7%

@@ -4,10 +4,10 @@ description: 了解如何成为认证Adobe [!DNL Experience Manager Sites] 专�
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="考试AD0-E134" type="positive"
+badge: label="考试AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 17%

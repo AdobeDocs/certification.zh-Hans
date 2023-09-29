@@ -5,10 +5,10 @@ solution: Advertising
 product: Advertising Cloud
 level: Experienced
 role: User
-badge: label="考试AD0-E501" type="positive"
+badge: label="考试AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 6%

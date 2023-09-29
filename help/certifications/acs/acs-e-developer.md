@@ -4,10 +4,10 @@ description: 了解如何成为认证Adobe Developer专家Adobe [!DNL Campaign S
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
-badge: label="考试AD0-E306" type="positive"
+badge: label="考试AD0-E306" type="neutral"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '930'
 ht-degree: 14%

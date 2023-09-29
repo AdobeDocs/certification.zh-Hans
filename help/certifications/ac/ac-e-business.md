@@ -5,10 +5,10 @@ solution: Commerce
 product: Magento
 role: User
 level: Experienced
-badge: label="考试AD0-E708" type="positive"
+badge: label="考试AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '1265'
 ht-degree: 0%
