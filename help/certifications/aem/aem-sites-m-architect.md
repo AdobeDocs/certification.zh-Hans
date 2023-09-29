@@ -7,24 +7,50 @@ role: Data Architect
 badge: label="考试AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1723'
-ht-degree: 17%
+source-wordcount: '1541'
+ht-degree: 19%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Sites] 架构师母版
 
+{{intro}}
+
 >[!NOTE]
 >
->此考试(AD0-E117)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
->
->**问题?** 查看我们的 [常见问题解答](#AEM-FAQ) ，位于本页底部。
+>此考试(AD0-E117 / AD0-E117-J)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。<br><br>**问题?** 查看我们的 [常见问题解答](#AEM-FAQ) ，位于本页底部。
 
-了解如何成为认证Adobe [!DNL Experience Manager Sites] 架构师母版。
+## 考试描述 {#exam-description}
 
-## 最低体验
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：硕士（3-5年经验）
+* 及格分数：29/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语、日语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E117（英语）、AD0-E117-J（日语）
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* AEM架构师
+* 主要开发人员
+* 技术架构师
+* 解决方案架构师
+* 开发/运营主管工程师
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -55,45 +81,19 @@ ht-degree: 17%
 * 跨多个渠道重用内容
 * 考虑以云为中心的注意事项，例如：自动缩放、复制、资产管理、本地和托管服务之间的影响和差异、Cloud Manager、包管理
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* AEM架构师
-* 主要开发人员
-* 技术架构师
-* 解决方案架构师
-* 开发/运营主管工程师
-
-**考试详细信息：**
-
-* 级别：硕士（3-5年经验）
-* 及格分数：29/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语、日语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E117
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1部分：发现(18%)
+**第1部分：发现(18%)**
 
 * 将高级业务目标转化为功能需求
 * 在场景中，评估架构的当前状态
 * 确定解决方案设计的非功能性技术要求
 
-第2部分：解决方案设计(44%)
+**第2部分：解决方案设计(44%)**
 
 * 给定业务需求，设计详细的架构和解决方案
 * 在场景中，为设计确定适当的安全解决方案
@@ -102,30 +102,46 @@ ht-degree: 17%
 * 将过程概念应用于设计可扩展且可复原的架构
 * 给定场景，推荐迁移策略
 
-第3款：执行(22%)
+**第3款：执行(22%)**
 
 * 给定场景，识别并解决实施阶段显示的设计问题
 * 在场景中，根据要求推荐实施方法
 * 确定用于为解决方案原型化以验证概念的适当方法
 * 给定场景，诊断并解决实施期间遇到的问题
 
-第4节：维修(16%)
+**第4节：维修(16%)**
 
 * 给定场景，诊断并解决生产环境中遇到的问题
 * 应用过程概念规划新功能和升级的使用
 * 给定一个方案，针对非功能需求优化解决方案
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：发现**
 
@@ -205,27 +221,61 @@ ht-degree: 17%
 * [Lucene索引](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
 * [AEM 6.4 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
-## 关于认证考试
+{{sample-questions}}
+
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
-## 安排或参加考试AD0-E117
+## 安排或参加考试AD0-E117 / AD0-E117-J
 
 >[!NOTE]
 >
->此考试(AD0-E117)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
->
->**问题?** 查看我们的 [常见问题解答](#AEM-FAQ) ，位于本页底部。
+>此考试(AD0-E117 / AD0-E117-J)正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。<br><br>**问题?** 查看我们的 [常见问题解答](#AEM-FAQ) ，位于本页底部。
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

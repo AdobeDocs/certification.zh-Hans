@@ -7,48 +7,24 @@ role: User
 badge: label="考试AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 13%
+source-wordcount: '686'
+ht-degree: 16%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager] 商业从业者专业人员
 
-了解如何成为认证Adobe [!DNL Experience Manager] 商业从业者专业人士。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
 
-您应该拥有：
+{{exam-description}}
 
-* 至少拥有0至12个月的使用和配置AdobeCloud Manager的经验
-* 至少拥有0-12个月的AEM特性和功能使用经验，能够吸引开发人员查找业务解决方案
-* 在配置、实施和管理持续集成/持续部署任务方面至少拥有0 - 12个月的经验
+<br>
 
-如果您熟悉AdobeManaged Services和Adobe [!DNL Experience Manager] as a Cloud Service，并且能够设置Adobe [!DNL Experience Manager] 环境和基础架构。
-
-此外，您应该拥有：
-
-* 能够使用AEM产品管理内容以推动数字体验
-* 了解存在哪些模块
-* 深入了解模块，如Sites、Assets和Forms
-
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
-
->[!BEGINTABS]
-
->[!TAB 准备就绪]
-
-**目标受众：**
-
-* 解决方案顾问
-* 消费者体验
-* 正在设计和实施的解决方案的产品所有者、业务分析师、解决方案架构师
-
-**考试详细信息：**
+### 考试详细信息 {#exam-details}
 
 * 级别：专业（0-12个月经验）
 * 及格分数：33/50
@@ -58,22 +34,52 @@ ht-degree: 13%
 * 费用：125美元（全球）/95美元（印度）
 * 考试ID：AD0-E126
 
-**考试目标和范围**
+<br>
 
-第1款：教育(22%)
+### 目标受众 {#intended-audience}
+
+* 解决方案顾问
+* 消费者体验
+* 正在设计和实施的解决方案的产品所有者、业务分析师、解决方案架构师
+
+<br>
+
+### 最低体验 {#minimum-experience}
+
+您应该拥有：
+
+* 至少拥有0至12个月的使用和配置AdobeCloud Manager的经验
+* 至少拥有0-12个月的AEM特性和功能使用经验，能够吸引开发人员查找业务解决方案
+* 在配置、实施和管理持续集成/持续部署任务方面至少拥有0 - 12个月的经验
+
+您应该能够熟练使用AdobeManaged Services和Adobe [!DNL Experience Manager] as a Cloud Service，并且能够设置Adobe [!DNL Experience Manager] 环境和基础架构。
+
+此外，您应该拥有：
+
+* 能够使用AEM产品管理内容以推动数字体验
+* 了解存在哪些模块
+* 深入了解模块，如Sites、Assets和Forms
+
+<br>
+
+### 考试目标和范围 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第1款：教育(22%)**
 
 * 识别AEM特性和功能
 * 描述满足业务需求的AEM功能
 * 描述为内容编辑进行培训所需的过程概念
 
-第2款：建筑(22%)
+**第2款：建筑(22%)**
 
 * 使用内部部署或Adobe托管（云）环境确定适合满足业务需求的信息体系结构
 * 描述AEM如何与第三方服务连接
 * 确定定义角色和权限的位置
 * 在给定场景下，定义可用的缓存方法
 
-第三节　：业务分析(43%)
+**第三节　：业务分析(43%)**
 
 * 在场景中，确定用于解决客户业务问题的AEM标准模块
 * 确定AEM模块的内容管理概念
@@ -82,22 +88,30 @@ ht-degree: 13%
 * 给定一个方案，描述在预算和/或范围内实现业务目标的正确方法
 * 确定将业务目标与开发团队联系在一起的方法
 
-第4款：设立和执行(13%)
+**第4款：设立和执行(13%)**
 
 * 确定使用内容组件的最佳AEM实践
 * 给定场景，确定某项功能的正确实施
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
 
-**示例问题**
++++第1步：创建帐户
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+{{create-your-account}}
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第一节　：教育**
 
@@ -138,16 +152,35 @@ ht-degree: 13%
 * [与Adobe集成 [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html){target="_blank"}
 * [AEM [!DNL Sites] 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
-## 关于认证考试
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -160,7 +193,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

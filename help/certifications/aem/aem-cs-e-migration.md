@@ -7,18 +7,48 @@ role: Developer
 badge: label="考试AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '817'
-ht-degree: 13%
+source-wordcount: '678'
+ht-degree: 15%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager] as a Cloud Service迁移专家
 
-了解如何成为认证Adobe [!DNL Experience Manager] 专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：31/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E136
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 具有Adobe经验的开发人员 [!DNL Experience Manager]
+* 至少参与过一次云迁移的开发人员
+* Adobe [!DNL Experience Manager] Sites开发人员
+* Adobe [!DNL Experience Manager] 站点架构师
+* Adobe [!DNL Experience Manager] 资产开发人员
+* Adobe [!DNL Experience Manager] Forms开发人员
+* 曾参与多个AEM部署、至少具有2至3年使用Adobe进行Web应用程序开发经验的开发人员/DevOps/潜在客户/架构师 [!DNL Experience Manager]
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -46,37 +76,13 @@ ht-degree: 13%
 * 在本地环境中跟踪云日志
 * Cloud控制台界面
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 具有Adobe经验的开发人员 [!DNL Experience Manager]
-* 至少参与过一次云迁移的开发人员
-* Adobe [!DNL Experience Manager] Sites开发人员
-* Adobe [!DNL Experience Manager] 站点架构师
-* Adobe [!DNL Experience Manager] 资产开发人员
-* Adobe [!DNL Experience Manager] Forms开发人员
-* 曾参与多个AEM部署、至少具有2至3年使用Adobe进行Web应用程序开发经验的开发人员/DevOps/潜在客户/架构师 [!DNL Experience Manager]
-
-**考试详细信息**
-
-* 级别：专家（1-3年经验）
-* 及格分数：31/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E136
-
-**考试目标和范围**
-
-第1款：摊款(32%)
+**第1款：摊款(32%)**
 
 * 使用BPA
 * 准备并评估迁移计划
@@ -87,19 +93,19 @@ ht-degree: 13%
 * 解释与资产相关的实施及其影响
 * 确定与Dispatcher相关的要求
 
-第2节：设计(16%)
+**第2节：设计(16%)**
 
 * 查看现有组件并使用最新版本进行验证
 * 准备资产微服务的配置
 * 说明缓存策略
 
-第3款：部署(16%)
+**第3款：部署(16%)**
 
 * 配置Cloud Manager管道并将关联到环境
 * 配置AEMaaCS环境（开发、暂存、生产 — 作者、发布、预览）
 * 借助AdobeIO CLI管理部署过程
 
-第4节：移徙(20%)
+**第4节：移徙(20%)**
 
 * 执行测试
 * 准备资源迁移策略
@@ -107,21 +113,34 @@ ht-degree: 13%
 * 执行迁移工具（内容传输、现代化、重构）。 报告和优化结果，特别是未通过工具处理的关键结果
 * 规划上线后支持
 
-第5款：执行(16%)
+**第5款：执行(16%)**
 
 * 将多个项目合并为单个项目以通过Adobe管道进行部署
 * 管理用户/组权限的报表脚本
 * 设置本地SDK
 * 基于AEMas a Cloud Service上可用的运行模式更新配置
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第一节　考核**
-
 
 * [[!DNL Experience Manager] as a Cloud Service用户指南](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Adobe迁移指南 [!DNL Experience Manager] 适用于合作伙伴的as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
@@ -149,17 +168,27 @@ ht-degree: 13%
 * [在AdobeCloud Manager中使用CI/CD管线](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [部署到 AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
 
->[!TAB 获得认证]
++++
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+<br>
 
++++第3步：考试计划和付费
 
+{{schedule-and-pay}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -172,7 +201,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

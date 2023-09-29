@@ -7,18 +7,48 @@ role: User
 badge: label="考试AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1215'
-ht-degree: 12%
+source-wordcount: '1027'
+ht-degree: 14%
 
 ---
 
 # Adobe的认证历程 [!DNL Campaign Classic] 商业从业者专业人员
 
-了解如何成为认证Adobe [!DNL Campaign Classic] 商业从业者专业人士。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：32/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E329
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 业务顾问
+* 业务分析师
+* 交互管理器
+* 营销活动管理器
+* 数据库营销人员
+* 商业从业者
+* CRM项目管理器
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -36,41 +66,15 @@ ht-degree: 12%
 * 基础HTML和个性化体验
 * 订阅服务管理（选择启用/选择禁用）
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
-
-**目标受众：**
-
-* 业务顾问
-* 业务分析师
-* 交互管理器
-* 营销活动管理器
-* 数据库营销人员
-* 商业从业者
-* CRM项目管理器
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：32/50
-* 时间：100分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E329
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
+{{exam-objectives}}
 
 **考试目标和范围**
 
-第1部分：构建营销活动(29%)
+**第1部分：构建营销活动(29%)**
 
 * 识别不同的数字营销概念和目标
 * 识别并定义与界面相关的关键工具特征和结构
@@ -82,14 +86,14 @@ ht-degree: 12%
 * 识别在何处查找投放结果或输出
 * 区分不同的错误和警告类型（投放、活动和工作流级别）
 
-第2部分：工作流管理和平台功能(16%)
+**第2部分：工作流管理和平台功能(16%)**
 
 * 给定场景，确定应选择哪些工作流活动
 * 区分活动工作流和技术工作流
 * 给定一个方案，确定哪个工作流解决方案对于连续、等待、循环、中止情况最合适
 * 识别与先前版本相比的Campaign V8的新功能和特性
 
-第3款：数据业务(20%)
+**第3款：数据业务(20%)**
 
 * 确定如何修改视图中的列以测试数据/输出
 * 描述并集、交集、排除和拆分工作流定位活动的用途
@@ -98,7 +102,7 @@ ht-degree: 12%
 * 给定场景，确定如何划分受众并存储为列表和单元格
 * 给定场景，通过配置数据以确定将数据导出到目标的最佳方法
 
-第4部分：投放配置(28%)
+**第4部分：投放配置(28%)**
 
 * 给定场景，确定正确的投放类型
 * 根据给定的业务需求，确定如何创建模板
@@ -109,24 +113,40 @@ ht-degree: 12%
 * 指示在何处测试投放内容和个性化/如何测试
 * 区分处理并应用操作期间出现的各种投放状态
 
-第五节　：管理和报告(7%)
+**第五节　：管理和报告(7%)**
 
 * 确定常见的OOTB报告以及在何处访问它们
 * 根据报告要求确定需要哪个OOTB报告
 * 识别Adobe Campaign中的描述性分析功能
 * 在场景中，应用正确的授权以限制/允许对Campaign对象的访问
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：构建营销活动**
 
@@ -171,16 +191,35 @@ ht-degree: 12%
 * [描述性分析入门](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
 * [权限入门](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
-## 关于认证考试
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -193,7 +232,23 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

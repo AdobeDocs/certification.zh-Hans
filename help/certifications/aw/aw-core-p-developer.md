@@ -6,18 +6,50 @@ role: Developer
 badge: label="考试AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '819'
 ht-degree: 2%
 
 ---
 
 # Adobe的认证历程 [!DNL Workfront] 核心开发人员专业版
 
-了解如何成为认证Adobe [!DNL Workfront] 核心开发人员专业人员。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：44/70
+* 时间：140分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E905
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 技术顾问
+* 系统管理员
+* 项目经理
+* 项目协调员
+* 策略师
+* 资源管理器
+* 分析师
+* IT专家
+* [!DNL Workfront] 实施顾问/主管
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -36,55 +68,25 @@ ht-degree: 2%
 * 熟悉本机连接器和其他Adobe [!DNL Workfront] 产品和服务
 * 熟悉项目管理（包括敏捷和瀑布式管理）以及资源管理概念
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 技术顾问
-* 系统管理员
-* 项目经理
-* 项目协调员
-* 策略师
-* 资源管理器
-* 分析师
-* IT专家
-* [!DNL Workfront] 实施顾问/主管
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：44/70
-* 时间：140分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E905
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1节。 战略和接收(24%)
+**第1节。 战略和接收(24%)**
 
 * 使用项目组合和程序
 * 使用请求队列
 * 使用自定义表单
 * 使用基本审批
 
-第2节。 预算和规划(11%)
+**第2节。 预算和规划(11%)**
 
 * 使用资源规划者
 * 给定场景/需求集，应用配置以设置项目模板
 
-第3节。 用户体验(25%)
+**第3节。 用户体验(25%)**
 
 * 说明创建正确用户体验过程中用户管理的最佳实践
 * 在给定情况下，在整个系统中应用正确的共享和访问权限设置
@@ -92,13 +94,13 @@ ht-degree: 2%
 * 演示如何创建和使用时间表
 * 描述连接器、插件和加载项的用途和价值
 
-第4节。 指标和报表(16%)
+**第4节。 指标和报表(16%)**
 
 * 描述构建、发送和自定义报表的基本概念
 * 说明如何构建和自定义功能板
 * 演示如何配置报告的功能视图
 
-第五节　。 执行(24%)
+**第五节　。 执行(24%)**
 
 * 演示如何设置批准和验证工作流
 * 识别为项目创建问题的目的
@@ -107,17 +109,33 @@ ht-degree: 2%
 * 确定输入时间的方法 [!DNL Workfront]
 * 确定中财务跟踪的元素 [!DNL Workfront]
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节：战略和吸纳**
 
@@ -160,17 +178,35 @@ ht-degree: 2%
 * [创建Agile团队](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [跟踪成本](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -183,7 +219,23 @@ ht-degree: 2%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

@@ -7,18 +7,49 @@ role: Developer
 badge: label="考试AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '825'
-ht-degree: 11%
+source-wordcount: '645'
+ht-degree: 14%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Forms] 后端开发人员专业版
 
-了解如何成为认证Adobe [!DNL Experience Manager Forms] 后端开发人员专业版。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：29/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E127
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* AEM开发人员
+* DevOps工程师
+* AEM Architect
+* 云工程师
+* 站点可靠性工程师
+* 技术经理
+* 应用程序操作工程师
+* 系统工程师
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应是后端表单开发人员，并且具有：
 
@@ -40,45 +71,20 @@ ht-degree: 11%
 * 开发沙盒
 * 本地环境
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* AEM开发人员
-* DevOps工程师
-* AEM Architect
-* 云工程师
-* 站点可靠性工程师
-* 技术经理
-* 应用程序操作工程师
-* 系统工程师
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：29/50
-* 时间：100分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E127
-
-**考试目标和范围**
-
-第1部分：Forms创建和管理(26%)
+**第1部分：Forms创建和管理(26%)**
 
 * 给定场景，确定构建AEM Forms所需的步骤
 * 描述Forms数据模型
 * 确定自定义AEM Forms的步骤
 * 在场景中，确定利用GuideBridge API使用Javascript ClientLib的步骤
 
-第2款：流程和工作流(34%)
+**第2款：流程和工作流(34%)**
 
 * 给定场景，确定表单审批工作流的步骤
 * 使用Document Services API识别OSGi捆绑包的功能
@@ -87,7 +93,7 @@ ht-degree: 11%
 * 给定场景，使用Forms或汇编程序服务处理PDF
 * 描述实施JDBC服务的方法
 
-第3节：管理和故障排除(21%)
+**第3节：管理和故障排除(21%)**
 
 * 识别在日志文件中生成的问题
 * 给定场景，确定执行管理活动的步骤
@@ -95,26 +101,34 @@ ht-degree: 11%
 * 描述为Forms设置AEM Dispatcher的步骤
 * 描述导航不同控制台的步骤
 
-第4部分：API端点和集成(10%)
+**第4部分：API端点和集成(10%)**
 
 * 给定一个方案，描述将AEM Form与Adobe Experience Cloud集成的流程
 * 确定生成各种端点服务的步骤
 
-第5款：互动交流(9%)
+**第5款：互动交流(9%)**
 
 * 在场景中，演示并实现了交互通信过程
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
 
-**示例问题**
++++第1步：创建帐户
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+{{create-your-account}}
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：Forms创建和管理**
 
@@ -143,16 +157,35 @@ ht-degree: 11%
 * [Experience Manager as a Cloud Service 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
-## 关于认证考试
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -165,10 +198,28 @@ ht-degree: 11%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+
+

@@ -7,16 +7,41 @@ role: User
 badge: label="考试AD0-E132" type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: b7518560c9ab89e0cdb6a45853244d1790f81b44
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 11%
+source-wordcount: '468'
+ht-degree: 14%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager] 技术基础专业人员
 
-了解如何成为认证Adobe [!DNL Experience Manager] 专业。
+{{intro}}
+
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：38/60
+* 时间：120分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E132
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* AEM开发人员
+* 技术潜在客户
+
+<br>
 
 ## 最低体验
 
@@ -39,32 +64,13 @@ ht-degree: 11%
 * 不同的AEM托管功能
 * 将内容/环境同步在一起
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* AEM开发人员
-* 技术潜在客户
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：38/60
-* 时间：120分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E132
-
-**考试目标和范围**
-
-第1部分：内容创建(33%)
+**第1部分：内容创建(33%)**
 
 * 管理内容页面
 * 复制内容
@@ -75,7 +81,7 @@ ht-degree: 11%
 * 应用过程概念来翻译内容
 * 使用多站点和活动副本
 
-第2款：执行(42%)
+**第2款：执行(42%)**
 
 * 应用过程概念来创建组件
 * 创建可编辑的模板
@@ -86,23 +92,37 @@ ht-degree: 11%
 * 扩展核心组件
 * 结构内容建模
 
-第3款：设置和部署(13%)
+**第3款：设置和部署(13%)**
 
 * 安装包
 * 部署包
 * 安装AEM实例
 
-第4节：维护和用户管理(12%)
+**第4节：维护和用户管理(12%)**
 
 * 管理用户访问权限
 * 修改OSGI配置
 * 创建查询
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：内容创建**
 
@@ -131,16 +151,27 @@ ht-degree: 11%
 * [用户管理和安全性](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
 * [osgi配置设置](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
 
->[!TAB 获得认证]
++++
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+<br>
 
++++第3步：考试计划和付费
 
-## 关于认证考试
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -153,10 +184,28 @@ ht-degree: 11%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+
+

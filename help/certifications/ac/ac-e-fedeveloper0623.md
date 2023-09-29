@@ -6,22 +6,48 @@ product: Magento
 role: Developer
 badge: label="考试AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1019'
-ht-degree: 0%
+source-wordcount: '924'
+ht-degree: 1%
 
 ---
 
 # 的认证历程 [!DNL Adobe Commerce] 前端开发人员专家
 
-了解如何成为认证用户 [!DNL Adobe Commerce] 开发人员专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
 
-此 [!DNL Adobe Commerce] 前端开发人员被视为专家级角色，在Adobe Commerce前端开发方面至少拥有1-3年的实践经验。 他们应该有能力将任务需求所表达的需求转化为技术解决方案。
+{{exam-description}}
 
-候选人应能熟练使用下列技术：
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：33/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E720
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 开发者
+* 主要开发人员
+* 前端开发人员
+
+<br>
+
+### 最低体验 {#minimum-experience}
+
+您应当至少拥有1至3年的Adobe Commerce前端开发实践经验。 您应该能够将任务需求所表达的需求转换为技术解决方案。
+
+此外，您应该可以熟练使用以下技术：
 
 * [!DNL Adobe Commerce]  — 版本2.4.6
 * 对前端结构和布局的基本了解
@@ -40,33 +66,13 @@ ht-degree: 0%
 * 了解Adobe Commerce Cloud基础架构
 * 对Cloud CLI命令工具的基本了解
 
->[!BEGINTABS]
+<br>
 
->[!TAB 准备就绪]
+### 考试目标和范围 {#exam-objectives}
 
-**目标受众：**
+{{exam-objectives}}
 
-* 开发者
-* 主要开发人员
-* 前端开发人员
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：33/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E720
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1节：主题管理（主题层次结构、图像配置和翻译）(16%)
+**第1节：主题管理（主题层次结构、图像配置和翻译）(16%)**
 
 * 描述Adobe Commerce主题文件夹结构以及它如何与基于文件夹的主题相关联
 * 演示创建新主题的功能（继承/回退、设计异常、主题属性）
@@ -75,7 +81,7 @@ ht-degree: 0%
 * 演示应用翻译的能力
 * 给定一组用例，确定何时将文件放入应用程序/代码或应用程序/设计
 
-第2部分：布局XML和模板（phtml模板）(22%)
+**第2部分：布局XML和模板（phtml模板）(22%)**
 
 * 演示利用布局XML指令的能力
 * 演示创建新页面布局的能力
@@ -84,7 +90,7 @@ ht-degree: 0%
 * 演示创建和自定义模板的能力
 * 应用模板安全性（转义输出）
 
-第3节：样式(18%)
+**第3节：样式(18%)**
 
 * 确定样式 — m.less、样式 — l.less、打印.less的目的
 * 描述特定部分文件(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less、)之间的区别
@@ -95,7 +101,7 @@ ht-degree: 0%
 * 演示实施和自定义LESS库组件的能力
 * 确定客户端编译与服务器端编译之间的区别及其工作方式
 
-第4部分：JavaScript（图像小组件、图像库、客户数据模块、挖空模板）(22%)
+**第4部分：JavaScript（图像小组件、图像库、客户数据模块、挖空模板）(22%)**
 
 * 演示初始化和调用JavaScript组件的功能
 * 区分不同JavaScript组件的用例
@@ -107,14 +113,14 @@ ht-degree: 0%
 * 演示jQuery小组件的使用
 * 演示使用布局XML的JS组件
 
-第5部分：管理员配置和页面生成器(12%)
+**第5部分：管理员配置和页面生成器(12%)**
 
 * 演示自定义页面生成器内容的能力
 * 描述前端优化
 * 自定义事务性电子邮件
 * 演示管理开发工具的使用
 
-第6节：工具（CLI和Grunt）(10%)
+**第6节：工具（CLI和Grunt）(10%)**
 
 * 演示基本bin/Magento命令的用法
 * 描述编辑器命令的用法（安装、更新、需要、删除）
@@ -122,11 +128,33 @@ ht-degree: 0%
 * 定义群组设置和使用情况
 * 描述云提供的其他工具（Fastly、下载数据库、内容部署、使用UI分支）
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
+
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：主题管理（主题层次结构、图像配置和翻译）**
 
@@ -170,17 +198,33 @@ ht-degree: 0%
 * [生成变量](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [云基础架构上的Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
-> 以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+**参加练习测试**
 
-**现在您已成功登录，可以直接访问以下链接。**
+{{practice-test}}
 
-**练习测试即将推出**
++++
 
-## 关于认证考试
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -193,9 +237,25 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**问题**
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
+
+## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

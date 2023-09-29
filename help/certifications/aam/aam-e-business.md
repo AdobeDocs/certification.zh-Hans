@@ -7,20 +7,48 @@ role: User,Developer
 badge: label="考试AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '940'
-ht-degree: 10%
+source-wordcount: '815'
+ht-degree: 11%
 
 ---
 
 # 的认证历程 [!DNL Adobe Audience Manager] 商业从业者专家
 
-了解如何成为认证用户 [!DNL Adobe Audience Manager] 商业从业者专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
 
-您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：36/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）和150美元（印度）
+* 考试ID：AD0-E457
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 数字营销专家
+* 营销技术顾问
+* 受众策略专家
+* 行为顾问
+* 数字营销分析师
+* 营销数据分析师
+* 数据平台管理器
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -47,74 +75,68 @@ ht-degree: 10%
 * 数字营销
 * 数据和分析
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 数字营销专家
-* 营销技术顾问
-* 受众策略专家
-* 行为顾问
-* 数字营销分析师
-* 营销数据分析师
-* 数据平台管理器
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：36/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）和150美元（印度）
-* 考试ID：AD0-E457
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1部分：区段创建和联合(25%)
+**第1部分：区段创建和联合(25%)**
 
 * 确定适当的方法，以利用第一方、第二方和第三方数据创建区段以用于定位和分析目的
 * 给定场景，建议与业务或营销活动目标一致的激活区段
 * 确定将区段联合到目标以供激活的适当方法
 * 区分不同类型的目标
 
-第2部分：特征创建(17%)
+**第2部分：特征创建(17%)**
 
 * 为给定的受众策略推荐特征
 * 确定创建和更新基于规则的特征和/或已载入特征的正确方法
 
-第3款：报告和计量(22%)
+**第3款：报告和计量(22%)**
 
 * 在场景中，分析报表以提供可操作的后续步骤来实现业务目标
 * 给定场景，分析受众优化
 
-第4节：疑难解答和管理(26%)
+**第4节：疑难解答和管理(26%)**
 
 * 在场景中，验证受众交付信息，以确保计划的交付需求
 * 确定验证离线入站文件的相应实践
 * 给定场景，确定对ID同步执行QA的正确方法
 * 确定从AdobeAudience Marketplace导航和激活的适当方法
 
-第五节　：分类(10%)
+**第五节　：分类(10%)**
 
 * 确定适当的结构，以创建使用清晰一致命名法的特性和区段
 * 确定使用明确的文件夹结构维护有组织的平台的正确技术
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
+
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：区段创建和联合**
 
@@ -156,17 +178,33 @@ ht-degree: 10%
 * [使用通用分类法对特征进行分类](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
 * [文件夹特征：关于](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## 参加练习测试
+**参加练习测试**
 
 {{practice-test}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -179,10 +217,28 @@ ht-degree: 10%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+
+<!--divider-->

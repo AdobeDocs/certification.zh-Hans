@@ -8,18 +8,53 @@ level: Experienced
 badge: label="考试AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '671'
 ht-degree: 1%
 
 ---
 
 # Adobe的认证历程 [!DNL Commerce] 架构师母版
 
-了解如何成为认证用户 [!DNL Adobe Commerce] 架构师母版。
 
-## 最低体验
+{{intro}}
+
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：硕士（3-5年经验）
+* 及格分数：30/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E722
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 潜在客户软件/[!DNL Adobe Commerce] 架构师
+* 技术架构师
+* 解决方案架构师
+* 技术主管
+* 技术专家
+* 全栈开发人员
+* 首席工程师
+* 关联技术架构师
+* 高级后端开发人员
+* 后端软件工程师
+* 高级技术顾问
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您至少应有3-5年的领导经验 [!DNL Commerce] 开发项目，并且能够利用设计、集成、实施和解释业务问题的解决方案 [!DNL Adobe Commerce] 以及相关服务。
 
@@ -51,45 +86,13 @@ ht-degree: 1%
 * 创建和修改B2B
 * 中的AMQP协议和适配器 [!DNL Adobe Commerce] (S3)
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 潜在客户软件/[!DNL Adobe Commerce] 架构师
-* 技术架构师
-* 解决方案架构师
-* 技术主管
-* 技术专家
-* 全栈开发人员
-* 首席工程师
-* 关联技术架构师
-* 高级后端开发人员
-* 后端软件工程师
-* 高级技术顾问
-
-**考试详细信息：**
-
-* 级别：硕士（3-5年经验）
-* 及格分数：30/50
-* 时间：100分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E722
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1部分：设计(46%)
+**第1部分：设计(46%)**
 
 * 为Adobe设计和实施最佳解决方案 [!DNL Commerce] 以满足业务需求
 * 设计逻辑和技术流程
@@ -97,7 +100,7 @@ ht-degree: 1%
 * 集成Adobe [!DNL Commerce] 外部系统和服务
 * 排查设计流问题
 
-第2部分 — 审查(32%)
+**第二节　：审查(32%)**
 
 * 审查和重构现有Adobe [!DNL Commerce] 自定义
 * 利用 [!DNL Commerce] 测试整个工作流的框架
@@ -105,18 +108,38 @@ ht-degree: 1%
 * 疑难解答，以确定Adobe问题的根本原因 [!DNL Commerce]
 * 强制执行编码标准
 
-第3部分：配置和部署(22%)
+**第3部分：配置和部署(22%)**
 
 * 配置Adobe [!DNL Commerce] 并确保项目设置得最优
 * 配置Adobe的各个方面 [!DNL Commerce] 云
 * 监督和改进部署过程
 * 基础架构和配置问题疑难解答
 
->[!TAB 准备好]
+### 准备情况调查表
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+{{readiness}}
 
-以下是一些可帮助您准备的建议资源：
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：设计**
 
@@ -149,15 +172,27 @@ ht-degree: 1%
 * [初始化和引导概述](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Fastly服务概述](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
->[!TAB 获得认证]
++++
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+<br>
 
++++第3步：考试计划和付费
 
+{{schedule-and-pay}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -170,7 +205,23 @@ ht-degree: 1%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

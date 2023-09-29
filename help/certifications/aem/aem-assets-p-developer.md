@@ -7,18 +7,49 @@ role: Developer
 badge: label="考试AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 4%
+source-wordcount: '630'
+ht-degree: 6%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager] Assets Developer Professional
 
-了解如何成为认证Adobe [!DNL Experience Manager] Assets Developer Professional。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：30/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E129
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* AEM开发人员
+* DevOps工程师
+* AEM架构师
+* 云工程师
+* 站点可靠性工程师
+* 技术经理
+* 应用程序操作工程师
+* 系统工程师
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该能够熟练使用AdobeManaged Services和Adobe [!DNL Experience Manager as a Cloud Service]，并且能够设置Adobe [!DNL Experience Manager] 环境和基础架构。
 
@@ -41,42 +72,13 @@ ht-degree: 4%
 * 开发沙盒
 * 本地环境
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* AEM开发人员
-* DevOps工程师
-* AEM架构师
-* 云工程师
-* 站点可靠性工程师
-* 技术经理
-* 应用程序操作工程师
-* 系统工程师
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：30/50
-* 时间：100分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E129
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1部分：资产工作流(24%)
+**第1部分：资产工作流(24%)**
 
 * 解释自定义OOTB工作流的过程
 * 识别何时创建或自定义资产工作流以实施客户要求
@@ -84,7 +86,7 @@ ht-degree: 4%
 * 区分云工作流和内部部署工作流
 * 描述如何使用工作流控制台监控状态和进度
 
-第2部分：资产组织和资产控制台(22%)
+**第2部分：资产组织和资产控制台(22%)**
 
 * 演示如何在收藏集中创建和组织资源
 * 演示如何使用标记整理资源
@@ -92,36 +94,52 @@ ht-degree: 4%
 * 描述如何配置和生成AEM Asset报表
 * 描述如何管理资产文件夹的用户权限
 
-第3节：资产元数据(24%)
+**第3节：资产元数据(24%)**
 
 * 定义元数据架构
 * 给定场景，确定如何调整适当的元数据架构
 * 给定场景，确定如何利用元数据配置文件来满足要求
 * 了解串联元数据架构的工作原理
 
-第4节：资产类型(18%)
+**第4节：资产类型(18%)**
 
 * 描述可用于资源类型的OOTB功能
 * 解释内容片段和内容片段模型
 * 演示如何使用以及何时使用内容片段变量
 
-第5部分：资产功能集和功能(12%)
+**第5部分：资产功能集和功能(12%)**
 
 * 描述使用Brand Portal的常见用例和好处
 * 描述使用Dynamic Media的常见用例和好处
 * 描述使用Creative Cloud利用AEM的选项
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：资产工作流**
 
@@ -152,16 +170,35 @@ ht-degree: 4%
 * [支持的文件格式](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Dynamic Media 视频配置文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
-## 关于认证考试
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -174,7 +211,23 @@ ht-degree: 4%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

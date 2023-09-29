@@ -1,24 +1,55 @@
 ---
 title: 专家认证
-description: 了解如何在中成为认证专家Adobe [!DNL Customer Journey Analytics]
+description: 了解如何成为Adobe领域的认证专家 [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 badge: label="考试AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 13%
+source-wordcount: '488'
+ht-degree: 17%
 
 ---
 
 # Adobe的认证历程 [!DNL Customer Journey Analytics] 专家
 
-了解如何成为认证Adobe [!DNL Customer Journey Analytics] 开发人员专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：33/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E604
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 技术架构师
+* 技术经理
+* 数据分析师
+* 数据架构师/工程师
+* 解决方案架构师
+* 企业架构师
+* 实施专家
+* 营销技术主管
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应具有12-24个月的Adobe经验 [!DNL Customer Journey Analytics]，并能够执行以下任务：
 
@@ -39,65 +70,54 @@ ht-degree: 13%
 * 区分/了解AEP中的沙盒
 * 了解受众发布（共享）
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 技术架构师
-* 技术经理
-* 数据分析师
-* 数据架构师/工程师
-* 解决方案架构师
-* 企业架构师
-* 实施专家
-* 营销技术主管
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：33/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E604
-
-**考试目标和范围**
-
-第1节：连接(22%)
+**第1节：连接(22%)**
 
 * 使用适当的设置设计CJA连接
 * 通过沙盒从AEP中可用的XDM数据集创建CJA连接
 
-第2部分：数据查看(30%)
+**第2部分：数据查看(30%)**
 
 * 配置用于报告和分析的数据视图
 * 修改数据视图中的组件
 
-第3部分：数据验证和故障排除(34%)
+**第3部分：数据验证和故障排除(34%)**
 
 * 验证数据是否准确而完全地填充
 * 连接和数据视图疑难解答
 * 构建或排除组件故障
 * 监控使用情况以许可
 
-第4节：报告和激活(14%)
+**第4节：报告和激活(14%)**
 
 * 使用Analysis Workspace通过适当的可视化图表演示跨渠道客户历程
 * 将CJA过滤器的成员发送到RTCDP受众
 * 跨数据集设计和创建过滤器
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节：连接**
 
@@ -122,19 +142,33 @@ ht-degree: 13%
 * [Analysis Workspace 概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
 * [数据视图概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hans){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
-
-## 参加练习测试
+**参加练习测试**
 
 {{practice-test}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -147,7 +181,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

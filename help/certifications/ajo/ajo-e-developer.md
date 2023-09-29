@@ -6,18 +6,48 @@ product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 12%
+source-wordcount: '581'
+ht-degree: 16%
 
 ---
 
 # Adobe的认证历程 [!DNL Journey Optimizer] 开发人员专家
 
-了解如何成为认证Adobe [!DNL Journey Optimizer] 开发人员专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：31/51
+* 时间：110分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E603
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 数据架构师
+* 数据工程师
+* 解决方案架构师
+* 企业架构师
+* Marketing Automation开发人员
+* CDP开发人员
+* cdp架构师
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应至少拥有一年使用各种CDP和营销自动化系统的经验，并能够执行以下任务：
 
@@ -37,48 +67,20 @@ ht-degree: 12%
 * 历程报表
 * 测试/验证历程
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 数据架构师
-* 数据工程师
-* 解决方案架构师
-* 企业架构师
-* Marketing Automation开发人员
-* CDP开发人员
-* cdp架构师
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：31/51
-* 时间：110分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E603
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1部分：管理和配置(17%)
+**第1部分：管理和配置(17%)**
 
 * 确定角色以及适用于每个角色的权限
 * 描述如何分配/重置/删除沙盒
 * 展示对渠道管理的了解
 * 演示对事件/操作/数据源的理解
 
-第二节　：Adobe Experience Platform基金会(33%)
+**第二节　：Adobe Experience Platform基金会(33%)**
 
 * 演示对Experience Data Model (XDM)的理解
 * 说明如何设置数据源和数据摄取
@@ -86,28 +88,50 @@ ht-degree: 12%
 * 说明如何为AJO配置架构
 * 确定AJO上实时客户个人资料的行为
 
-第3节：Offer decisioning(11%)
+**第3节：Offer decisioning(11%)**
 
 * 演示对创建和管理优惠和组件的理解
 * 演示如何使用测试配置文件来运行优惠模拟
 
-第4部分：内容创作(20%)
+**第4部分：内容创作(20%)**
 
 * 演示如何创建电子邮件、短信、应用程序内消息和推送通知
 * 使用辅助函数演示对内容操纵和个性化的理解
 * 演示对验证、验证和发布消息的理解
 
-第5款：Journey Orchestration(19%)
+**第5款：Journey Orchestration(19%)**
 
 * 解释创建多渠道历程的过程
 * 确定访问报告仪表板的位置
 * 演示如何测试和验证历程
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
+
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：管理和配置**
 
@@ -138,7 +162,7 @@ ht-degree: 12%
 * [Adobe简介 [!DNL Experience Platform] 课程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Adobe快速入门 [!DNL Experience Platform] 面向数据工程师的课程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [面向数据工程师的数据引入课程](https://experienceleague.adobe.com/?lang=zh-Hans?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [数字体验 Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
+* [Digital Experience Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
 
 **第3节：Offer decisioning**
 
@@ -169,19 +193,33 @@ ht-degree: 12%
    * 区段
    * 配置文件和标识
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
-
-## 参加练习测试
+**参加练习测试**
 
 {{practice-test}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -194,7 +232,23 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

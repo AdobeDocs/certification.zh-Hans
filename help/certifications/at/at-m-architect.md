@@ -8,18 +8,48 @@ badge: label="考试AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 hidefromtoc: true
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1077'
-ht-degree: 20%
+source-wordcount: '920'
+ht-degree: 24%
 
 ---
 
 # 的认证历程 [!DNL Adobe Target] 架构师母版
 
-了解如何成为认证用户 [!DNL Adobe Target] 架构师母版。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：硕士（3-5年经验）
+* 及格分数：34/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E407
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 转化率优化工程师/架构师
+* 个性化工程师/架构师
+* 数字解决方案架构师
+* 数字转型顾问
+* 体验优化潜在客户
+* 优化管理器
+* 在线营销活动管理器
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -54,85 +84,73 @@ ht-degree: 20%
 * AMS托管环境
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB 准备就绪]
+### 考试目标和范围 {#exam-objectives}
 
-**目标受众：**
+{{exam-objectives}}
 
-* 转化率优化工程师/架构师
-* 个性化工程师/架构师
-* 数字解决方案架构师
-* 数字转型顾问
-* 体验优化潜在客户
-* 优化管理器
-* 在线营销活动管理器
-
-**考试详细信息：**
-
-* 级别：硕士（3-5年经验）
-* 及格分数：34/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E407
-
-**考试目标和范围**
-
-第1节： [!DNL Adobe Target] 基本面(12%)
+**第1节： [!DNL Adobe Target] 基本面(12%)**
 
 * 确定适当的 [!DNL Adobe Target] 给定场景的使用情况
 * 解释的基础技术 [!DNL Adobe Target] 实现
 
-第2部分：与集成 [!DNL Adobe Target] (16%)
+**第2部分：与集成 [!DNL Adobe Target] (16%)**
 
 * 应用进程以集成 [!DNL Adobe Target] 使用Adobe Analytics (A4T)
 * 应用进程以集成 [!DNL Adobe Target] 至Adobe Experience Manager
 * 描述与其他Adobe Experience Cloud解决方案的集成
 * 描述与Adobe Experience Cloud受众的集成
 
-第3节： [!DNL Adobe Target] 行政和治理(13%)
+**第3节： [!DNL Adobe Target] 行政和治理(13%)**
 
 * 定义正在进行的 [!DNL Adobe Target] 实施战略和系统治理
 * 应用该流程和最佳实践来管理用户
 * 描述实施设置的管理方面
 
-第4节： [!DNL Adobe Target] 和受支持的接触点(15%)
+**第4节： [!DNL Adobe Target] 和受支持的接触点(15%)**
 
 * 描述客户端交付实施
 * 描述服务器端交付实施
 * 描述移动、电子邮件定位和API的实施要求
 
-第5部分：利用 [!DNL Adobe Target] 建议(9%)
+**第5部分：利用 [!DNL Adobe Target] 建议(9%)**
 
 * 演示对推荐、目录和环境的理解
 * 应用此过程以配置Target推荐
 
-第6节：架构师、设计和实施 [!DNL Adobe Target] (15%)
+**第6节：架构师、设计和实施 [!DNL Adobe Target] (15%)**
 
 * 选择正确的mbox实施
 * 演示设计 [!DNL Adobe Target] 实现
 * 描述实现 [!DNL Adobe Target] 在本机移动设备应用程序中
 
-第7部分：故障排除(20%)
+**第7部分：故障排除(20%)**
 
 * mbox错误疑难解答
 * 活动错误疑难解答
 * 了解集成错误
 * 疑难解答 [!DNL Adobe Target] Recommendations错误
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
 
-**示例问题**
++++第1步：创建帐户
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+{{create-your-account}}
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节： [!DNL Adobe Target] 基本面**
 
@@ -193,16 +211,35 @@ ht-degree: 20%
 * [已解决：为什么我的历史受众显示为“正在收集数据”？](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud 受众](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=zh_Hans){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
-## 关于认证考试
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -215,7 +252,23 @@ ht-degree: 20%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

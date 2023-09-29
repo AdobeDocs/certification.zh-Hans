@@ -7,18 +7,45 @@ role: Developer
 badge: label="考试AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1174'
-ht-degree: 10%
+source-wordcount: '979'
+ht-degree: 13%
 
 ---
 
 # Adobe的认证历程 [!DNL Campaign Classic] 开发人员专业版
 
-了解如何成为认证Adobe [!DNL Campaign Classic] 开发人员专业版。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：33/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E331
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 助理顾问
+* 初级技术顾问
+* 初级营销技术工程师
+* Junior Campaign开发人员
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -27,38 +54,13 @@ ht-degree: 10%
 * 对营销自动化的基本了解
 * 了解关系数据库概念
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 助理顾问
-* 初级技术顾问
-* 初级营销技术工程师
-* Junior Campaign开发人员
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：33/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E331
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1部分：系统配置(25%)
+**第1部分：系统配置(25%)**
 
 * 演示管理节点中设置的系统范围配置
 * 应用进程以扩展OOTB收件人模式
@@ -74,7 +76,7 @@ ht-degree: 10%
 * 描述消息中心的业务用例
 * 确定V8 API数据导入功能
 
-第2节：定制(16%)
+**第2节：定制(16%)**
 
 * 应用进程以编辑营销活动架构
 * 确定设置以确保正确的架构扩展或配置自定义架构
@@ -85,14 +87,14 @@ ht-degree: 10%
 * 确定使用内容管理的用例
 * 应用于进程以更新OOTB表单
 
-第3款：业务安全(10%)
+**第3款：业务安全(10%)**
 
 * 描述添加用户组和角色的流程
 * 应用此过程以翻译具有正确用户权限和层次结构的用户管理矩阵
 * 识别并定义正确的权限
 * 确定用户组的安全区域
 
-第4节：技术工作流(29%)
+**第4节：技术工作流(29%)**
 
 * 将流程应用于导入/导出
 * 确定工作流可以访问的不同数据源
@@ -108,12 +110,12 @@ ht-degree: 10%
 * 应用进程以配置警报和批准
 * 确定Campaign数据库的类型
 
-第5节：实例维护(4%)
+**第5节：实例维护(4%)**
 
 * 识别不同服务日志中的错误
 * 说明工作流热图读数
 
-第6部分：Campaign配置(14%)
+**第6部分：Campaign配置(14%)**
 
 * 应用该流程以使用营销活动模板创建营销活动
 * 描述创建批准的流程
@@ -122,17 +124,33 @@ ht-degree: 10%
 * 定义在工作流中创建高级流程的流程
 * 描述工作流执行方法
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：系统配置**
 
@@ -182,17 +200,35 @@ ht-degree: 10%
 * [开始使用工作流](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hans){target="_blank"}
 * [工作流执行](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -205,7 +241,23 @@ ht-degree: 10%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

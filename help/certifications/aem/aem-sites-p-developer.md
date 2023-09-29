@@ -7,40 +7,24 @@ role: Developer
 badge: label="考试AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 15%
+source-wordcount: '518'
+ht-degree: 20%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Sites] 开发人员专业版
 
-了解如何成为认证Adobe [!DNL Experience Manager Sites] 开发人员专业版。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
 
-您应该成为应用程序开发人员并拥有：
+{{exam-description}}
 
-* 使用AEM的0-12个月经验 [!DNL Platform]
-* 执行组件开发的能力
-* 对AEM中的MVC框架、生命周期框架和库的基本了解
+<br>
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
-
->[!BEGINTABS]
-
->[!TAB 准备就绪]
-
-**目标受众：**
-
-* AEM开发人员
-* 前端开发人员
-* 软件工程师
-
-**考试详细信息：**
+### 考试详细信息 {#exam-details}
 
 * 级别：专业（0-12个月经验）
 * 及格分数：31/50
@@ -50,9 +34,31 @@ ht-degree: 15%
 * 费用：125美元（全球）/95美元（印度）
 * 考试ID：AD0-E123
 
-**考试目标和范围**
+<br>
 
-第1部分：配置(26%)
+### 目标受众 {#intended-audience}
+
+* AEM开发人员
+* 前端开发人员
+* 软件工程师
+
+<br>
+
+### 最低体验 {#minimum-experience}
+
+您应该成为应用程序开发人员并拥有：
+
+* 使用AEM的0-12个月经验 [!DNL Platform]
+* 执行组件开发的能力
+* 对AEM中的MVC框架、生命周期框架和库的基本了解
+
+<br>
+
+### 考试目标和范围 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第1部分：配置(26%)**
 
 * 识别AEM Dispatcher配置和缓存的用途
 * 确定在AEM中配置多站点的正确步骤
@@ -60,36 +66,44 @@ ht-degree: 15%
 * 确定管理自定义OAK索引的正确步骤
 * 确定配置OOTB SAML或IMS集成的正确步骤
 
-第2款：AEM开发(40%)
+**第2款：AEM开发(40%)**
 
 * 确定实施基于核心的组件的正确步骤
 * 连接组件功能，包括HTL、模型和服务
 * 给定场景，确定开发工作流的正确步骤
 * 给定场景，概述内容片段或体验片段的用途
 
-第3款：建立和部署(12%)
+**第3款：建立和部署(12%)**
 
 * 定义Maven项目结构
 * 从原型配置项目
 
-第4节：环境维护(22%)
+**第4节：环境维护(22%)**
 
 * 给定场景，确定调试AEM环境中的问题所需的步骤
 * 解释AEM维护版本
 * 了解如何跨拓扑配置AEM
 * 确定规划和迁移到AEMas a Cloud Service所需的步骤
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
 
-**示例问题**
++++第1步：创建帐户
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+{{create-your-account}}
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：配置**
 
@@ -122,15 +136,35 @@ ht-degree: 15%
 * [[!DNL AEM as Cloud Service] 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] 版本更新和路线图](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hans){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
-## 关于认证考试
+{{sample-questions}}
+
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -143,10 +177,27 @@ ht-degree: 15%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+

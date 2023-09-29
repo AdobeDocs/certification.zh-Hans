@@ -7,18 +7,45 @@ role: User
 badge: label="考试AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1104'
 ht-degree: 1%
 
 ---
 
 # 的认证历程 [!DNL Adobe Target] 商业从业者专家
 
-了解如何成为认证用户 [!DNL Adobe Target] 商业从业者专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：46/68
+* 时间：136分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语、日语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E406（英语）、AD0-E406-J（日语）
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 优化
+* 个性化
+* Analytics
+* 数字和产品营销
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -66,34 +93,13 @@ ht-degree: 1%
 * 将目标用于单页应用程序
 * 电子邮件
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 优化
-* 个性化
-* Analytics
-* 数字和产品营销
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：46/68
-* 时间：136分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E406
-
-**考试目标和范围**
-
-第1款：规划和战略(31%)
+**第1款：规划和战略(31%)**
 
 * 确定业务KPI，并根据关键业务需求成功地将其转换为优化目标
 * 根据业务KPI和数据分析发现优化机会
@@ -105,7 +111,7 @@ ht-degree: 1%
 * 评估受众要求
 * 确定适当的分析报表源(即Target或Adobe Analytics)
 
-第2节：配置、执行和管理(42%)
+**第2节：配置、执行和管理(42%)**
 
 * 解释基于表单的体验编辑器与可视化体验编辑器的用法
 * 应用过程以使用VEC创建体验
@@ -122,7 +128,7 @@ ht-degree: 1%
 * 应用过程以执行活动QA
 * 应用过程管理Target中的活动和受众
 
-第3款：分析和报告(17%)
+**第3款：分析和报告(17%)**
 
 * 定义并评估报表设置，以帮助设置报表中显示的元素
 * 评估和比较 [!DNL Adobe Target] 规划Target活动和验证Target活动报表时的样本量计算器设置
@@ -131,17 +137,31 @@ ht-degree: 1%
 * 评估体验性能报表(MVT)
 * 根据观察到的提升度、置信水平和业务目标确定入选变量
 
-第4部分：故障排除(10%)
+**第4部分：故障排除(10%)**
 
 * 诊断活动资格问题
 * 使用浏览器调试工具(包括Experience Cloud Debugger)来验证实施
 * 验证指标和报表
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节：规划和战略**
 
@@ -179,19 +199,33 @@ ht-degree: 1%
 * [活动错误疑难解答](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [集成错误疑难解答](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
-
-## 参加练习测试
+**参加练习测试**
 
 {{practice-test}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -215,7 +249,23 @@ ht-degree: 1%
 
 [日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

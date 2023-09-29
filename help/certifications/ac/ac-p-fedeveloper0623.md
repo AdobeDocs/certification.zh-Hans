@@ -6,18 +6,45 @@ product: Magento
 role: Developer
 badge: label="考试AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Commerce] 前端开发人员专业版
 
-了解如何成为认证用户 [!DNL Adobe Commerce] 开发人员专业版。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：33/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E721
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 开发者
+* 前端开发人员
+* 全栈开发人员
+* PWA开发人员
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有0至12个月的Adobe Commerce前端开发实践经验，并能够使用技术解决方案提供各个组件。
 
@@ -42,36 +69,19 @@ ht-degree: 0%
 * 基本了解规范链接以及合并JavaScript和CSS
 * 对Adobe Commerce云基础架构的基本了解
 
->[!BEGINTABS]
+<br>
 
->[!TAB 准备就绪]
+### 考试目标和范围 {#exam-objectives}
 
-**目标受众：**
+{{exam-objectives}}
 
-* 开发者
-* 前端开发人员
-* 全栈开发人员
-* PWA开发人员
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：33/50
-* 时间：100分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E721
-
-**考试目标和范围**
-
-第1节：主题管理（主题层次结构、图像配置和翻译）(14%)
+**第1节：主题管理（主题层次结构、图像配置和翻译）(14%)**
 
 * 描述Adobe [!DNL Commerce] 主题文件夹结构
 * 演示创建新主题或扩展现有主题的能力
 * 演示添加自定义翻译短语的能力
 
-第2部分：布局XML和模板(30%)
+**第2部分：布局XML和模板(30%)**
 
 * 演示使用基本布局XML指令的能力
 * 演示使用现有页面布局的能力
@@ -79,7 +89,7 @@ ht-degree: 0%
 * 演示创建和自定义模板的能力
 * 描述模板安全性（转义输出）
 
-第3节：样式(22%)
+**第3节：样式(22%)**
 
 * 描述样式 — m.less、样式 — l.less、打印.less的目的
 * 描述特定部分文件(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less)之间的区别
@@ -88,7 +98,7 @@ ht-degree: 0%
 * 解释样式的层次结构（库、模块、主题）
 * 解释客户端和服务器端编译
 
-第4部分：JavaScript (18%)
+**第4部分：JavaScript (18%)**
 
 * 演示初始化和调用JavaScript组件的功能
 * 演示RequireJS的使用
@@ -97,25 +107,39 @@ ht-degree: 0%
 * 描述“挖空JS”的用法
 * 描述jQuery小组件的用法
 
-第5部分：管理员配置和PageBuilder (6%)
+**第5部分：管理员配置和PageBuilder (6%)**
 
 * 演示自定义Page Builder和CMS内容的能力”
 * 将主题应用/安排到特定范围（网站、商店、商店视图）
 * 使用管理员配置将设计更改应用于类别、产品和CMS页面
 * 描述自定义事务性电子邮件的步骤
 
-第6节：工具（CLI和Grunt）(8%)
+**第6节：工具（CLI和Grunt）(8%)**
 
 * 描述基本bin/magento命令的用法
 * 描述编辑器命令的用法（安装、更新、需要、删除）
 * 区分部署模式的适当用例
 * 描述云提供的其他工具（Fastly、下载数据库、内容部署）
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：主题管理（主题层次结构、图像配置和翻译）**
 
@@ -156,18 +180,33 @@ ht-degree: 0%
 * [生成变量](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [云基础架构上的Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+**参加练习测试**
 
+{{practice-test}}
 
-**现在您已成功登录，可以直接访问以下链接。**
++++
 
-**练习测试即将推出**
+<br>
 
-## 关于认证考试
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -180,9 +219,25 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**问题**
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
+
+## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

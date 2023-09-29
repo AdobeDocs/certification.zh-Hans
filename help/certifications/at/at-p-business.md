@@ -7,18 +7,45 @@ role: User
 badge: label="考试AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 9%
+source-wordcount: '698'
+ht-degree: 11%
 
 ---
 
 # 的认证历程 [!DNL Adobe Target] 商业从业者专业人员
 
-了解如何成为认证用户 [!DNL Adobe Target] 商业从业者专业人士。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：31/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语、日语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E408（英语）、AD0-E408-J（日语）
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 优化
+* 个性化
+* Analytics
+* 数字和产品营销
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -29,34 +56,13 @@ ht-degree: 9%
 * 三步工作流程的基本知识（体验、定位以及目标和设置，包括所有报表源）
 * 能够阅读和理解活动报告结果
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 优化
-* 个性化
-* Analytics
-* 数字和产品营销
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：31/50
-* 时间：100分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E408
-
-**考试目标和范围**
-
-第1款：规划和战略(26%)
+**第1款：规划和战略(26%)**
 
 * 确定业务KPI
 * 给定业务KPI和数据分析方案，找出优化机会
@@ -67,7 +73,7 @@ ht-degree: 9%
 * 给定场景，评估受众要求
 * 描述适当的分析报表源(即Target或Adobe Analytics)
 
-第2节：配置、执行和管理(50%)
+**第2节：配置、执行和管理(50%)**
 
 * 解释基于表单的体验编辑器与可视化体验编辑器的用法
 * 描述使用VEC创建体验的过程
@@ -84,7 +90,7 @@ ht-degree: 9%
 * 描述执行活动QA的过程
 * 描述用于管理Target中的活动和受众的过程
 
-第3款：分析和报告(16%)
+**第3款：分析和报告(16%)**
 
 * 描述有助于设置报表中显示的元素的设置
 * 描述以下内容中的差异 [!DNL Adobe Target] 计划和验证之间的样本量计算器设置
@@ -93,23 +99,31 @@ ht-degree: 9%
 * 描述体验性能报表(MVT)的功能
 * 描述在A/B测试执行中应遵循的最佳实践
 
-第4部分：故障排除(8%)
+**第4部分：故障排除(8%)**
 
 * 给定场景，确定活动资格问题
 * 识别浏览器调试工具(包括Experience Cloud Debugger)的功能
 * 确定指标和报表
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
 
-**示例问题**
++++第1步：创建帐户
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+{{create-your-account}}
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节：规划和战略**
 
@@ -133,7 +147,7 @@ ht-degree: 9%
 
 **第3节：分析和报告**
 
-* [报告设置](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [报表设置](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 * [A/B测试概述](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
 
 **第4部分：故障排除**
@@ -141,16 +155,35 @@ ht-degree: 9%
 * [[!DNL Adobe Target] 业务从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Adobe Experience Cloud Debugger概述](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
-## 关于认证考试
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -163,7 +196,25 @@ ht-degree: 9%
 </span>
 </a>
 
->[!ENDTABS]
+[日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

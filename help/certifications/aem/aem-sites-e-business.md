@@ -7,18 +7,49 @@ role: User
 badge: label="考试AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 10%
+source-wordcount: '981'
+ht-degree: 12%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Sites] 商业从业者专家
 
-了解如何成为认证Adobe [!DNL Experience Manager] 商业从业者专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：32/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语、日语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E121（英语）、AD0-E121-J（日语）
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 解决方案顾问
+* 消费者体验专业人士
+* 正在设计和实施的解决方案的产品所有者
+* 业务分析员
+* 解决方案架构师
+* 合作伙伴组织中的个人以及担任AEM解决方案分析师职务的兼职人员
+* 了解开发人员，以便针对业务需求定义解决方案所需特性和功能的营销专家
+* 使用该产品的客户（即高级用户）
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -36,7 +67,7 @@ ht-degree: 10%
 * 体验片段和内容片段
 * Screens
 * 工作流
-* 启动次数
+* 启动项
 * CRXDE Lite
 * 用户管理
 * 多站点管理
@@ -49,49 +80,26 @@ ht-degree: 10%
 * 对Web的一般了解
 * 响应式网页设计概念
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 解决方案顾问
-* 消费者体验专业人士
-* 正在设计和实施的解决方案的产品所有者
-* 业务分析员
-* 解决方案架构师
-* 合作伙伴组织中的个人以及担任AEM解决方案分析师职务的兼职人员
-* 了解开发人员，以便针对业务需求定义解决方案所需特性和功能的营销专家
-* 使用该产品的客户（即高级用户）
-
-**考试详细信息：**
-
-级别：专家（1-3年经验）及格分数：32/50时间：100分钟交付：在线监护（需要摄像头访问）或测试中心监查可用语言：英文和日文成本：225美元（全球）/150美元（印度）考试编号：AD0-E121
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1款：教育(22%)
+**第1款：教育(22%)**
 
 * 列出相关的AEM特性和功能
 * 推荐如何利用AEM功能来满足业务需求
 * 应用为内容编辑进行培训所需的过程概念
 
-第2款：建筑(24%)
+**第2款：建筑(24%)**
 
 * 推荐一种信息架构，以利用AEM标准功能并通过内部部署或Adobe托管（云）环境满足业务需求
 * 描述AEM如何与第三方服务集成
 * 确定如何定义角色和权限
 * 描述缓存方法
 
-第三节　：业务分析(38%)
+**第三节　：业务分析(38%)**
 
 * 将AEM的标准模块映射到客户的不同业务问题
 * 对AEM模块应用内容管理概念
@@ -100,23 +108,45 @@ ht-degree: 10%
 * 确定如何在预算和/或范围之内实现核心业务目标
 * 确定应如何回答开发人员提出的与业务目标相关的问题
 
-第4款：设立和执行(16%)
+**第4款：设立和执行(16%)**
 
 * 确定如何配置和使用内容组件以显示AEM的最佳实践
 * 验证功能的正确实施，并查找和描述出现的错误
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
+
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第一节　：教育**
 
 * [AEM 6.5 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [了解AEM 6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [启动次数](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=zh-Hans){target="_blank"}
+* [启动项](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
 * [作者的首要步骤](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
 * [内容编辑最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
 * [创建和组织页面](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html){target="_blank"}
@@ -167,19 +197,33 @@ ht-degree: 10%
 * [核心组件的本地化功能](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html){target="_blank"}
 * [搜索功能](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
-
-## 参加练习测试
+**参加练习测试**
 
 {{practice-test}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -203,7 +247,23 @@ ht-degree: 10%
 
 [日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

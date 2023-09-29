@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="考试AD0-E907" type="positive"
 mini-toc-levels: 1
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1792'
+source-wordcount: '1639'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,41 @@ ht-degree: 0%
 
 # Adobe的认证历程 [!DNL Workfront] 核心开发人员专家
 
-了解如何成为认证Adobe [!DNL Workfront] 核心开发人员专家。
+{{intro}}
 
 >[!NOTE]
 >
 >这是最新Adobe [!DNL Workfront] 核心开发人员专家考试。 如果您已开始学习或计划了 [较旧版本](aw-core-e-developer.md)，您必须在2023年11月6日之前完成它。
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：35/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E907
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* [!DNL Workfront] 专门负责实施以及新的或更新实例配置的系统管理员
+* 流程设计者/架构师
+* 业务分析师
+* 技术顾问
+* 配置顾问
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应至少拥有18-24个月的Adobe经验 [!DNL Workfront]，并且应该能够：
 
@@ -32,39 +60,13 @@ ht-degree: 0%
 * 了解并应用营销和PMO用例
 * 推荐和创建支持客户流程的报告
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* [!DNL Workfront] 专门负责实施以及新的或更新实例配置的系统管理员
-* 流程设计者/架构师
-* 业务分析师
-* 技术顾问
-* 配置顾问
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：35/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E907
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第一节　：核心系统管理和设置(17%)
+**第一节　：核心系统管理和设置(17%)**
 
 * 给定场景，描述有效共享权限和访问的方法。
 * 给定场景，确定何时应使用组状态与系统状态。
@@ -74,7 +76,7 @@ ht-degree: 0%
 * 给定场景，推荐展示板配置以满足自定义要求。
 * 在场景中，确定群组管理的最佳实践。
 
-第2节：录取、定制表格和项目启动(13%)
+**第2节：录取、定制表格和项目启动(13%)**
 
 * 给定一个方案，确定支持工作分配所需的配置区域。
 * 给定场景，标识如何将值传递到项目自定义表单。
@@ -83,7 +85,7 @@ ht-degree: 0%
 * 给定一个具有多个表单的场景，可确定用于控制访问、可见性和依赖性的操作。
 * 给定多对象表单上具有计算字段的方案，请确定正确的公式。
 
-第3款：战略职能：组合和方案管理、资源管理(13%)
+**第3款：战略职能：组合和方案管理、资源管理(13%)**
 
 * 给定一个方案，定义工具以捕获项目范围中的更改。
 * 给定一个方案，创建一个视图来标识项目组合中项目是否满足要执行的所需条件的平均水平。
@@ -92,7 +94,7 @@ ht-degree: 0%
 * 在场景中，提供一种机制，确保使用资源管理工具为项目配备充足的人员。
 * 在给定场景下，使用资源管理工具确定用户过度分配的原因。
 
-第4节：文件管理和证明(13%)
+**第4节：文件管理和证明(13%)**
 
 * 在给定的场景中，演示何时使用文档管理和校对
 * 在场景中，确定使用验证查看器、设置和标记功能的最佳实践
@@ -100,7 +102,7 @@ ht-degree: 0%
 * 在给定场景下，演示如何设置具有安全限制的外部文档存储
 * 给定场景，设置与AEMas a Cloud Service或AEM Assets Essentials的连接。
 
-第5节：报告(11%)
+**第5节：报告(11%)**
 
 * 给定一个方案，描述将多列数据组合到单列中的方法。
 * 给定报表或过滤器，演示使用通配符值的优点。
@@ -109,7 +111,7 @@ ht-degree: 0%
 * 给定场景，说明 [!DNL Workfront] 用于监控和改进用户采用情况的报告。
 * 给定场景，确定字段类型在报表中的呈现方式。 （字段类型包括：富文本、图像、多选）
 
-第6节：方法/最佳做法/用例(22%)
+**第6节：方法/最佳做法/用例(22%)**
 
 * 给定场景，在 [!DNL Workfront]，演示用于设置跟踪作为单个营销活动一部分的交付项的功能。
 * 给定场景，在 [!DNL Workfront]，演示围绕工作的战略优先级和理由论证的功能。
@@ -120,7 +122,7 @@ ht-degree: 0%
 * 给定场景使用 [!DNL Workfront] 展示板，识别本机功能以显示进度。
 * 在给定场景下，建议围绕系统和组管理构建治理框架。
 
-第7节：商业咨询(11%)
+**第7节：商业咨询(11%)**
 
 * 给定场景，描述完全支持实施工作所需的流程 [!DNL Workfront] 跨职能部门工作。
 * 给定一个情景，解释如何调整现有工作流以满足关键正在进行的业务流程中的最新变化。
@@ -128,11 +130,33 @@ ht-degree: 0%
 * 在场景中，确定以下项的更改管理的主要注意事项 [!DNL Workfront] 实现
 * 给定客户有多个团队的情况，提供提高效率的建议。
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
+
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第一节　核心系统管理和设置**
 
@@ -207,23 +231,27 @@ ht-degree: 0%
 * [任务的“可以开始”概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/can-start-task-overview.html){target="_blank"}
 * [最佳实践 — 入职和采用](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
->[!TAB 获得认证]
++++
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+<br>
 
-<!-- Test is coming later
++++第3步：考试计划和付费
 
-## Take a practice test
+{{schedule-and-pay}}
 
-{{practice-test}}
++++
 
--->
+<br>
 
-## 关于认证考试
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -236,7 +264,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

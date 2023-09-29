@@ -8,18 +8,44 @@ level: Experienced
 badge: label="考试AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1116'
-ht-degree: 9%
+source-wordcount: '946'
+ht-degree: 11%
 
 ---
 
 # 的认证历程 [!DNL Adobe Analytics] 开发人员专业版
 
-了解如何成为认证用户 [!DNL Adobe Analytics] 开发人员专业版。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：31/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）和95美元（印度）
+* 考试ID：AD0-E213
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 实施专家/工程师
+* 开发者
+* 架构师
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -27,7 +53,7 @@ ht-degree: 9%
 * 根据分析人员提供的要求，在支持Analytics实施团队在IT和业务之间架起桥梁，了解业务要求如何转化为技术解决方案(SDR)方面的经验
 * 了解需要哪种类型的变量、在何处以及如何收集数据、设计数据模型（数据层）、配置和维护标签管理解决方案
 
-体验以下任务：
+您还应具有执行以下任务的经验：
 
 * 解释解决方案设计文档(SDR)并了解所有内容的用途 [!DNL Adobe Analytics] 收集的变量
 * 了解和使用Adobe(Experience Platform)Launch
@@ -41,44 +67,24 @@ ht-degree: 9%
 * 从Analysis Workspace执行基本报表，并了解可用的数据输出 [!DNL Adobe Analytics] Data Warehouse
 * Adobe Experience Platform Launch的基础体验(AdobeLaunch)
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 实施专家/工程师
-* 开发者
-* 架构师
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：31/50
-* 时间：100分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：125美元（全球）和95美元（印度）
-* 考试ID：AD0-E213
-
-**考试目标和范围**
-
-第1部分：Adobe Experience Cloud生态系统中的分析(14%)
+**第1部分：Adobe Experience Cloud生态系统中的分析(14%)**
 
 * 识别Adobe Experience Cloud ID的特性和功能。
 * 确定Adobe启动项的用途。
 * 确定如何启用/支持 [!DNL Adobe Analytics] Adobe Experience Cloud生态系统中的标记。
 
-第2部分：基于SDR的分析策略和设计(12%)
+**第2部分：基于SDR的分析策略和设计(12%)**
 
 * 参考解决方案设计，确定必须填充哪些数据对象。
 * 阅读技术规格文档的一部分，确定如何实施数据捕获。
 
-第3部分：Analytics实施和配置(30%)
+**第3部分：Analytics实施和配置(30%)**
 
 * 确定要部署的步骤 [!DNL Adobe Analytics] 代码。
 * 识别用于Analytics跟踪的最小部署代码的功能。
@@ -87,36 +93,44 @@ ht-degree: 9%
 * 识别数据层和数据层值的特性。
 * 识别用于跟踪功能（如链接跟踪和电子商务跟踪）的App Measurement函数。
 
-第四节　：Tag Management系统(18%)
+**第四节　：Tag Management系统(18%)**
 
 * 使用标记审核确定是否已满足要求。
 * 确定使用AdobeLaunch配置网站标记的步骤。
 * 给定场景，请确定如何在AdobeLaunch中启用、修改扩展并对其进行故障排除。
 * 确定如何创建规则和数据元素。
 
-第5节：组成部分 [!DNL Adobe Analytics] (8%)
+**第5节：组成部分 [!DNL Adobe Analytics] (8%)**
 
 * 确定的功能 [!DNL Adobe Analytics] API（数据源、仓库、数据源、报表）。
 * 确定处理规则的特征。
 
-第6部分：测试、验证和故障排除(18%)
+**第6部分：测试、验证和故障排除(18%)**
 
 * 确定常见JavaScript错误的含义。
 * 确定共同性的含义 [!DNL Adobe Analytics] 变量错误。
 * 给定场景，确定应遵循的测试和调试验证最佳实践。
 * 识别如何跟踪 [!DNL Adobe Analytics] 服务器调用(即从信标请求到显示在报表中。)
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
 
-**示例问题**
++++第1步：创建帐户
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+{{create-your-account}}
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：Adobe Experience Cloud生态系统中的Analytics**
 
@@ -162,15 +176,41 @@ ht-degree: 9%
 * [使用以下方式跟踪已单击的组件 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
 * [[!DNL Adobe Analytics] 实施调试 — 工具](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
-## 关于认证考试
+{{sample-questions}}
+
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**参加练习测试**
+
+{{practice-test}}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -183,10 +223,27 @@ ht-degree: 9%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+

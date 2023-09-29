@@ -7,18 +7,49 @@ role: Developer
 badge: label="考试AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 5%
+source-wordcount: '769'
+ht-degree: 7%
 
 ---
 
 # Adobe Experience Manager DevOps工程师专家认证历程
 
-了解如何成为认证AdobeDevOps工程师专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：30/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E124
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 解决方案顾问
+* 消费者体验专业人士
+* 正在设计和实施的解决方案的产品所有者
+* 业务分析员
+* 解决方案架构师
+* 合作伙伴组织中的个人以及担任AEM解决方案分析师职务的兼职人员
+* 了解开发人员，以便针对业务需求定义解决方案所需特性和功能的营销专家
+* 使用产品的客户（即高级用户）
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -27,7 +58,7 @@ ht-degree: 5%
 
 您应该能够熟练使用AdobeManaged Services和Adobe Experience Manager as a Cloud Service，并能够设置Adobe Experience Manager环境和基础架构。
 
-您应该熟悉以下技术和环境：
+此外，您还应熟悉以下技术和环境：
 
 * Cloud Manager
 * IO CLIADOBE
@@ -39,81 +70,72 @@ ht-degree: 5%
 * 开发沙盒
 * 本地环境
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 解决方案顾问
-* 消费者体验专业人士
-* 正在设计和实施的解决方案的产品所有者
-* 业务分析员
-* 解决方案架构师
-* 合作伙伴组织中的个人以及担任AEM解决方案分析师职务的兼职人员
-* 了解开发人员，以便针对业务需求定义解决方案所需特性和功能的营销专家
-* 使用产品的客户（即高级用户）
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：30/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E124
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1部分：配置Adobe Experience Manager (18%)
+**第1部分：配置Adobe Experience Manager (18%)**
 
 * 确定配置基本Adobe Experience Manager设置的正确方法
 * 在某些情况下，请解决Adobe Experience Manager问题
 * 确定配置OSGi的正确方法
 
-第2部分：操作Cloud Manager和Cloud Manager API (20%)
+**第2部分：操作Cloud Manager和Cloud Manager API (20%)**
 
 * 确定通过UI管理Cloud Manager环境设置的正确方法
 * 确定在Cloud Manager上配置程序和环境的正确方法
 * 确定迁移到Adobe Experience Manager as a Cloud Service的正确方法
 * 确定在Adobe I/O上设置集成的正确方法
 
-第3部分：配置Web代理基础架构(12%)
+**第3部分：配置Web代理基础架构(12%)**
 
 * 确定管理Dispatcher配置的正确方法
 * 在某种情况下，解决缓存问题
 
-第4款：建立和部署(28%)
+**第4款：建立和部署(28%)**
 
 * 确定管理Cloud Manager部署的正确方法
 * 给定场景，分析Cloud Manager管道的状态
 * 确定跨多个Adobe Experience Manager实例管理内容包的正确方法
 * 确定更改Maven文件以支持管道的正确方法
 
-第5款：监测和报告质量指标(14%)
+**第5款：监测和报告质量指标(14%)**
 
 * 确定收集性能量度和报表的正确方法
 * 确定扩展基础架构的正确方法
 
-第6节：经营Admin Console(8%)
+**第6节：经营Admin Console(8%)**
 
 * 确定在Admin Console中提交支持请求的正确方法
 * 确定配置联合SSO并同步Adobe Experience Manager用户和组的正确方法
 
->[!TAB 准备好]
+### 准备情况调查表
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+{{readiness}}
 
-以下是一些可帮助您准备的建议资源：
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：配置Adobe Experience Manager**
 
@@ -151,19 +173,27 @@ ht-degree: 5%
 * [AEM as a Cloud Service 的 IMS 支持](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Adobe IMS用户组和AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
->[!TAB 获得认证]
++++
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+<br>
 
-## 参加练习测试
++++第3步：考试计划和付费
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -176,7 +206,23 @@ ht-degree: 5%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

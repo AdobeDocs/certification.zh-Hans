@@ -6,9 +6,9 @@ product: Marketo
 role: Data Architect
 badge: label="考试AD0-E560" type="positive"
 mini-toc-levels: 1
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---
@@ -16,13 +16,52 @@ ht-degree: 1%
 
 # Adobe的认证历程 [!DNL Marketo Engage] 架构师母版
 
-了解如何成为认证Adobe [!DNL Marketo Engage] 架构师母版。
+{{intro}}
 
 >[!NOTE]
 >
 >这是最新的 [!DNL Adobe Marketo Engage] 架构师级考试。 如果您已开始学习或计划了 [较旧版本](ame-m-architect.md)必须在2023年10月31日之前完成考试。
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 先决条件：当前（未过期）Adobe [!DNL Marketo Engage] 商业从业者专家认证
+* 级别：硕士（3-5年经验）
+* 从业者认证
+* 及格分数：30/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E560
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 营销技术经理
+* 高级/营销运营经理
+* 营销运营总监
+* 高级Director/收入运营经理
+* 营销运营/技术/自动化顾问
+* 营销技术人员
+* 营销活动管理器
+* 营销自动化经理
+* 数字营销
+* 需求生成管理器
+* 解决方案架构师
+* 业务系统分析师
+* CRM管理器
+* CRM/Lifecycle marketing manager
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -40,48 +79,11 @@ ht-degree: 1%
 * CRM平台
 * 营销技术平台
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
-
-**目标受众：**
-
-* 营销技术经理
-* 高级/营销运营经理
-* 营销运营总监
-* 高级Director/收入运营经理
-* 营销运营/技术/自动化顾问
-* 营销技术人员
-* 营销活动管理器
-* 营销自动化经理
-* 数字营销
-* 需求生成管理器
-* 解决方案架构师
-* 业务系统分析师
-* CRM管理器
-* CRM/Lifecycle marketing manager
-
-**考试详细信息：**
-
-* 先决条件：当前（未过期）Adobe [!DNL Marketo Engage] 商业从业者专家认证
-* 级别：硕士（3-5年经验）
-* 从业者认证
-* 及格分数：30/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E560
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
+{{exam-objectives}}
 
 **第1款：项目领导(16%)**
 
@@ -121,17 +123,33 @@ ht-degree: 1%
 * 收集有关客户端实施的信息并推荐安全做法
 * 解释给定场景的工作区和分区的适用性
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第一节　：项目领导**
 
@@ -157,15 +175,36 @@ ht-degree: 1%
 * [禁止软退回](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [了解工作区和人员分区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
->[!TAB 获得认证]
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
+<br>
 
-## 关于认证考试
+**示例问题**
+
+{{sample-questions}}
+
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -178,7 +217,23 @@ ht-degree: 1%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

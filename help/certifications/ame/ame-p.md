@@ -7,45 +7,36 @@ role: User
 badge: label="考试AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Marketo Engage] 专业
 
-了解如何成为认证Adobe [!DNL Marketo] 专业。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
 
-您应该拥有：
+{{exam-description}}
 
-* 大约6个月的实践经验
-* 能够了解任务需求所表示的营销需求，以便应用技术解决方案
-* 从头到尾构建简单项目的能力
-* 创建智能列表和智能营销活动的功能
-* 了解如何创建分段
-* 了解数据审查（清理）
-* 了解数据库(如何创建人员、活动日志、取消订阅、阻止列表、电子邮件无效概念)
-* 能够了解隐私法规的重要性
-* 了解电子邮件营销
+<br>
 
-此外，您应该熟悉以下工具和技术：
+### 考试详细信息 {#exam-details}
 
-* Adobe [!DNL Marketo Engage]
-* Excel或Google工作表/文档
+* 级别：专业（0-12个月经验）
+* 及格分数：36/55
+* 时间：110分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语、日语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E555（英语）、AD0-E555-J（日语）
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
-
->[!TAB 准备就绪]
-
-**目标受众：**
+### 目标受众 {#intended-audience}
 
 * Campaign操作专家/协调员
 * 数据库营销经理/专家/协调员
@@ -61,23 +52,34 @@ ht-degree: 0%
 * 营销技术协调员/专家/助理
 * 营销团队成员
 
-**考试详细信息：**
+<br>
 
-* 级别：专业（0-12个月经验）
-* 及格分数：36/55
-* 时间：110分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E555
+### 最低体验 {#minimum-experience}
 
-**准备情况自我评估**
+您应该拥有：
 
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
+* 大约6个月的实践经验
+* 能够了解任务需求所表示的营销需求，以便应用技术解决方案
+* 从头到尾构建简单项目的能力
+* 创建智能列表和智能营销活动的功能
+* 了解如何创建分段
+* 了解数据审查（清理）
+* 了解数据库(如何创建人员、活动日志、取消订阅、阻止列表、电子邮件无效概念)
+* 能够了解隐私法规的重要性
+* 了解电子邮件营销
 
-**考试目标和范围**
+此外，您还应熟悉以下工具和技术：
 
-第1款：建立和管理方案(39%)
+* Adobe [!DNL Marketo Engage]
+* Excel或Google工作表/文档
+
+<br>
+
+### 考试目标和范围 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第1款：建立和管理方案(39%)**
 
 * 根据业务需求/问题，确定适当的报告策略以执行分析
 * 分析数据以回答业务问题
@@ -86,7 +88,7 @@ ht-degree: 0%
 * 分析报表数据以总结和得出结论
 * 识别报告中的异常值和异常
 
-第2款：建造资产(19%)
+**第2款：建造资产(19%)**
 
 * 在Design Studio中处理文件（上传/替换图像和文件）。
 * 使用表单编辑器创建/修改表单。
@@ -96,7 +98,7 @@ ht-degree: 0%
 * 区分草稿资产和批准资产之间的差异。
 * 区分本地资产与全局资产之间的差异。
 
-第3部分：定义和定位受众(33%)
+**第3部分：定义和定位受众(33%)**
 
 * 创建/修改智能列表。
 * 了解Smart Campaign流程步骤。
@@ -111,23 +113,39 @@ ht-degree: 0%
 * 了解Smart Campaign触发器和过滤器的工作方式。
 * 区分不同的列表导入。
 
-第4款：分析和编制报告(9%)
+**第4款：分析和编制报告(9%)**
 
 * 说明标准Adobe [!DNL Marketo Engage] 报表以及应何时使用它们（电子邮件链接性能、电子邮件性能、登陆页面性能、人员性能、项目性能、网页活动等）
 * 理解功能板信息和量度（电子邮件计划功能板、参与计划功能板）
 * 理解电子邮件分析量度
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节：建立和管理方案**
 
@@ -160,16 +178,35 @@ ht-degree: 0%
 * [报表类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [管理报表订阅](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
-## 关于认证考试
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -193,7 +230,23 @@ ht-degree: 0%
 
 [日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

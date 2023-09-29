@@ -7,18 +7,44 @@ role: Developer
 badge: label="考试AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '789'
-ht-degree: 13%
+source-wordcount: '635'
+ht-degree: 17%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Sites] 开发人员专家
 
-了解如何成为认证Adobe [!DNL Experience Manager] 开发人员专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：26/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E134
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* AEM开发人员
+* AEM高级开发人员
+* AEM主要开发人员
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -28,7 +54,7 @@ ht-degree: 13%
 * 了解AEM中的框架和库
 * 了解AEM开发生命周期
 
-此外，您还熟悉以下技术和环境：
+此外，您还应熟悉以下技术和环境：
 
 * JVM
 * 较低版本/预生产环境
@@ -39,37 +65,13 @@ ht-degree: 13%
 * 开发和打包工具
 * 命令行工具
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* AEM开发人员
-* AEM高级开发人员
-* AEM主要开发人员
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：26/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E134
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1部分：配置(22%)
+**第1部分：配置(22%)**
 
 * 确定创建和管理AEM调度程序配置的步骤
 * 确定配置多租户的正确步骤
@@ -77,7 +79,7 @@ ht-degree: 13%
 * 给定场景，确定创建和管理自定义OAK索引的正确方法
 * 确定配置OOTB SAML和LDAP集成的正确步骤
 
-第2款：AEM开发(44%)
+**第2款：AEM开发(44%)**
 
 * 确定实施SPA结构、模板和组件的正确步骤
 * 根据设计，创建自定义组件，包括HTL、模型和服务
@@ -86,23 +88,45 @@ ht-degree: 13%
 * 在场景中，确定任何第三方集成的方法
 * 确定实施Headless或混合实施的方法
 
-第3款：建立和部署(14%)
+**第3款：建立和部署(14%)**
 
 * 确定设置和维护前端和后端依赖关系管理的步骤
 * 在构建项目时确定正确的原型
 
-第4节：环境维护(22%)
+**第4节：环境维护(22%)**
 
 * 在场景中，确定管理AEM环境所需的步骤
 * 解释与版本管理相关的设置步骤
 * 推荐并实施解决方案以跨AEM环境同步内容/配置
 * 确定规划和实施AEM升级和存储库迁移活动/任务所需的步骤
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
+
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：配置**
 
@@ -137,19 +161,27 @@ ht-degree: 13%
 * [AEM 6.5 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [AEM 6.5 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
->[!TAB 获得认证]
++++
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+<br>
 
-## 参加练习测试
++++第3步：考试计划和付费
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -162,7 +194,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

@@ -7,18 +7,50 @@ role: User
 badge: label="考试AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2f4cc72e494787c43205e84cae4a4f3b5ecbf900
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '932'
-ht-degree: 2%
+source-wordcount: '732'
+ht-degree: 3%
 
 ---
 
 # Adobe的认证历程 [!DNL Commerce] 商业从业者专业人员
 
-了解如何成为经过认证的Adobe商业从业者专业人员。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：30/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E712
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 业务分析员
+* 项目经理
+* 产品所有者
+* 顾问
+* [!DNL Adobe Commerce] 策略师
+* 电子商务管理员/Director/经理/顾问
+* Digital Marketing Director/经理/开发人员
+* 解决方案专家
+* 技术客户经理
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您至少应有0至12个月的实践经验， [!DNL Magento Open Source] 版本2.4.3，使用LUMA或BLANK主题并基本了解Adobe [!DNL Commerce] 版本2.4.3。
 
@@ -33,43 +65,13 @@ ht-degree: 2%
 * 安全性和合规性(GDPR、ADA、PCI DSS v3.2.1、PSD2)
 * 定价和促销活动
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 业务分析员
-* 项目经理
-* 产品所有者
-* 顾问
-* [!DNL Adobe Commerce] 策略师
-* 电子商务管理员/Director/经理/顾问
-* Digital Marketing Director/经理/开发人员
-* 解决方案专家
-* 技术客户经理
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：30/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E712
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1节： [!DNL Magento Open Source] 核心特性(49%)
+**第1节： [!DNL Magento Open Source] 核心特性(49%)**
 
 * 识别的功能 [!DNL Magento Open Source]
 * 区分正确的范围以及何时使用每个
@@ -80,13 +82,13 @@ ht-degree: 2%
 * 描述商店维护中涉及的日常任务
 * 解释不同类型的内容元素以及何时使用
 
-第2部分：Adobe [!DNL Commerce] 基本知识(14%)
+**第2部分：Adobe [!DNL Commerce] 基本知识(14%)**
 
 * 确定Adobe中可用的主要功能 [!DNL Commerce]
 * 识别Adobe中的服务加载项 [!DNL Commerce]
 * 确定用于Adobe的托管选项 [!DNL Commerce]
 
-第3节：数字营销和电子商务基本面(24%)
+**第3节：数字营销和电子商务基本面(24%)**
 
 * 确定数字营销工具(Google Analytics/Adobe Analytics、Google Tag Manager、电子邮件营销、分段、社交插件)的基本用法
 * 解释SEO的基本原则
@@ -94,23 +96,39 @@ ht-degree: 2%
 * 确定电子商务网站的主要功能
 * 确定基本电子商务概念（包括店面选项）
 
-第4部分：合规/安全基本知识(13%)
+**第4部分：合规/安全基本知识(13%)**
 
 * 了解隐私法律和支付安全合规性的基础知识
 * 识别Adobe的常见安全方面 [!DNL Commerce] 项目
 * 确定无障碍合规性的最佳实践和法律要求
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节： [!DNL Magento Open Source] 核心功能**
 
@@ -158,19 +176,35 @@ ht-degree: 2%
 * [了解ADA合规性及其与电子商务网站的关系](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] 安全最佳实践指南](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
-## 参加练习测试
+{{sample-questions}}
 
-{{practice-test}}
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -183,7 +217,23 @@ ht-degree: 2%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

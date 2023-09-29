@@ -6,44 +6,24 @@ role: Developer
 badge: label="考试AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1352'
 ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Workfront] 项目经理专业版
 
-了解如何成为认证Adobe [!DNL Workfront] 项目经理专业版。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
 
-您应该拥有：
+{{exam-description}}
 
-* 从初始工作请求到完成的理解工作流程，或接触过项目或工作管理
-* 已完成自导式训练或训练营，或 [!DNL Workfront] 用户6-12个月，以便他们了解基本功能
-* 了解如何配置、跟踪和监控报表数据
+<br>
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
-
->[!BEGINTABS]
-
->[!TAB 准备就绪]
-
-**目标受众：**
-
-* 项目经理，工作经理，计划员
-* SCRUM母版
-* [!DNL Workfront] 超级用户
-* 系统管理员
-* 项目经理，项目组合经理
-* Director，经理
-* 资源管理器、流量管理器
-
-**考试详细信息 — Adobe [!DNL Workfront] 项目管理器**
+### 考试详细信息 {#exam-details}
 
 * 级别：专业（0-12个月经验）
 * 及格分数：45/70
@@ -53,13 +33,35 @@ ht-degree: 0%
 * 费用：125美元（全球）/95美元（印度）
 * 考试ID：AD0-E903
 
-**准备情况自我评估**
+<br>
 
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
+### 目标受众 {#intended-audience}
 
-**考试目标和范围**
+* 项目经理，工作经理，计划员
+* SCRUM母版
+* [!DNL Workfront] 超级用户
+* 系统管理员
+* 项目经理，项目组合经理
+* Director，经理
+* 资源管理器、流量管理器
 
-第1节：接收和规划(30%)
+<br>
+
+### 最低体验 {#minimum-experience}
+
+您应该拥有：
+
+* 从初始工作请求到完成的理解工作流程，或接触过项目或工作管理
+* 已完成自导式训练或训练营，或 [!DNL Workfront] 用户6-12个月，以便他们了解基本功能
+* 了解如何配置、跟踪和监控报表数据
+
+<br>
+
+### 考试目标和范围 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第1节：接收和规划(30%)**
 
 * 确定通知工作请求的不同方式
 * 在提出请求后，查看自定义数据以确定适当的操作
@@ -71,7 +73,7 @@ ht-degree: 0%
 * 确定相应的字段以查看特定分配的资源
 * 给定角色，确定在项目/工作流程的工作接收或规划阶段对角色有用的接收或规划报告/仪表板
 
-第二节　：执行（百分之五十）
+**第二节　：执行（百分之五十）**
 
 * 确定了解、应用和衡量项目里程碑的方法
 * 创建 [!DNL Workfront] 一次性审批和使用审批的时间
@@ -92,30 +94,44 @@ ht-degree: 0%
 * 确定中可用的各种报告类型 [!DNL Workfront]
 * 给定场景，描述构建自定义报表的步骤
 
-第三节　：结案(20%)
+**第三节　：结案(20%)**
 
 * 给定特定对象状态，确定需要执行的活动或触发的操作
 * 给定一个方案，确定报告的类型以及用于修改任务列表或报告的报告元素
 * 识别可在报告中使用的不同通配符
 * 确定可用于衡量项目成功情况的项目元素
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
 
-**推荐的培训课程：**
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**推荐的培训课程**
 
 [面向新版规划人员的核心团队培训 [!DNL Workfront] 体验](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**其他资源:**
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节：接收和规划**
 
@@ -160,16 +176,35 @@ ht-degree: 0%
 * [项目时间线](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [创建项目](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
-## 关于认证考试
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -182,7 +217,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

@@ -6,30 +6,36 @@ product: Customer Journey Analytics
 role: User
 badge: label="考试AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 13%
+source-wordcount: '482'
+ht-degree: 17%
 
 ---
 
 # Adobe的认证历程 [!DNL Customer Journey Analytics] 商业从业者专业人员
 
-了解如何成为认证Adobe [!DNL Customer Journey Analytics] 商业从业者专业人士。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
 
-最理想的合格候选人是具有6个月以上Adobe经验的分析师 [!DNL Customer Journey Analytics] 以及对它如何与配合使用的基础性理解 [!DNL Adobe Experience Platform]. 候选人能够使用适当的报表和可视化选项针对给定的业务需求执行基本和高级分析。
+{{exam-description}}
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试详细信息 {#exam-details}
 
->[!TAB 准备就绪]
+* 级别：专业（0-12个月经验）
+* 及格分数：36/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E608
 
-**目标受众：**
+<br>
+
+### 目标受众 {#intended-audience}
 
 * 业务分析员
 * 业务顾问
@@ -40,47 +46,61 @@ ht-degree: 13%
 * 产品所有者和经理
 * 转化/优化专家
 
-**考试详细信息：**
+<br>
 
-* 级别：专业（0-12个月经验）
-* 及格分数：36/50
-* 时间：100分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E608
+### 最低体验 {#minimum-experience}
 
-**考试目标和范围**
+最理想的合格候选人是具有6个月以上Adobe经验的分析师 [!DNL Customer Journey Analytics] 以及对它如何与配合使用的基础性理解 [!DNL Adobe Experience Platform]. 候选人能够使用适当的报表和可视化选项针对给定的业务需求执行基本和高级分析。
 
-第1款：构成部分(30%)
+<br>
+
+### 考试目标和范围 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第1款：构成部分(30%)**
 
 * 将业务问题转换为相关组件
 * 使用适当的组件和过滤器创建数据子集
 * 构建非管理员组件以解决业务问题
 
-第2节：报告(32%)
+**第2节：报告(32%)**
 
 * 确定适当的可视化图表或表格以解决业务问题
 * 根据数据源、身份和日期范围确定要使用的数据视图
 * 确定如何使用和应用日期范围
 
-第3款：分配(12%)
+**第3款：分配(12%)**
 
 * 计划报告并与关键利益相关者共享报告
 * 策划特定报表或仪表板中可用的字段
 * 以逻辑方式组织项目
 
-第4节：数据分析(26%)
+**第4节：数据分析(26%)**
 
 * 执行探索性分析并解释结果以提供见解
 * 评估受众以与其他AEP工具共享
 * 选择要分析的正确组件
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：组件**
 
@@ -108,20 +128,33 @@ ht-degree: 13%
 * [维恩图](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html){target="_blank"}
 * [筛选器运算符](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
-
-
-## 参加练习测试
+**参加练习测试**
 
 {{practice-test}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -134,7 +167,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

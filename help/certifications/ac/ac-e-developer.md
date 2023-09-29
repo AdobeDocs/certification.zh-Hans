@@ -7,18 +7,46 @@ level: Experienced
 badge: label="考试AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1707'
 ht-degree: 2%
 
 ---
 
 # 的认证历程 [!DNL Adobe Commerce] 开发人员专家
 
-了解如何成为认证用户 [!DNL Adobe Commerce] 开发人员专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：41/69
+* 时间：138分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E716
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 开发者
+* 主要开发人员
+* 后端开发人员
+* 解决方案架构师
+* 技术领导者
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应具有至少1-3年的Adobe经验 [!DNL Commerce] 并且您熟悉以下技术和环境：
 
@@ -33,39 +61,15 @@ ht-degree: 2%
 * 版本控制软件，如Git
 * 云架构
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
-
-**目标受众：**
-
-* 开发者
-* 主要开发人员
-* 后端开发人员
-* 解决方案架构师
-* 技术领导者
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：41/69
-* 时间：138分钟
-* 投放：在线监护（需要访问摄像头）
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E716
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
+{{exam-objectives}}
 
 **考试目标和范围**
 
-第1部分：Adobe [!DNL Commerce] 架构和定制技术(36%)
+**第1部分：Adobe [!DNL Commerce] 架构和定制技术(36%)**
 
 * 演示如何在Adobe中有效地使用缓存 [!DNL Commerce]
 * 生成、使用和处理自定义扩展属性
@@ -85,45 +89,45 @@ ht-degree: 2%
 * 演示加载和处理数据的能力
 * 演示使用应用程序模拟的能力
 
-第2节：使用数据库和EAV (10%)
+**第2节：使用数据库和EAV (10%)**
 
 * 以编程方式处理EAV属性和属性集
 * 演示扩展数据库模式的能力
 * 演示从Adobe Commerce导入/导出数据的能力
 * 说明如何使用补丁程序和循环设置来修改数据库
 
-第3部分：与管理员一起开发(6%)
+**第3部分：与管理员一起开发(6%)**
 
 * 演示更新和创建网格和表单的功能
 * 扩展网格操作
 * 演示创建修饰符类的能力
 * 演示限制对ACL的访问的能力
 
-第四节　：定制目录(6%)
+**第四节　：定制目录(6%)**
 
 * 将更改应用于现有产品类型并创建新产品类型
 * 修改和扩展现有目录实体
 * 展示管理指数和自定义价格输出的能力
 * 说明多来源库存如何影响库存（方案级别）
 
-第5节：定制销售业务(6%)
+**第5节：定制销售业务(6%)**
 
 * 演示开发新支付方法或自定义现有支付方法的能力
 * 演示添加和自定义配送方式的能力
 * 演示定制销售操作的能力
 * 说明如何自定义总计
 
-第6节：API和服务(4%)
+**第6节：API和服务(4%)**
 
 * 演示创建新API或扩展现有API的能力
 * 演示使用排队系统的能力
 
-第7节：Adobe [!DNL Commerce] 云架构(16%)
+**第7节：Adobe [!DNL Commerce] 云架构(16%)**
 
 * 演示Adobe知识 [!DNL Commerce] 架构/环境工作流
 * 演示云项目文件、权限和结构的实用知识
 * 演示根据Adobe设置多域存储的能力 [!DNL Commerce] 云（多域站点混合了开发工作和支持）
-* 演示应用程序服务的一般知识以及如何管理它们(YAML 、 PHP 、 MariaDB 、 Redis 、 RabbitMQ等)
+* 演示应用程序服务的一般知识以及如何管理它们(YAML、PHP、MariaDB、Redis、RabbitMQ等)
 * 了解如何访问不同类型的日志
 * 演示部署项目的能力（部署的主要步骤）
 * 定义ECE工具提供的功能
@@ -132,7 +136,7 @@ ht-degree: 2%
 * 区分何时联系支持*Yaml文件和限制（DIY与支持工单）
 * 演示OOTB FASTLY功能配置和安装的基本知识
 
-第8部分：设置/配置Adobe [!DNL Commerce] 云(10%)
+**第8部分：设置/配置Adobe [!DNL Commerce] 云(10%)**
 
 * 描述如何设置/配置Adobe [!DNL Commerce] 云
 * 应用基本的云故障排除知识（Web UI和变量的层次结构，配置优先级）
@@ -142,18 +146,40 @@ ht-degree: 2%
 * 使用UI演示对分支的理解
 * 识别AdobeCommerce云计划功能
 
-第9节： [!DNL Commerce] Cloud CLI工具（管理部分）(6%)
+**第9节： [!DNL Commerce] Cloud CLI工具（管理部分）(6%)**
 
 * 演示如何使用CLI更新云变量
 * 演示使用CLI（CLI独有的功能：激活电子邮件、重新构建环境、快照、数据库转储、本地环境设置）进行环境管理的理解
 * 演示如何使用CLI进行分支
 * 演示如何对云服务进行故障排除？ (My SQL， Redis， tunnel：info)
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
+
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：Adobe [!DNL Commerce] 架构和定制技术**
 
@@ -255,7 +281,6 @@ ht-degree: 2%
 * [[!DNL Commerce] 在云基础架构上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
 * [ECE-Tools包](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
-
 **第8部分：设置/配置Adobe [!DNL Commerce] 云**
 
 * [管理用户访问权限](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
@@ -263,26 +288,38 @@ ht-degree: 2%
 * [云基础架构项目](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
 * [使用CLI管理分支](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
 
-
 **第9节： [!DNL Commerce] Cloud CLI工具（管理部分）**
 
 * [快照和备份管理](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
 * [管理磁盘空间](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
 
+<br>
 
->[!TAB 获得认证]
-
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
-
-## 参加练习测试
+**参加练习测试**
 
 {{practice-test}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -295,7 +332,23 @@ ht-degree: 2%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

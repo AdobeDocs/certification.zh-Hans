@@ -8,18 +8,51 @@ recommendations: disable, exclude
 badge: label="考试AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '750'
-ht-degree: 6%
+source-wordcount: '563'
+ht-degree: 9%
 
 ---
 
 # Adobe的认证历程 [!DNL Real-Time CDP] 商业从业者专业人员
 
-了解如何成为认证Adobe [!DNL Experience Platform] 专业从业者。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：28/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E602
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 解决方案顾问
+* 数据分析师
+* 营销经理
+* Campaign营销分析师
+* 业务分析师
+* 营销活动管理器
+* CDP顾问
+* 转化/优化顾问
+* 营销产品所有者
+* 营销分析师
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -38,73 +71,54 @@ ht-degree: 6%
 * 了解AEP及其服务的高级功能和特性
 * 配置新目标
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 解决方案顾问
-* 数据分析师
-* 营销经理
-* Campaign营销分析师
-* 业务分析师
-* 营销活动管理器
-* CDP顾问
-* 转化/优化顾问
-* 营销产品所有者
-* 营销分析师
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：28/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E602
-
-**考试目标和范围**
-
-第1部分：区段和激活(32%)
+**第1部分：区段和激活(32%)**
 
 * 创建区段并激活到目标
 * 配置新目标
 * 应用目标中定位身份所需的概念
 * 确定到目标的属性映射和区段计划
 
-第2部分：隐私和数据治理(20%)
+**第2部分：隐私和数据治理(20%)**
 
 * 演示对DULE策略及其对目标数据可用性的影响的理解
 * 确保遵循隐私和数据合规措施
 
-第三节　：业务分析(30%)
+**第三节　：业务分析(30%)**
 
 * 识别绑定到业务KPI的用例
 * 在Platform中对客户区段执行数据分析
 * 演示对数据流概念的理解
 
-第4部分：模式和配置文件(18%)
+**第4部分：模式和配置文件(18%)**
 
 * 演示对Adobe的理解 [!DNL Experience Platform] 概念
 * 使用配置文件功能
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
 
-**示例问题**
++++第1步：创建帐户
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+{{create-your-account}}
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：区段和激活**
 
@@ -131,23 +145,40 @@ ht-degree: 6%
 
 **第4部分：架构和配置文件**
 
-* [XDM 系统概述](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=zh-Hans){target="_blank"}
+* [XDM 系统概述](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html){target="_blank"}
 * [Real-time Customer Profile概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
 * [合并架构UI指南](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
-## 参加练习测试
+{{sample-questions}}
 
-{{practice-test}}
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-## 关于认证考试
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -160,7 +191,23 @@ ht-degree: 6%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

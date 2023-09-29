@@ -6,18 +6,47 @@ role: Developer
 badge: label="考试AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Workfront Fusion] 开发人员专业版
 
-了解如何成为认证Adobe [!DNL Workfront] 开发人员专业版。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：33/51
+* 时间：102分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E902
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 开发人员、自动化工程师
+* 自动机，流程优化和自动化管理器
+* 集成顾问、顾问、合作伙伴
+* 系统集成商/合作伙伴
+* 业务分析师、应用业务分析师
+* 系统管理员（IT、MIS、技术、知识系统、AI管理员）
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -32,36 +61,13 @@ ht-degree: 0%
 * 管理组织团队和用户的能力
 * 了解REST API Oauth2通用连接器的用途和用法
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 开发人员、自动化工程师
-* 自动机，流程优化和自动化管理器
-* 集成顾问、顾问、合作伙伴
-* 系统集成商/合作伙伴
-* 业务分析师、应用业务分析师
-* 系统管理员（IT、MIS、技术、知识系统、AI管理员）
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：33/51
-* 时间：102分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E902
-
-**考试目标和范围**
-
-第1款：基本技术概念(39%)
+**第1款：基本技术概念(39%)**
 
 * 给定 [!DNL Fusion] 如果一个字段格式需要采用其他字段格式，请提供可用于正确转换数据的可能函数
 * 给定 [!DNL Fusion] 如果方案要求将函数嵌套在另一个函数中，请选择格式正确的表达式
@@ -77,7 +83,7 @@ ht-degree: 0%
 * 确定中的不同选项 [!DNL Fusion] 用于满足方案需求的方案设置
 * 给定 [!DNL Fusion] 方案，选择适当的流控制和/或确定流控制模块的正确组合
 
-第2部分：方案设计和架构(35%)
+**第2部分：方案设计和架构(35%)**
 
 * 给出一个步骤列表，选择要解析JSON并转换为捆绑包的正确序列
 * 给定一组要求，确定正确的数据查找方法
@@ -92,7 +98,7 @@ ht-degree: 0%
 * 说明了需要存档场景超过60天并选择唯一可行的方法（导入/导出Blueprint）
 * 以错误403：禁止为例，正确选择错误消息的来源和原因
 
-第三节　：检测和差错处理(16%)
+**第三节　：检测和差错处理(16%)**
 
 * 确定测试计划的要素
 * 识别测试用例的元素
@@ -101,24 +107,32 @@ ht-degree: 0%
 * 确定如何跟踪、读取和解决未完成的执行
 * 给定 [!DNL Fusion] 缺少所需数据的方案，请选择处理无效数据的方法
 
-第4部分：使用API (10%)
+**第4部分：使用API (10%)**
 
 * 给定返回429：请求过量的第三方API，请确定解决方案以防止或处理错误
 * 给定 [!DNL Fusion] 新功能在中不可用的场景 [!DNL Workfront] 模块，识别正确的参考和模块类型以使用新功能
 * 对于没有专用应用程序的第三方系统，请识别HTTP应用程序并选择适当的模块
 * 识别CRUD操作与REST API其他常用功能之间的区别
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+## 如何获得认证 {#how-to-get-certified}
 
-以下是一些可帮助您准备的建议资源：
+{{how-to-get-certified-intro}}
 
-**示例问题**
++++第1步：创建帐户
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+{{create-your-account}}
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节：基本技术概念**
 
@@ -151,16 +165,35 @@ ht-degree: 0%
 * [应用程序及其模块](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Adobe中的模块 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
-## 关于认证考试
+[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

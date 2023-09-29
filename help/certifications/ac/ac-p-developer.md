@@ -7,44 +7,24 @@ role: Developer
 badge: label="考试AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1348'
+source-wordcount: '1160'
 ht-degree: 1%
 
 ---
 
 # Adobe的认证历程 [!DNL Commerce] 开发人员专业版
 
-了解如何成为认证用户 [!DNL Adobe Commerce] 开发人员专业版。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
 
-你应该在Adobe里工作很舒服 [!DNL Commerce] 并且对Adobe有基本的了解 [!DNL Commerce] 管理开发、架构、EAV/数据库、布局/UI、结账和销售以及目录。
+{{exam-description}}
 
-此外，您还应熟悉以下技术和环境：
+<br>
 
-* Adobe [!DNL Commerce]  — 版本2.4
-* 对PHP的良好理解
-* 了解MYSQL
-* 面向对象程序设计知识
-* 云架构知识
-
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
-
->[!BEGINTABS]
-
->[!TAB 准备就绪]
-
-**目标受众：**
-
-* 开发者
-* 主要开发人员
-* 后端开发人员
-* 解决方案架构师
-* 技术领导者
+### 考试详细信息 {#exam-details}
 
 **考试详细信息：**
 
@@ -56,19 +36,43 @@ ht-degree: 1%
 * 费用：125美元（全球）/95美元（印度）
 * 考试ID：AD0-E717
 
-**准备情况自我评估**
+<br>
 
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) 查看您当前的体验是否与推荐的最低候选资格相匹配。
+### 目标受众 {#intended-audience}
 
-**考试目标和范围**
+* 开发者
+* 主要开发人员
+* 后端开发人员
+* 解决方案架构师
+* 技术领导者
 
-第1部分：与管理员合作(5%)
+<br>
+
+### 最低体验 {#minimum-experience}
+
+你应该在Adobe里工作很舒服 [!DNL Commerce] 并且对Adobe有基本的了解 [!DNL Commerce] 管理开发、架构、EAV/数据库、布局/UI、结账和销售以及目录。
+
+此外，您还应熟悉以下技术和环境：
+
+* Adobe [!DNL Commerce]  — 版本2.4
+* 对PHP的良好理解
+* 了解MYSQL
+* 面向对象程序设计知识
+* 云架构知识
+
+<br>
+
+### 考试目标和范围 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第1部分：与管理员合作(5%)**
 
 * 描述ACL如何与角色和资源配合使用
 * 标识创建或修改管理网格/表单时要使用的组件
 * 识别创建商店/管理员配置和菜单项时要使用的文件
 
-第2款：建筑(29%)
+**第2款：建筑(29%)**
 
 * 描述 [!DNL Magento] 文件结构
 * 描述 [!DNL Magento] CLI命令
@@ -84,7 +88,7 @@ ht-degree: 1%
 * 描述 [!DNL Magento] 缓存系统
 * 描述商店、网站和商店视图（基本了解）
 
-第3款：EAV/数据库(13%)
+**第3款：EAV/数据库(13%)**
 
 * 给定方案，更改/添加/删除属性集和/或属性
 * 描述不同类型的属性
@@ -92,14 +96,14 @@ ht-degree: 1%
 * 描述模型、资源模型和集合
 * 描述实体属性值(EAV)的基础知识
 
-第4部分：布局/UI (15%)
+**第4部分：布局/UI (15%)**
 
 * 将更改应用于现有产品类型并创建新产品类型
 * 修改和扩展现有目录实体
 * 展示管理指数和自定义价格输出的能力
 * 说明多来源库存如何影响库存（方案级别）
 
-第五节　：结账和销售(8%)
+**第五节　：结账和销售(8%)**
 
 * 描述购物车组件
 * 描述购物车促销规则
@@ -108,14 +112,14 @@ ht-degree: 1%
 * 在场景中，配置付款和配送方式
 * 在场景下，配置税则、货币、购物车和/或结账
 
-第六节　：目录(8%)
+**第六节　：目录(8%)**
 
 * 确定类别管理和产品管理的基础知识
 * 描述产品类型
 * 描述价格规则
 * 描述价格类型
 
-第7节：Adobe [!DNL Commerce] 云架构(12%)
+**第7节：Adobe [!DNL Commerce] 云架构(12%)**
 
 * 定义Adobe [!DNL Commerce] 架构/环境工作流
 * 描述云项目文件、权限和结构
@@ -125,7 +129,7 @@ ht-degree: 1%
 * 介绍如何维护和升级ECE工具
 * 确定何时调用支持*Yaml文件和限制（DIY与支持工单）
 
-第8部分：设置/配置Adobe [!DNL Commerce] 云(4%)
+**第8部分：设置/配置Adobe [!DNL Commerce] 云(4%)**
 
 * 了解如何设置/配置Adobe [!DNL Commerce] 云
 * 定义基本云故障排除（Web UI和变量的层次结构，配置优先级）
@@ -134,23 +138,39 @@ ht-degree: 1%
 * 描述使用UI的分支
 * 识别AdobeCommerce云计划功能
 
-第9节： [!DNL Commerce] Cloud CLI工具（管理部分）(6%)
+**第9节： [!DNL Commerce] Cloud CLI工具（管理部分）(6%)**
 
 * 描述Adobe的独有功能 [!DNL Commerce] 云CLI工具（CLI独有的功能：激活电子邮件、重新构建环境、快照、数据库转储、本地环境设置）
 * 使用Adobe描述分支 [!DNL Commerce] Cloud CLI工具
 * 确定连接到云服务的方法？ (My SQL， Redis， tunnel：info)
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
 
-**示例问题**
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
 
-通过示例问题，可查看将在实际考试中遇到的项目的类型和格式。 无需登录。 样本问题的结果不会存储，也不会预测实际测试结果。
+<br>
 
-[请参阅示例问题](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：与管理员合作**
 
@@ -235,17 +255,35 @@ ht-degree: 1%
 * [使用CLI管理分支](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
 * [配置服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+**示例问题**
 
+{{sample-questions}}
 
+[查看示例问题](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -258,7 +296,23 @@ ht-degree: 1%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

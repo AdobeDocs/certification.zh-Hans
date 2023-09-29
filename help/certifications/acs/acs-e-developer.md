@@ -7,18 +7,47 @@ role: Developer
 badge: label="考试AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 12%
+source-wordcount: '930'
+ht-degree: 14%
 
 ---
 
 # Adobe的认证历程 [!DNL Campaign Standard] 开发人员专家
 
-了解如何成为认证Adobe [!DNL Campaign Standard] 开发人员专家。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：29/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E306
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 营销自动化管理员
+* Adobe Experience Cloud开发人员
+* 电子邮件营销分析师
+* 应用程序开发人员
+* Campaign开发人员
+* Martech开发人员
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -40,40 +69,13 @@ ht-degree: 12%
 * 在多渠道上体验事务性消息传递和消息投放
 * 使用托管包的体验
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 营销自动化管理员
-* Adobe Experience Cloud开发人员
-* 电子邮件营销分析师
-* 应用程序开发人员
-* Campaign开发人员
-* Martech开发人员
-
-**考试详细信息：**
-
-* 级别：专家（1-3年经验）
-* 及格分数：29/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E306
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1款：数据建模和管理(26%)
+**第1款：数据建模和管理(26%)**
 
 * 在给定的场景中，将客户端需求转换为自定义资源
 * 确定如何配置屏幕和过滤器定义
@@ -82,7 +84,7 @@ ht-degree: 12%
 * 数据建模问题疑难解答
 * 确定构建技术工作流的正确方法
 
-第2部分：营销活动管理(50%)
+**第2部分：营销活动管理(50%)**
 
 * 工作流错误疑难解答
 * 确定构建营销活动的正确方法
@@ -95,7 +97,7 @@ ht-degree: 12%
 * 确定使用创意设计器构建电子邮件的正确方法
 * 确定创建自定义报表的正确方法
 
-第三节　：管理(24%)
+**第三节　：管理(24%)**
 
 * 确定创建用户安全组和组织单位的正确方法
 * 确定管理和部署软件包的正确方法
@@ -104,9 +106,33 @@ ht-degree: 12%
 * 确定创建品牌的正确方法
 * 确定开发渠道配置的正确方法
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
+
+{{readiness}}
+
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1节：数据建模和管理**
 
@@ -151,19 +177,33 @@ ht-degree: 12%
 * [关于渠道配置](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [通信渠道入门](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
->[!TAB 获得认证]
+<br>
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
-
-## 参加练习测试
+**参加练习测试**
 
 {{practice-test}}
 
-## 关于认证考试
++++
+
+<br>
+
++++第3步：考试计划和付费
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 

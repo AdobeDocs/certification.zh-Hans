@@ -8,18 +8,44 @@ role: User
 badge: label="考试AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 5%
+source-wordcount: '732'
+ht-degree: 6%
 
 ---
 
 # 的认证历程 [!DNL Adobe Advertising Search] 商业从业者专业人员
 
-了解如何成为认证用户 [!DNL Adobe Advertising Search] 商业从业者专业人士。
+{{intro}}
 
-## 最低体验
+## 考试描述 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专业（0-12个月经验）
+* 及格分数：35/50
+* 时间：100分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语
+* 费用：125美元（全球）/95美元（印度）
+* 考试ID：AD0-E501
+
+<br>
+
+### 目标受众 {#intended-audience}
+
+* 搜索营销活动经理
+* 搜索营销从业者
+* 定期使用搜索执行和管理搜索活动的个人
+
+<br>
+
+### 最低体验 {#minimum-experience}
 
 您应该拥有：
 
@@ -28,7 +54,7 @@ ht-degree: 5%
 * 在中工作的经验 [!DNL Advertising Search] 并熟悉付费搜索竞价自动化，营销活动管理，
 * 对Portfolio理论的理解
 
-使用下列功能的经验：
+您还应该具有使用下列功能的经验：
 
 * 创建Portfolio的各个方面
 * 创建自定义模拟以确定项目组合何时准备好进行优化
@@ -51,37 +77,13 @@ ht-degree: 5%
 * 受众竞价修饰符
 * 位置竞价调整
 
->[!NOTE]
->
->您的认证有效期为从您通过认证后的两年。 我们建议尽可能使用较新的版本，因为它涵盖了较新的产品功能。
+<br>
 
->[!BEGINTABS]
+### 考试目标和范围 {#exam-objectives}
 
->[!TAB 准备就绪]
+{{exam-objectives}}
 
-**目标受众：**
-
-* 搜索营销活动经理
-* 搜索营销从业者
-* 定期使用搜索执行和管理搜索活动的个人
-
-**考试详细信息：**
-
-* 级别：专业（0-12个月经验）
-* 及格分数：35/50
-* 时间：100分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 可用语言：英语
-* 费用：125美元（全球）/95美元（印度）
-* 考试ID：AD0-E501
-
-**准备情况自我评估**
-
-完成 [在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} 查看您当前的体验是否与推荐的最低候选资格相匹配。
-
-**考试目标和范围**
-
-第1部分：Portfolio和优化(54%)
+**第1部分：Portfolio和优化(54%)**
 
 * 给定场景，选择并设置自动竞价策略
 * 给定业务策略，定义并创建PortfolioKPI目标
@@ -90,27 +92,49 @@ ht-degree: 5%
 * 给定场景，评估并排查Portfolio性能
 * 给定场景，确定如何持续调整Portfolio设置
 
-第2部分：报表、见解和工具(14%)
+**第2部分：报表、见解和工具(14%)**
 
 * 应用过程概念，根据业务需求创建和安排报告
 * 使用可用的平台人工智能工具跨Portfolio确定最佳预算分配，并在需要时应用
 * 给定一个用例，创建和定义用于Portfolio分析和预测的自定义模拟
 
-第3部分：营销活动管理(22%)
+**第3部分：营销活动管理(22%)**
 
 * 设置帐户
 * 构建、管理和组织营销活动的各个方面
 
-第四节　：计量(10%)
+**第四节　：计量(10%)**
 
 * 给定一个业务情景，确定促销活动转化跟踪的方法并应用
 * 给定场景，解决营销活动转化量度问题
 
->[!TAB 准备好]
+<br>
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+### 准备情况调查表
 
-以下是一些可帮助您准备的建议资源：
+{{readiness}}
+
+[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+
+<br>
+
+## 如何获得认证 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++第1步：创建帐户
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++第2步：准备考试
+
+**学习材料**
+
+{{study-materials-intro}}
 
 **第1部分：Portfolio和优化**
 
@@ -147,16 +171,27 @@ ht-degree: 5%
 * [Marketo Measure帮助文档](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [转化变量 (eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
->[!TAB 获得认证]
++++
 
->[!IMPORTANT]
->
->以下部分和链接将起作用 **仅限**  之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。*
+<br>
 
++++第3步：考试计划和付费
 
-## 关于认证考试
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++第4步：考试前和考试后
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++第5步：参加考试
 
 {{about-certification-exam}}
 
@@ -169,10 +204,29 @@ ht-degree: 5%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步骤6：管理徽章
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 正在续订您的认证
+
+{{renewing-intro}}
+
+<br>
 
 ## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+
+
+
