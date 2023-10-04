@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 2%
@@ -248,54 +248,54 @@ Adobe [!DNL Commerce] 开发人员专业版
 
 **章节1**
 
-[创建访问控制列表(ACL)规则](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
-[添加管理网格](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
-[system.xml引用](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
+* [创建访问控制列表(ACL)规则](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+* [添加管理网格](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+* [system.xml引用](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
 **章节2**
 
-[路由](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
-[URL重写](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
-[缓存类型配置](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-[站点、存储和查看范围](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
-[命令行工具](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-[依赖项注入配置](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
-[创建模块](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
-[索引](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
-[翻译](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
-[插件](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [路由](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+* [URL重写](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
+* [缓存类型配置](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
+* [站点、存储和查看范围](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [命令行工具](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [依赖项注入配置](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
+* [创建模块](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
+* [索引](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+* [翻译](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+* [插件](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
 **章节3**
 
-[属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
-[EAV和扩展属性](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
-[配置声明性模式](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
-[创建组件文件结构](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
+* [属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
+* [EAV和扩展属性](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
+* [配置声明性模式](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+* [创建组件文件结构](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
 **章节4**
 
-[内容块](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
-[查看模型](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
-[布局说明](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
-[主题结构](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-[调用并初始化JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-[私有内容](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+* [内容块](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+* [查看模型](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
+* [布局说明](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
+* [主题结构](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
+* [调用并初始化JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [私有内容](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
 **章节5**
 
-[购物车配置](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
-[创建购物车价格规则](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-[添加影响其他签出字段的自定义字段](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
-[报价表](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
-[自定义配送方式列表](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
-[税务配置设置](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+* [购物车配置](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+* [创建购物车价格规则](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [添加影响其他签出字段的自定义字段](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
+* [报价表](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
+* [自定义配送方式列表](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
+* [税务配置设置](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
 
 **章节6**
 
-[修改目录](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
-[创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
-[目录价格规则](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
-[组定价](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
+* [修改目录](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
+* [创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
+* [目录价格规则](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
+* [组定价](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
 ### 续订您的认证
 
