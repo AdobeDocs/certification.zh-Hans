@@ -6,24 +6,26 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: a568e3c5d837b5c92ebb4eefdde1f0504c41ab4d
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '339'
 ht-degree: 3%
 
 ---
 
 # 续订您的认证 {#renew}
 
-要维护Adobe认证，您必须每24个月续订一次。 未能在指定的期限内续订认证将导致其过期，您需要再次参加完整的认证考试才能获得重新认证。
+要维护Adobe认证，您必须每两年更新一次。 如果认证过期前未续订，则需要再次参加完整的认证考试才能获得重新认证。
 
-为避免认证状态出现任何中断，请跟踪您的认证续订日期，并确保在到期日期之前完成续订过程。
-
-在认证选项卡下，查看 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+查看您当前和过期的认证，位于 **认证** 选项卡，在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
 ## 如何续订认证？
 
-续订Adobe认证非常简单！ 根据您的认证级别、解决方案或工作角色，您可以通过持续学习活动和通过评估，或通过非监护、按需工作角色考试来完成续订。
+续订Adobe认证非常简单！ 根据您掌握的认证，您可以通过持续学习活动和通过评估来完成续订，或通过非监护、按需参加工作角色考试。
+
+## 研究资源
+
+在Adobe的支持下，续订Adobe Experience Cloud认证是一个简单的过程，使您能够保持专业知识并在数字市场中保持竞争力。
 
 Adobe提供各种资源和工具来帮助您续订认证，包括：
 
@@ -33,28 +35,25 @@ Adobe提供各种资源和工具来帮助您续订认证，包括：
 
 ## 多少钱？
 
-您可以续订您的认证 **免费**. 这为您提供了一种经济高效的方法来维护您的认证，并使您的解决方案技能保持最新。
+大多数认证都可以续订 **免费**. 某些认证尚未提供免费续订选项。 要更新这些认证，您需要重新参加完整的认证考试。
 
-借助Adobe的支持和资源，续订Adobe Experience Cloud认证是一个简单的过程，使您能够保持专业知识并在数字市场中保持竞争力。
+## 免费续订选项
 
-## 可用的续订选项
+在以下链接下找到的认证可以免费续订，或者通过持续学习或按需续订考试。 如果此处找不到您的认证，则需要重新参加完整的认证考试来续订。
 
-您现在可以通过持续学习或参加按需续订考试来续订您的认证。 要了解如何在当前的认证过期之前续订认证，请选择以下解决方案。
 
-### 解决方案
-
-* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"}
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
-* [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html){target="_blank"}
-* [Adobe [!DNL Commerce]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}
 * [Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html){target="_blank"}
 * [Adobe [!DNL Campaign Standard]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html){target="_blank"}
+* [Adobe [!DNL Commerce]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html){target="_blank"}
+* [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html){target="_blank"}
+* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"}
 * [Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aw/aw-renew.html){target="_blank"}
 
 ## 问题
 
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-还有其他问题吗？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
