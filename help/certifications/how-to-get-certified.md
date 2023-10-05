@@ -4,9 +4,9 @@ description: 了解如何获得Adobe认证。 在获得认证之前、期间和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
 workflow-type: tm+mt
-source-wordcount: '1414'
+source-wordcount: '1471'
 ht-degree: 1%
 
 ---
@@ -37,11 +37,17 @@ Adobe使用Examity管理在线监考考试。
 
 >[!TAB 参加考试]
 
+**您的Adobe ID**
+
 您的 [个人资料](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Adobe凭据管理系统中的名称必须与您的政府ID完全匹配。 如果未能获得相同信息或出现任何不匹配情况，则采购员将终止考试，并要求您重新安排预约，同时还要支付额外的考试费用。
+
+**取消和重新计划**
 
 如果在预定考试预约48小时之前发起，则可以取消和重新计划。 候选人必须自行修改此约会。
 
 Adobe支持或检查均无法处理重新计划和取消请求。 48小时以内的课程取消除考试费外，还须缴纳重新安排学期的费用。
+
+**考试之后**
 
 完成考试后，您将获得暂定通过或未通过。 填充最终得分最多可能需要72小时。 您将在 [Adobe凭据管理器](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -49,9 +55,19 @@ Adobe支持或检查均无法处理重新计划和取消请求。 48小时以内
 
 >[!TAB 考试成本]
 
-这些是目前认证考试的费用。
+**认证考试价格**
 
-![考试成本徽章](/help/certifications/assets/exam_costs_new.png)
+| Adobe认证 | 价格（美元） | 印度价格（美元） |
+| ------- | ------- | ------- |
+| Adobe认证专家 | $125 | $95 |
+| Adobe Certified Expert | $225 | $150 |
+| Adobe认证母版 | $225 | $150 |
+
+**续订价格**
+
+大多数认证续订都是 **免费**. 对于没有免费续订选项的认证，您必须重新参加完整的认证考试以续订您的认证。
+
+**为考试付费**
 
 您可以通过凭单或信用卡支付认证考试费用。 要购买考试凭单，请转到： [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
