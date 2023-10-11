@@ -5,13 +5,13 @@ solution: Workfront
 role: Developer
 badge: label="考试AD0-E907" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 9a00f28ae304479db525eb88677f0bfe582e2589
+exl-id: dc74de79-c945-47a4-a13b-e027182919a5
+source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
 workflow-type: tm+mt
-source-wordcount: '1685'
+source-wordcount: '1683'
 ht-degree: 0%
 
 ---
-
 
 # Adobe的认证历程 [!DNL Workfront] 核心开发人员专家
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 **第四节　：文件管理和证明**
 
 * [校对概述](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proofing-basics.html){target="_blank"}
-* [了解文档与验证之间的区别](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
+* [了解文档与验证之间的区别](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html){target="_blank"}
 * [最佳实践 — 验证](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [AEM Assets集成概述](https://experienceleague.adobe.com/docs/workfront/using/documents/wf-aem-integrations/wf-aem-essentials/aem-asset-integrations.html){target="_blank"}
 * [链接来自外部应用程序的文档](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}

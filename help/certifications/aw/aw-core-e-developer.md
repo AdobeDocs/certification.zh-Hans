@@ -6,9 +6,9 @@ role: Developer
 badge: label="考试AD0-E904" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1400'
 ht-degree: 0%
 
 ---
@@ -158,7 +158,7 @@ ht-degree: 0%
 
 **第一节　核心系统管理和设置**
 
-* [系统设置：组和用户](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
+* [系统设置：组和用户](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
 * [访问级别和权限如何协同工作](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [系统项目状态](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [Kick-Starts](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
@@ -184,7 +184,7 @@ ht-degree: 0%
 
 **第四节　：文件管理和证明**
 
-* [了解文档与验证之间的区别](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
+* [了解文档与验证之间的区别](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html){target="_blank"}
 * [最佳实践 — 验证](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [编辑项目](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [链接来自外部应用程序的文档](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
