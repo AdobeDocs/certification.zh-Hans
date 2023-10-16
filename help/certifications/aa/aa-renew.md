@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 8%
+source-wordcount: '2061'
+ht-degree: 9%
 
 ---
 
@@ -147,11 +147,96 @@ ht-degree: 8%
 
 +++
 
-+++[!DNL Adobe Analytics] 商业从业者专业人员
+## 续订认证的说明：
+
+* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤2**：查看考试目标和资源
+* **步骤3**：参加并通过考试
+
+### 准备就绪
+
+**考试详细信息：**
+
+* 及格分数：26/35
+* 时间：70分钟
+* 费用：免费/非监护
+* 投放：按需
+* 可用语言：英语
+* 先决条件：当前（未过期）Adobe Analytics商业从业者专业认证
+* 考试ID：AD5-E832
+
+**范围和目标**
+
+第一节　：业务分析
+
+1.1在给定业务需求/问题的情况下，确定执行分析的最合适的报告策略4% 1.2分析数据以回答业务问题并推荐新的优化假设4% 1.3确定转化漏斗（理解业务分析的一个概念）4% 1.4解释解决方案设计参考(SDR)以确定报告中可用的数据4% 1.5分析报告数据以总结和得出结论6% 1.6调查报告中的异常值和异常值4%
+
+第2部分：项目的报告和仪表板
+
+2.1考虑使用基于给定情景的报表工具的优势2% 2.2比较流失和流量可视化以及报表的相应变量类型4% 2.3应用流程安排项目，Data Warehouse2% 2.4应用流程为不同的用户和/或组共享项目以及Reporting and Analytics功能板（共享已更改）2% 2.5应用流程设置警报2% 2.6应用流程查找维度/组件（预定义和自定义）4% 2.7应用流程创建可视化图表6% 2.8给定场景，确定要使用6% 2.9的相应项创建、配置和使用移动记分卡的进程2%
+
+第3部分：分段和计算量度
+
+3.1确定如何使用最佳实践开发和配置区段6% 3.2应用流程与组织中的其他人共享区段4% 3.3比较区段4% 3.4将区段应用于项目和组件4% 3.5应用流程生成计算和/或分段量度4%
+
+第4部分：一般工具知识和故障诊断
+
+4.1分析报表并区分数据质量问题与实施问题4% 4.2定义Adobe Analytics中存在的各种维度和参数（evar、prop和事件）4% 4.3确定如何从Adobe Analytics传入数据2% 4.4识别来自营销URL的信息2%
+
+第五节　管理
+
+5.1应用流程以使用营销渠道处理规则配置营销渠道报表2% 5.2应用流程以配置分类导入器和规则生成器2% 5.3应用流程以根据现有区段配置虚拟报表包2% 5.4使用数据源管理器管理UI 2% 5.5了解数据管理2%
+
+## 准备好
+
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+
+以下是一些可帮助您准备的建议资源：
+
+章节1
+
+[贡献分析概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=zh-Hans)
+[Analysis Workspace概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
+[转化漏斗](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+[登入维度](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+
+章节2
+
+[共享项目](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=zh-Hans)
+[组件概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+[警报生成器](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+[创建移动记分卡](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=zh-Hans)
+
+章节3
+
+[区段比较](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=zh-Hans)
+[生成量度](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=zh-Hans)
+[在Analysis Workspace中使用下拉过滤器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=zh-Hans)
+[标记区段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+
+章节4
+
+[数据激增和骤减故障诊断](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+[自定义事件](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=zh-Hans)
+[下载PDF或CSV文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=zh-Hans)
+[URL参数入门指南](https://www.semrush.com/blog/url-parameters/)
+
+章节5
+
+[营销渠道的处理规则](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+[分类概述](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+[创建虚拟报表包](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=zh-Hans)
+[隐私法规常见问题解答](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+
+## 续订您的认证
+
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的AD5-E832 Adobe Analytics商业从业者专业续订考试(AD5-E832)链接。
+
+* [AD5-E832 Adobe Analytics商业从业者专业资格更新考试](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->更新即将推出。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
 
