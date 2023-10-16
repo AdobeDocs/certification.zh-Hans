@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 5d6ce2be3c7db142840cc67bc0f7054e25fff951
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2067'
 ht-degree: 9%
 
 ---
 
-# 续订您的 [!DNL Adobe Analytics] 认证
+# 续订Adobe [!DNL Analytics] 认证
 
 您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
 
@@ -32,7 +32,7 @@ ht-degree: 9%
 
 >[!TAB 专业]
 
-+++[!DNL Adobe Analytics] 开发人员专业版
++++Adobe [!DNL Analytics] 开发人员专业版
 
 ## 续订认证的说明：
 
@@ -146,6 +146,8 @@ ht-degree: 9%
 >这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
+
++++Adobe [!DNL Analytics] 商业从业者专业人员
 
 ## 续订认证的说明：
 
