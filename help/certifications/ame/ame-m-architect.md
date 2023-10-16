@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="考试AD0-E556" type="neutral"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '886'
 ht-degree: 1%
 
 ---
@@ -31,6 +31,10 @@ Adobe凭据程序已启动新Adobe [!DNL Marketo Engage] 为对获得认证母�
 <br>
 
 ### 考试详细信息 {#exam-details}
+
+>[!IMPORTANT]
+>
+>此认证有一个先决条件。 您必须具有活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者 **专家** 认证以参加Adobe [!DNL Marketo Engage] 架构师级考试。
 
 * 先决条件：Adobe Certified Expert - [!DNL Marketo Engage] 商业从业者专家
 * 级别：硕士（3-5年经验）
@@ -209,6 +213,10 @@ Adobe凭据程序已启动新Adobe [!DNL Marketo Engage] 为对获得认证母�
 {{about-certification-exam}}
 
 ## 安排或参加考试AD0-E556
+
+>[!IMPORTANT]
+>
+>此认证有一个先决条件。 您必须具有活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者 **专家** 认证以参加Adobe [!DNL Marketo Engage] 架构师级考试。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

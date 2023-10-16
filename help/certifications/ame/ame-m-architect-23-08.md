@@ -6,13 +6,13 @@ product: Marketo
 role: Data Architect
 badge: label="考试AD0-E560" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '848'
 ht-degree: 1%
 
 ---
-
 
 # Adobe的认证历程 [!DNL Marketo Engage] 架构师母版
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->这是最新的 [!DNL Adobe Marketo Engage] 架构师级考试。 如果您已开始学习或计划了 [较旧版本](ame-m-architect.md)必须在2023年10月31日之前完成考试。
+>这是最新Adobe [!DNL Marketo Engage] 架构师级考试。 如果您已开始学习或计划了 [较旧版本](ame-m-architect.md)必须在2023年10月31日之前完成考试。
 
 ## 考试描述 {#exam-description}
 
@@ -30,7 +30,11 @@ ht-degree: 1%
 
 ### 考试详细信息 {#exam-details}
 
-* 先决条件：当前（未过期）Adobe [!DNL Marketo Engage] 商业从业者专家认证
+>[!IMPORTANT]
+>
+>此认证有一个先决条件。 您必须具有活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者 **专家** 认证以参加Adobe [!DNL Marketo Engage] 架构师级考试。
+
+* 先决条件：活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者专家认证
 * 级别：硕士（3-5年经验）
 * 从业者认证
 * 及格分数：30/50
@@ -209,6 +213,10 @@ ht-degree: 1%
 {{about-certification-exam}}
 
 ## 安排或参加考试AD0-E560
+
+>[!IMPORTANT]
+>
+>此认证有一个先决条件。 您必须具有活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者 **专家** 认证以参加Adobe [!DNL Marketo Engage] 架构师级考试。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
