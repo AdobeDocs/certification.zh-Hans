@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+hidefromtoc: true
+source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 8%
@@ -32,7 +33,7 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 您的认证必须符合 **所有** 符合以下条件之一：
 
 * 它必须在2020年1月1日至2023年4月23日期间过期。
-* 它必须是专家级别或主控级别。
+* 必须是“专家”或“专家”级别。
 * 它必须有一个当前可用的考试。 （如果认证不再有有效的考试，则不符合重新启动计划的资格。）
 * 它必须出现在以下符合条件的认证列表中：
 
@@ -47,8 +48,8 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 | AD0-E103 | [!DNL Adobe Experience Manager Sites] 开发人员专家 |
 | AD0-E116 | [!DNL Adobe Experience Manager Sites] 开发人员专家 |
 | AD0-E106 | [!DNL Adobe Experience Manager] 开发/运营工程师专家 |
-| AD0-E117 | [!DNL Adobe Experience Manager Sites] 架构师主控 |
-| AD0-E104 | [!DNL Adobe Experience Manager Sites] 架构师主控 |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] 架构师母版 |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] 架构师母版 |
 
 **[!DNL Adobe Analytics]**
 
@@ -56,15 +57,15 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 | ------- | ------- |
 | AD0-E201 | [!DNL Adobe Analytics] 开发人员专家 |
 | AD0-E202 | [!DNL Adobe Analytics] 商业从业者专家 |
-| AD0-E200 | [!DNL Adobe Analytics] 架构师主控 |
-| AD0-E207 | [!DNL Adobe Analytics] 架构师主控 |
+| AD0-E200 | [!DNL Adobe Analytics] 架构师母版 |
+| AD0-E207 | [!DNL Adobe Analytics] 架构师母版 |
 
 **Adobe Audience Manager**
 
 | 考试编号 | 考试名称 |
 | ------- | ------- |
-| AD0-E454 | [!DNL Adobe Audience Manager] 架构师主控 |
-| AD0-E452 | [!DNL Adobe Audience Manager] 架构师主控 |
+| AD0-E454 | [!DNL Adobe Audience Manager] 架构师母版 |
+| AD0-E452 | [!DNL Adobe Audience Manager] 架构师母版 |
 | AD0-E453 | [!DNL Adobe Audience Manager] 商业从业者专家 |
 
 **Adobe Campaign Classic**
@@ -73,8 +74,8 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 | ------- | ------- |
 | AD0-E300 | Adobe [!DNL Campaign Classic] Sites商业从业者专家 |
 | AD0-E314 | Adobe [!DNL Campaign Classic] Sites商业从业者专家 |
-| AD0-E318 | Adobe [!DNL Campaign Classic] 架构师主控 |
-| AD0-E303 | Adobe [!DNL Campaign Classic] 架构师主控 |
+| AD0-E318 | Adobe [!DNL Campaign Classic] 架构师母版 |
+| AD0-E303 | Adobe [!DNL Campaign Classic] 架构师母版 |
 | AD0-E312 | Adobe [!DNL Campaign Classic] 开发人员专家 |
 | AD0-E308 | Adobe [!DNL Campaign Classic] 开发人员专家 |
 
@@ -98,7 +99,7 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 | 考试编号 | 考试名称 |
 | ------- | ------- |
 | AD0-E401 | [!DNL Adobe Target] 商业从业者专家 |
-| AD0-E402 | [!DNL Adobe Target] 架构师主控 |
+| AD0-E402 | [!DNL Adobe Target] 架构师母版 |
 
 +++
 
@@ -134,7 +135,7 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 
   当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
 
-### 面向专家和主控人员的课程和课程评估：
+### 针对专家和硕士的课程和课程评估：
 
 | 课程 | 课程评估 |
 | ------- | ------- |
@@ -169,7 +170,7 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 
   当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
 
-### 面向专家和主控人员的课程和课程评估：
+### 针对专家和硕士的课程和课程评估：
 
 | 课程 | 课程评估 |
 | ------- | ------- |
@@ -202,7 +203,7 @@ Adobe重启计划允许符合条件的个人过期 [!DNL Experience Cloud] 认�
 
   当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
 
-### 面向专家和主控人员的课程和课程评估：
+### 针对专家和硕士的课程和课程评估：
 
 | 课程 | 课程评估 |
 | ------- | ------- |
@@ -293,7 +294,7 @@ Adobe Audience Manager Business Practitioner Expert Restart考试ADS-E826是免�
 
 +++
 
-+++ADS-E825Adobe Audience Manager **架构师** 主控重启考试
++++ADS-E825Adobe Audience Manager **架构师** 重启主考试
 
 **重新启动认证的说明：**
 
@@ -305,13 +306,13 @@ Adobe Audience Manager Business Practitioner Expert Restart考试ADS-E826是免�
 
 **考试详细信息：**
 
-* 级别：主控（3-5年经验）
+* 级别：硕士（3-5年经验）
 * 及格分数：22/29
 * 时间：58分钟
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：ADS-E825 - Adobe Audience Manager Architect主控重启
+* 考试ID：ADS-E825 - Adobe Audience Manager架构师主要重启
 
 **范围和目标：**
 
@@ -358,7 +359,7 @@ Adobe Audience Manager Business Practitioner Expert Restart考试ADS-E826是免�
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Analytics] 集成](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=zh-Hans){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **第2部分：解决方案设计和Recommendations**
 
@@ -379,11 +380,11 @@ Adobe Audience Manager Business Practitioner Expert Restart考试ADS-E826是免�
 
 **第5节：业绩和报告**
 
-* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 ### 重新启动您的认证
 
-Adobe Audience Manager Architect主控重启考试ADS-E825是免费的、公开的、无监督的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被撤销。
+Adobe Audience Manager Architect Master Restart考试ADS-E825是免费的、公开的、无监督的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被撤销。
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -587,7 +588,7 @@ Adobe [!DNL Campaign Standard] 商业从业者专家重启考试ADS-822是免费
 
 +++
 
-+++ADS-E823Adobe **Campaign Classic** 专家和/或主控重启考试
++++ADS-E823Adobe **Campaign Classic** 专家和/或重启大师考试
 
 **重新启动认证的说明：**
 
@@ -599,13 +600,13 @@ Adobe [!DNL Campaign Standard] 商业从业者专家重启考试ADS-822是免费
 
 **考试详细信息：**
 
-* 级别：专家（1-3年经验）和主控（3-5年经验）
+* 级别：专家（1-3年经验）和硕士（3-5年经验）
 * 及格分数：42/55
 * 时间：110分钟
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：ADS-E823 -Adobe [!DNL Campaign Classic] 专家和/或主控重启
+* 考试ID：ADS-E823 -Adobe [!DNL Campaign Classic] 专家和/或主重新启动
 
 **范围和目标**
 
