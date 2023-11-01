@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 27be1766b071d4761aa8330c391bbf2a054128ee
+source-git-commit: 6790d5bdc7a3a8f77463f917c169f2c202d1438b
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -239,7 +239,7 @@ ht-degree: 0%
 
 **考试详细信息：**
 
-* 及格分数：27/35
+* 及格分数：25/35
 * 时间：70分钟
 * 费用：免费/非监护
 * 投放：按需
@@ -346,7 +346,7 @@ ht-degree: 0%
 
 **考试详细信息：**
 
-* 及格分数：25/35
+* 及格分数：27/35
 * 时间：70分钟
 * 费用：免费/非监护
 * 投放：按需
