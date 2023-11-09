@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 93a9fd071d4a4564ae86a2ca15ac8d57b52b79e6
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '2462'
+source-wordcount: '2490'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 2%
 >[!BEGINTABS]
 
 >[!TAB 专业]
+
+>[!NOTE]
+>
+>所有Adobe Commerce专业认证的持续学习续订方法将 **2023年11月10日停用**. 这些认证仍可通过续订考试免费续订。
 
 ## 免费连续学习续订服务适用于：
 
