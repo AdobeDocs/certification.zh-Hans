@@ -1,10 +1,10 @@
 ---
 title: 专业技术认证
 description: 适用于专业用户的认证选项概述
-source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 30%
+ht-degree: 44%
 
 ---
 
@@ -65,5 +65,4 @@ ht-degree: 30%
 >[!MORELIKETHIS]
 >
 >* [专家技术认证](expert.md)
->* [主控技术认证](master.md)
-
+>* [主技术认证](master.md)

@@ -3,11 +3,11 @@ title: Campaign Classic认证概述
 description: Adobe Campaign Classic 认证选项概述
 solution: Campaign, Campaign Classic v7
 version: Classic v7
-exl-id: 70d2e3e2-5e58-43e2-b093-15cdb16f0a0c
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 30%
+ht-degree: 40%
 
 ---
 
