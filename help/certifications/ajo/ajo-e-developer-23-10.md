@@ -5,7 +5,7 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E606" type="neutral"
-source-git-commit: 0308a892892f4d4f4e9d52153b989857bec3d889
+source-git-commit: 2181390cb00114540230097e9d21fbc2602aad9c
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 7%
