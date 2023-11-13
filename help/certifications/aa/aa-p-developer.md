@@ -8,10 +8,10 @@ level: Experienced
 badge: label="考试AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
 workflow-type: tm+mt
-source-wordcount: '946'
-ht-degree: 11%
+source-wordcount: '958'
+ht-degree: 10%
 
 ---
 
@@ -111,6 +111,14 @@ ht-degree: 11%
 * 确定共同性的含义 [!DNL Adobe Analytics] 变量错误。
 * 给定场景，确定应遵循的测试和调试验证最佳实践。
 * 识别如何跟踪 [!DNL Adobe Analytics] 服务器调用(即从信标请求到显示在报表中。)
+
+<br>
+
+### 准备情况调查表
+
+{{readiness}}
+
+[参加在线准备情况调查表](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
 
 <br>
 
