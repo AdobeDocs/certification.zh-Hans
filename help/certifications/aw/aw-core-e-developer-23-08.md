@@ -6,9 +6,9 @@ role: Developer
 badge: label="考试AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Adobe的认证历程 [!DNL Workfront] 核心开发人员专家
 
 {{intro}}
-
->[!NOTE]
->
->这是最新Adobe [!DNL Workfront] 核心开发人员专家考试。 如果您已开始学习或计划了 [较旧版本](aw-core-e-developer.md)，您必须在2023年11月6日之前完成它。
 
 ## 考试描述 {#exam-description}
 
