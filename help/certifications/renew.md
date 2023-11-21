@@ -6,10 +6,10 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: a568e3c5d837b5c92ebb4eefdde1f0504c41ab4d
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 3%
+source-wordcount: '375'
+ht-degree: 2%
 
 ---
 
@@ -41,6 +41,9 @@ Adobe提供各种资源和工具来帮助您续订认证，包括：
 
 在以下链接下找到的认证可以免费续订，或者通过持续学习或按需续订考试。 如果此处找不到您的认证，则需要重新参加完整的认证考试来续订。
 
+>[!NOTE]
+>
+>如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}

@@ -7,26 +7,30 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1445'
 ht-degree: 11%
 
 ---
 
 # 续订Adobe [!DNL Campaign Standard] 认证
 
-您的Adobe认证有效期为两年。 如果您即将迎来两年的学期，是时候续订您的认证以保持其活跃状态。
+您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
 
-首先，在下面的选项卡中选择适当的级别(“专业”、“专家”或“主控”)。 然后，仔细查看续订认证所需的操作。
+首先，在下面的选项卡中选择适当的级别（“专业”、“专家”或“主人”）。 然后，仔细查看续订认证所需的操作。
 
-在认证过期之前，请确保您有充足的时间完成所有要求。
+确保在认证过期之前有充足的时间完成所有要求。
 
-请务必注意，如果认证过期，您将必须重新参加认证考试，这并非免费。
+请务必注意，如果认证过期，您将必须重新参加认证考试，该考试不免费。
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>**先登录：** 以下链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**要共享链接，请执行以下操作：** 如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 >[!BEGINTABS]
 
@@ -38,7 +42,7 @@ ht-degree: 11%
 
 >[!TAB 专家]
 
-+++Adobe [!DNL Campaign Standard] 业务从业者专家续约
++++Adobe [!DNL Campaign Standard] 业务从业者专家续订
 
 您当前应在以下位置获得认证（未过期）：
 
@@ -56,7 +60,7 @@ ht-degree: 11%
 
 * 及格分数：23/30
 * 时间：110分钟
-* 费用：免费/非监督
+* 费用：免费/非监护
 * 投放：按需
 * 可用语言：英语
 * 先决条件：当前（未过期）Adobe [!DNL Campaign Standard] 商业从业者专家认证
@@ -66,12 +70,12 @@ ht-degree: 11%
 
 第1部分：营销活动管理
 
-* 根据给定的用例组织层次结构
+* 根据给定用例组织层次结构
 * 根据示例业务要求，确定OOTB功能可以满足哪些要求
 * 在场景中，应用最佳实践来设计多渠道或跨渠道营销活动
-* 在中识别渠道（推送通知、电子邮件、短信、直邮、应用程序内） [!DNL Campaign Standard]
+* 识别中的渠道（推送通知、电子邮件、短信、直邮、应用程序内） [!DNL Campaign Standard]
 
-第2节：投放管理
+第二节　：投放管理
 
 * 给定示例要求，设计和配置投放
 * 在投放设计中应用最佳实践
@@ -82,7 +86,7 @@ ht-degree: 11%
 * 确定目标：数据收集、分段、受众、列表、筛选
 * 根据用例，确定与营销相关的主要表的用途
 
-第4节：管理、监测和报告
+第四节　：管理、监测和报告
 
 * 解释投放错误日志并识别和解决工作流错误
 * 确定和衡量投放和活动是否成功
@@ -90,7 +94,7 @@ ht-degree: 11%
 
 ## 准备好
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
@@ -98,7 +102,7 @@ ht-degree: 11%
 
 * [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （使用营销活动、构建电子邮件内容、通信渠道、投放、配置渠道）
 
-**第2节：投放管理**
+**第二节　：投放管理**
 
 * [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （构建电子邮件内容、准备和测试消息、通信渠道 — 电子邮件、应用程序设置）
 
@@ -108,17 +112,17 @@ ht-degree: 11%
 
 **第4节：管理、监测和报告**
 
-* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （执行工作流、测试和发送、自定义报表、用户档案和受众、用户和安全性）
+* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （执行工作流，测试和发送，自定义报表、用户档案和受众、用户和安全性）
 
 ## 续订您的认证
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订考试，请单击 [!DNL Campaign Standard] 商业从业者续订 — 以下AD5-822链接。
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要更新考试，请单击 [!DNL Campaign Standard] 商业从业者续订 — 以下AD5-822链接。
 
 * [[!DNL Campaign Standard] 业务从业者续订 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
 
@@ -140,7 +144,7 @@ ht-degree: 11%
 
 * 及格分数：23/30
 * 时间：60分钟
-* 费用：免费/非监督
+* 费用：免费/非监护
 * 投放：按需
 * 可用语言：英语
 * 先决条件：当前（未过期）Adobe [!DNL Campaign Standard] 开发人员专家认证
@@ -150,19 +154,19 @@ ht-degree: 11%
 
 第1节：数据建模和管理(30%)
 
-* 应用该过程以跨不同的用例利用API接口
+* 应用该过程以跨不同用例利用API接口
 * 应用进程以创建自定义资源
 * 确定正确策略以分配数据模型最佳实践
 * 推荐使用导入或导出工作流的方法
 
-第2节：Campaign Management(40%)
+第二节　：Campaign Management(40%)
 
 * 给定场景，标识事件触发器
-* 说明协调流程
-* 为投放配置自定义报告
+* 解释协调流程
+* 为投放配置自定义报表
 * 确定配置通信渠道的正确方法（实时和非实时）
 * 描述配置和个性化登陆页面的过程
-* 给定场景，排除工作流错误和集成
+* 在场景中，排除工作流错误和集成
 * 确定新Campaign功能的用例
 
 第三节　：管理(30%)
@@ -177,7 +181,7 @@ ht-degree: 11%
 
 ## 准备好
 
-您不必在参加考试前完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训与成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
 
 以下是一些可帮助您准备的建议资源：
 
@@ -210,7 +214,7 @@ ht-degree: 11%
 * [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [动态报告入门](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
-**第三节　：管理**
+**第三节　管理**
 
 * [管理组和用户](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 * [组织实体](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
@@ -232,7 +236,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、不设监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 不遵守该操作可能会导致您的认证被撤销。
+>这次考试是免费的、公开的、没有监考人员的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
 

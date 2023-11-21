@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 63a6ec27ef65f9c5a68539d1d8ffcd3395cef753
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '2812'
+source-wordcount: '2843'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,11 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->以下部分和链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>**先登录：** 以下链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**要共享链接，请执行以下操作：** 如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 >[!BEGINTABS]
 
@@ -299,7 +303,7 @@ ht-degree: 2%
 
 确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击Adobe [!DNL Marketo Engage] 以下商业从业者专家续订链接。
 
-[！BADGE接受Adobe [!DNL Marketo Engage] 商业从业者专家续订考试AD5-E824]{type=Informational url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[！BADGE接受Adobe [!DNL Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >

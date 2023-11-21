@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 2%
+source-wordcount: '178'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,11 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->以下考试链接将 **仅限** 函数位于 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>**先登录：** 以下链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**要共享链接，请执行以下操作：** 如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 >[!BEGINTABS]
 

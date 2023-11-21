@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: d140af31151206451febdfc3aa108b728e772cd6
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1521'
 ht-degree: 8%
 
 ---
@@ -26,7 +26,11 @@ ht-degree: 8%
 
 >[!IMPORTANT]
 >
->以下课程评估链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>**先登录：** 以下链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**要共享链接，请执行以下操作：** 如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 >[!BEGINTABS]
 
