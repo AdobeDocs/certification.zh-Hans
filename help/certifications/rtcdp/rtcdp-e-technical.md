@@ -8,14 +8,18 @@ recommendations: disable, exclude
 badge: label="考试AD0-E600和AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 9%
+source-wordcount: '1601'
+ht-degree: 7%
 
 ---
 
 # Adobe的认证历程 [!DNL Real-Time Customer Data Platform] 专家
+
+>[!IMPORTANT]
+>
+>Adobe [!DNL Experience Platform] 专家认证目前需要通过两个考试： **Adobe [!DNL Experience Platform] 技术基础(AD0-E600)** 和 **Adobe [!DNL Real-Time CDP] 技术从业者(AD7-E601)**. 从2024年1月15日起，将推出新的考试，该认证只需要考试。
 
 {{intro}}
 
@@ -62,6 +66,14 @@ ht-degree: 9%
 <br>
 
 ## 要求#1：Adobe信息 [!DNL Experience Platform] 技术基础(AD0-E600) {#req-1}
+
+>[!IMPORTANT]
+>
+>AD0-E600考试的计划已被搁置。 该考试目前正在更新并将于 **2024年1月15日**. 在该日期之后，该认证将只需要通过一次考试，而不是目前要求的两次考试。
+>
+><br>
+>
+>**如果您已经安排了AD0-E600考试**，我们强烈建议取消您的预约，并在发布新考试时重新安排预约。 如有疑问，请联系 [认证支持](mailto:certif@adobe.com){target="_blank"}.
 
 AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技能和知识 [!DNL Experience Platform] 专家级。
 
@@ -204,6 +216,18 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 <br>
 
 ## 要求#2：Adobe信息 [!DNL Real-Time CDP] 技术从业者(AD7-E601) {#req-2}
+
+>[!IMPORTANT]
+>
+>该考试目前正在更新并将于 **2024年1月15日**. 在该日期之后，该认证将只需要通过一次考试，而不是目前要求的两次考试。
+>
+><br>
+>
+>**如果您尚未参加当前要求参加的任何考试，** 我们强烈建议您等待更新后的考试。 这样一来，你可以参加一次考试，而不是两次考试。
+>
+><br>
+>
+>**如果您已传递AD0-E600Adobe [!DNL Experience Platform] 技术基础考试，并一直为AD7-E601考试做准备**，我们建议您保留预约，因为通过AD7-E601考试即可为您授予Adobe [!DNL Experience Platform] 技术基础专家认证。 如有疑问，请联系 [认证支持](mailto:certif@adobe.com){target="_blank"}.
 
 AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨源目标以及其他主题。 本测试将验证为遵守数据和隐私法规的统一用户档案实时采用Real-time CDP进行受众分段、目标导出和激活所需的基本技能和知识。 候选人应具有客户数据平台(CDP)经验和Adobe知识 [!DNL Experience Platform].
 
