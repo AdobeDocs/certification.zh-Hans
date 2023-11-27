@@ -4,9 +4,9 @@ description: 了解 Adobe 的  [!DNL Experience Cloud]  认证。了解获得认
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0c411dc840fd962875f2937aa84e522758527286
+source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '484'
 ht-degree: 11%
 
 ---
@@ -16,6 +16,14 @@ ht-degree: 11%
 了解 Adobe 认证以及获得认证有哪些益处。
 
 ![横幅](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!TIP]
+>
+>**我们的年终特价从网购星期一开始！** 从11月27日至12月31日期间，参加Adobe数字体验认证计划，可享受50%的认证考试优惠券。
+><br>
+>此优惠仅在您通过 [Adobe认证凭证中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}. 在结账时使用促销代码Holiday2023。
+><br>
+>此选件仅适用于所述的时间范围，仅适用于新订单，不适用于以前进行的购买。 优惠券代码的有效期为自购买之日起一年。
 
 创建Adobe数字体验认证计划是为了帮助您证明自己的Adobe技能 [!DNL Experience Cloud] 产品。 通过Adobe认证，您可以展示自己的专业技能，给客户和雇主留下深刻印象。
 

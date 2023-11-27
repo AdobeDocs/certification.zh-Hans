@@ -7,13 +7,13 @@ role: Developer
 badge: label="考试AD0-E600和AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 8%
+source-wordcount: '1318'
+ht-degree: 9%
 
 ---
-
 
 # Adobe的认证历程 [!DNL Experience Platform] 专家
 
@@ -23,9 +23,7 @@ ht-degree: 8%
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->Adobe [!DNL Experience Platform] 专家认证目前需要通过两个考试： **Adobe [!DNL Experience Platform] 技术基础(AD0-E600)** 和 **Adobe [!DNL Real-Time CDP] 技术从业者(AD7-E601)**. 自2023年11月1日起，将推出新的考试，该考试将仅为该认证所需的考试。
+
 
 <br>
 
@@ -209,8 +207,6 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 
 ## 要求#2：Adobe信息 [!DNL Real-Time CDP] 技术从业者(AD7-E601) {#req-2}
 
-AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨源目标以及其他主题。 本测试将验证为遵守数据和隐私法规的统一用户档案实时采用Real-time CDP进行受众分段、目标导出和激活所需的基本技能和知识。 候选人应具有客户数据平台(CDP)经验和Adobe知识 [!DNL Experience Platform].
-
 <br>
 
 ### AD7-E601的考试详细信息
@@ -278,7 +274,7 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 **第1节：验证**
 
 * [Real-time Customer Profile概述](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=zh-Hans){target="_blank"}
-* [配置文件仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [个人资料仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [实时客户个人资料数据的默认护栏](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=zh-Hans)
 * [启用实时客户个人资料](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
 * [Real-time Customer Data Platform概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=zh-Hans){target="_blank"}

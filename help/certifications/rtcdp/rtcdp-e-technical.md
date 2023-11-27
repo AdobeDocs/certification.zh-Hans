@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="考试AD0-E600和AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1404'
-ht-degree: 8%
+source-wordcount: '1385'
+ht-degree: 9%
 
 ---
 
@@ -22,10 +22,6 @@ ht-degree: 8%
 ## 考试描述 {#exam-description}
 
 {{exam-description}}
-
->[!IMPORTANT]
->
->Adobe [!DNL Real-Time Customer Data Platform] 专家认证需要通过两个考试： **Adobe [!DNL Experience Platform] 技术基础(AD0-E600)** 和 **Adobe [!DNL Real-Time CDP] 技术从业者(AD7-E601)**.
 
 <br>
 
@@ -278,7 +274,7 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 **第1节：验证**
 
 * [Real-time Customer Profile概述](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=zh-Hans){target="_blank"}
-* [配置文件仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [个人资料仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [实时客户个人资料数据的默认护栏](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=zh-Hans)
 * [启用实时客户个人资料](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
 * [Real-time Customer Data Platform概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=zh-Hans){target="_blank"}
