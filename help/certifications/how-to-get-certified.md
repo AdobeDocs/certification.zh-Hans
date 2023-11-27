@@ -4,7 +4,7 @@ description: 了解如何获得Adobe认证。 在获得认证之前、期间和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
+source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
 workflow-type: tm+mt
 source-wordcount: '1553'
 ht-degree: 1%
@@ -17,11 +17,8 @@ ht-degree: 1%
 
 >[!TIP]
 >
->**我们的年终特价从网购星期一开始！** 从11月27日至12月31日期间，参加Adobe数字体验认证计划，可享受50%的认证考试优惠券。
-><br>
->此优惠仅在您通过 [Adobe认证凭证中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}. 在结账时使用促销代码Holiday2023。
-><br>
->此选件仅适用于所述的时间范围，仅适用于新订单，不适用于以前进行的购买。 优惠券代码的有效期为自购买之日起一年。
+>**我们的年终特价从网购星期一开始！**<br>
+>从11月27日至12月31日期间，参加Adobe数字体验认证计划，可享受50%的认证考试优惠券。 此优惠仅在您通过 [Adobe认证凭证中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html). 使用促销代码 **Holiday2023** 在结帐时。 <br><i>此选件仅适用于所述的时间范围，仅适用于新订单，不适用于以前进行的购买。 优惠券代码的有效期为自购买之日起一年。</i>
 
 >[!BEGINTABS]
 
