@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="考试AD0-E600和AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
+source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1599'
 ht-degree: 7%
 
 ---
@@ -227,7 +227,7 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 >
 ><br>
 >
->**如果您已传递AD0-E600Adobe [!DNL Experience Platform] 技术基础考试，并一直为AD7-E601考试做准备**，我们建议您保留预约，因为通过AD7-E601考试即可为您授予Adobe [!DNL Experience Platform] 技术基础专家认证。 如有疑问，请联系 [认证支持](mailto:certif@adobe.com){target="_blank"}.
+>**如果您已传递AD0-E600Adobe [!DNL Experience Platform] 技术基础考试，并一直为AD7-E601考试做准备**，我们建议您保留预约，因为通过AD7-E601考试即可为您授予Adobe [!DNL Real-Time Customer Data Platform] 专家认证。 如有疑问，请联系 [认证支持](mailto:certif@adobe.com){target="_blank"}.
 
 AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨源目标以及其他主题。 本测试将验证为遵守数据和隐私法规的统一用户档案实时采用Real-time CDP进行受众分段、目标导出和激活所需的基本技能和知识。 候选人应具有客户数据平台(CDP)经验和Adobe知识 [!DNL Experience Platform].
 
