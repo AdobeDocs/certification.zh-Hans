@@ -4,9 +4,9 @@ description: 开始使用  [!DNL Experience Cloud]  认证。了解项目和此�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
+source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '811'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,10 @@ Adobe认证旨在验证使用我们的数字营销解决方案的专业人员的
 >[!TIP]
 >
 >**我们的年终特价从网购星期一开始！**<br>
->从11月27日至12月31日期间，参加Adobe数字体验认证计划，可享受50%的认证考试优惠券。 此优惠仅在您通过 [Adobe认证凭证中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html). 使用促销代码 **Holiday2023** 在结帐时。 <br><i>此选件仅适用于所述的时间范围，仅适用于新订单，不适用于以前进行的购买。 优惠券代码的有效期为自购买之日起一年。</i>
+><br>
+>从11月27日至12月31日期间，参加Adobe数字体验认证计划，可享受50%的认证考试优惠券。 此优惠仅在您通过 [Adobe认证凭证中心](https://market.xvoucher.com/adobe). 使用促销代码 **Holiday2023** 在结帐时。<br>
+><br>
+><i>此选件仅适用于所述的时间范围，仅适用于新订单，不适用于以前进行的购买。 优惠券代码的有效期为自购买之日起一年。</i>
 
 >[!BEGINTABS]
 
