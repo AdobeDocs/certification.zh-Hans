@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="考试AD0-E600和AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
+source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1748'
 ht-degree: 7%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 7%
 >
 ><br>
 >
->**如果您已经安排了AD0-E600考试**，我们强烈建议取消您的预约，并在发布新考试时重新安排预约。 如有疑问，请联系 [认证支持](mailto:certif@adobe.com){target="_blank"}.
+>**如果您已经安排了AD0-E600考试**，我们强烈建议您在考试门户中取消预约（请参阅下面的步骤3），并重新安排新考试的发布时间。 如有疑问，请联系 [认证支持](mailto:certif@adobe.com){target="_blank"}.
 
 AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技能和知识 [!DNL Experience Platform] 专家级。
 
@@ -176,6 +176,14 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 
 +++第3步：考试计划和付费
 
+>[!IMPORTANT]
+>
+>AD0-E600考试的计划已被搁置。 该考试目前正在更新并将于 **2024年1月15日**. 在该日期之后，该认证将只需要通过一次考试，而不是目前要求的两次考试。
+>
+><br>
+>
+>**如果您已经安排了AD0-E600考试**，我们强烈建议您在考试门户中取消预约，并在新考试发布后重新安排。 如有疑问，请联系 [认证支持](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -195,6 +203,14 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 {{about-certification-exam}}
 
 ## 安排或参加考试AD0-E600
+
+>[!IMPORTANT]
+>
+>AD0-E600考试的计划已被搁置。 该考试目前正在更新并将于 **2024年1月15日**. 在该日期之后，该认证将只需要通过一次考试，而不是目前要求的两次考试。
+>
+><br>
+>
+>**如果您已经安排了AD0-E600考试**，我们强烈建议您在考试门户中取消预约，并在新考试发布后重新安排。 如有疑问，请联系 [认证支持](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
