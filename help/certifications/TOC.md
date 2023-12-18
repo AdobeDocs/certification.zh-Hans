@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe 认证
 breadcrumb-title: Adobe 认证
-user-guide-description: 了解 Adobe 的  [!DNL Experience Cloud]  认证。了解获得认证能为您做什么。
-source-git-commit: c6d68f61d64619341f7ccdfb4e887993ac2cfbc2
+user-guide-description: 了解 [!DNL Experience Cloud] Adobe认证。 了解获得认证能为您做什么。
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 47%
+ht-degree: 32%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 47%
       + 专家 {#aa-expert}
          + [商业从业者](/help/certifications/aa/aa-e-business.md)
          + [Developer](/help/certifications/aa/aa-e-developer.md)
-      + 主控 {#aa-master}
+      + 母版 {#aa-master}
          + [架构师](/help/certifications/aa/aa-m-architect.md)
       + [续订](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
@@ -49,7 +49,7 @@ ht-degree: 47%
          + [商业从业者](/help/certifications/aam/aam-p-business.md)
       + 专家 {#aam-expert}
          + [商业从业者](/help/certifications/aam/aam-e-business.md)
-      + 主控 {#aam-master}
+      + 母版 {#aam-master}
          + [架构师](/help/certifications/aam/aam-m-architect.md)
       + [续订](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
@@ -60,7 +60,7 @@ ht-degree: 47%
       + 专家 {#acc-expert}
          + [商业从业者](/help/certifications/acc/acc-e-business.md)
          + [Developer](/help/certifications/acc/acc-e-developer.md)
-      + 主控 {#acc-master}
+      + 母版 {#acc-master}
          + [架构师](/help/certifications/acc/acc-m-developer.md)
       + [续订](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
@@ -79,7 +79,7 @@ ht-degree: 47%
          + [商业从业者](/help/certifications/ac/ac-e-business.md)
          + [Developer](/help/certifications/ac/ac-e-developer.md)
          + [前端开发人员](/help/certifications/ac/ac-e-fedeveloper0623.md)
-      + 主控 {#ac-master}
+      + 母版 {#ac-master}
          + [架构师](/help/certifications/ac/ac-m-architect.md)
       + [续订](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Document Cloud] {#adc}
@@ -101,7 +101,7 @@ ht-degree: 47%
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
          + [开发人员(Forms)](/help/certifications/aem/aem-forms-e-developer.md)
          + [Cloud Service迁移](/help/certifications/aem/aem-cs-e-migration.md)
-      + 主控 {#aem-master}
+      + 母版 {#aem-master}
          + [架构师（站点）](/help/certifications/aem/aem-sites-m-architect.md)
       + [续订](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
@@ -110,7 +110,7 @@ ht-degree: 47%
          + [认证专家](/help/certifications/ame/ame-p.md)
       + 专家 {#ame-expert}
          + [商业从业者](/help/certifications/ame/ame-e-business.md)
-      + 主控 {#ame-master}
+      + 母版 {#ame-master}
          + [架构师](/help/certifications/ame/ame-m-architect-23-08.md)
       + [续订](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
@@ -132,7 +132,7 @@ ht-degree: 47%
          + [商业从业者](/help/certifications/at/at-p-business.md)
       + 专家 {#at-expert}
          + [商业从业者](/help/certifications/at/at-e-business.md)
-      + 主控 {#at-master}
+      + 母版 {#at-master}
          + [架构师](/help/certifications/at/at-m-architect0623.md)
       + [续订](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
@@ -141,6 +141,7 @@ ht-degree: 47%
          + [开发人员(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [项目管理器](/help/certifications/aw/aw-p-project-manager.md)
          + [开发人员（核心）](/help/certifications/aw/aw-core-p-developer.md)
+         + [开发人员（核心） — 新](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + 专家 {#aw-expert}
          + [开发人员（核心）](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM增强型连接器](/help/certifications/aw/aw-aem-e-connector.md)

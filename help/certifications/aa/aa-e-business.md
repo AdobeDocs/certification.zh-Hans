@@ -7,10 +7,10 @@ role: User
 badge: label="考试AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 16%
+source-wordcount: '773'
+ht-degree: 1%
 
 ---
 
@@ -107,7 +107,7 @@ ht-degree: 16%
 
 * 确定如何开发和配置区段
 * 应用流程与组织中的其他人员共享区段
-* 比较细分
+* 比较区段
 * 将区段应用于项目和组件
 * 应用流程以生成计算和/或分段量度
 
@@ -159,31 +159,31 @@ ht-degree: 16%
 * [哪个 [!DNL Adobe Analytics] 我应该使用工具吗？](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
 * [[!DNL Adobe Analytics] 文档](https://helpx.adobe.com/cn/support/analytics.html){target="_blank"}
 * [关于数据收集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=zh-Hans){target="_blank"}
-* [Analytics 数据馈送概述](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=zh-Hans){target="_blank"}
+* [Analytics数据馈送概述](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=zh-Hans){target="_blank"}
 
 **第2部分：项目的报告和仪表板**
 
-* [Reports &amp; Analytics 快速入门](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
+* [Reports &amp; Analytics入门](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Adobe Analytics] 功能板 — 概述](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=zh-Hans){target="_blank"}
 * [项目概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
-* [可视化图表概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [智能警报概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=zh-Hans){target="_blank"}
+* [可视化概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
+* [智能警报概述](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **第3部分：分段和计算量度**
 
-* [Analytics 分段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
-* [计算指标和高级计算（派生）指标](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
+* [Analytics分段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
+* [计算量度和高级计算（派生）量度](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
 
 **第4部分：一般工具知识和故障诊断**
 
-* [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Analysis Workspace概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=zh-Hans){target="_blank"}
+* [Analytics工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hans){target="_blank"}
+* [Analysis Workspace概述](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **第五节　管理**
 
-* [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
+* [Analytics管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
 * [常见问题解答](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [分类规则生成器工作流](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
+* [分类规则生成器工作流程](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
 **参加练习测试**
 

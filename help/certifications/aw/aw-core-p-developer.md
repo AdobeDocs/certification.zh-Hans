@@ -6,16 +6,20 @@ role: Developer
 badge: label="考试AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 2%
+source-wordcount: '736'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Workfront] 核心开发人员专业版
 
 {{intro}}
+
+>[!NOTE]
+>
+>这次考试，Adobe [!DNL Workfront] 核心开发人员专业版(AD0-E905)已更新。 如果您已开始学习或计划学习此版本，请确保在2024年2月26日之前完成该课程。 如果您刚刚开始，我们建议您参加 [该考试的最新版本(AD0-E908)](aw-core-p-developer-23-12.md).
 
 ## 考试描述 {#exam-description}
 
@@ -211,6 +215,10 @@ ht-degree: 2%
 {{about-certification-exam}}
 
 ## 安排或参加考试AD0-E905
+
+>[!NOTE]
+>
+>这次考试，Adobe [!DNL Workfront] 核心开发人员专业版(AD0-E905)已更新。 如果您已开始学习或计划学习此版本，请确保在2024年2月26日之前完成该课程。 如果您刚刚开始，我们建议您参加 [该考试的最新版本(AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="考试AD0-E600和AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 7%
+source-wordcount: '1464'
+ht-degree: 0%
 
 ---
 
@@ -150,7 +150,7 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 
 **第2部分：数据摄取**
 
-* [数据引入](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=zh-Hans){target="_blank"}
+* [数据摄取](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=zh-Hans){target="_blank"}
 
 **第三节　：统一用户档案**
 
@@ -314,20 +314,19 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 **第1节：验证**
 
 * [Real-time Customer Profile概述](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=zh-Hans){target="_blank"}
-* [个人资料仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [配置文件仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [实时客户个人资料数据的默认护栏](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=zh-Hans)
 * [启用实时客户个人资料](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
 * [Real-time Customer Data Platform概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=zh-Hans){target="_blank"}
 * [AEP应用程序服务：Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Real-Time CDP快速入门](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform主页和功能板](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
-* [在UI中监视目标的数据流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=zh-Hans){target="_blank"}
-* [在Adobe中创建和激活区段 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [在UI中监视目标的数据流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
 * [隐私概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Real-time CDP中的数据治理](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [应用数据治理框架](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
 * [数据管理快速入门](https://video.tv.adobe.com/v/333350/){target="_blank"}
-* [数据治理概述](https://video.tv.adobe.com/v/29708/){target="_blank"}
+* [数据管理概述](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [数据治理演示](https://video.tv.adobe.com/v/36653/){target="_blank"}
 * [使用治理标签对数据进行分类](https://video.tv.adobe.com/v/29709/){target="_blank"}
 * [创建数据使用策略](https://video.tv.adobe.com/v/32977/){target="_blank"}
@@ -338,7 +337,7 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 * [Real-time Customer Data Platform中的分段服务](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
 * [区段生成器UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
 * [Real time CDP B2B版本中的分段](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
-* [构建区段](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
+* [生成区段](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
 * [区段生成器概述](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [创建区段](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [创建基于内容的区段](https://video.tv.adobe.com/v/333302/){target="_blank"}
@@ -349,7 +348,6 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 * [创建多条目区段](https://video.tv.adobe.com/v/32179/){target="_blank"}
 * [使用B2B数据创建区段](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [流式客户细分演示](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [在Adobe中创建和激活区段 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [评估区段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
 **第3部分：目标**
@@ -363,7 +361,7 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 * [创建目标和激活数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [激活概述](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [目标目录概述](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
-* [将个人资料和区段激活到目标](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
+* [将配置文件和区段激活到目标](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 * [集成Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
 * [配置Azure Blob目标](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html){target="_blank"}
 * [配置Marketo目标](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html){target="_blank"}
