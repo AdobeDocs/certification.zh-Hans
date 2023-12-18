@@ -8,10 +8,10 @@ level: Experienced
 badge: label="考试AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 12%
+source-wordcount: '707'
+ht-degree: 1%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 12%
 
 您应该熟悉以下工具和环境：
 
-工具:
+工具：
 
 * Adobe Experience Platform Launch(Adobe发布)
 * 调试工具与 [!DNL Adobe Analytics] (数据包监视器，例如Adobe Debugger、浏览器开发人员工具、Charles)
@@ -67,7 +67,7 @@ ht-degree: 12%
 * 对可用资源的基本了解 [!DNL Adobe Analytics] 相关API
 * Adobe I/O集成
 
-环境:
+环境：
 
 * 前端Web开发环境
 * 了解移动应用程序（局限性和差异，例如它与Web不同的原因）
@@ -149,9 +149,9 @@ ht-degree: 12%
 
 **第1部分：了解Adobe Experience Cloud生态系统中的Analytics**
 
-* [Analytics 技术说明](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=zh-Hans){target="_blank"}
-* [设置 Analytics 和 Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=zh-Hans){target="_blank"}
-* [Analytics 的视频和教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+* [Analytics技术说明](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=zh-Hans){target="_blank"}
+* [设置Analytics和Experience CloudID](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=zh-Hans){target="_blank"}
+* [Analytics视频和教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 
 **第2部分：基于解决方案设计参考(SDR)的策略和设计**
 
@@ -166,20 +166,20 @@ ht-degree: 12%
 
 **第4节：标签管理系统**
 
-* [标记管理](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
+* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
 * [概述](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 **第5部分：Mobile Services**
 
-* [为移动设备实施 Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
+* [为移动设备实施Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
 * [将Mobile Services处理规则迁移到 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
 
 **第6部分：测试、验证和故障排除**
 
 * [Adobe Experience Platform Debugger概述](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
 * [启用、调试和自定义 [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [优化 Analysis Workspace 性能](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=zh-Hans){target="_blank"}
+* [优化Analysis Workspace性能](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=zh-Hans){target="_blank"}
 
 <br>
 
@@ -222,14 +222,14 @@ ht-degree: 12%
 
 ## 安排或参加考试AD0-E209-J（日语）
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    转到考试门户 — 日语考试
 </span>
 </a>
-
-[日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

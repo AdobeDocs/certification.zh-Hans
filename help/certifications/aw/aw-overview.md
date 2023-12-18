@@ -3,7 +3,7 @@ title: Workfront认证概述
 description: Adobe Workfront 认证选项概述
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 922961fcab8c3cf6745d3239d112625d717b1b82
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 7%
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 如果您已安排或开始学习当前考试，请确保您安排并完成考试 **2024年2月26日之前**.
 
-但是，如果您刚刚开始使用认证，我们建议您参加 **新建** 考试版本： [Adobe Marketo Engage (AD0-E908)](help/certifications/aw/aw-core-p-developer-23-12.md)
+但是，如果您刚刚开始使用认证，我们建议您参加 **新建** 考试版本： [Adobe Marketo Engage (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
 
 ## 所有可用Adobe考试 [!DNL Workfront]
 
@@ -29,7 +29,7 @@ ht-degree: 7%
 * [开发人员(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [项目管理器](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
 * [开发人员（核心） — 将于2024年2月26日过期](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
-* [开发人员（核心） — 新](help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
+* [开发人员（核心） — 新](/help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
 
 **专家**
 

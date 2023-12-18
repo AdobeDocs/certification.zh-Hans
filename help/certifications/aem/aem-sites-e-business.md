@@ -7,10 +7,10 @@ role: User
 badge: label="考试AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '981'
-ht-degree: 12%
+source-wordcount: '716'
+ht-degree: 2%
 
 ---
 
@@ -67,14 +67,14 @@ ht-degree: 12%
 * 体验片段和内容片段
 * Screens
 * 工作流
-* 启动项
+* 启动次数
 * CRXDE Lite
 * 用户管理
 * 多站点管理
 * 监控工具
 * 版本控制
 * 个性化和上下文中心
-* SPA 编辑器
+* SPA编辑器
 * 标记
 * 浏览器使用情况
 * 对Web的一般了解
@@ -143,10 +143,10 @@ ht-degree: 12%
 
 **第一节　：教育**
 
-* [AEM 6.5 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [AEM 6.5 Developing用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [了解AEM 6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [启动项](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
+* [启动次数](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
 * [作者的首要步骤](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
 * [内容编辑最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
 * [创建和组织页面](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html){target="_blank"}
@@ -189,7 +189,7 @@ ht-degree: 12%
 
 **第四节　：设置与实施**
 
-* [AEM 6.4 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [AEM 6.4 Developing用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 * [AEM开发 — 准则和最佳实践](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=zh-Hans){target="_blank"}
 * [组件概述](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
 * [组件准则](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
@@ -238,14 +238,14 @@ ht-degree: 12%
 
 ## 安排或参加考试AD0-E121-J（日语）
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    转到考试门户 — 日语考试
 </span>
 </a>
-
-[日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

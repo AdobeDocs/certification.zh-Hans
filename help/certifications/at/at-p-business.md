@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 1%
 
 ---
@@ -187,8 +187,6 @@ ht-degree: 1%
    转到考试门户
 </span>
 </a>
-
-[日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

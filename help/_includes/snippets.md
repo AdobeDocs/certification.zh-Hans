@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -123,7 +123,7 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 
 **购买优惠券**
 
-你可以用凭单来支付考试费用。 要购买考试凭单，请转到 [Adobe认证凭证中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}.
+你可以用凭单来支付考试费用。 要购买考试凭单，请转到 [Adobe认证凭证中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hans){target="_blank"}.
 
 您可以在安排考试时应用优惠券代码。 有关优惠券折扣信息，请参阅下文。
 
@@ -220,3 +220,9 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 认证有效期为两年。 要维护您的认证，您必须在认证过期之前续订认证。 访问 [续订您的认证](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} 页面以了解更多信息。
 
 <!--divider-->
+
+## 日语考试详细信息 {#Japanese-exam-details}
+
+请安排在星期日 — 星期四下午5点至凌晨2点之间的考试，以确保我们能够指派一名讲日语的监护。 如果你安排在这些时间以外，我们不能保证会讲日语的监护。
+
+[日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)

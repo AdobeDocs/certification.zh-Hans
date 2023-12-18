@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '769'
 ht-degree: 1%
 
 ---
@@ -224,14 +224,14 @@ ht-degree: 1%
 
 ## 安排或参加考试AD0-E208-J（日语）
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    转到考试门户 — 日语考试
 </span>
 </a>
-
-[日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
