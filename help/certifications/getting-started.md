@@ -1,13 +1,13 @@
 ---
 title: Adobe认证入门
-description: 开始使用  [!DNL Experience Cloud]  认证。了解项目和此网站。
+description: 开始使用 [!DNL Experience Cloud] 认证。 了解项目和此网站。
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '811'
-ht-degree: 2%
+source-wordcount: '825'
+ht-degree: 1%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 2%
 
 Adobe认证旨在验证使用我们的数字营销解决方案的专业人员的知识和技能。 使用以下选项卡开始了解认证计划。
 
->[!TIP]
+>[!NOTE]
 >
->**我们的年终特价从网购星期一开始！** <br><br> 从11月27日至12月31日期间，参加Adobe数字体验认证计划，可享受50%的认证考试优惠券。 此优惠仅在您通过 [Adobe认证凭证中心](https://market.xvoucher.com/adobe). 使用促销代码 **Holiday2023** 在结帐时。 <br><br> <i>此选件仅适用于所述的时间范围，仅适用于新订单，不适用于以前进行的购买。 优惠券代码的有效期为自购买之日起一年。</i>
+>Adobe将于2023年12月22日至2024年1月1日结束。 在此期间对支持请求的响应将延迟。 我们感谢你的耐心。
+
+>[!BEGINSHADEBOX]
+>
+>**优惠券八折优惠！** <br><br> 从11月27日至12月31日期间，参加Adobe数字体验认证计划，可享受50%的认证考试优惠券。 此优惠仅在您通过 [Adobe认证凭证中心](https://market.xvoucher.com/adobe). 使用促销代码 **Holiday2023** 在结帐时。 <br><br> <i>此选件仅适用于所述的时间范围，仅适用于新订单，不适用于以前进行的购买。 优惠券代码的有效期为自购买之日起一年。</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
