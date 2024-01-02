@@ -4,9 +4,9 @@ description: 了解如何获得Adobe认证。 在获得认证之前、期间和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1402'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,6 @@ ht-degree: 0%
 # 如何获得认证{#how}
 
 了解如何获得Adobe认证。 在获得认证之前、期间和之后查找您所需的所有资源。
-
->[!NOTE]
->
->Adobe将于2023年12月22日至2024年1月1日结束。 在此期间对支持请求的响应将延迟。 我们感谢你的耐心。
-
->[!BEGINSHADEBOX]
-
-**优惠券八折优惠！**
-
-从11月27日至12月31日期间，参加Adobe数字体验认证计划，可享受50%的认证考试优惠券。 此优惠仅在您通过 [Adobe认证凭证中心](https://market.xvoucher.com/adobe). 使用促销代码 **Holiday2023** 在结帐时。
-
-<i>此选件仅适用于所述的时间范围，仅适用于新订单，不适用于以前进行的购买。 优惠券代码的有效期为自购买之日起一年。</i>
-
->[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 

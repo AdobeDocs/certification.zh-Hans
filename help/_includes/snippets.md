@@ -1,7 +1,7 @@
 ---
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '1769'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 ## 简介 {#intro}
 
 本页面提供了有关如何获得此认证的信息。 其中包括考试说明、学习材料、认证流程的分步说明以及如何续订认证。
-
->[!NOTE]
->
->Adobe将于2023年12月22日至2024年1月1日结束。 在此期间对支持请求的响应将延迟。 我们感谢你的耐心。
 
 <!--divider-->
 
