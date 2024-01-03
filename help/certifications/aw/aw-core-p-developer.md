@@ -6,9 +6,9 @@ role: Developer
 badge: label="考试AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这次考试，Adobe [!DNL Workfront] 核心开发人员专业版(AD0-E905)已更新。 如果您已开始学习或计划学习此版本，请确保在2024年2月26日之前完成该课程。 如果您刚刚开始，我们建议您参加 [该考试的最新版本(AD0-E908)](aw-core-p-developer-23-12.md).
+>这次考试，Adobe [!DNL Workfront] 核心开发人员专业版(AD0-E905)已更新。 如果您已开始学习或计划学习此版本，请确保在2024年2月26日之前完成该课程。 如果您刚刚开始，我们建议您参加 [该考试的最新版本(AD0-E908)](aw-core-p-developer-23-12.md). 如果需要重新安排，则必须参加新的考试。
 
 ## 考试描述 {#exam-description}
 
