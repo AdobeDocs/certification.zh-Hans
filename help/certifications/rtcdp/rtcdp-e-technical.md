@@ -8,7 +8,8 @@ recommendations: disable, exclude
 badge: label="考试AD0-E600和AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
+hidefromtoc: true
+source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 0%
