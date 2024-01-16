@@ -6,9 +6,9 @@ product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 badge: label="考试AD0-E605" type="neutral"
 mini-toc-levels: 1
-source-git-commit: d35b2a0ab2168fe71b013be386c57f16d0828968
+source-git-commit: 3a2bc85ec6cb9f402b72650b382ca3912dd80681
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '954'
 ht-degree: 3%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 3%
 # Adobe的认证历程 [!DNL Real-Time Customer Data Platform] 开发人员专家
 
 {{intro}}
+
+>[!TIP]
+>
+>获取 **50%优惠** 本考试，通过购买和安排您的考试 **考试** 早于 **2024年2月15日**. 折扣将自动应用。 有关采购和计划说明，请参阅下面的步骤3。 <br><br><i>请注意，此选件不适用于通过任何其他网站进行的购买。</i>
 
 ## 考试描述 {#exam-description}
 
@@ -240,6 +244,10 @@ ht-degree: 3%
 <br>
 
 +++第3步：考试计划和付费
+
+>[!TIP]
+>
+>获取 **50%优惠** 本考试，通过购买和安排您的考试 **考试** 早于 **2024年2月15日**. 折扣将自动应用。 <br><br><i>请注意，此选件不适用于通过任何其他网站进行的购买。</i>
 
 {{schedule-and-pay}}
 
