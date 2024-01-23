@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: dcad25077afd7883333326939ce8751eee191f36
+source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
 workflow-type: tm+mt
-source-wordcount: '1657'
+source-wordcount: '2241'
 ht-degree: 0%
 
 ---
@@ -304,6 +304,138 @@ Adobe [!DNL Commerce] 开发人员专业版
 2. 单击下面的按钮转到考试门户并参加考试(AD5-E839)
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   转到考试门户
+</span>
+</a>
+
+>[!NOTE]
+>
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+
++++Adobe [!DNL Commerce] 前端开发人员专业版
+
+## 您必须具备以下条件 **活动** 要使用此方法续订的认证：
+
+Adobe [!DNL Commerce] 前端开发人员专业版
+
+## 续订认证的说明：
+
+* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤2**：查看考试目标和资源
+* **步骤3**：参加并通过考试
+
+## 准备就绪
+
+**考试详细信息：**
+
+* 级别：专业（0-12个月经验）
+* 及格分数：26/34
+* 时间：68分钟
+* 交付：按需/非托管
+* 可用语言：英语
+* 费用：免费
+* 考试ID：AD5-E844Adobe [!DNL Commerce] 前端开发人员专业版续订
+
+**范围和目标：**
+
+**第1节：主题管理（主题层次结构、图像配置和翻译）(14%)**
+
+* 描述Adobe [!DNL Commerce] 主题文件夹结构
+* 演示创建新主题或扩展现有主题的能力
+* 演示添加自定义翻译短语的能力
+
+**第2部分：布局XML和模板(30%)**
+
+* 演示使用基本布局XML指令的能力
+* 演示使用现有页面布局的能力
+* 描述扩展和覆盖XML的步骤
+* 演示创建和自定义模板的能力
+* 描述模板安全性（转义输出）
+
+**第3节：样式(22%)**
+
+* 描述样式 — m.less、样式 — l.less、打印.less的目的
+* 描述特定部分文件(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less、)之间的区别
+* 在给定场景下，演示覆盖或扩展Magento的能力LESS
+* 描述LESS的基本概念
+* 解释样式的层次结构（库、模块、主题）
+* 解释客户端和服务器端编译
+
+**第4部分：JavaScript (18%)**
+
+* 演示初始化和调用JavaScript组件的功能
+* 演示RequireJS的使用
+* 描述mixin的用法
+* 描述如何在JS中添加翻译
+* 描述“挖空JS”的用法
+* 描述jQuery小组件的用法
+
+**第5部分：管理员配置和PageBuilder (8%)**
+
+* 演示自定义页面生成器和CMS内容的能力
+* 描述自定义事务性电子邮件的步骤
+
+**第6节：工具（CLI和Grunt）(8%)**
+
+* 描述基本bin/Magento命令的用法
+* 描述编辑器命令的用法（安装、更新、需要、删除）
+* 区分部署模式的适当用例
+* 描述云提供的其他工具（Fastly、下载数据库、内容部署）
+
+## 准备好
+
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+
+以下是一些可帮助您准备的建议资源：
+
+**章节1**
+
+* [主题翻译词典示例](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [主题结构](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [配置主题属性](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [使用字典自定义字符串](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+
+**章节2**
+
+* [referenceBlock和referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [布局说明](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [覆盖布局](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [参数](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [创建新布局](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [如何覆盖布局](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [模板自定义演练](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [magento2/app/design/frontend/fluma/Magento/luma/Magento分层导航/模板/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
+* [主题继承](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [跨站点脚本(XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+
+**章节3**
+
+* [响应式设计中的CSS](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [自定义主题样式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [扩展父样式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [覆盖父样式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [编译模式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+
+**章节4**
+
+* [调用并初始化JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Mixin范围](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
+* [主题字符串](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [绑定映射](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
+* [初始化折叠构件](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+
+## 续订您的认证
+
+续订Adobe [!DNL Commerce] 前端开发人员专业认证：
+
+1. 登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. 单击下面的按钮转到考试门户并参加考试(AD5-E844)
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    转到考试门户
