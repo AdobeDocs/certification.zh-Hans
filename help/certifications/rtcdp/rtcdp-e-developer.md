@@ -6,7 +6,8 @@ product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 badge: label="考试AD0-E605" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 3a2bc85ec6cb9f402b72650b382ca3912dd80681
+exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
+source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
 workflow-type: tm+mt
 source-wordcount: '954'
 ht-degree: 3%
@@ -176,7 +177,7 @@ ht-degree: 3%
 * [XDM 系统概述](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=zh-Hans){target="_blank"}
 * [Identity服务概述](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=zh-Hans){target="_blank"}
 * [边缘个性化](https://experienceleague.adobe.com/docs/blueprints-learn/assets/web_sdk_sequence.svg){target="_blank"}
-* [边缘配置文件](https://experienceleague.adobe.com/docs/experience-platform/profile/edge-profiles.html%3Flang%3Dit){target="_blank"}
+* [边缘配置文件](https://experienceleague.adobe.com/docs/experience-platform/profile/edge-profiles.html){target="_blank"}
 
 **章节3**
 
