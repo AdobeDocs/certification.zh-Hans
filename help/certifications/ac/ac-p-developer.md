@@ -7,10 +7,10 @@ role: Developer
 badge: label="考试AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 51dbc0e8818df72da81caa3d0d9a981ae7aa7456
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
-source-wordcount: '1161'
-ht-degree: 1%
+source-wordcount: '887'
+ht-degree: 0%
 
 ---
 
@@ -199,7 +199,7 @@ ht-degree: 1%
 
 **第3部分：数字营销和电子商务基础知识**
 
-* [[!DNL Commerce] 教程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [活动和观察者](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
 * [分层导航](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
 * [产品属性概述](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
@@ -262,6 +262,12 @@ ht-degree: 1%
 {{sample-questions}}
 
 [查看示例问题](https://scorpion.caveon.com/launchpad/ad4-e717-adobe-commerce-developer-with-cloud-add-on-professional-practice-exam){target="_blank"}
+
+<br>
+
+**参加练习测试**
+
+{{practice-test}}
 
 +++
 

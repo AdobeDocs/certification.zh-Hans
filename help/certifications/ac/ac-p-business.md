@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -183,6 +183,12 @@ ht-degree: 0%
 {{sample-questions}}
 
 [查看示例问题](https://scorpion.caveon.com/launchpad/ad4-e712-adobe-commerce-business-practitioner-professional-practice-exam){target="_blank"}
+
+<br>
+
+**参加练习测试**
+
+{{practice-test}}
 
 +++
 
