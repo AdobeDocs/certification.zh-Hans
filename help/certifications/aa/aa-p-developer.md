@@ -8,10 +8,10 @@ level: Experienced
 badge: label="考试AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
+source-git-commit: 63240c83879075315fb13635e06d9c1cbcf2a37d
 workflow-type: tm+mt
-source-wordcount: '958'
-ht-degree: 10%
+source-wordcount: '824'
+ht-degree: 1%
 
 ---
 
@@ -142,29 +142,29 @@ ht-degree: 10%
 
 **第1部分：Adobe Experience Cloud生态系统中的Analytics**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [Adobe Experience Cloud Identity服务](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 * [常见问题解答](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [AEM 6.5 Authoring 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [AEM 6.5 Authoring用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
 
 **第2部分：基于解决方案设计参考的分析策略和设计**
 
 * [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hans){target="_blank"}
-* [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
+* [Analytics管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
 * [列表变量](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
-* [促销 eVar 和产品查找方法](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
+* [促销eVar和产品查找方法](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
 
 **第3部分：Analytics实施和配置**
 
-* [Analytics工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Analytics工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hans){target="_blank"}
 * [快速提示 — 将数据传递到Launch规则](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
-* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [如何收集 Analytics 数据](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
+* [交易ID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
+* [如何收集分析数据](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
 
 **第4节：标签管理系统**
 
 * [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [标记管理](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
+* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [数据包分析程序](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
 * [卫星对象引用](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
 
@@ -173,14 +173,14 @@ ht-degree: 10%
 * [[!DNL Adobe Analytics]：电子邮件营销(ESP)集成案例分析](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
 * [[!DNL Adobe Analytics] API](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [欢迎使用企业和团队管理指南](https://helpx.adobe.com/cn/enterprise/admin-guide.html){target="_blank"}
-* [Analytics 报表 API](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
+* [Analytics报表API](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
 * [处理规则的工作原理](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 
 **第6部分：测试、验证和故障排除**
 
 * [JavaScript错误引用](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Analytics 技术说明](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=zh-Hans){target="_blank"}
-* [linkDownloadFileTypes](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html){target="_blank"}
+* [Analytics技术说明](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=zh-Hans){target="_blank"}
+* [linkDownloadFileType](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html){target="_blank"}
 * [使用以下方式跟踪已单击的组件 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
 * [[!DNL Adobe Analytics] 实施调试 — 工具](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
 
@@ -191,6 +191,12 @@ ht-degree: 10%
 {{sample-questions}}
 
 [查看示例问题](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**参加练习测试**
+
+{{practice-test}}
 
 <br>
 
