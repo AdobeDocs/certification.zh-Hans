@@ -8,10 +8,10 @@ level: Experienced
 badge: label="考试AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
 workflow-type: tm+mt
-source-wordcount: '671'
-ht-degree: 1%
+source-wordcount: '568'
+ht-degree: 0%
 
 ---
 
@@ -156,7 +156,7 @@ ht-degree: 1%
 
 **第二节　：审查**
 
-* [简介](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [介绍](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
 * [添加自定义文本字段属性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
 * [应用程序测试指南简介](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
 * [组件开发](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
@@ -171,6 +171,12 @@ ht-degree: 1%
 * [货币](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
 * [初始化和引导概述](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Fastly服务概述](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
+
+<br>
+
+**参加练习测试**
+
+{{practice-test}}
 
 +++
 

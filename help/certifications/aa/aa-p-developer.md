@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 63240c83879075315fb13635e06d9c1cbcf2a37d
+source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '820'
 ht-degree: 1%
 
 ---
@@ -191,12 +191,6 @@ ht-degree: 1%
 {{sample-questions}}
 
 [查看示例问题](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
-
-<br>
-
-**参加练习测试**
-
-{{practice-test}}
 
 <br>
 
