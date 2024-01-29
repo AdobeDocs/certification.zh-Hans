@@ -7,7 +7,7 @@ role: User
 badge: label="考试AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * 级别：专家（1-3年经验）
 * 及格分数：32/50
-* 时间：110分钟
+* 时间：100分钟
 * 投放：在线监护（需要访问摄像头）
 * 可用语言：英语、日语
 * 费用：225美元（全球）/150美元（印度）
