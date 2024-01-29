@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
@@ -177,14 +177,6 @@ ht-degree: 0%
 * [了解智能列表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
 * [报表类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [管理报表订阅](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
-
-<br>
-
-**示例问题**
-
-{{sample-questions}}
-
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad4-e555-adobe-marketo-engage-professional-practice-exam){target="_blank"}
 
 <br>
 

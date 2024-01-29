@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
+source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 1%
 
 ---
@@ -183,14 +183,6 @@ ht-degree: 1%
 * [linkDownloadFileType](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html){target="_blank"}
 * [使用以下方式跟踪已单击的组件 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
 * [[!DNL Adobe Analytics] 实施调试 — 工具](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
-
-<br>
-
-**示例问题**
-
-{{sample-questions}}
-
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
 
 <br>
 
