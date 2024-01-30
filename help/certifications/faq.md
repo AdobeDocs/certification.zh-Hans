@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2341'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB General]
+>[!TAB 常规]
 
 +++什么是认证？好处是什么？
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 [!DNL Examity] 通过聊天、电子邮件和电话提供支持。 Adobe支持无法解决考试期间出现的技术问题。
 
-[!DNL Examity] 支持: `adobepartnersupport@examity.com`
+[!DNL Examity] 支持： `adobepartnersupport@examity.com`
 
 最快速的帮助资源是通过聊天获得。 所有考生在参加考试前，都应确保计算机具有适当的系统要求。
 
@@ -84,8 +84,8 @@ Adobe可满足某些特殊要求。 如果您需要更多的时间来完成考�
 +++如何获取得分报告的副本？
 
 * 步骤1：登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}、证书量度。 使用您的ID或电子邮件地址和密码登录。
-* 步骤2：单击成绩单。
-* 第3步：滚动浏览成绩单历史记录，然后选择要查看的报告。 您可以通过电子邮件将报告发送给您，也可以在屏幕上查看报告。
+* 步骤2：单击历史记录。
+* 第3步：滚动浏览历史记录，然后选择要查看的报告。 您可以通过电子邮件将报告发送给您，也可以在屏幕上查看报告。
 
 +++
 
