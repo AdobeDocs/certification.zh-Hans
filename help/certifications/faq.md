@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
+source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2342'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Adobe可满足某些特殊要求。 如果您需要更多的时间来完成考�
 
 * 步骤1：登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}、证书量度。 使用您的ID或电子邮件地址和密码登录。
 * 步骤2：单击历史记录。
-* 第3步：滚动浏览历史记录，然后选择要查看的报告。 您可以通过电子邮件将报告发送给您，也可以在屏幕上查看报告。
+* 第3步：滚动浏览成绩单历史记录，然后选择要查看的报告。 您可以通过电子邮件将报告发送给您，也可以在屏幕上查看报告。
 
 +++
 

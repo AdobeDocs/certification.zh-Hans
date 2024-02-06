@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '580'
 ht-degree: 1%
 
 ---
@@ -154,6 +154,12 @@ ht-degree: 1%
 
 * [[!DNL Adobe Target] 商业从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Adobe Experience Cloud Debugger概述](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
+
+<br>
+
+**参加练习测试**
+
+{{practice-test}}
 
 +++
 
