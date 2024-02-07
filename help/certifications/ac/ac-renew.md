@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '2241'
+source-wordcount: '2293'
 ht-degree: 0%
 
 ---
@@ -140,16 +140,9 @@ ht-degree: 0%
 
 续订Adobe [!DNL Commerce] 商业从业者专业认证：
 
-1. 登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击Adobe [!DNL Commerce] 商业从业者专业资格更新考试(AD5-E840)链接如下。
 
-2. 单击下面的按钮转到考试门户并参加考试(AD5-E840)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   转到考试门户
-</span>
-</a>
+[!BADGE 接受Adobe [!DNL Commerce] 商业从业者专业资格更新考试(AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -299,16 +292,9 @@ Adobe [!DNL Commerce] 开发人员专业版
 
 续订Adobe [!DNL Commerce] 开发人员专业认证：
 
-1. 登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击Adobe [!DNL Commerce] 开发人员专业资格更新考试(AD5-E839)链接如下。
 
-2. 单击下面的按钮转到考试门户并参加考试(AD5-E839)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   转到考试门户
-</span>
-</a>
+[!BADGE 接受Adobe [!DNL Commerce] 开发人员专业资格更新考试(AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -433,16 +419,9 @@ Adobe [!DNL Commerce] 前端开发人员专业版
 
 续订Adobe [!DNL Commerce] 前端开发人员专业认证：
 
-1. 登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击Adobe [!DNL Commerce] 前端开发人员专业资格更新考试(AD5-E844)链接如下。
 
-2. 单击下面的按钮转到考试门户并参加考试(AD5-E844)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   转到考试门户
-</span>
-</a>
+[!BADGE 接受Adobe [!DNL Commerce] 前端开发人员专业更新考试(AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
