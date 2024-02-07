@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="考试AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 2572f234a1a51667cfc584607c50af6bd14c0c8d
 workflow-type: tm+mt
-source-wordcount: '1470'
-ht-degree: 20%
+source-wordcount: '949'
+ht-degree: 3%
 
 ---
 
@@ -141,20 +141,20 @@ ht-degree: 20%
 
 **第1部分：发现**
 
-* [AEM 6.5 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM 6.4 Mobile 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
+* [AEM 6.5 Developing用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Assets指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
+* [AEM 6.4 Mobile用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
 * [AEM Assets视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] 6.5 Communities指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM Sites视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [AEM 6.5 Managing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
+* [AEM 6.5 Managing用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM as a cloud service简介](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
-* [Cloud Manager 简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
+* [Cloud Manager简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [AEM Foundation视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [HTTP/2简介](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
 * [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [AEM 和 Adobe Target 快速入门](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html){target="_blank"}
+* [AEM和Adobe Target快速入门](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html){target="_blank"}
 
 **第2部分：解决方案设计**
 
@@ -166,56 +166,56 @@ ht-degree: 20%
 * [如何基于AEM 6.4中的模板显示/隐藏页面属性](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
 * [AEM Granite自定义渲染条件](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [在React应用程序中防止XSS](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
-* [AEM 6.5 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM 6.4 Mobile 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
+* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [AEM 6.4 Mobile用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
 * [核心组件简介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
-* [AEM 6.5 Authoring 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [AEM 6.5 Authoring用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [AEM Sites视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [AEM Screens最佳实践](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html){target="_blank"}
 * [Adobe帮助文档](https://helpx.adobe.com/cn/enterprise/using/adobe-asset-link.html){target="_blank"}
 * [AEM 6.5 Forms指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [AEM 6.5 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Dispatcher 概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [Dispatcher概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [如何在AEM中清除Dispatcher缓存](https://www.axamit.com/blog/adobe/dispatcher-4#:~:text=At%20the%20low%20level%20dispatcher,the%20root%20of%20htdocs%20directory.){target="_blank"}
 * [AEM Cloud Service Dispatcher转换器](https://github.com/adobe/aem-cloud-service-dispatcher-converter){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [HTL 指南](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html){target="_blank"}
+* [HTL指南](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html){target="_blank"}
 * [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
 * [AEM 6.4 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 
 **第3节：实施**
 
 * [AEM 6.5 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-* [Adobe Enterprise 文档](https://experienceleague.adobe.com/docs/){target="_blank"}
+* [Adobe企业文档](https://experienceleague.adobe.com/docs/){target="_blank"}
 * [Adobe [!DNL Experience Manager] 桌面应用程序概述](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
-* [AEM Foundation 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
+* [AEM Foundation视频和Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Adobe Admin Console上的身份类型](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
-* [Dispatcher 概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [AEM Sites 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [Cloud Manager 简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
-* [Adobe Target 指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [AEM 6.5 Authoring 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM Assets 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
+* [Dispatcher概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+* [AEM Sites视频和Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
+* [Cloud Manager简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
+* [Adobe Target指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [AEM 6.5 Authoring用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [Assets指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
+* [AEM Assets视频和Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
 * [AEM 6.4 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [Experience Manager as a Cloud Service 概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Experience Manageras a Cloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 
 
 **第4部分：资产类型**
 
-* [AEM 6.5 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Oak TarMK内存映射文件](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
-* [Dispatcher 概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+* [Dispatcher概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [Apache Sling：用于资源解析的映射](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
 * [AEM搜索与Solr搜索](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
 * [TarMK：事实与数据](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
-* [Cloud Manager 简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
+* [Cloud Manager简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Cloud Manager：快速入门](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
 * [CQBufferedImageCache在资源上传期间占用栈](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM Dispatcher 缓存教程](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
+* [Assets指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
+* [AEM Dispatcher缓存教程](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
 * [Lucene索引](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
-* [AEM 6.4 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [AEM 6.4 Developing用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 
 <br>
 
@@ -292,23 +292,3 @@ ht-degree: 20%
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
-
-## Adobe Experience Manager Sites架构师硕士考试常见问题解答(AD0-E117) {#AEM-FAQ}
-
-认证考试AD0-E117正在进行维护，暂时不可用。 对由此造成的不便，我们深表歉意。 [注册以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 使其再次可用。
-
-**如果我已经安排了考试，会发生什么？**
-
-已取消所有计划的AD0-E117考试。 在新版本可用时，受影响的考生需要再次安排考试。
-
-**我已经付了考试钱。 我会收到退款吗？**
-
-* 如果您通过Examity使用信用卡支付考试费用，您将获得全额退款。  
-* 如果用优惠券付费，您的代码将重置，并且您可以将其应用于新的考试预约。  
-* 如果您的优惠券在您可以使用之前过期，则我们会在您准备好安排时间后为您颁发一个新优惠券。
-
-**我需要在10月之前续订认证；这是否会影响我的续订？**
-
-不会。您可以通过持续学习进行更新。 请确保遵循下提供的说明和流程 [续订您的认证](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-
-
