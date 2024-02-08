@@ -7,7 +7,7 @@ role: Developer
 badge: label="考试AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: b58f8f109d654579e1c72b09ababd8c55652d8dc
+source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 0%
@@ -175,8 +175,6 @@ ht-degree: 0%
 **参加练习测试**
 
 {{practice-test}}
-
-+++
 
 +++
 
