@@ -7,10 +7,10 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 2bd38805bbc64287b5328c0920e9e45fad9c56a1
 workflow-type: tm+mt
-source-wordcount: '2020'
-ht-degree: 13%
+source-wordcount: '2391'
+ht-degree: 0%
 
 ---
 
@@ -122,7 +122,7 @@ Adobe [!DNL Campaign Classic] 商业从业者专业人员
 * [使用动态内容块个性化电子邮件](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
 * [查询](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
 * [投放报告](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/delivery-reports.html?lang=zh-Hans){target="_blank"}
-* [在活动中管理批准](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=zh-Hans){target="_blank"}
+* [在营销活动中管理批准](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=zh-Hans){target="_blank"}
 * [管理时区](https://experienceleague.adobe.com/docs/campaign/automation/workflows/advanced-management/managing-time-zones.html?lang=en#:~:text=Adobe%20Campaign%20lets%20you%20manage,or%20to%20the%20entire%20workflow.){target="_blank"}
 * [循环和定期活动](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/recurring-periodic-campaigns.html?lang=zh-Hans){target="_blank"}
 * [投放仪表板](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
@@ -134,7 +134,7 @@ Adobe [!DNL Campaign Classic] 商业从业者专业人员
 * [技术工作流](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=zh-Hans){target="_blank"}
 * [默认组](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=en#default-groups){target="_blank"}
 * [等待](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/execution-activities/wait.html?lang=en#:~:text=Wait-,Description,executes%20the%20activities%20placed%20afterwards.){target="_blank"}
-* [从 Campaign Classic v7 过渡至 Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hans){target="_blank"}
+* [从Campaign Classicv7过渡到Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hans){target="_blank"}
 
 **章节3**
 
@@ -159,7 +159,7 @@ Adobe [!DNL Campaign Classic] 商业从业者专业人员
 
 **章节5**
 
-* [开始使用报告](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
+* [报告入门](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 * [指标计算](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/indicator-calculation.html){target="_blank"}
 * [使用描述性分析向导](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
 * [Adobe Campaign Classic菜单授权](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
@@ -170,6 +170,164 @@ Adobe [!DNL Campaign Classic] 商业从业者专业人员
 确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击 **Adobe [!DNL Campaign Classic] 商业从业者专业资格更新考试 — AD5-E841** 下面的链接。
 
 [接受Adobe [!DNL Campaign Classic] 商业从业者专业资格更新考试 — AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
+
+>[!NOTE]
+>
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+
++++
+
++++Adobe [!DNL Campaign Classic] 开发人员专业版续订
+
+## 您必须具备以下条件 **活动** 要续订的认证：
+
+Adobe [!DNL Campaign Classic] 开发人员专业版
+
+## 如何续订您的认证：
+
+* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤2**：查看考试目标和资源
+* **步骤3**：参加并通过考试
+
+## 准备就绪
+
+**考试详细信息**
+
+* 及格分数：31/41
+* 时间：82分钟
+* 费用：免费/非监护
+* 投放：按需
+* 可用语言：英语
+* 考试ID：AD5-E851 -Adobe [!DNL Campaign Classic] 开发人员专业版
+
+**范围和目标**
+
+第1部分：系统配置26%
+
+* 演示管理节点中设置的系统范围配置
+* 应用进程以扩展OOTB收件人模式
+* 定义架构详细信息（主键、自动主键、数据库索引）
+* 区分表单渲染的适用用途
+* 区分影响工作区/项目级别的系统范围配置设置
+* 确定SFTP外部帐户的配置设置
+* 确定“打开”和“关闭”枚举的配置设置
+* 区分分类规则类型
+* 确定利用自定义Target Map的需求及其对OOTB功能的影响
+* 描述如何在Adobe Campaign中访问其他Adobe Experience Cloud解决方案外部生成的受众
+* 描述交互和优惠的业务用例
+* 描述消息中心的业务用例
+* 确定V8 API数据导入功能
+
+第2部分：定制16%
+
+* 应用进程以编辑营销活动架构
+* 确定设置以确保正确的架构扩展或配置自定义架构
+* 描述自定义选项的使用案例
+* 描述种子列表的用例
+* 修改OOTB选择退出/取消订阅Web应用程序
+* 应用流程以创建内容管理组件
+* 确定使用内容管理的用例
+* 应用于进程以更新OOTB表单
+
+第3款：业务安全10%
+
+* 描述添加用户组和角色的流程
+* 应用此过程以翻译具有正确用户权限和层次结构的用户管理矩阵
+* 识别并定义正确的权限
+* 确定用户组的安全区域
+
+第4部分：技术工作流30%
+
+* 将流程应用于导入/导出
+* 确定工作流可以访问的不同数据源
+* 应用该过程转换数据并处理工作表
+* 枚举适用的工作流活动及其功能/属性
+* 应用进程以配置工作流属性
+* 使用表达式编辑器扩展活动功能
+* 区分OOTB工作流和用户创建的工作流之间的区别
+* 说明OOTB工作流的用途
+* 自定义工作流疑难解答
+* 区分变量类型及其范围和用法
+* 识别OOTB变量及其用法
+* 应用进程以配置警报和批准
+* 识别Campaign数据库的类型
+
+第5节：实例维护4%
+
+* 识别不同服务日志中的错误
+* 说明工作流热图读数
+
+第6部分：Campaign配置14%
+
+* 应用该流程以使用营销活动模板创建营销活动
+* 描述创建批准的流程
+* 通过分析审核日志识别错误
+* 识别不同投放的使用情况（给定营销活动场景）
+* 定义在工作流中创建高级流程的流程
+* 描述工作流执行方法
+
+## 准备好
+
+在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+
+以下是一些可帮助您准备的建议资源：
+
+**章节1**
+
+* [Campaign设置常见问题解答](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
+* [使用自定义收件人表](https://docs.adobe.com/content/help/en/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+* [导入和导出受众](https://docs.adobe.com/content/help/en/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
+* [实施SOAP方法](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
+* [使用数据包](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [数据库映射](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [将Campaign与您的解决方案配合使用](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
+* [特定于Campaign的外部帐户](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
+* [将分类应用于投放](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
+
+**章节2**
+
+* [模式结构](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
+* [种子地址](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html){target="_blank"}
+* [发布模板](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/content-management/publication-templates.html){target="_blank"}
+* [在Campaign中使用数据架构](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/data-schemas.html){target="_blank"}
+* [编辑表单](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/editing-forms.html){target="_blank"}
+
+**章节3**
+
+* [创建和管理操作员](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [使用已命名权限设置权限](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+
+**章节4**
+
+* [Adobe Campaign Classic v7和Campaign v8](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Classic/Generate-a-file-and-download-it-in-local-PC-in-a-Campaign/td-p/307934){target="_blank"}
+* [解压缩或解密文件](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/managing-data-encryption-compression/unzip-decrypt.html?lang=zh-Hans){target="_blank"}
+* [高级功能](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/creating-new-reports/advanced-functionalities.html){target="_blank"}
+* [投放](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=zh-Hans){target="_blank"}
+* [警报](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/alert.html){target="_blank"}
+* [数据库映射](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [使用聚合](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/data-management/using-aggregates.html){target="_blank"}
+* [文件传输](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/event-activities/file-transfer.html){target="_blank"}
+* [错误管理](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html#error-management){target="_blank"}
+* [日期](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/filtering-data/list-of-functions.html#string){target="_blank"}
+
+**章节5**
+
+* [工作流热图](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/monitoring/workflow-heatmap.html){target="_blank"}
+
+**章节6**
+
+* [使用对照组](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
+* [定义审批](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
+* [监测工作流执行](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html){target="_blank"}
+* [循环投放](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/recurring-delivery.html){target="_blank"}
+* [Adobe Campaign Standard](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Standard/Issue-with-Mobile-App-Integration-in-Adobe-Campaign/qaq-p/330913/comment-id/8286){target="_blank"}
+* [启动工作流](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/starting-a-workflow.html?lang=zh-Hans){target="_blank"}
+
+## 续订您的认证
+
+确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击 **Adobe [!DNL Campaign Classic] 开发人员专业续订考试 — AD5-E851** 下面的链接。
+
+[接受Adobe [!DNL Campaign Classic] 开发人员专业续订考试 — AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E851){target="_blank"}
 
 >[!NOTE]
 >
@@ -261,8 +419,8 @@ Adobe [!DNL Campaign Classic] 商业从业者专业人员
 
 **第2部分：定制**
 
-* [JavaScript 脚本和模板](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
-* [数据模型最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=zh-Hans){target="_blank"}
+* [JavaScript脚本和模板](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
+* [数据模型最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
 * [创建和管理操作员](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
 * [管理对文件夹的访问](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
@@ -275,10 +433,10 @@ Adobe [!DNL Campaign Classic] 商业从业者专业人员
 
 **第4部分：活动、工作流、投放和报告**
 
-* [工作流最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=zh-Hans){target="_blank"}
-* [建立和管理审批流程](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
+* [工作流最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+* [设置和管理审批流程](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
 * [扩充](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
-* [导入和导出最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=zh-Hans){target="_blank"}
+* [导入和导出最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
 
 ## 续订您的认证
 
