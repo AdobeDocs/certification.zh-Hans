@@ -5,9 +5,10 @@ solution: Workfront
 role: Developer
 badge: label="考试AD0-E908" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
+exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -209,6 +210,10 @@ Adobe [!DNL Workfront] 核心开发人员认证专家拥有：
 
 <br>
 
+**参加练习测试**
+
+{{practice-test}}
+
 +++
 
 <br>
@@ -233,7 +238,7 @@ Adobe [!DNL Workfront] 核心开发人员认证专家拥有：
 
 {{about-certification-exam}}
 
-## 安排或参加考试AD0-E905
+## 安排或参加考试AD0-E908
 
 >[!NOTE]
 >

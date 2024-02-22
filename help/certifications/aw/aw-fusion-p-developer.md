@@ -6,9 +6,9 @@ role: Developer
 badge: label="考试AD0-E902" type="neutral"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '1253'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -167,11 +167,9 @@ ht-degree: 0%
 
 <br>
 
-**示例问题**
+**参加练习测试**
 
-{{sample-questions}}
-
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+{{practice-test}}
 
 +++
 
