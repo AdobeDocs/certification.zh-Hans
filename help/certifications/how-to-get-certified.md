@@ -4,9 +4,9 @@ description: 了解如何获得Adobe认证。 在获得认证之前、期间和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Adobe使用Examity管理在线监考考试。
 
 * [如何注册在线监考考试](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [如何启动考试并连接到监考员](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [考试考生系统要求](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB 参加考试]
 
@@ -43,9 +44,11 @@ Adobe使用Examity管理在线监考考试。
 
 **取消和重新计划**
 
-如果在预定考试预约48小时之前发起，则可以取消和重新计划。 候选人必须自行修改此约会。
+如果在预定考试预约48小时之前发起，通常可以取消和重新计划。 候选人必须自行修改此约会。
 
 Adobe支持或检查均无法处理重新计划和取消请求。 48小时以内的课程取消除考试费外，还须缴纳重新安排学期的费用。
+
+如果您无法重新安排考试，即使考试时间已超过48小时，这可能是因为有新版本的考试。 如果预约参加的是以前的考试，您将无法重新安排考试预约。 我们建议您尽量预约考试。 如果不能，您需要取消考试，并安排新的约会来参加新的考试。
 
 **考试之后**
 

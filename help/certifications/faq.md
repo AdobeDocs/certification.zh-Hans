@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '2342'
+source-wordcount: '2485'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,16 @@ ht-degree: 1%
 +++如果遇到认证问题，我可以联系谁？
 
 有关考试注册、考试付款、考试投放、测试中心、考试评论、考试问题、测试体验、考试安排或有关认证门户的问题，请联系 `certif@adobe.com`.
+
++++
+
++++我可以取消或重新安排考试预约吗？
+
+如果在预定考试预约48小时之前发起，通常可以取消和重新计划。 候选人必须自行修改此约会。
+
+Adobe支持或检查均无法处理重新计划和取消请求。 48小时以内的课程取消除考试费外，还须缴纳重新安排学期的费用。
+
+如果您无法重新安排考试，即使考试时间已超过48小时，这可能是因为有新版本的考试。 如果预约参加的是以前的考试，您将无法重新安排考试预约。 我们建议您尽量预约考试。 如果不能，您需要取消考试，并安排新的约会来参加新的考试。
 
 +++
 
