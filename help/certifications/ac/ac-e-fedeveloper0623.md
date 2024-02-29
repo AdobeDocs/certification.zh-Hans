@@ -6,10 +6,11 @@ product: Magento
 role: Developer
 badge: label="考试AD0-E720" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
+source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 1%
+source-wordcount: '794'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 1%
 ### 考试详细信息 {#exam-details}
 
 * 级别：专家（1-3年经验）
-* 及格分数：33/50
+* 及格分数：29/50
 * 时间：100分钟
 * 投放：在线监护（需要访问摄像头）
 * 可用语言：英语
