@@ -7,7 +7,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 5d8842eefd4c61966743d52e3eb843890d92648c
+source-git-commit: f4aa50b8d3121567589fb94139bd01b833a6bd04
 workflow-type: tm+mt
 source-wordcount: '1209'
 ht-degree: 0%
@@ -159,7 +159,7 @@ ht-degree: 0%
 
 确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击Adobe [!DNL Target] 商业从业者专业资格更新考试链接如下。
 
-[!BADGE 接受Adobe [!DNL Target] 商业从业者专业资格更新考试AD5-E838]{type=Informative url="https://scorpion.caveon.com/launchpad/ad5-e838-adobe-target-business-practitioner-professional-renewal newtab=true"}
+[!BADGE 接受Adobe [!DNL Target] 商业从业者专业资格更新考试AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
 
 >[!NOTE]
 >
