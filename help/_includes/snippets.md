@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 
 **购买优惠券**
 
-你可以用凭单来支付考试费用。 要购买考试凭单，请转到 [Adobe认证凭证中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hans){target="_blank"}.
+你可以用凭单来支付考试费用。 要购买考试凭单，请转到 [Adobe认证凭证中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 您可以在安排考试时应用优惠券代码。 有关优惠券折扣信息，请参阅下文。
 
