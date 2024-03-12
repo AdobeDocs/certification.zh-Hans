@@ -1,20 +1,20 @@
 ---
 title: 常见问题解答
-description: 获取有关 Adobe 数字体验凭据项目问题的答案。了解认证的好处、注册方法以及相关联系人。
+description: 获取有关Adobe数字体验认证计划的问题的答案。 了解认证的好处、注册方法以及相关联系人。
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
 workflow-type: tm+mt
 source-wordcount: '2485'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Adobe认证常见问题解答
 
-要了解有关Adobe数字体验凭据计划的更多信息，请参阅下面的常见问题解答(FAQ)。
+要了解有关Adobe数字体验认证计划的更多信息，请参阅下面的常见问题解答(FAQ)。
 
 ![横幅](/help/certifications/assets/home_banner_narrow.png)
 
