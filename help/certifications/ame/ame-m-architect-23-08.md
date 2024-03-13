@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="考试AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 87ed809862370a10d085156bea4f947a3b2f0743
+source-git-commit: c81e158a12b6f52a01919f15c32e6614139ebd9d
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 1%
+source-wordcount: '733'
+ht-degree: 0%
 
 ---
 
@@ -154,7 +154,7 @@ ht-degree: 1%
 **第一节　：项目领导**
 
 * [Champion博客 — Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
 * [文档 — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 
 **第2部分：Adobe [!DNL Marketo Engage] 架构设计**
@@ -171,18 +171,15 @@ ht-degree: 1%
 
 **第4节：高级操作**
 
-* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
 * [禁止软退回](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [了解工作区和人员分区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
-
 <br>
 
-**示例问题**
+**参加练习测试**
 
-{{sample-questions}}
-
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+{{practice-test}}
 
 +++
 
