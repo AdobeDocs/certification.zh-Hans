@@ -7,16 +7,20 @@ role: Developer
 badge: label="考试AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 1%
+source-wordcount: '599'
+ht-degree: 0%
 
 ---
 
 # Adobe Experience Manager DevOps工程师专家认证历程
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/370) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -137,41 +141,17 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第1部分：配置Adobe Experience Manager**
+**考试准备指南**
 
-* [基本配置概念](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
-* [AEM疑难解答](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
-* [在AEM中配置OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html){target="_blank"}
+{{exam-prep-guide}}
 
-**第2部分：操作Cloud Manager和Cloud Manager API**
+<a href="https://app.rockinfo.com/courses/playScorm/370" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [管理环境](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html){target="_blank"}
-* [迁移到AEMas a Cloud Service历程快速入门](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
-* [Adobe I/O集成概述](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
-**第3部分：配置Web代理基础架构**
-
-* [Dispatcher配置](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
-* [缓存性能](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
-
-**第4部分：构建和部署**
-
-* [代码部署](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
-* [配置生产管道](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
-* [如何使用包](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
-* [AEM项目结构](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
-
-**第5节：监测和报告质量指标**
-
-* [监控和维护AEM实例](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
-* [困难日：添加同一测试的多个实例](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
-* [AEMas a Cloud Service的架构简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html){target="_blank"}
-* [自动缩放](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
-
-**第六节　经营Admin Console**
-
-* [对AEMas a Cloud Service的IMS支持](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
-* [Adobe IMS用户组和AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
 +++
 

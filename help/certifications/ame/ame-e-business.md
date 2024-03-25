@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 352e6c3a35bb1429a187800519bedc9495e8f7cd
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe的认证历程 [!DNL Marketo Engage] 商业从业者专家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/390) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -162,70 +166,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第一节　管理和维护**
-
-* [了解 [!DNL Salesforce] 同步](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
-* [导出全部列表 [!DNL Marketo] API字段名称](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
-* [自定义字段类型术语表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
-* [选择语言、区域设置和时区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
-* [了解工作区和人员分区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
-* [审核记录概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
-
-**第2部分：营销活动/营销活动管理**
-
-* [查找筛选器并将其添加到智能列表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.html){target="_blank"}
-* [了解智能营销活动](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
-* [在流程步骤中使用添加选项](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.html){target="_blank"}
-* [了解计划成员资格](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-* [创建项目频道](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
-* [令牌概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
-* [管理我的令牌](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.html){target="_blank"}
-* [了解参与计划](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
-* [参与仪表板](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.html){target="_blank"}
-* [添加A/B测试](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.html){target="_blank"}
-* [了解事件程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [创建Webhook](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
-
-**第3部分：潜在客户管理**
-
-* [设置隐藏表单字段值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
-* [更改得分](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
-* [发送警报](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.html){target="_blank"}
-* [在人员的活动日志中过滤活动类型](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.html){target="_blank"}
-* [有趣的时刻](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.html){target="_blank"}
-* [触发有趣时刻的令牌](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
-* [了解收入模型](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
-
-**第4节：数据管理**
-
-* [更改数据值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
-* [定义表单中单选或选定字段的值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html){target="_blank"}
-* [Marketo活动数据保留策略](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
-* [创建分段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
-* [在智能列表中使用区段过滤器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
-
-**第五节　：报告**
-
-* [报表类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [了解计划成员资格](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-* [创建计划绩效报表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.html){target="_blank"}
-* [创建程序分析器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.html){target="_blank"}
-* [订阅基本报表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html){target="_blank"}
-
-**第6部分：最佳实践**
-
-* [最佳实践：如何组织项目](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
-* [发送示例电子邮件](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
-* [预览包含动态内容的电子邮件](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html){target="_blank"}
-* [更改得分](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
-* [引导评分的最终指南](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
-* [了解文件夹](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html){target="_blank"}
-
-<br>
-
 **参加练习测试**
 
 {{practice-test}}
+
+**考试准备指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/390" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 +++
 

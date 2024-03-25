@@ -7,9 +7,9 @@ role: Developer
 badge: label="考试AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe的认证历程 [!DNL Commerce] 前端开发人员专业版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/384) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -142,50 +146,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1部分：主题管理（主题层次结构、图像配置和翻译）**
-
-* [主题](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [版面](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [本地化](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
-* [翻译](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-
-**第2部分：布局XML和模板**
-
-* [常见自定义任务](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [组件开发](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [安全性](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**第3部分：样式**
-
-* [编码标准](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [{less}](https://lesscss.org/){target="_blank"}
-* [LESS编码标准](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
-* [自定义主题样式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**第4部分：JavaScript**
-
-* [JavaScript简介](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [UI组件概念](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/){target="_blank"}
-* [可观察项(KnowOutJS)](https://knockoutjs.com/documentation/observables.html){target="_blank"}
-
-**第5部分：管理员配置和PageBuilder**
-
-* [页面](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [什么是Page Builder？](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [JavaScript捆绑](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**第6节：工具（CLI和Grunt）**
-
-* [配置指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [生成变量](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [云基础架构上的Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **参加练习测试**
 
 {{practice-test}}
+
+**考试准备指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/384" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 +++
 

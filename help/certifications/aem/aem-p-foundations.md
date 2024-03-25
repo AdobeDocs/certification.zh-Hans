@@ -7,16 +7,20 @@ role: User
 badge: label="考试AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 14%
+source-wordcount: '374'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager] 技术基础专业人员
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/368) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -124,32 +128,16 @@ ht-degree: 14%
 
 {{study-materials-intro}}
 
-**第1部分：内容创建**
+**考试准备指南**
 
+{{exam-prep-guide}}
 
-* [AEM 6.4 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [AEM 6.5 Authoring 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
+<a href="https://app.rockinfo.com/courses/playScorm/368" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**第2节：实施**
-
-* [AEM组件 — 基础知识](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
-* [AEM 中的 Headless 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
-* [创建页面模板](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
-* [使用客户端库](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html){target="_blank"}
-
-**第3部分：设置和部署**
-
-* [Web 控制台](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
-* [AEM 项目结构](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
-* [包管理器](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html#what-are-packages){target="_blank"}
-
-**第四节　：维护与用户管理**
-
-* [管理用户、组和用户角色](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html#add-a-user){target="_blank"}
-* [用户管理和安全性](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
-* [osgi配置设置](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 +++
 

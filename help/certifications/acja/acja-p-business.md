@@ -6,16 +6,21 @@ product: Customer Journey Analytics
 role: User
 badge: label="考试AD0-E608" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 17%
+source-wordcount: '372'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Customer Journey Analytics] 商业从业者专业人员
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/375) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -102,37 +107,20 @@ ht-degree: 17%
 
 {{study-materials-intro}}
 
-**第1部分：组件**
-
-* [可视化图表概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [数据视图概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hans){target="_blank"}
-* [过滤器概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html){target="_blank"}
-* [归因组件设置](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/attribution.html){target="_blank"}
-
-**第二节　：报告**
-
-* [流失概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/fallout/fallout-flow.html){target="_blank"}
-* [日程表和日期范围概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-date-ranges/calendar.html){target="_blank"}
-* [连接概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=zh-Hans){target="_blank"}
-
-**第3节：分发**
-
-* [计划项目](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/t-schedule-report.html?lang=zh-Hans){target="_blank"}
-* [共享项目](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/share-projects.html){target="_blank"}
-* [策划项目](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/curate.html){target="_blank"}
-
-**第4部分：数据分析**
-
-* [在 Customer Journey 中使用 Adobe Analytics 报告包](https://experienceleague.adobe.com/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/aa-data-in-cja.html){target="_blank"}
-* [Analytics归因模型和回顾窗口](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en%22%3ehttps://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html){target="_blank"}
-* [维恩图](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html){target="_blank"}
-* [筛选器运算符](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
-
-<br>
-
 **参加练习测试**
 
 {{practice-test}}
+
+**考试准备指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/375" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 +++
 

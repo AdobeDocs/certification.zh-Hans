@@ -7,16 +7,20 @@ role: Developer
 badge: label="考试AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 1%
+source-wordcount: '508'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Forms] 后端开发人员专业版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/367) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -130,40 +134,27 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第1部分：Forms创建和管理**
+**考试准备指南**
 
-* [Adobe Experience Manager 6.5 Forms指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [AEM Forms数据集成](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
-* [AEM Forms教程和视频](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
-* [AEM 6.5 Developing用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+{{exam-prep-guide}}
 
-**第2部分：流程和工作流**
+<a href="https://app.rockinfo.com/courses/playScorm/367" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Adobe Experience Manager 6.5 Forms指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Adobe Experience Manager 6.4 Forms指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-* [管理端点](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
-
-**第3部分：管理和故障排除**
-
-* [日志文件安装问题疑难解答 |Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
-* [AEM 6.4 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [Adobe Experience Manager 6.5发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html){target="_blank"}
-* [Adobe Experience Manager 6.5 Forms指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Dispatcher概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [AEM 6.5 Authoring用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-
-**第4部分：API端点和集成**
-
-* [Experience Manageras a Cloud Service文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [Adobe Experience Manager 6.4 Forms指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 **示例问题**
 
 {{sample-questions}}
 
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   查看示例问题
+</span>
+</a>
 
 +++
 

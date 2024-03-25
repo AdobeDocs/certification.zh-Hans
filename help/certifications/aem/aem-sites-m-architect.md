@@ -7,16 +7,20 @@ role: Data Architect
 badge: label="考试AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 2572f234a1a51667cfc584607c50af6bd14c0c8d
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 3%
+source-wordcount: '639'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Sites] 架构师母版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/374) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -139,91 +143,27 @@ ht-degree: 3%
 
 {{study-materials-intro}}
 
-**第1部分：发现**
+**考试准备指南**
 
-* [AEM 6.5 Developing用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Assets指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM 6.4 Mobile用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
-* [AEM Assets视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 Communities指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [AEM Sites视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [AEM 6.5 Managing用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [AEM as a cloud service简介](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
-* [Cloud Manager简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
-* [AEM Foundation视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
-* [HTTP/2简介](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
-* [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [AEM和Adobe Target快速入门](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**第2部分：解决方案设计**
+<a href="https://app.rockinfo.com/courses/playScorm/374" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [AEM Assets视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [SPA/SEO：Google首页的单页应用程序指南](https://snipcart.com/spa-seo){target="_blank"}
-* [Sling上下文感知配置](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
-* [会议通话：Sling上下文感知配置](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
-* [AEM Sites视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [如何基于AEM 6.4中的模板显示/隐藏页面属性](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [AEM Granite自定义渲染条件](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
-* [在React应用程序中防止XSS](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
-* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM 6.4 Mobile用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
-* [核心组件简介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
-* [AEM 6.5 Authoring用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [AEM Sites视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [AEM Screens最佳实践](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html){target="_blank"}
-* [Adobe帮助文档](https://helpx.adobe.com/cn/enterprise/using/adobe-asset-link.html){target="_blank"}
-* [AEM 6.5 Forms指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Dispatcher概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [如何在AEM中清除Dispatcher缓存](https://www.axamit.com/blog/adobe/dispatcher-4#:~:text=At%20the%20low%20level%20dispatcher,the%20root%20of%20htdocs%20directory.){target="_blank"}
-* [AEM Cloud Service Dispatcher转换器](https://github.com/adobe/aem-cloud-service-dispatcher-converter){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [HTL指南](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html){target="_blank"}
-* [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
-* [AEM 6.4 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-
-**第3节：实施**
-
-* [AEM 6.5 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-* [Adobe企业文档](https://experienceleague.adobe.com/docs/){target="_blank"}
-* [Adobe [!DNL Experience Manager] 桌面应用程序概述](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
-* [AEM Foundation视频和Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
-* [Adobe Admin Console上的身份类型](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
-* [Dispatcher概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [AEM Sites视频和Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [Cloud Manager简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
-* [Adobe Target指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [AEM 6.5 Authoring用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Assets指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM Assets视频和Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [AEM 6.4 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [Experience Manageras a Cloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-
-
-**第4部分：资产类型**
-
-* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Oak TarMK内存映射文件](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
-* [Dispatcher概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [Apache Sling：用于资源解析的映射](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
-* [AEM搜索与Solr搜索](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
-* [TarMK：事实与数据](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
-* [Cloud Manager简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
-* [Cloud Manager：快速入门](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
-* [CQBufferedImageCache在资源上传期间占用栈](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
-* [Assets指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM Dispatcher缓存教程](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
-* [Lucene索引](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
-* [AEM 6.4 Developing用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 **示例问题**
 
 {{sample-questions}}
 
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   查看示例问题
+</span>
+</a>
 
 +++
 

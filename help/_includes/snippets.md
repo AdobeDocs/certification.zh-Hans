@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 请安排在星期日 — 星期四下午5点至凌晨2点之间的考试，以确保我们能够指派一名讲日语的监护。 如果你安排在这些时间以外，我们不能保证会讲日语的监护。
 
 [日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## 参加免费课程 {#take-course}
+
+这个免费的按需课程通过解释关键概念、实践演示和知识检查帮助您准备考试。
+
+## 考试准备指南 {#exam-prep-guide}
+
+免费的考试准备指南提供了量身定制的考试准备流程，包括考试成功所需的深入学习材料。

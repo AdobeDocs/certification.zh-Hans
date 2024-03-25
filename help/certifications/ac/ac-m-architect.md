@@ -8,17 +8,20 @@ level: Experienced
 badge: label="考试AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Commerce] 架构师母版
 
-
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/388) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -141,42 +144,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1部分：设计**
-
-* [创建产品](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [页面缓存](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
-* [简介 [!DNL Commerce] 客户管理](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
-* [活动和观察者](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
-* [SEO概述](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [商店详细信息](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [页面](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [添加新的支付集成（支付方式）](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [身份验证](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
-* [GraphQL概述](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
-
-**第二节　：审查**
-
-* [介绍](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [添加自定义文本字段属性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [应用程序测试指南简介](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [组件开发](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [最佳实践](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [配置清漆](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-
-**第3部分：配置和部署**
-
-* [配置参考指南](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [用于部署的配置文件](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [配置Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [货币](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [初始化和引导概述](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Fastly服务概述](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
-
-<br>
-
 **参加练习测试**
 
 {{practice-test}}
+
+**考试准备指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/388" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 +++
 

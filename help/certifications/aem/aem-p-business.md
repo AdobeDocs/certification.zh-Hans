@@ -7,16 +7,20 @@ role: User
 badge: label="考试AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 16%
+source-wordcount: '475'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager] 商业从业者专业人员
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/366) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -113,52 +117,27 @@ ht-degree: 16%
 
 {{study-materials-intro}}
 
-**第一节　：教育**
+**考试准备指南**
 
-* [创作指南概述](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [基本配置概念](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring.html){target="_blank"}
-* [升级到 AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/upgrading/upgrade.html){target="_blank"}
-* [了解AEM 6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] as a Cloud Service — 术语](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/terminology.html){target="_blank"}
-* [[!DNL Experience Manager] as a Cloud Service文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [使用AdobeAsset Link管理资源](https://helpx.adobe.com/cn/enterprise/using/manage-assets-using-adobe-asset-link.html){target="_blank"}
+{{exam-prep-guide}}
 
-**第2部分：架构**
+<a href="https://app.rockinfo.com/courses/playScorm/366" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [AEM 6.4 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [Dispatcher 概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-
-**第三节　：业务分析**
-
-* [AEM 6.4 Managing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/managing/home.html){target="_blank"}
-* [AEM 6.5 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [AEM 6.5 Authoring 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 Communities指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [AEM 6.5 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 [!DNL Forms] 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [AEM 6.5 Managing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [[!DNL AEM Screens] 和最佳实践指南](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html){target="_blank"}
-
-**第四节　：设置与实施**
-
-* [AEM 6.4 Authoring 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/home.html){target="_blank"}
-* [AEM 6.4 Developing 用户指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
-* [AEM 6.5 Administering 用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM开发 — 准则和最佳实践](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=zh-Hans){target="_blank"}
-* [与Adobe集成 [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html){target="_blank"}
-* [AEM [!DNL Sites] 视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 **示例问题**
 
 {{sample-questions}}
 
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   查看示例问题
+</span>
+</a>
 
 +++
 

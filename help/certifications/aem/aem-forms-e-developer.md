@@ -7,16 +7,20 @@ role: Developer
 badge: label="考试AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 7%
+source-wordcount: '542'
+ht-degree: 1%
 
 ---
 
 # Adobe的认证历程 [!DNL Experience Manager Forms] 开发人员专家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/372) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -113,7 +117,7 @@ ht-degree: 7%
 
 **第4部分：API端点和集成(8%)**
 
-* 与 Adobe Experience Cloud 集成
+* 与Adobe Experience Cloud集成
 * 生成和使用各种端点服务
 
 **第5款：互动通信(4%)**
@@ -148,40 +152,20 @@ ht-degree: 7%
 
 {{study-materials-intro}}
 
-**第1部分：Forms创建和管理**
-
-* [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-* [AEM Forms数据集成](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html){target="_blank"}
-* [发布表单简介](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html#aem-forms-portal-components-overview){target="_blank"}
-* [使用客户端库](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
-
-**第2部分：流程和工作流**
-
-* [AEM FormsTutorials和视频](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
-* [草稿和提交的自定义存储](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
-* [输出服务](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
-
-**第3部分：管理和故障排除**
-
-* [使用日志调试 AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
-* [为Forms5HTML启用日志记录](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
-* [Adobe Experience Manager 6.5最新Service Pack发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [配置 Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=zh-Hans){target="_blank"}
-
-**第4部分：API端点和集成**
-
-* [将Adobe Experience Manager Forms作为Cloud Service与Acrobat Sign集成 |Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
-
-**第五节　：互动通信**
-
-* [交互通信概述](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
-* [交互式通信条件](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
-
-<br>
-
 **参加练习测试**
 
 {{practice-test}}
+
+**考试准备指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/372" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 +++
 

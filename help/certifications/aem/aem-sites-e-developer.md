@@ -7,16 +7,20 @@ role: Developer
 badge: label="考试AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: dddfd2d13bd27666a4a17e4c8002b91b555381ee
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '561'
-ht-degree: 2%
+source-wordcount: '496'
+ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager Sites] 开发人员专家
+# Adobe的认证历程 [!DNL Experience Manager] Sites开发人员专家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/369) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -128,44 +132,20 @@ ht-degree: 2%
 
 {{study-materials-intro}}
 
-**第1部分：配置**
-
-* [Dispatcher简介](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html){target="_blank"}
-* [Dispatcher概述](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [AEM Assets视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [Assets指南](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [AEM 6.5 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-
-**第2部分：AEM开发**
-
-* [AEM 6.5 Developing用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [AEM Sites - WKND教程快速入门](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=zh-Hans){target="_blank"}
-* [AEM 6.5 Authoring用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-
-**第3部分：构建和部署**
-
-* [核心组件简介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
-* [AEM 6.5 Developing用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Adobe [!DNL Experience Manager as a Cloud Service] 视频和Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
-* [AEM 6.5 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-
-**第四节　：环境维护**
-
-* [[!DNL Experience Manager as a Cloud Service] 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [AEM Foundation视频和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
-* [部署和维护](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html){target="_blank"}
-* [AEM 6.5 Administering用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM 6.5 Deploying用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-
-<br>
-
 **参加练习测试**
 
 {{practice-test}}
+
+**考试准备指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/369" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   查看考试准备指南
+</span>
+</a>
 
 +++
 
