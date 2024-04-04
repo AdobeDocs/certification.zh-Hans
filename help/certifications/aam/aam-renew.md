@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
+source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
 workflow-type: tm+mt
-source-wordcount: '1714'
+source-wordcount: '1729'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 >[!TAB 专业]
 
-## Adobe [!DNL Audience Manager] 商业从业者专业更新考试
+### Adobe [!DNL Audience Manager] 商业从业者专业更新考试
 
 您当前应在以下位置获得认证（未过期）：
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 * 费用：免费
 * 考试ID：AD5-E852Adobe [!DNL Audience Manager] 商业从业者专业更新考试
 
-### 考试目的和范围**
+### 考试目的和范围
 
-**区段创建和整合32%**
+**第1部分：区段创建和联合(32%)**
 
 * 确定将第一方、第二方和第三方数据用于定位和分析目的的方法
 * 描述激活业务或营销活动目标的基本流程
@@ -70,27 +70,27 @@ ht-degree: 0%
 * 识别不同类型的目标
 * 确定不同类型的源
 
-**特征创建16%**
+**第2部分：特征创建(16%)**
 
 * 给定场景，识别信号、特征、区段和受众
 * 识别不同类型特征的用途
 
-**报告和测量16%**
+**第3款：报告和计量(16%)**
 
 * 给定场景，生成报表以衡量激活或营销活动目标
 * 给定场景，根据匹配率比较受众
 
-**疑难解答10%**
+**第4部分：故障排除(10%)**
 
 * 在给定场景下，对来自不同源和源类型的入站数据进行故障诊断
 * 验证入站数据文件的格式
 
-**分类12%**
+**第五节　：分类(12%)**
 
 * 使用清晰一致的命名法确定有组织文件夹结构的最佳实践
 * 使用一致且清晰的命名法将特征和区段分类到文件夹中
 
-**配置文件合并、ID同步和Audience Marketplace14%**
+**第6节：配置文件合并、ID同步和Audience Marketplace(14%)**
 
 * 将用户特征组织到单个统一的配置文件中，以创建基于家庭或设备的受众
 * 使用Audience Marketplace识别激活
@@ -161,18 +161,13 @@ ht-degree: 0%
 >
 >这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
 
-
-
-
-<!--divider-->
-
 >[!TAB 专家]
 
 您当前应在以下位置获得认证（未过期）：
 
 * Adobe Audience Manager商业从业者专家
 
-## 续订认证的说明：
+### 续订认证的说明：
 
 * **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
 * **步骤2**：查看考试目标和资源
@@ -188,9 +183,9 @@ ht-degree: 0%
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：AD5-E826 - Adobe Audience Manager商业从业者专家续约
+* 考试ID：AD5-E826 - Adobe Audience Manager商业从业者专家续约考试
 
-**考试目的和范围**
+### 考试目的和范围
 
 **第1部分：区段创建和联合(25%)**
 
@@ -229,7 +224,7 @@ ht-degree: 0%
 
 [!BADGE 示例问题]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**资源：**
+### 资源：
 
 * [Adobe [!DNL Audience Manager] 产品文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe支持 — Experience Cloud受众](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
@@ -249,11 +244,11 @@ ht-degree: 0%
 
 >[!TAB 主控]
 
-您当前应在以下位置获得认证（未过期）：
+### 您当前应在以下位置获得认证（未过期）：
 
 * Adobe Audience Manager Architect母版
 
-## 续订认证的说明
+### 续订认证的说明
 
 * **步骤1**  — 查看考试目标
 * **步骤2**  — 查看资源
@@ -269,11 +264,11 @@ ht-degree: 0%
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：AD5-E825 - Adobe Audience Manager Architect主续订
+* 考试ID：AD5-E825 - Adobe Audience Manager Architect续订主考试
 
-**范围和目标：**
+## 考试目的和范围：
 
-第1款：实施情况分析(28%)
+**第1款：实施情况分析(28%)**
 
 * 确定如何指导和支持将AAM作为独立产品或云解决方案的一部分进行实施
 * 分析出站目标选项并推荐AAM实施方法
@@ -281,14 +276,14 @@ ht-degree: 0%
 * 识别访客资料查看器、标记、RBAC等功能以与业务目标保持一致
 * 确定如何设计和测试创建区段和特征所需的像素
 
-第2部分：解决方案设计和Recommendations (17%)
+**第2部分：解决方案设计和Recommendations (17%)**
 
 * 根据客户的Audience和Activation用例确定AAM功能
 * 应用过程概念以利用受众身份解决方案来补充设计架构
 * 识别属性和行为数据，并将其映射到特定的业务用例
 * 应用过程概念设计文件夹分类和命名约定
 
-第3部分：分段和激活(31%)
+**第3部分：分段和激活(31%)**
 
 * 应用过程概念在中创建目标 [!DNL Audience Manager]
 * 识别信号以创建基于规则的特征、载入的特征和算法特征
@@ -297,12 +292,12 @@ ht-degree: 0%
 * 应用过程概念来创建算法或预测模型
 * 根据用例确定分段逻辑
 
-第4部分：隐私和数据管理(7%)
+**第4部分：隐私和数据管理(7%)**
 
 * 推荐 [!DNL Audience Manager] 与治理、隐私和安全相关的功能
 * 确定符合政府法规的客户数据策略
 
-第5款：业绩和报告情况(17%)
+**第5款：业绩和报告情况(17%)**
 
 * 确定如何在AAM中配置报表以收集信号、特征并根据业务需求细分性能
 
