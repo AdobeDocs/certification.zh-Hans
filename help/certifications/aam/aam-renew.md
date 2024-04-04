@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ ht-degree: 0%
 
 >[!TAB 专业]
 
+## 续订认证的说明：
+
+* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤2**：查看考试目标和资源
+* **步骤3**：参加并通过考试
+
 ### Adobe [!DNL Audience Manager] 商业从业者专业更新考试
 
 您当前应在以下位置获得认证（未过期）：
 
 * Adobe [!DNL Audience Manager] 商业从业者专业人员
-
-### 续订认证的说明：
-
-* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-* **步骤2**：查看考试目标和资源
-* **步骤3**：参加并通过考试
 
 ### 准备就绪
 
@@ -163,15 +163,15 @@ ht-degree: 0%
 
 >[!TAB 专家]
 
-您当前应在以下位置获得认证（未过期）：
-
-* Adobe Audience Manager商业从业者专家
-
-### 续订认证的说明：
+## 续订认证的说明：
 
 * **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
 * **步骤2**：查看考试目标和资源
 * **步骤3**：参加并通过考试
+
+### 您当前应在以下位置获得认证（未过期）：
+
+* Adobe Audience Manager商业从业者专家
 
 ### 准备就绪
 
@@ -244,15 +244,15 @@ ht-degree: 0%
 
 >[!TAB 主控]
 
-### 您当前应在以下位置获得认证（未过期）：
-
-* Adobe Audience Manager Architect母版
-
-### 续订认证的说明
+## 续订认证的说明
 
 * **步骤1**  — 查看考试目标
 * **步骤2**  — 查看资源
 * **步骤3**  — 参加并通过考试
+
+### 您当前应在以下位置获得认证（未过期）：
+
+* Adobe Audience Manager Architect母版
 
 ### 准备就绪
 
