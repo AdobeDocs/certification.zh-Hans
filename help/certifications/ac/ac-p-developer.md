@@ -7,9 +7,9 @@ role: Developer
 badge: label="考试AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '754'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 参加 [培训课程](https://app.rockinfo.com/courses/106) 其中包括关键概念的解释、实践演示和知识检查。
+>* **课程：** 获取 [Adobe Commerce开发人员专业课程](https://app.rockinfo.com/courses/106) 其中包括关键概念的解释、实践演示和知识检查。 如果你刚开始的话 [Adobe Commerce基础课程](https://app.rockinfo.com/courses/148) 提供了知识基础，您可以在认证历程中在此基础上进行构建。
 >
 >* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/382) 提供量身定制的考试准备流程，包括考试成功所需的深入学习材料。
 >
@@ -190,10 +190,17 @@ ht-degree: 0%
 
 {{take-course}}
 
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   参加Adobe Commerce基础课程
+</span>
+</a>
+
 <a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   参加课程
+   参加Adobe Commerce开发人员专业课程
 </span>
 </a>
 

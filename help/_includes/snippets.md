@@ -1,5 +1,5 @@
 ---
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
 source-wordcount: '1800'
 ht-degree: 0%
@@ -227,9 +227,13 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
 [日语计划说明](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## 参加免费课程 {#take-course}
 
 这个免费的按需课程通过解释关键概念、实践演示和知识检查帮助您准备考试。
+
+<!--divider-->
 
 ## 考试准备指南 {#exam-prep-guide}
 
