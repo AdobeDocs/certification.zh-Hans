@@ -1,7 +1,7 @@
 ---
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -231,7 +231,7 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
 ## 参加免费课程 {#take-course}
 
-这个免费的按需课程通过解释关键概念、实践演示和知识检查帮助您准备考试。
+我们免费的按需课程帮助您准备考试。 课程可能包括对关键概念的解释、产品演练、实践演示和知识检查。
 
 <!--divider-->
 

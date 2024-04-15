@@ -2,9 +2,9 @@
 user-guide-title: Adobe 认证
 breadcrumb-title: Adobe 认证
 user-guide-description: 了解 [!DNL Experience Cloud] Adobe认证。 了解获得认证能为您做什么。
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '253'
 ht-degree: 33%
 
 ---
@@ -119,6 +119,8 @@ ht-degree: 33%
       + [续订](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Journey Optimizer概述](/help/certifications/ajo/ajo-overview.md)
+      + 专业 {#ajo-professional}
+         + [商业从业者](/help/certifications/ajo/ajo-p-business.md)
       + 专家 {#ajo-expert}
          + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [续订](/help/certifications/ajo/ajo-renew.md)
