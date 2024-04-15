@@ -5,7 +5,8 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E607" type="neutral"
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
+source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -299,3 +300,4 @@ ht-degree: 0%
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+
