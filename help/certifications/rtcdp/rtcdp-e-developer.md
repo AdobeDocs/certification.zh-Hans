@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="考试AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 3%
@@ -21,6 +21,18 @@ ht-degree: 3%
 ## 考试描述 {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### 考试详细信息 {#exam-details}
+
+* 级别：专家（1-3年经验）
+* 及格分数：45/68
+* 时间：136分钟
+* 投放：在线监护（需要访问摄像头）
+* 语言：英语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ ht-degree: 3%
 
 * AEP
 * 边缘网络
-
-<br>
-
-### 考试详细信息 {#exam-details}
-
-* 级别：专家（1-3年经验）
-* 及格分数：45/68
-* 时间：136分钟
-* 投放：在线监护（需要访问摄像头）
-* 语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E605
 
 <br>
 

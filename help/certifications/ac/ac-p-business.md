@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->**课程**：如果您刚刚开始，则 [Adobe Commerce基础课程](https://app.rockinfo.com/courses/148) 提供了知识基础，您可以在认证历程中在此基础上进行构建。
+>* **课程**：使用 [Adobe Commerce商业从业者专业课程](https://app.rockinfo.com/courses/105) 了解关键概念的解释、实践演示和知识检查。 如果你刚开始的话 [Adobe Commerce基础课程](https://app.rockinfo.com/courses/148) 提供了知识基础，您可以在认证历程中在此基础上进行构建。
 >
->**考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/383) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。
+>* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/383) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -148,23 +148,15 @@ ht-degree: 0%
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[参加Adobe Commerce基础课程](https://app.rockinfo.com/courses/148)
 
-<span class="spectrum-Button-label has-no-wrap">
-   参加Adobe Commerce基础课程
-</span>
-</a>
+[参加Adobe Commerce商业从业者专业课程](https://app.rockinfo.com/courses/105)
 
 **考试准备指南**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/383" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   查看考试准备指南
-</span>
-</a>
+[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/383)
 
 +++
 
