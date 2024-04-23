@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -115,14 +115,14 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1部分：活动和历程优化**
+**第1部分：活动和历程优化(48%)**
 
 * 给定场景，确定如何构建客户历程
 * 给定场景，确定如何验证客户历程
 * 假定运行历程后出现的情况，请确定如何评估客户历程
 * 给定场景，标识何时使用单一事件或业务事件
 
-**第2部分：Offer decisioning**
+**第2节：Offer decisioning(12%)**
 
 * 了解如何创建优惠收藏集
 * 确定offer decisioning的各个阶段
@@ -131,7 +131,7 @@ ht-degree: 0%
 * 给定场景，确定何时大规模使用offer decisioning或个性化
 * 给定一个方案，区分静态选件和动态选件
 
-**第3部分：内容创作**
+**第3部分：内容创作(20%)**
 
 * 确定如何使用资源要点
 * 给定场景，识别如何在电子邮件中添加个性化字段
@@ -141,7 +141,7 @@ ht-degree: 0%
 * 确定片段的类型
 * 识别如何创建电子邮件模板
 
-**第四节　：AEP基础**
+**第4款：AEP基础(20%)**
 
 * 给定场景，确定何时使用不同类型的数据
 * 确定审核用户档案属性和受众成员资格的位置
