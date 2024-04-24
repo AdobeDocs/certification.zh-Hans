@@ -8,10 +8,10 @@ level: Experienced
 badge: label="考试AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 15%
+source-wordcount: '557'
+ht-degree: 3%
 
 ---
 
@@ -38,8 +38,6 @@ ht-degree: 15%
 <br>
 
 ### 目标受众 {#intended-audience}
-
-**目标受众：**
 
 * [!DNL Audience Manager] 顾问
 * 多解决方案架构师
@@ -140,8 +138,8 @@ ht-degree: 15%
 **第一节　：实施情况分析**
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Analytics 集成](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=zh-Hans){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [Analytics集成](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=zh-Hans){target="_blank"}
+* [Adobe Experience Cloud Identity服务](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **第2部分：解决方案设计和Recommendations**
 
@@ -158,11 +156,11 @@ ht-degree: 15%
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
+* [Analytics管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
 
 **第5节：业绩和报告**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [Adobe Experience Cloud Identity服务](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 +++
 

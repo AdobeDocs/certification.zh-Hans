@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="考试AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 1%
+source-wordcount: '678'
+ht-degree: 2%
 
 ---
 
@@ -37,6 +37,8 @@ ht-degree: 1%
 <br>
 
 ### 目标受众 {#intended-audience}
+
+本认证的预定候选人包括以下小组/组织的成员：
 
 * 转化率优化工程师/架构师
 * 个性化工程师/架构师
