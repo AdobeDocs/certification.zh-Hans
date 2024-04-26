@@ -8,16 +8,20 @@ role: Data Architect,Developer
 badge: label="考试AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 5%
+source-wordcount: '387'
+ht-degree: 1%
 
 ---
 
 # 的认证历程 [!DNL Adobe Analytics] 架构师母版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/541) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -111,40 +115,11 @@ ht-degree: 5%
 
 {{study-materials-intro}}
 
-**第1部分：发现**
+**考试准备指南**
 
-* [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hans){target="_blank"}
-* [[!DNL Analytics] 组件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=zh-Hans){target="_blank"}
-* [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [[!DNL Analytics] 技术说明](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=zh-Hans){target="_blank"}
-* [数据层管理器](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
+{{exam-prep-guide}}
 
-**第2部分：解决方案设计**
-
-* [[!DNL Analytics] 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
-* [[!DNL Analytics] 组件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=zh-Hans){target="_blank"}
-* [[!DNL Analytics] Tools指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hans){target="_blank"}
-* [适用于Experience Cloud解决方案的iOS SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=zh-Hans){target="_blank"}
-* [[!DNL Analytics] 导入指南](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hans){target="_blank"}
-* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
-* [管理角色](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
-* [Admin Console概述](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
-* [单独管理用户](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
-
-**第三节　：岗位实施**
-
-* [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hans){target="_blank"}
-* [[!DNL Analytics] 组件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=zh-Hans){target="_blank"}
-* [[!DNL Analytics] 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
-* [事件驱动型数据层](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [[!DNL Analytics] 导出指南](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=zh-Hans){target="_blank"}
-* [Adobe [!DNL Target] 商业从业者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [[!DNL Analytics] 导入指南](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [[!DNL Analytics] Tools指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hans){target="_blank"}
-* [数据插入过程](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [使用标签在网站中实施Experience Cloud教程](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/541)
 
 <br>
 

@@ -7,16 +7,20 @@ role: Developer,Data Architect
 badge: label="考试AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 3%
+source-wordcount: '532'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Real-Time Customer Data Platform] 开发人员专家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/515) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -85,43 +89,43 @@ ht-degree: 3%
 
 {{exam-objectives}}
 
-**数据架构19%**
+**数据架构(19%)**
 
 * 根据方案，将RDBMS转换为Adobe [!DNL RT-CDP]的NoSQL数据模型
 * 演示建模实时客户配置文件的最佳实践
 * 设计身份策略和关系以进行建模
 
-**实时客户资料15%**
+**实时客户资料(15%)**
 
 * 描述截面梁组件的工作方式
 * 描述身份图的工作方式
 * 描述配置文件构成
 * 边缘与中心配置文件之间的差异
 
-**数据摄取13%**
+**数据摄取(13%)**
 
 * 描述CDP的数据摄取功能
 * 描述边缘摄取的功能
 * 描述有关数据摄取体系结构的高级技术
 
-**区段划分18%**
+**区段划分(18%)**
 
 * 描述在CDP中构建受众和区段的不同方式
 * 解释各种分段类型及其操作方式
 * 演示对如何将用例应用于区段/受众激活的理解
 
-**激活12%**
+**激活(12%)**
 
 * 解释CDP中的不同激活模式
 * 解释激活的护栏
 * 描述网站个性化
 
-**管理9%**
+**治理(9%)**
 
 * 应用Adobe治理的最佳实践 [!DNL RT-CDP] 实现
 * 描述如何跨各种服务管理数据
 
-**管理15%**
+**管理(15%)**
 
 * 了解监控功能
 * 描述警报
@@ -148,93 +152,11 @@ ht-degree: 3%
 
 {{study-materials-intro}}
 
-**章节1**
+**考试准备指南**
 
-* [Real-time Customer Profile概述](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=zh-Hans){target="_blank"}
-* [在查询服务中使用嵌套数据结构](https://experienceleague.adobe.com/docs/experience-platform/query/essential-concepts/nested-data-structures.html){target="_blank"}
-* [Real-time Customer Profile](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html#real-time-customer-profile){target="_blank"}
-* [架构字段组端点](https://experienceleague.adobe.com/docs/experience-platform/xdm/api/field-groups.html){target="_blank"}
-* [在UI中创建Adobe Analytics源连接](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html){target="_blank"}
-* [同意和偏好设置字段组](https://experienceleague.adobe.com/docs/experience-platform/xdm/field-groups/profile/consents.html?lang=zh-Hans){target="_blank"}
-* [XDM ExperienceEvent类](https://experienceleague.adobe.com/docs/experience-platform/xdm/classes/experienceevent.html){target="_blank"}
-* [在用户界面中定义XDM字段](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/fields/overview.html){target="_blank"}
-* [使用架构编辑器定义两个架构之间的一对一关系](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/relationship-ui.html?lang=zh-Hans){target="_blank"}
-* [数据建模的最佳实践](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/best-practices.html#considerations-for-entity-sorting){target="_blank"}
+{{exam-prep-guide}}
 
-**章节2**
-
-* [个人资料实体组合](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html#profile-entity-composition){target="_blank"}
-* [使用架构编辑器定义两个架构之间的一对一关系](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/relationship-ui.html#define-a-source-and-reference-schema){target="_blank"}
-* [默认合并策略](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html#id-stitching){target="_blank"}
-* [实时客户资料UI指南](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=zh-Hans){target="_blank"}
-* [实体端点（配置文件访问）](https://experienceleague.adobe.com/docs/experience-platform/profile/api/entities.html){target="_blank"}
-* [身份拼接](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html#id-stitching){target="_blank"}
-* [身份命名空间概述](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html#standard-namespaces){target="_blank"}
-* [XDM 系统概述](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=zh-Hans){target="_blank"}
-* [Identity服务概述](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=zh-Hans){target="_blank"}
-* [边缘个性化](https://experienceleague.adobe.com/docs/blueprints-learn/assets/web_sdk_sequence.svg){target="_blank"}
-* [边缘配置文件](https://experienceleague.adobe.com/docs/experience-platform/profile/edge-profiles.html){target="_blank"}
-
-**章节3**
-
-* [配置数据流以从UI中的云存储源摄取批量数据](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage.html#activate-inbound-data-for-profile-population){target="_blank"}
-* [Edge Network服务器API概述](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=zh-Hans){target="_blank"}
-* [通过Adobe Experience Platform Web SDK引入数据](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk.html){target="_blank"}
-* [使用HTTP API流式传输数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html){target="_blank"}
-* [事件转发快速入门](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/getting-started.html){target="_blank"}
-* [使用Adobe Target和Web SDK进行个性化](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html#platform-web-sdk-system-diagram){target="_blank"}
-* [为配置文件启用数据集并更新插入](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/enable-upsert.html#enable-the-dataset){target="_blank"}
-* [加密的数据摄取](https://experienceleague.adobe.com/docs/experience-platform/sources/api-tutorials/encrypt-data.html){target="_blank"}
-* [计划摄取运行](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/databases.html#schedule-ingestion-runs){target="_blank"}
-
-**章节4**
-
-* [分段服务概述](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=zh-Hans){target="_blank"}
-* [配置](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/ui-guide.html#configure){target="_blank"}
-* [Target跟踪疑难解答](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-target-traces.html){target="_blank"}
-* [区段生成器UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
-* [顺序分段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html#sequential){target="_blank"}
-* [流式分段查询类型](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html#query-types){target="_blank"}
-* [边缘分段UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=zh-Hans){target="_blank"}
-* [区段匹配概述](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html){target="_blank"}
-* [多实体分段概述](https://experienceleague.adobe.com/docs/experience-platform/segmentation/multi-entity-segmentation.html){target="_blank"}
-* [配置文件导出行为](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/cloud-storage/azure-event-hubs.html#profile-export-behavior){target="_blank"}
-* [Amazon S3连接](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/cloud-storage/amazon-s3.html){target="_blank"}
-* [流式客户细分](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
-
-**章节5**
-
-* [流配置文件导出目标（企业目标）](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html#streaming-profile-export){target="_blank"}
-* [将受众激活到流配置文件导出目标](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
-* [不同目标类型的配置文件导出行为](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/profile-export-behavior.html){target="_blank"}
-* [实时客户个人资料数据和细分的默认护栏](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=zh-Hans){target="_blank"}
-* [数据激活的护栏](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
-* [实时客户个人资料数据和细分的默认护栏](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=zh-Hans){target="_blank"}
-* [激活受众以边缘个性化目标](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-edge-personalization-destinations.html){target="_blank"}
-* [Adobe Experience Platform设置](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html#aep){target="_blank"}
-
-**章节6**
-
-* [数据管理工具](https://experienceleague.adobe.com/docs/experience-platform/landing/license/data-management-best-practices.html#data-management-tools){target="_blank"}
-* [了解在容量中的身份图更新时的删除逻辑](https://experienceleague.adobe.com/docs/experience-platform/identity/guardrails.html#deletion-logic){target="_blank"}
-* [数据使用策略违规](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html#data-usage-violation){target="_blank"}
-* [基于属性的访问控制概述](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html?lang=zh-Hans){target="_blank"}
-* [数据管理概述](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=zh-Hans){target="_blank"}
-* [假名配置文件](https://experienceleague.adobe.com/docs/experience-platform/profile/pseudonymous-profiles.html#pseudonymous-profile){target="_blank"}
-
-**章节7**
-
-* [部分批次摄取](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
-* [流式摄取验证](https://experienceleague.adobe.com/docs/experience-platform/ingestion/quality/streaming-validation.html){target="_blank"}
-* [Adobe I/O活动Webhook简介](https://developer.adobe.com/events/docs/guides/){target="_blank"}
-* [可观察性洞察API](https://developer.adobe.com/experience-platform-apis/references/observability-insights/){target="_blank"}
-* [警报概述](https://experienceleague.adobe.com/docs/experience-platform/observability/alerts/overview.html?lang=zh-Hans){target="_blank"}
-* [假名配置文件数据过期](https://experienceleague.adobe.com/docs/experience-platform/profile/pseudonymous-profiles.html){target="_blank"}
-* [立即在AEP中清理您的假名配置文件！](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-blogs/cleanup-up-your-pseudonymous-profiles-in-aep-now/ba-p/615378){target="_blank"}
-* [假名配置文件数据过期](https://experienceleague.adobe.com/docs/experience-platform/profile/pseudonymous-profiles.html){target="_blank"}
-* [基于属性的访问控制端到端指南](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/end-to-end-guide.html){target="_blank"}
-* [Identity Service](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html#identity-service){target="_blank"}
-* [用例概述](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/end-to-end-guide.html#use-case-overview){target="_blank"}
+[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/515)
 
 <br>
 

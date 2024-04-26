@@ -8,16 +8,20 @@ level: Experienced
 badge: label="考试AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 1%
+source-wordcount: '647'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Analytics] 开发人员专家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/530) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -147,39 +151,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第1部分：了解Adobe Experience Cloud生态系统中的Analytics**
+**考试准备指南**
 
-* [Analytics技术说明](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=zh-Hans){target="_blank"}
-* [设置Analytics和Experience CloudID](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=zh-Hans){target="_blank"}
-* [Analytics视频和教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**第2部分：基于解决方案设计参考(SDR)的策略和设计**
-
-* [管理资源](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Adobe Analytics] 文档](https://experienceleague.adobe.com/docs/analytics.html)
-
-**第3部分：Analytics实施和配置**
-
-* [实施 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hans){target="_blank"}
-* [了解和创建报告包](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html){target="_blank"}
-* [配置链接跟踪 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
-
-**第4节：标签管理系统**
-
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [标记概述](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [概述](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
-
-**第5部分：Mobile Services**
-
-* [为移动设备实施Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [将Mobile Services处理规则迁移到 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
-
-**第6部分：测试、验证和故障排除**
-
-* [Adobe Experience Platform Debugger概述](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
-* [启用、调试和自定义 [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [优化Analysis Workspace性能](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=zh-Hans){target="_blank"}
+[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/530)
 
 <br>
 

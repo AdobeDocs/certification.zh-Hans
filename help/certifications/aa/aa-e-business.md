@@ -7,16 +7,20 @@ role: User
 badge: label="考试AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 1%
+source-wordcount: '732'
+ht-degree: 0%
 
 ---
 
 # 的认证历程 [!DNL Adobe Analytics] 商业从业者专家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/533) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -26,13 +30,13 @@ ht-degree: 1%
 
 ### 考试详细信息 {#exam-details}
 
-* **级别：** 专家（1-3年经验）
-* **及格分数：** 31/50
-* **时间：** 120分钟
-* **投放：** 在线监护（需要访问摄像头）
-* **可用语言：** 英语、日语
-* **成本：** 225美元（全球）/ 150美元（印度）
-* **考试ID：** AD0-E208（英语）、AD0-E208-J（日语）
+* 级别：专家（1-3年经验）
+* 及格分数：31/50
+* 时间：120分钟
+* 投放：在线监护（需要访问摄像头）
+* 可用语言：英语、日语
+* 费用：225美元（全球）/150美元（印度）
+* 考试ID：AD0-E208（英语）、AD0-E208-J（日语）
 
 <br>
 
@@ -154,36 +158,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第一节　：业务分析**
+**考试准备指南**
 
-* [哪个 [!DNL Adobe Analytics] 我应该使用工具吗？](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
-* [[!DNL Adobe Analytics] 文档](https://helpx.adobe.com/cn/support/analytics.html){target="_blank"}
-* [关于数据收集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=zh-Hans){target="_blank"}
-* [Analytics数据馈送概述](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=zh-Hans){target="_blank"}
+{{exam-prep-guide}}
 
-**第2部分：项目的报告和仪表板**
-
-* [Reports &amp; Analytics入门](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
-* [[!DNL Adobe Analytics] 功能板 — 概述](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=zh-Hans){target="_blank"}
-* [项目概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
-* [可视化概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [智能警报概述](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**第3部分：分段和计算量度**
-
-* [Analytics分段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
-* [计算量度和高级计算（派生）量度](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
-
-**第4部分：一般工具知识和故障诊断**
-
-* [Analytics工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hans){target="_blank"}
-* [Analysis Workspace概述](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**第五节　管理**
-
-* [Analytics管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
-* [常见问题解答](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [分类规则生成器工作流程](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
+[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/533)
 
 **参加练习测试**
 
