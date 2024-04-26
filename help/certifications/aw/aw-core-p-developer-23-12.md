@@ -6,9 +6,9 @@ role: Developer
 badge: label="考试AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Adobe的认证历程 [!DNL Workfront] 核心开发人员专业版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新课程：** 此 [Adobe Workfront核心开发人员 — 专业课程](https://app.rockinfo.com/courses/231) 包括关键概念的解释、实践演示和知识检查。 _如果系统提示您登录，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -51,10 +55,10 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-Adobe [!DNL Workfront] 核心开发人员认证专家拥有：
+虽然此测试不需要编码/编程知识，但至少需要3 - 6个月的Adobe实践经验 [!DNL Workfront]
 
-* 注意：虽然本考试不需要编码/编程知识。
-* 使用Adobe至少3至6个月的实践经验 [!DNL Workfront]
+合格候选人还应具备：
+
 * Adobe体验 [!DNL Workfront] 功能和连通性（通过接收、批准、规划、执行和报告）
 * 对Adobe的深入了解 [!DNL Workfront] 对象类型，包括自定义表单和审批工作流、模板、持续时间、工作量/计划小时数
 * 对Adobe的深入了解 [!DNL Workfront] 设置，包括访问级别、布局模板、项目偏好设置和其他方法以简化最终用户设计
@@ -69,19 +73,19 @@ Adobe [!DNL Workfront] 核心开发人员认证专家拥有：
 
 {{exam-objectives}}
 
-**第1节：战略和摄取23%**
+**第一节　：战略和吸纳(23%)**
 
 * 使用Portfolio和程序
 * 使用请求队列
 * 使用自定义Forms
 * 使用基本审批
 
-**第2款：预算和规划11%**
+**第2款：预算和规划(11%)**
 
 * 使用资源规划者
 * 给定场景/需求集，应用配置以设置项目模板
 
-**第3部分：用户体验25%**
+**第3部分：用户体验(25%)**
 
 * 说明创建正确用户体验过程中用户管理的最佳实践
 * 在给定情况下，在整个系统中应用正确的共享和访问权限设置
@@ -89,13 +93,13 @@ Adobe [!DNL Workfront] 核心开发人员认证专家拥有：
 * 演示如何创建和使用时间表
 * 描述连接器、插件和加载项的用途和价值
 
-**第4部分：指标和报表16%**
+**第4部分：指标和报表(16%)**
 
 * 描述构建、发送和自定义报表的基本概念
 * 说明如何构建和自定义功能板
 * 演示如何配置报告的功能视图
 
-**第五节　：执行百分之二十四**
+**第五节　执行(24%)**
 
 * 演示如何设置批准和验证工作流
 * 识别为项目创建问题的目的
@@ -209,6 +213,12 @@ Adobe [!DNL Workfront] 核心开发人员认证专家拥有：
 **参加练习测试**
 
 {{practice-test}}
+
+**参加课程**
+
+{{take-course}}
+
+[参加Adobe Workfront核心开发人员 — 专业课程](https://app.rockinfo.com/courses/231)
 
 +++
 

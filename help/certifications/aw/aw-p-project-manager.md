@@ -6,9 +6,9 @@ role: Developer
 badge: label="考试AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Adobe的认证历程 [!DNL Workfront] 项目经理专业版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新课程：** 此 [Adobe Workfront项目经理 — 专业课程](https://app.rockinfo.com/courses/230) 包括关键概念的解释、实践演示和知识检查。 _如果系统提示您登录，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -181,6 +185,12 @@ ht-degree: 0%
 **参加练习测试**
 
 {{practice-test}}
+
+**参加课程**
+
+{{take-course}}
+
+[参加Adobe Workfront项目经理 — 专业课程](https://app.rockinfo.com/courses/230)
 
 +++
 
