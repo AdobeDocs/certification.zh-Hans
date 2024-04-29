@@ -7,7 +7,7 @@ role: User
 badge: label="考试AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 1f2b18bdcf9e6903e68b99ad81d5aa35a4e19a29
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 0%
@@ -235,3 +235,4 @@ ht-degree: 0%
 查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+
