@@ -6,7 +6,7 @@ role: Developer
 badge: label="考试AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 092884a61dd0c439f6fb80be271eb28db6399049
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **可用的新课程：** 此 [Adobe Workfront核心开发人员 — 专业课程](https://app.rockinfo.com/courses/231) 包括关键概念的解释、实践演示和知识检查。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/596) 提供量身定制的考试准备流程，包括考试成功所需的深入学习材料。
+>* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/610) 提供量身定制的考试准备流程，包括考试成功所需的深入学习材料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -148,7 +148,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/596)
+[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/610)
 
 +++
 
