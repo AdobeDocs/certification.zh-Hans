@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '2293'
+source-wordcount: '2295'
 ht-degree: 0%
 
 ---
@@ -456,7 +456,7 @@ Adobe [!DNL Commerce] 前端开发人员专业版
 
   [客户参考表 [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
-  当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
+  当您的客户参考资料得到审核后，Adobe数字体验认证计划将会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
 
 >[!NOTE]
 >
@@ -466,7 +466,7 @@ Adobe [!DNL Commerce] 前端开发人员专业版
 
 | 专家与硕士课程 | 课程评估 |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] 电子商务趋势](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce趋势](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
 | [Adobe [!DNL Commerce] 个性化](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
 | [Adobe [!DNL Commerce] AI自动化](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
 | [[!DNL Commerce]：与Experience Platform及外部的数据集成](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |

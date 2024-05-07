@@ -4,9 +4,9 @@ description: 了解如何获得Adobe认证。 在获得认证之前、期间和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Adobe支持或检查均无法处理重新计划和取消请求。 48小时以内
 
 >[!TAB 认证供应商]
 
-Adobe认证团队与供应商合作，帮助支持计划的计划和目标。  以下是供应商及其联系信息：
+Adobe数字体验认证计划与供应商合作，帮助支持该计划的计划和目标。 以下是供应商及其联系信息：
 
 | 供应商名称 | 描述 | 支持页面/电子邮件 |
 | ------- | ------- | ------- |
