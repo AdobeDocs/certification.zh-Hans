@@ -7,9 +7,9 @@ level: Experienced
 badge: label="考试AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '858'
 ht-degree: 0%
 
 ---
@@ -179,7 +179,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：准备考试
++++第2步：使用我们的免费学习材料准备考试
 
 **学习材料**
 

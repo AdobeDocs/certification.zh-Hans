@@ -9,9 +9,9 @@ badge: label="考试AD0-E600和AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1474'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,7 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 
 <br>
 
-+++第2步：准备考试
++++第2步：使用我们的免费学习材料准备考试
 
 **学习材料**
 
@@ -144,7 +144,7 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 
 **第1部分：数据建模**
 
-* [了解架构](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hans){target="_blank"}
+* [了解架构](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
 * [架构和XDM概述/Adobe [!DNL Experience Platform]：数据建模和摄取](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [在架构中对数据进行建模](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [架构和XDM概述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=zh-Hans){target="_blank"}
@@ -306,7 +306,7 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 
 <br>
 
-+++第2步：准备考试
++++第2步：使用我们的免费学习材料准备考试
 
 **学习材料**
 

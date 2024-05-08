@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 ### 目标受众 {#intended-audience}
 
 * 业务分析师
-* Commerce策略专家
+* Commerce策略师
 * 顾问
 * 技术项目经理/技术客户经理
 * 应用程序架构师/解决方案架构师/专家
@@ -154,7 +154,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：准备考试
++++第2步：使用我们的免费学习材料准备考试
 
 **学习材料**
 

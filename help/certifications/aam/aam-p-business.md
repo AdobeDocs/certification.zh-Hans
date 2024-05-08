@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '594'
 ht-degree: 1%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 1%
 * 确定适当的结构，以创建使用清晰一致命名法的特性和区段
 * 确定使用明确的文件夹结构维护有组织的平台的正确技术
 
-**第6节：配置文件合并、ID同步和Audience Marketplace**
+**第6节：配置文件合并、ID同步和Audience Marketplace(14%)**
 
 * 将用户特征组织到单个统一的配置文件中，以创建基于家庭或设备的受众
 * 使用Audience Marketplace识别激活
@@ -106,7 +106,7 @@ ht-degree: 1%
 
 <br>
 
-+++第2步：准备考试
++++第2步：使用我们的免费学习材料准备考试
 
 **学习材料**
 
