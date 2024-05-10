@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: e8af3d80437671df62f99a60f80eecc31c5976bf
 workflow-type: tm+mt
-source-wordcount: '2843'
-ht-degree: 2%
+source-wordcount: '2421'
+ht-degree: 0%
 
 ---
 
@@ -130,7 +130,7 @@ ht-degree: 2%
 * [使电子邮件正常运行](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
 * [智能列表的最佳实践](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
 * [了解事件程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [发挥默认计划的灵活性](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html){target="_blank"}
+* [利用默认程序的灵活性](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html){target="_blank"}
 * [按收件人时区计划电子邮件程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.html){target="_blank"}
 * [克隆程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html){target="_blank"}
 * [了解标记](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
@@ -270,40 +270,40 @@ ht-degree: 2%
 
 **第一节　管理和维护**
 
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （字段管理、CRM同步、审核跟踪、用户管理、工作区和分区、智能列表、自定义字段）
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （字段管理、CRM同步、审核跟踪、用户管理、工作区和分区、智能列表、自定义字段）
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （与Salesforce同步，CRM集成）
 
 **第2部分：营销活动/营销活动管理**
 
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (随机样本、具有数据值的智能营销活动触发、等待步骤、member.webinar url、营销活动检查器、过滤器逻辑、在电子邮件中使用令牌、通过表单填写创建潜在客户、资源和工作区、管理Forms)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智能列表、智能营销活动、需求生成Forms、需求生成事件、电子邮件营销、创建项目、事件、审核跟踪、使用项目、管理标记、点滴培养、登陆页面、令牌、管理其他集成、Webhook、项目成员自定义字段、工作区和人员分区)
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} (智能列表、智能营销活动、需求生成Forms、需求生成事件、电子邮件营销、创建项目、事件、审核跟踪、使用项目、管理标记、点滴培养、登陆页面、令牌、管理其他集成、Webhook、项目成员自定义字段、工作区和人员分区)
 
 **第3部分：潜在客户管理**
 
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （制作一个潜在客户生命周期计划视频，通过电子邮件取消订阅）
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智能营销活动、Marketo Sales Insight、有趣的时刻、管理智能列表中的人员、系统管理字段)
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} (智能营销活动、Marketo Sales Insight、有趣的时刻、管理智能列表中的人员、系统管理字段)
 
 **第4节：数据管理**
 
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (维护潜在客户退回电子邮件目录，文章“如何管理Marketo数据库以提供可投放性支持”博客， Marketo活动数据保留策略 — 在标题下)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （电子邮件营销硬退信和软退信、报表类型、个性化、动态内容）
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （电子邮件营销硬退信和软退信、报表类型、个性化、动态内容）
 
 **第五节　：报告**
 
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （设置客户获取最佳实践文章）
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （报表、性能分析、项目性能报表、编辑报表、项目成员资格）
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （报表、性能分析、项目性能报表、编辑报表、项目成员资格）
 
 **第6部分：最佳实践**
 
 * [引导评分的最终指南](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （使用项目、电子邮件营销、A/B测试）
+* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （使用项目、电子邮件营销、A/B测试）
 * [AdobeMarketo国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （请注意QA流程）
 
 ### 续订您的认证
 
 确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击Adobe [!DNL Marketo Engage] 以下商业从业者专家续订链接。
 
-[！BADGE接受Adobe [!DNL Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGE 接受Adobe [!DNL Marketo Engage] 商业从业者专家更新考试AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >
@@ -326,7 +326,7 @@ ht-degree: 2%
 **考试详细信息：**
 
 * 级别：专家（3-5年经验）
-* 及格分数：27/36
+* 及格分数：23/36
 * 时间：72分钟
 * 交付：按需/非托管
 * 可用语言：英语
@@ -382,7 +382,7 @@ ht-degree: 2%
 **第一节　：项目领导**
 
 * [Champion博客 — Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
 * [文档 — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 * [了解收入模型](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
@@ -402,7 +402,7 @@ ht-degree: 2%
 
 **第4节：高级操作**
 
-* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
 * [禁止软退回](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [了解工作区和人员分区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [了解Marketo自定义对象](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
