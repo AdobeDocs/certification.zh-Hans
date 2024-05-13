@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ ht-degree: 0%
 * 了解最佳编码标准实践、编码标准、PSR、SOLID原理
 * 设置和使用 [!DNL Adobe Commerce] 服务连接器（及相关服务）
 * 暂存内容管理
-* 了解 [!DNL Adobe Commerce] 默认值，当其可用且不可用时
+* 了解 [!DNL Adobe Commerce] 默认值，当它可用且不可用时
 * 对任何相关内容的广泛了解 [!DNL Adobe Commerce] 域
 * 设计项目架构
 * 优化性能 [!DNL Adobe Commerce] 默认
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

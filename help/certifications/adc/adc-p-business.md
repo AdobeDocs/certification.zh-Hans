@@ -7,7 +7,7 @@ role: User
 badge: label="考试AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%
@@ -48,9 +48,9 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 至少于0-12个月内拥有经验 [!DNL Adobe Document Cloud]
+* 至少在0-12个月内有经验 [!DNL Adobe Document Cloud]
 * 能够确定和传达业务需求
-* 能够执行以下产品启用建议 [!DNL Adobe Document Cloud] 解决方案。
+* 能够执行以下操作的产品启用建议 [!DNL Adobe Document Cloud] 解决方案。
 
 <br>
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

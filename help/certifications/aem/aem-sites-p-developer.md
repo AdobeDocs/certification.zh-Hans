@@ -7,9 +7,9 @@ role: Developer
 badge: label="考试AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 0%
 * 识别AEM Dispatcher配置和缓存的用途
 * 确定在AEM中配置多站点的正确步骤
 * 说明如何创建和管理OSGi配置
-* 确定管理自定义OAK索引的正确步骤
+* 确定管理自定义Oak索引的正确步骤
 * 确定配置OOTB SAML或IMS集成的正确步骤
 
 **第2款：AEM开发(40%)**
@@ -109,7 +109,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

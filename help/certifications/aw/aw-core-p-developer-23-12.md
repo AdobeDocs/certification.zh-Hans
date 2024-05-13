@@ -6,7 +6,7 @@ role: Developer
 badge: label="考试AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 0%
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

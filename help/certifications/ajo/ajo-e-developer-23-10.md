@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
@@ -83,7 +83,7 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 * 给定场景，在多渠道/多步骤历程中定位客户
 * 解释报表并调试性能指标
 * 给定场景，确定历程类型的适当用例
-* 准备测试案例（例如试验或多渠道历程）
+* 准备测试案例（例如，试验或多渠道历程）
 
 **第3节：Offer decisioning(16%)**
 
@@ -121,7 +121,7 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

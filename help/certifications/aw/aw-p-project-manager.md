@@ -6,7 +6,7 @@ role: Developer
 badge: label="考试AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 从初始工作请求到完成的理解工作流程，或接触过项目或工作管理
+* 从初始工作请求到完成的理解工作流程，或者曾接触过项目或工作管理
 * 已完成自导式训练或训练营，或 [!DNL Workfront] 用户6-12个月，以便他们了解基本功能
 * 了解如何配置、跟踪和监控报表数据
 
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **推荐的培训课程**
 

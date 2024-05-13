@@ -7,7 +7,7 @@ level: Experienced
 badge: label="考试AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '858'
 ht-degree: 0%
@@ -148,12 +148,12 @@ ht-degree: 0%
 * 描述如何使用UI更新云变量
 * 使用UI描述环境管理
 * 使用UI演示对分支的理解
-* 识别AdobeCommerce云计划功能
+* 识别Adobe Commerce Cloud计划功能
 
 **第9节： [!DNL Commerce] Cloud CLI工具（管理部分）(6%)**
 
 * 演示如何使用CLI更新云变量
-* 演示使用CLI（CLI独有的功能：激活电子邮件、重新构建环境、快照、数据库转储、本地环境设置）进行环境管理的理解
+* 演示使用CLI进行环境管理（CLI独有的功能：激活电子邮件、重新构建环境、快照、数据库转储、本地环境设置）
 * 演示如何使用CLI进行分支
 * 演示如何对云服务进行故障排除？ (My SQL， Redis， tunnel：info)
 
@@ -179,7 +179,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

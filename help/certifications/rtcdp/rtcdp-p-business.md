@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="考试AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 如果你刚开始工作，或者需要个新手，就把我们的 [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216) 访问关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
+>* **课程：** 如果你刚开始工作，或者需要个新手，就把我们的 [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216) 访问关键概念、产品演练和知识检查的解释。 本课程为您提供了知识基础，您可以在认证历程中在此基础上进行学习。
 >
 >* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/377) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。
 >
@@ -101,7 +101,7 @@ ht-degree: 0%
 
 **第三节　：业务分析(30%)**
 
-* 识别绑定到业务KPI的用例
+* 确定与业务KPI绑定的用例
 * 在Platform中对客户区段执行数据分析
 * 演示对数据流概念的理解
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

@@ -7,7 +7,7 @@ role: Developer
 badge: label="考试AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -86,7 +86,7 @@ ht-degree: 0%
 * 给定场景，确定构建AEM Forms所需的步骤
 * 描述Forms数据模型
 * 确定自定义AEM Forms的步骤
-* 在场景中，确定利用GuideBridge API使用Javascript ClientLib的步骤
+* 给定场景，确定使用JavaScript ClientLib并利用GuideBridge API的步骤
 
 **第2款：流程和工作流(34%)**
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

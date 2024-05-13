@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="考试AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此认证有一个先决条件。 您必须具有活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者 **专家** 认证以参加Adobe [!DNL Marketo Engage] 架构师级考试。
+>此认证有一个先决条件。 您必须具有活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者 **专家** 参加Adobe的认证 [!DNL Marketo Engage] 架构师级考试。
 
 * 先决条件：活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者专家认证
 * 级别：硕士（3-5年经验）
@@ -66,7 +66,7 @@ ht-degree: 0%
 您应该拥有：
 
 * Marketo Engage业务从业者认证专家的最新认证
-* 至少五年经验最好有多次Marketo Engage
+* 至少五年经验，最好有多次Marketo Engage
 * 了解业务影响并有效地向不同级别的利益相关者（技术和非技术）解释/传达其解决方案
 * 能够概念化解决方案并转换为Marketo Engage体系结构，了解受集成影响的业务流程
 * 熟悉构建实例的原则
@@ -145,7 +145,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

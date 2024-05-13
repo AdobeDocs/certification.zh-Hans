@@ -7,7 +7,7 @@ role: Developer
 badge: label="考试AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -77,10 +77,10 @@ ht-degree: 0%
 
 **第1部分：配置(22%)**
 
-* 确定创建和管理AEM调度程序配置的步骤
+* 确定创建和管理AEM Dispatcher配置的步骤
 * 确定配置多租户的正确步骤
 * 说明如何创建和管理OSGi配置
-* 给定场景，确定创建和管理自定义OAK索引的正确方法
+* 给定场景，确定创建和管理自定义Oak索引的正确方法
 * 确定配置OOTB SAML和LDAP集成的正确步骤
 
 **第2款：AEM开发(44%)**
@@ -126,7 +126,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

@@ -7,9 +7,9 @@ role: Developer
 badge: label="考试AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 1%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 1%
 * 了解从任何AEM服务（自托管、AMS或任何第三方云）迁移到AEMas a Cloud Service时架构和功能的总体更改。
 * 使用Adobe开发Web应用程序已有1-3年的经验 [!DNL Experience Manager]
 * 使用AEM Forms、Assets和Sites的实践经验
-* 能够指导客户完成迁移过程，在AEM项目的所有阶段提供咨询和参与
+* 能够指导客户完成迁移过程，指导客户并参与AEM项目的所有阶段
 
 此外，您还应熟悉以下技术和环境：
 
@@ -105,7 +105,7 @@ ht-degree: 1%
 
 **第3款：部署(16%)**
 
-* 配置Cloud Manager管道并将关联到环境
+* 配置Cloud Manager管道并关联到环境
 * 配置AEMaaCS环境（开发、暂存、生产 — 作者、发布、预览）
 * 借助AdobeIO CLI管理部署过程
 
@@ -138,7 +138,7 @@ ht-degree: 1%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

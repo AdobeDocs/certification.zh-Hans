@@ -7,7 +7,7 @@ role: Developer
 badge: label="考试AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 1%
@@ -53,7 +53,7 @@ ht-degree: 1%
 
 您应该拥有：
 
-* AEM Forms1-3年工作经验
+* AEM Forms1-3年使用经验
 * 在IT行业至少拥有5年的工作经验
 * 能够领导定制表单解决方案的开发、配置、测试和部署
 * 能够配置表单、将业务需求转换为工作流、与外部系统集成
@@ -73,7 +73,7 @@ ht-degree: 1%
 * 能够与数据服务集成
 * 工作流实施
 * 基本了解AEM Forms Workbench (JEE)，以创建长线 — 短线流程和服务。
-* 使用GuideBridge API开发javascript clientlibs
+* 使用GuideBridge API开发JavaScript clientlibs
 * 根据sign v government CAC，可了解要使用哪种AEM Forms环境桌面或服务器
 * 基本了解Java/J2EE和JavaScript，编写逻辑和调用不同的服务。
 * 预填自适应表单
@@ -96,7 +96,7 @@ ht-degree: 1%
 * 构建Forms
 * 配置Forms数据模型
 * 自定义AEM Forms
-* 利用GuideBridge API开发和使用Javascript ClientLib
+* 利用GuideBridge API开发和使用JavaScript ClientLib
 
 **第2款：流程和工作流(34%)**
 
@@ -146,7 +146,7 @@ ht-degree: 1%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

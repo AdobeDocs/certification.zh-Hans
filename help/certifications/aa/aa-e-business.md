@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '737'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 2年数字分析营销经验
+* 2年在具有营销背景的Digital Analytics方面拥有经验
 * 深入了解数字分析量度和维度
 * 了解Web技术的业务价值
 * 能够将业务需求转换为量度或KPI
@@ -68,7 +68,7 @@ ht-degree: 0%
 * 帮助客户了解如何提取/提取他们想要的信息（例如，帮助他们定义业务问题）
 * 从功能角度了解技术的工作方式并了解客户的实施（例如，数据位于何处、如何收集和如何跟踪数据）
 * 至少一年 [!DNL Adobe Analytics] 动手体验
-* 基本了解数字分析如何过滤/结构化数据
+* 基本了解Digital Analytics如何过滤/结构化数据
 * 对整合的了解 [!DNL Adobe Analytics] 与其他Adobe解决方案
 
 此外，您还应熟悉以下技术和环境：
@@ -76,7 +76,7 @@ ht-degree: 0%
 * FTP客户端
 * 当前 [!DNL Adobe Analytics] Workspace功能和Workspace之外的其他报表选项(例如 计划项目和计划报告)
 * 调试工具与 [!DNL Adobe Analytics] (数据包监视器，例如Adobe Debugger、浏览器开发人员工具、Charles)
-* Admin Console(Analytics报表包管理控制台和Experience Cloud管理控制台)
+* Admin Console(Analytics报表包Admin Console和Experience CloudAdmin Console)
 * AdobeLaunch基础知识/基础知识
 * 应用程序、SPA、基本网站了解
 * Mobile Services UI
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

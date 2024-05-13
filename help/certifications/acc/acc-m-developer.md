@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="考试AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -56,14 +56,14 @@ ht-degree: 1%
 * 能够提供技术路线图，包括低地球轨道和任务依赖性
 * 能够为项目范围和时间线提供技术要求信息
 * 业务需求研讨会经验
-* 体验领先的解决方案设计研讨会
+* 在领先的解决方案设计研讨会方面的经验
 * 能够评估多种解决方案方法并提供建议
 * 能够审查其他平台上的现有活动和流程，以确定Adobe Campaign实施需求
 * 能够描述和演示产品特性和功能
 * 能够将产品功能映射到高用例
-* 支持售前团队的经验
+* 在支持售前团队方面的经验
 * 能够提供现场指导（产品最佳实践、报告量度等）
-* 描述部署模型之间差异的体验
+* 描述部署模型之间差异的经验
 
 <br>
 
@@ -129,7 +129,7 @@ ht-degree: 1%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

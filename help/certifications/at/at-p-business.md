@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 0%
 * 确定假设要素
 * 描述基于KPI的主要和次要成功量度
 * 给定场景，评估受众要求
-* 描述适当的分析报表源(即Target或Adobe Analytics)
+* 描述相应的Analytics报表源(即Target或Adobe Analytics)
 
 **第2节：配置、执行和管理(50%)**
 
@@ -125,7 +125,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

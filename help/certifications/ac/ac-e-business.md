@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/386) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
-
 
 ## 考试描述 {#exam-description}
 
@@ -88,10 +87,10 @@ ht-degree: 0%
 * 确定如何利用产品类型及其功能来满足客户需求
 * 解释要求和模型，以确定它们能否满足本机功能
 * 演示关于管理员面板和常用功能位置的知识
-* 演示导入/导出Adobe功能 [!DNL Commerce] 实体
+* 演示导入/导出Adobe的能力 [!DNL Commerce] 实体
 * 了解如何原生配置购物车和结账
 * 评估Adobe中本地可用的配送方式 [!DNL Commerce] 以及它们如何应用于常见用例
-* 了解使用Adobe创建和发布风格化内容的方法 [!DNL Commerce] CMS功能，包括PageBuilder
+* 了解使用Adobe创建和发布风格化内容的方法 [!DNL Commerce] CMS功能，包括页面生成器
 * 使用本机工具管理订单生命周期
 * 演示配置各种礼品选项（礼品卡、礼品包装、赠品）的能力
 * 配置和修改事务性电子邮件
@@ -154,7 +153,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

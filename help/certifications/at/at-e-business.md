@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 1%
 
 ---
@@ -91,7 +91,7 @@ ht-degree: 1%
 环境：
 
 * 台式机/网站（包括台式机和移动设备）
-* 移动设备应用程序（基本了解）/在移动设备中使用Target
+* 移动设备应用程序（基本了解）/将Target用于移动设备
 * 暂存 — 开发
 * 生产
 * 跨移动设备、平板电脑设备和桌面设备的生产环境
@@ -115,7 +115,7 @@ ht-degree: 1%
 * 基于给定场景分析测试假设并识别有效假设的各个方面
 * 确定基于KPI的主要和次要成功量度
 * 评估受众要求
-* 确定适当的分析报表源(即Target或Adobe Analytics)
+* 确定适当的Analytics报表源(即Target或Adobe Analytics)
 
 **第2节：配置、执行和管理(42%)**
 
@@ -163,7 +163,7 @@ ht-degree: 1%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

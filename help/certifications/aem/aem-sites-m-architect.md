@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="考试AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '644'
 ht-degree: 0%
@@ -64,7 +64,7 @@ ht-degree: 0%
 * 为内容/资产定义一个内容模型，以适应未来的要求
 * 根据业务需求定义必要的模板和组件
 * 确定何时使用开箱即用/功能/核心组件与自定义组件
-* 设计缓存、负载平衡和安全策略（调度程序、防火墙、CDN、）
+* 设计缓存、负载平衡和安全策略（Dispatcher、防火墙、CDN）
 * 为初始设置和功能交付提供高级别的工作量估计
 * 建立国际化的功能和用例
 * 定义支持多站点和多语言的策略
@@ -137,7 +137,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

@@ -7,7 +7,7 @@ role: User
 badge: label="考试AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 0%
@@ -52,9 +52,9 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 至少拥有0至12个月的使用和配置AdobeCloud Manager的经验
-* 至少拥有0-12个月的AEM特性和功能使用经验，能够吸引开发人员查找业务解决方案
-* 在配置、实施和管理持续集成/持续部署任务方面至少拥有0 - 12个月的经验
+* 在使用和配置AdobeCloud Manager方面至少拥有0-12个月的经验
+* 至少拥有0-12个月的AEM特性和功能使用经验，让开发人员能够找到业务解决方案
+* 在配置、实施和管理持续集成/持续部署任务方面至少拥有0-12个月的经验
 
 您应该能够熟练使用AdobeManaged Services和Adobe [!DNL Experience Manager] as a Cloud Service，并且能够设置Adobe [!DNL Experience Manager] 环境和基础架构。
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

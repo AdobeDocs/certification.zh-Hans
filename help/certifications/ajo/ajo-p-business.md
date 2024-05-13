@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >现在提供免费的按需课程来帮助您准备考试。 选择最符合您的体验级别的课程，立即开始您的学习之旅！
 >
->* 此 [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216) 将向您介绍Adobe Experience Cloud，这是一套端到端的数码营销工具套件，构建于唯一旨在实现大规模个性化的平台上。
+>* 此 [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216) 引入了Adobe Experience Cloud，这是基于唯一专为大规模个性化而设计的平台而构建的一个端到端数字营销工具套件。
 >* 此 [Adobe Journey Optimizer基础课程](https://app.rockinfo.com/courses/113) 提供了有关此特定应用程序的知识基础。
 >* 此 [Adobe Journey Optimizer商业从业者专业课程](https://app.rockinfo.com/courses/107) 以“基础”课程为基础，帮助您准备专业级认证考试。
 >* 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/588) 提供量身定制的考试准备流程，包括考试成功所需的深入学习材料。
@@ -85,7 +85,7 @@ ht-degree: 0%
 * 基本调试 — 通过测试模式或报告（无需查询服务）
 * 收集并记录业务历程要求
 * 了解有关历程和渠道的最佳实践（例如，发送最佳时间、使用最佳渠道、不同用例的最佳历程设计模式、何时使用事务型消息和营销消息）
-* 了解可投放性概念（例如不同的跳出、变暖）
+* 了解可投放性概念（例如，不同的跳出次数、预热次数）
 * 了解频率、疲劳规则
 * 预览数据集
 * 对身份的基本了解
@@ -167,7 +167,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

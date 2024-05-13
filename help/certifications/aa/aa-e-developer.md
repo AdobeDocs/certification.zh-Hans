@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-您应具有作为混合角色实施顾问的经验，并在以下领域拥有约2年的经验 [!DNL Adobe Analytics] 实现。 您充当IT和业务之间的桥梁，将业务需求转换为技术解决方案(SDR)，并根据分析师提供的需求，了解需要哪种类型的变量、在哪里以及如何收集数据、设计数据模型（数据层）、配置和维护标签管理解决方案。
+您应具有作为混合角色实施顾问的经验，并在以下领域拥有约2年的经验 [!DNL Adobe Analytics] 实现。 您充当IT和业务之间的桥梁，将业务需求转换为技术解决方案(SDR)，并根据分析师提供的需求了解需要哪种类型的变量、在哪里以及如何收集数据、设计数据模型（数据层）、配置和维护标签管理解决方案。
 
 作为Analytics开发人员，您很少在页面上实施标记；相反，这些标记由IT或系统集成商实施。
 
@@ -121,7 +121,7 @@ ht-degree: 0%
 * JavaScript错误疑难解答
 * 疑难解答 [!DNL Adobe Analytics] 变量
 * 推荐测试和调试最佳实践
-* 疑难解答 [!DNL Adobe Analytics] 在其生命周期内进行服务器调用（即从信标请求到显示在报表中）
+* 疑难解答 [!DNL Adobe Analytics] 整个生命周期的服务器调用（即从信标请求到显示在报表中的调用）
 
 <br>
 
@@ -145,7 +145,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

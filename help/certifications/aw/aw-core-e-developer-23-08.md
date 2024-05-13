@@ -6,7 +6,7 @@ role: Developer
 badge: label="考试AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 0%
@@ -114,7 +114,7 @@ ht-degree: 0%
 **第6节：方法/最佳做法/用例(22%)**
 
 * 给定场景，在 [!DNL Workfront]，演示用于设置跟踪作为单个营销活动一部分的交付项的功能。
-* 给定场景，在 [!DNL Workfront]，演示围绕工作的战略优先级和理由论证的功能。
+* 给定场景，在 [!DNL Workfront]，演示围绕工作的战略优先顺序和合理化的功能。
 * 给定场景，在 [!DNL Workfront]，演示有关财务、利用率、预测、记帐费率/记录的功能
 * 给定场景，在 [!DNL Workfront]，演示有关设置工作流和批准的功能。
 * 给定一种情况，建议在扩展客户端实例时围绕系统管理建立一个治理框架。
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

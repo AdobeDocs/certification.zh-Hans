@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="考试AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -55,7 +55,9 @@ ht-degree: 1%
 * 1至2年市场推广技术经验
 * 3至6个月的Audience Activation体验
 * 使用布尔逻辑、数字营销术语、数据分析和策略的体验
-* 了解业务目标和KPI，熟悉数字营销技术栈栈和各种平台集成，并了解数据流（ID类型、ID同步、像素跟踪、基于人员的目标）
+* 了解业务目标和KPI
+* 熟悉数字营销技术栈栈和各种平台集成
+* 了解数据流（ID类型、ID同步、像素跟踪、基于人员的目标）
 
 您应该熟悉以下技术和环境：
 
@@ -63,7 +65,7 @@ ht-degree: 1%
 
 * DSP Platform（交易台、双击竞价管理器，等等）
 * Excel
-* 表格和类似工具(PowerBI、Qlik)
+* Tableau和类似工具(Power BI、Qlik)
 * 广告服务器（双击Campaign Manager）
 * Adobe/Google Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ ht-degree: 1%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 

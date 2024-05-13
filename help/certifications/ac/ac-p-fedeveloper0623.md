@@ -1,15 +1,15 @@
 ---
 title: 前端开发人员专业版新认证
-description: 了解如何成为Adobe的认证Adobe Developer专业人员 [!DNL Commerce] .
+description: 了解如何成为Adobe的认证Adobe Developer专业人员 [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="考试AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程**：如果您刚刚开始使用，或需要复习人员，请获取 [Adobe Commerce基础课程](https://app.rockinfo.com/courses/148) 访问关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
+>* **课程**：如果您刚刚开始使用，或需要复习者，则获取 [Adobe Commerce基础课程](https://app.rockinfo.com/courses/148) 访问关键概念、产品演练和知识检查的解释。 这为您可以在认证历程中在此基础上获得知识奠定了基础。
 >
 >* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/384) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。
 >
@@ -118,7 +118,7 @@ ht-degree: 0%
 * 描述“挖空JS”的用法
 * 描述jQuery小组件的用法
 
-**第5部分：管理员配置和PageBuilder (6%)**
+**第5部分：管理员配置和页面生成器(6%)**
 
 * 演示自定义Page Builder和CMS内容的能力”
 * 将主题应用/安排到特定范围（网站、商店、商店视图）
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 **第6节：工具（CLI和Grunt）(8%)**
 
-* 描述基本bin/magento命令的用法
+* 描述基本bin/Magento命令的用法
 * 描述编辑器命令的用法（安装、更新、需要、删除）
 * 区分部署模式的适当用例
 * 描述云提供的其他工具（Fastly、下载数据库、内容部署）
@@ -146,7 +146,7 @@ ht-degree: 0%
 
 <br>
 
-+++第2步：使用我们的免费学习材料准备考试
++++第2步：使用这些免费学习材料为考试做好准备
 
 **学习材料**
 
