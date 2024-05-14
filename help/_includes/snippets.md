@@ -1,7 +1,7 @@
 ---
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -237,4 +237,4 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
 ## 考试准备指南 {#exam-prep-guide}
 
-免费的考试准备指南提供了量身定制的考试准备流程，包括考试成功所需的深入学习材料。
+免费的考试准备指南提供了量身定制的考试准备流程，包括考试成功所需的材料。

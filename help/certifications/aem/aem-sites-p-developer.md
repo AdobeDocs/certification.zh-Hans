@@ -7,9 +7,9 @@ role: Developer
 badge: label="考试AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **课程：** 参加 [培训课程](https://app.rockinfo.com/courses/105) 其中包括关键概念的解释、实践演示和知识检查。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/381) 提供量身定制的考试准备流程，包括考试成功所需的深入学习材料。
+>* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/381) 提供量身定制的考试准备流程，包括考试成功所需的材料。
 >
 >如果系统提示您登录，请使用您的Adobe ID。
 

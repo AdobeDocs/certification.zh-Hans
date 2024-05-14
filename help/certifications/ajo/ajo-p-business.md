@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >* 此 [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216) 引入了Adobe Experience Cloud，这是基于唯一专为大规模个性化而设计的平台而构建的一个端到端数字营销工具套件。
 >* 此 [Adobe Journey Optimizer基础课程](https://app.rockinfo.com/courses/113) 提供了有关此特定应用程序的知识基础。
 >* 此 [Adobe Journey Optimizer商业从业者专业课程](https://app.rockinfo.com/courses/107) 以“基础”课程为基础，帮助您准备专业级认证考试。
->* 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/588) 提供量身定制的考试准备流程，包括考试成功所需的深入学习材料。
+>* 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/588) 提供量身定制的考试准备流程，包括考试成功所需的材料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
