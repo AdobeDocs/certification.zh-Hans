@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="考试AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: c8bd9375a8d9022b6f5cb87a3deb5084bff5ac41
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -151,17 +151,6 @@ ht-degree: 0%
 
 <span class="spectrum-Button-label has-no-wrap">
    查看考试准备指南
-</span>
-</a>
-
-**示例问题**
-
-{{sample-questions}}
-
-<a href="https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   查看示例问题
 </span>
 </a>
 
