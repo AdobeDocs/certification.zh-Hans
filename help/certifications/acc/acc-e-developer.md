@@ -7,16 +7,20 @@ role: Developer
 badge: label="考试AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: d9c2badb16c24d51e834841b27b2b0947bc6d889
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 1%
+source-wordcount: '601'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Campaign Classic] 开发人员专家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/629) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -142,66 +146,15 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第1部分：系统配置**
-
-* [[!DNL Campaign Classic] v7文档](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hans){target="_blank"}
-* [事务性消息传递入门](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/about-transactional-messaging.html){target="_blank"}
-* [一般架构](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
-* [Adobe Campaign集成快速入门](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/about-campaign-integrations.html){target="_blank"}
-* [设计和执行营销活动](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
-* [一般架构](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
-* [筛选选项](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/filtering-data/filtering-options.html){target="_blank"}
-* [工作流属性](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
-
-**第2部分：定制**
-
-* [关于模式参考](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/about-schema-reference.html){target="_blank"}
-* [设计和执行营销活动](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
-* [关于Web服务](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html){target="_blank"}
-* [设计和执行营销活动](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
-* [工作流中的操作活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
-* [工作流入门](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/build-a-workflow.html?lang=zh-Hans){target="_blank"}
-
-**第3部分：访问管理**
-
-* [权限入门](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
-* [主要功能](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html?lang=zh-Hans){target="_blank"}
-* [监测服务器容量](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/sftp-management/monitor-server-capacity.html){target="_blank"}
-* [关于模式版本](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html){target="_blank"}
-
-**第4部分：数据集成**
-
-* [外部帐户](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html){target="_blank"}
-* [Campaign FFDA部署](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html){target="_blank"}
-* [数据导入和导出入门](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=zh-Hans){target="_blank"}
-* [工作流入门](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hans){target="_blank"}
-* [FTP（类）](https://experienceleague.adobe.com/developer/campaign-api/api/c-FTP.html){target="_blank"}
-* [一般架构](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
-
-**第五节　：实例维护**
-
-* [监测工作流执行](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=zh-Hans){target="_blank"}
-* [工作流属性](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
-* [工作流使用案例](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/about-workflow-use-cases.html){target="_blank"}
-* [监控指南 — 一般架构](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/introduction/general-architecture.html){target="_blank"}
-* [控制面板入门](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html){target="_blank"}
-* [关于性能监控](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=zh-Hans){target="_blank"}
-
-**第6部分：Campaign配置**
-
-* [通信渠道](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
-* [个性化入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=zh-Hans){target="_blank"}
-* [Web应用程序和报表 — 抽象表单](https://experienceleague.adobe.com/developer/campaign-api/api/s-xtk-abstractForm.html){target="_blank"}
-* [关于Web服务](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html){target="_blank"}
-* [使用自定义收件人表](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
-* [关于模板](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=zh-Hans){target="_blank"}
-* [使用自定义收件人表](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
-
-<br>
-
 **参加练习测试**
 
 {{practice-test}}
+
+**考试准备指南**
+
+{{exam-prep-guide}}
+
+[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/629)
 
 +++
 

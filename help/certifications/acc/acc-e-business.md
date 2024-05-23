@@ -7,16 +7,20 @@ role: User
 badge: label="考试AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: d9c2badb16c24d51e834841b27b2b0947bc6d889
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 3%
+source-wordcount: '508'
+ht-degree: 0%
 
 ---
 
 # Adobe的认证历程 [!DNL Campaign Classic] 商业从业者专家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/630) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -128,56 +132,15 @@ ht-degree: 3%
 
 {{study-materials-intro}}
 
-**第1部分：营销活动管理**
-
-* [[!DNL Campaign Classic] v7文档](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hans){target="_blank"}
-* [营销活动入门](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=zh-Hans){target="_blank"}
-* [关于种子地址](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html)
-* [营销活动入门](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=zh-Hans)
-* [Adobe [!DNL Campaign Classic] V7教程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans)
-* [使用自定义收件人表](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
-
-**第2部分：工作流管理**
-
-* [A/B测试入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html){target="_blank"}
-* [消息跟踪入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
-* [工作流入门](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/build-a-workflow.html?lang=zh-Hans){target="_blank"}
-* [在工作流中定位活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
-* [查询](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
-
-**第3部分：数据管理**
-
-* [数据架构](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
-* [工作流中的操作活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
-* [流程和数据管理入门](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html){target="_blank"}
-* [识别表单](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html){target="_blank"}
-* [关于内容管理](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html?lang=zh-Hans){target="_blank"}
-
-
-**第四节　：投放管理**
-
-* [关于Campaign集成](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html){target="_blank"}
-* [投放](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=zh-Hans){target="_blank"}
-* [营销活动入门](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=zh-Hans){target="_blank"}
-* [关于投放创建步骤](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=zh-Hans){target="_blank"}
-* [投放监测入门](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=zh-Hans){target="_blank"}
-
-**第五节　：报告**
-
-* [关于投放报告](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
-* [报告入门](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
-
-**第六节　：管理**
-
-* [配置原则](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
-* [权限入门](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
-* [关于SFTP管理](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html){target="_blank"}
-
-<br>
-
 **参加练习测试**
 
 {{practice-test}}
+
+**考试准备指南**
+
+{{exam-prep-guide}}
+
+[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/630)
 
 +++
 
