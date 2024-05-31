@@ -7,7 +7,7 @@ role: Developer
 badge: label="考试AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **课程：** 获取 [面向开发人员的Adobe Experience Manager Sites — 专业课程](https://app.rockinfo.com/courses/105)，包括对关键概念的解释、实践演示和知识检查。 如果你刚开始工作，或者需要新手，就拿着 [Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240)，提供了可在认证历程中构建的知识基础。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/381) 提供量身定制的考试准备流程，包括考试成功所需的材料。
+>* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/121) 提供量身定制的考试准备流程，包括考试成功所需的材料。
 >
 >如果系统提示您登录，请使用您的Adobe ID。
 
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/381)
+[查看考试准备指南](https://app.rockinfo.com/courses/121)
 
 **示例问题**
 

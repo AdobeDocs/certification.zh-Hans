@@ -7,7 +7,7 @@ role: User
 badge: label="考试AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/533) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/220) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -158,15 +158,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
+**参加练习测试**
+
+{{practice-test}}
+
 **考试准备指南**
 
 {{exam-prep-guide}}
 
-[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/533)
-
-**参加练习测试**
-
-{{practice-test}}
+[查看考试准备指南](https://app.rockinfo.com/courses/220)
 
 +++
 

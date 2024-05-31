@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="考试AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 7a4da86f05dffd04ec46b82f8b47871c8d736723
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '620'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/635) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/254) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -143,7 +143,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/635)
+[查看考试准备指南](https://app.rockinfo.com/courses/254)
 
 +++
 

@@ -7,7 +7,7 @@ role: Developer
 badge: label="考试AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **课程：** 获取 [Adobe Commerce开发人员专业课程](https://app.rockinfo.com/courses/92) 其中包括关键概念的解释、实践演示和知识检查。 如果你刚开始的话 [Adobe Commerce基础课程](https://app.rockinfo.com/courses/148) 提供了知识基础，您可以在认证历程中在此基础上进行构建。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/382) 提供量身定制的考试准备流程，包括考试成功所需的材料。
+>* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/136) 提供量身定制的考试准备流程，包括考试成功所需的材料。
 >
 >如果系统提示您登录，请使用您的Adobe ID。
 
@@ -208,12 +208,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   查看考试准备指南
-</span>
-</a>
+[查看考试准备指南](https://app.rockinfo.com/courses/136)
 
 +++
 
