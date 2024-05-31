@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/618) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/247) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -85,12 +85,20 @@ ht-degree: 0%
 
 **第1款：建立和管理方案(39%)**
 
-* 根据业务需求/问题，确定适当的报告策略以执行分析
-* 分析数据以回答业务问题
-* 识别转化漏斗（作为理解业务分析的一个概念）
-* 请参阅解决方案设计参考(SDR)以确定报表中有哪些数据可用
-* 分析报表数据以总结和得出结论
-* 识别报告中的异常值和异常
+* 确定何时使用4种程序类型中的每一种。
+* 确定使用事件程序的原因/时间。
+* 确定使用默认程序的原因/时间。
+* 确定参与计划的特殊功能。
+* 识别电子邮件程序的特殊功能。
+* 识别可以克隆的内容。
+* 识别自定义标记的优点。
+* 识别渠道的用途。
+* 描述期间成本的重要性。
+* 认识使用商机评分的概念。
+* 了解通信限制。
+* 认可计划会员资格和客户获取。
+* 了解客户首选项（订阅、通信）。
+* 在启动之前应用最佳实践以供审查。
 
 **第2款：建造资产(19%)**
 
@@ -159,7 +167,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[查看考试准备指南](https://app.rockinfo.com/courses/playScorm/618)
+[查看考试准备指南](https://app.rockinfo.com/courses/247)
 
 +++
 
