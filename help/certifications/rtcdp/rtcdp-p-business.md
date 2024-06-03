@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="考试AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 368efd8497209e2342806f9cea6005c30ced306f
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >* **课程：** 如果你刚开始工作，或者需要个新手，就把我们的 [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216) 访问关键概念、产品演练和知识检查的解释。 本课程为您提供了知识基础，您可以在认证历程中在此基础上进行学习。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/playScorm/637) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
+>* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/133) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -130,10 +130,6 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
-
-{{practice-test}}
-
 **参加课程**
 
 {{take-course}}
@@ -145,16 +141,16 @@ ht-degree: 0%
 </span>
 </a>
 
+**参加练习测试**
+
+{{practice-test}}
+
 **考试准备指南**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/637" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[查看考试准备指南](https://app.rockinfo.com/courses/133)
 
-<span class="spectrum-Button-label has-no-wrap">
-   查看考试准备指南
-</span>
-</a>
 
 +++
 

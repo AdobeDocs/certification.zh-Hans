@@ -7,7 +7,7 @@ role: User
 badge: label="考试AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 070217df98c666389b1e7a7f900e39afdfd36c5b
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '701'
 ht-degree: 0%
@@ -174,12 +174,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/144" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   查看考试准备指南
-</span>
-</a>
+[查看考试准备指南](https://app.rockinfo.com/courses/144)
 
 +++
 
