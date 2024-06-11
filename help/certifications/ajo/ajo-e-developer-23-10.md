@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 1%
+source-wordcount: '595'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,13 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**可用的新课程：** 免费、按需 [Adobe Journey Optimizer开发人员专家课程](https://app.rockinfo.com/courses/147) 包括关键概念的解释、实践演示和知识检查。 _如果系统提示您登录，请使用您的Adobe ID。_
+>现在提供免费的按需资源，帮助您准备考试：
+>
+>* **课程：** 免费、按需 [Adobe Journey Optimizer开发人员专家课程](https://app.rockinfo.com/courses/147) 包括关键概念的解释、实践演示和知识检查。
+>
+>* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/143) 提供量身定制的考试准备流程，包括考试成功所需的深入学习材料。
+>
+>_如果系统提示您登录，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -131,44 +137,17 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加Adobe Journey Optimizer开发人员专家课程
-</span>
-</a>
-
-**研究资源**
-
-**第1部分：管理和配置**
-
-* [《Experience Platform、访问控制、沙盒指南》](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hans){target="_blank"}
-* [AJO指南、配置、短信渠道、历程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-* [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
-
-**第2部分：Journey Orchestration**
-
-* [AJO指南、历程、表达式、跟踪和监视](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-
-**第3节：Offer decisioning**
-
-* [AJO指南、决策管理、API参考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-
-**第4部分：内容创作**
-
-* [AJO指南、SMS渠道、隐私、配置、历程、表达式、内容管理、跟踪和监控、推送通知渠道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-* [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
-
-**第5节：数据建模**
-
-* [AJO指南、配置、受众、配置文件和标识、数据管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-* [Experience Platform、数据集、源连接器指南、APITutorials、平台标识服务指南、分段UI、UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
-
-<br>
+[参加Adobe Journey Optimizer开发人员专家课程](https://app.rockinfo.com/courses/147)
 
 **参加练习测试**
 
 {{practice-test}}
+
+**考试准备指南**
+
+{{exam-prep-guide}}
+
+[查看考试准备指南](https://app.rockinfo.com/courses/143)
 
 +++
 
