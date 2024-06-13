@@ -7,9 +7,9 @@ role: Developer
 badge: label="考试AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '577'
 ht-degree: 0%
 
 ---
@@ -152,16 +152,9 @@ ht-degree: 0%
 
 [查看考试准备指南](https://app.rockinfo.com/courses/123)
 
-**示例问题**
+**参加练习测试**
 
-{{sample-questions}}
-
-<a href="https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   查看示例问题
-</span>
-</a>
+{{practice-test}}
 
 +++
 

@@ -6,12 +6,13 @@ product: Experience Platform
 role: Developer
 badge: label="考试AD0-E600和AD7-E601" type="neutral"
 hidefromtoc: true
+hide: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
 workflow-type: tm+mt
 source-wordcount: '1069'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -136,7 +137,7 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 * [了解架构](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
 * [架构和XDM概述/Adobe [!DNL Experience Platform]：数据建模和摄取](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [在架构中对数据进行建模](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
-* [架构和XDM概述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=zh-Hans){target="_blank"}
+* [架构和XDM概述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
 **第2部分：数据摄取**
 
@@ -277,7 +278,7 @@ AD0-E600考试将检验涵盖Adobe的基本功能和经常执行的任务的技�
 * [配置文件仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [实时客户个人资料数据的默认护栏](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=zh-Hans)
 * [启用实时客户个人资料](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
-* [Real-time Customer Data Platform概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=zh-Hans){target="_blank"}
+* [Real-time Customer Data Platform概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html){target="_blank"}
 * [AEP应用程序服务：Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Real-Time CDP快速入门](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform主页和功能板](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
