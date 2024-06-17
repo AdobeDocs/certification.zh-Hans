@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 2dccb15126e43c102ab9afdbd99f75c73e315deb
 workflow-type: tm+mt
 source-wordcount: '1864'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -109,7 +109,7 @@ ht-degree: 3%
 
 **章节1**
 
-* [Analytics Cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=zh-Hans)
+* [Analytics Cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
 * [添加数据元素、规则和库](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
 * [添加嵌入代码](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
@@ -133,7 +133,7 @@ ht-degree: 3%
 
 **章节5**
 
-* [Analytics导出指南](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=zh-Hans){target="_blank"}
+* [Analytics导出指南](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [处理规则的工作原理](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 * [ADOBE ANALYTICS API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
@@ -171,7 +171,7 @@ ht-degree: 3%
 
 **考试详细信息：**
 
-* 及格分数：26/35
+* 及格分数：27/35
 * 时间：70分钟
 * 费用：免费/非监护
 * 投放：按需
@@ -233,37 +233,37 @@ ht-degree: 3%
 
 **章节1**
 
-* [贡献分析概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=zh-Hans)
+* [贡献分析概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
 * [Analysis Workspace 概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
-* [转换漏斗](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+* [转化漏斗](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [登入维度](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
 **章节2**
 
-* [共享项目](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=zh-Hans)
+* [共享项目](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
 * [组件概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
-* [警报生成器](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=zh-Hans)
-* [创建移动记分卡](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/mobapp/create-scorecard.html?lang=zh-Hans)
+* [警报生成器](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
+* [创建移动记分卡](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **章节3**
 
-* [区段比较](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=zh-Hans)
-* [生成量度](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=zh-Hans)
-* [在Analysis Workspace中使用下拉过滤器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=zh-Hans)
+* [区段比较](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
+* [生成量度](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+* [在Analysis Workspace中使用下拉过滤器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
 * [标记区段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **章节4**
 
 * [数据激增和骤减故障诊断](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
-* [自定义事件](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=zh-Hans)
-* [下载 PDF 或 CSV 文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=zh-Hans)
+* [自定义事件](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
+* [下载PDF或CSV文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
 * [URL参数入门指南](https://www.semrush.com/blog/url-parameters/)
 
 **章节5**
 
 * [营销渠道的处理规则](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
 * [分类概述](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
-* [创建虚拟报表包](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=zh-Hans)
+* [创建虚拟报表包](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
 * [隐私法规常见问题解答](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## 续订您的认证
