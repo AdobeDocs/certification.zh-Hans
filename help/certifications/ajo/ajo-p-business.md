@@ -1,12 +1,12 @@
 ---
-title: 专家认证
+title: 专业认证
 description: 了解如何成为认证Adobe [!DNL Journey Optimizer] 商业从业者专业人士。
 solution: Journey Optimizer
 product: Journey Optimizer
-role: Developer
+role: User
 badge: label="考试AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 573a6c2e60a4fe3376f3a567b4e99bf7ccb2a4db
+source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 0%

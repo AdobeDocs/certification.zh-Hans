@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考试AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
+source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -122,11 +122,15 @@ ht-degree: 0%
 
 [查看考试准备指南](https://app.rockinfo.com/courses/245)
 
-**示例问题**
+**参加练习测试**
 
-{{sample-questions}}
+我们建议您在开始之前参加免费的练习测试。 您将可以不受限制地访问所有可用的练习测试，以进行Adobe级别的考试。
 
-[查看示例问题](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
+我们的实践测试都是基于与实时考试相同的Blueprint开发的。 练习测试将帮助您了解现场测试涵盖的主题。
+
+请记住，通过实践测试并不保证您会通过认证考试。
+
+[参加实践测试](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
 
 +++
 
