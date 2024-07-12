@@ -1,20 +1,20 @@
 ---
 title: 认证续订
-description: 了解如何续订您的 [!DNL Audience Manager] 认证过期之前。
+description: 了解如何在 [!DNL Audience Manager] 认证过期前续订。
 solution: Audience Manager
 product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 9724d768dc56c7bb67ae709ab623ca5ae173150f
+source-git-commit: 5124ebdfc298becc8860046209c3e92d6ebb1379
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
 
 ---
 
-# 续订Adobe [!DNL Audience Manager] 认证
+# 续订Adobe[!DNL Audience Manager]认证
 
 您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
 
@@ -26,27 +26,27 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->**先登录：** 以下链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>**首先登录：**&#x200B;在&#x200B;**成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}后，以下链接只能**&#x200B;起作用&#x200B;**。**
 >
 ><br>
 >
->**要共享链接，请执行以下操作：** 如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
+>**共享链接：**&#x200B;如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 >[!BEGINTABS]
 
->[!TAB 专业]
+>[!TAB 专业人员]
 
 ## 续订认证的说明：
 
-* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
 * **步骤2**：查看考试目标和资源
-* **步骤3**：参加并通过考试
+* **步骤3**：参加考试并通过考试
 
-### Adobe [!DNL Audience Manager] 商业从业者专业更新考试
+### Adobe[!DNL Audience Manager]商业从业者专业资格更新考试
 
 您当前应在以下位置获得认证（未过期）：
 
-* Adobe [!DNL Audience Manager] 商业从业者专业人员
+* Adobe[!DNL Audience Manager]商业从业者专业人员
 
 ### 准备就绪
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：AD5-E852Adobe [!DNL Audience Manager] 商业从业者专业更新考试
+* 考试ID：AD5-E852Adobe[!DNL Audience Manager]商业从业者专业资格更新考试
 
 ### 考试目的和范围
 
@@ -75,17 +75,17 @@ ht-degree: 0%
 * 给定场景，识别信号、特征、区段和受众
 * 识别不同类型特征的用途
 
-**第3款：报告和计量(16%)**
+**第3部分：报告和测量(16%)**
 
 * 给定场景，生成报表以衡量激活或营销活动目标
 * 给定场景，根据匹配率比较受众
 
-**第4部分：故障排除(10%)**
+**第4部分：疑难解答(10%)**
 
 * 在给定场景下，对来自不同源和源类型的入站数据进行故障诊断
 * 验证入站数据文件的格式
 
-**第五节　：分类(12%)**
+**第5节：分类(12%)**
 
 * 使用清晰一致的命名法确定有组织文件夹结构的最佳实践
 * 使用一致且清晰的命名法将特征和区段分类到文件夹中
@@ -101,10 +101,10 @@ ht-degree: 0%
 
 以下是一些可帮助您准备的建议资源：
 
-**章节1**
+**节1**
 
 * [收集的数据类型](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
-* [Audience Manager中的数据安全](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
+* [Audience Manager中的数据安全性](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
 * [数据隐私请求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html){target="_blank"}
 * [Audience Manager概述](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=zh-Hans){target="_blank"}
 * [客户数据信息源常见问题解答](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html){target="_blank"}
@@ -113,7 +113,7 @@ ht-degree: 0%
 * [将受众激活到批量配置文件导出目标](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en){target="_blank"}
 * [添加新的基于设备的目标](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en){target="_blank"}
 
-**章节2**
+**节2**
 
 * [了解Analytics和Audience Manager中的区段](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=zh-Hans){target="_blank"}
 * [了解信号](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=en){target="_blank"}
@@ -121,53 +121,53 @@ ht-degree: 0%
 * [特征Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
 * [创建算法特征](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en){target="_blank"}
 
-**章节3**
+**节3**
 
 * [转化报表](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
 * [独特用户范围](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=en){target="_blank"}
 * [广告单元重叠](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en){target="_blank"}
 * [了解匹配率](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
-* [可寻址受众匹配率较低的原因](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
+* [导致可寻址受众匹配率较低的原因](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
 * [了解ID同步和匹配率](https://experienceleague.adobe.com/docs/id-service/using/intro/match-rates.html?lang=en){target="_blank"}
 
-**章节4**
+**节4**
 
-* [载入状态报表：关于](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
+* [载入状态报告：关于](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
 * [数据源列表和设置](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en){target="_blank"}
 * [入站数据文件内容：语法、无效字符、变量和示例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en){target="_blank"}
 
-**章节5**
+**节5**
 
 * [Audience Manager用例](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en){target="_blank"}
 * [创建特征分类](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
-* [使用通用分类法对特征进行分类](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
+* [使用通用分类法将特征分类](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
 * [创建区段分类](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.html?lang=en){target="_blank"}
 
-**章节6**
+**节6**
 
 * [配置文件合并规则的一般用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
 * [配置文件合并规则概述](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
 * [开始使用配置文件合并规则](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
-* [创建、定价和管理数据信息源](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
+* [创建、定价和管理数据馈送](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
 * [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=en){target="_blank"}
 
 ### 续订您的认证
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的链接。
+请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的链接。
 
-[!BADGE 接受Adobe [!DNL Audience Manager] 商业从业者专业资格更新考试 — AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E852&amp;cid=358899 newtab=true"}
+[!BADGE 参加Adobe[!DNL Audience Manager]商业从业者专业资格更新考试 — AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E852 newtab=true"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
 
 >[!TAB 专家]
 
 ## 续订认证的说明：
 
-* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
 * **步骤2**：查看考试目标和资源
-* **步骤3**：参加并通过考试
+* **步骤3**：参加考试并通过考试
 
 ### 您当前应在以下位置获得认证（未过期）：
 
@@ -198,19 +198,19 @@ ht-degree: 0%
 * 为给定的受众策略推荐特征
 * 确定创建和更新基于规则的特征和/或已载入特征的正确方法
 
-**第3款：报告和计量(21%)**
+**第3部分：报告和测量(21%)**
 
 * 在场景中，分析报表以提供可操作的后续步骤来实现业务目标
 * 给定场景，分析受众优化
 
-**第4节：疑难解答和管理(26%)**
+**第4部分：疑难解答和管理(26%)**
 
 * 在场景中，验证受众交付信息，以确保计划的交付需求
 * 确定验证离线入站文件的相应实践
 * 给定场景，确定对ID同步执行QA的正确方法
 * 确定从AdobeAudience Marketplace导航和激活的适当方法
 
-**第五节　：分类(11%)**
+**第5节：分类(11%)**
 
 * 确定适当的结构，以创建使用清晰一致命名法的特性和区段
 * 确定使用明确的文件夹结构维护有组织的平台的正确技术
@@ -233,22 +233,22 @@ ht-degree: 0%
 
 **重新启动您的认证**
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Adobe Audience Manager Business Practioner Expert - AD5-E826链接。
+请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的Adobe Audience Manager Business Practioner Expert - AD5-E826链接。
 
-[!BADGE 参加Adobe Audience Manager业务从业者专家续订考试AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE 参加Adobe Audience Manager商业从业者专家续约考试AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
 
 
->[!TAB 母版]
+>[!TAB 主控]
 
 ## 续订认证的说明
 
-* **步骤1**  — 查看考试目标
-* **步骤2**  — 查看资源
-* **步骤3**  — 参加并通过考试
+* **步骤1** — 查看考试目标
+* **步骤2** — 查看资源
+* **步骤3** — 参加考试并通过考试
 
 ### 您当前应在以下位置获得认证（未过期）：
 
@@ -268,7 +268,7 @@ ht-degree: 0%
 
 ## 考试目的和范围：
 
-**第1款：实施情况分析(28%)**
+**第1部分：实现分析(28%)**
 
 * 确定如何指导和支持将AAM作为独立产品或云解决方案的一部分进行实施
 * 分析出站目标选项并推荐AAM实施方法
@@ -285,7 +285,7 @@ ht-degree: 0%
 
 **第3部分：分段和激活(31%)**
 
-* 应用过程概念在中创建目标 [!DNL Audience Manager]
+* 应用过程概念在[!DNL Audience Manager]中创建目标
 * 识别信号以创建基于规则的特征、载入的特征和算法特征
 * 应用过程性概念以使用频率/回访间隔创建区段
 * 确定如何使用配置文件合并规则创建区段
@@ -294,10 +294,10 @@ ht-degree: 0%
 
 **第4部分：隐私和数据管理(7%)**
 
-* 推荐 [!DNL Audience Manager] 与治理、隐私和安全相关的功能
+* 推荐[!DNL Audience Manager]功能，因为它与治理、隐私和安全相关
 * 确定符合政府法规的客户数据策略
 
-**第5款：业绩和报告情况(17%)**
+**第5节：性能和报表(17%)**
 
 * 确定如何在AAM中配置报表以收集信号、特征并根据业务需求细分性能
 
@@ -310,23 +310,23 @@ ht-degree: 0%
 * [AAM：技术基础](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
 * [AAM：集成系列](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
 * [AAM：高级功能](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [Launch培训和资源](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [启动培训和资源](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### 续订您的认证
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Adobe Audience Manager Architect Master renewal - AD5-E825链接。
+请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的Adobe Audience Manager Architect Master renewal - AD5-E825链接。
 
-[!BADGE 参加Adobe Audience Manager Architect主续订考试AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825&amp;cid=358899 newtab=true"}
+[!BADGE 参加Adobe Audience Manager Architect主续订考试AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
 
 
 >[!ENDTABS]
 
 ### 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
