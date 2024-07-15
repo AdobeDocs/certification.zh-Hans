@@ -1,6 +1,6 @@
 ---
 title: 开发人员专业认证
-description: 了解如何成为认证Adobe业务从业者专家 [!DNL Experience Manager Sites].
+description: 了解如何在 [!DNL Experience Manager Sites]中成为认证Adobe业务从业专家。
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager Sites] 开发人员专业版
+# Adobe[!DNL Experience Manager Sites]开发人员专业人员的认证历程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 获取 [面向开发人员的Adobe Experience Manager Sites — 专业课程](https://app.rockinfo.com/courses/105)，包括对关键概念的解释、实践演示和知识检查。 如果你刚开始工作，或者需要新手，就拿着 [Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240)，提供了可在认证历程中构建的知识基础。
+>* **课程：**&#x200B;参加[面向开发人员的Adobe Experience Manager Sites — 专业课程](https://app.rockinfo.com/courses/105)，该课程包括对关键概念的解释、实践演示和知识检查。 如果您刚刚开始学习，或需要复习者，请参加[Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240)，该课程将为您提供可在认证历程中积累的知识基础。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/121) 提供量身定制的考试准备流程，包括考试成功所需的材料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/121)提供了通过考试准备过程量身定制的途径，包括考试成功所需的材料。
 >
 >如果系统提示您登录，请使用您的Adobe ID。
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 您应该成为应用程序开发人员并拥有：
 
-* 使用AEM的0-12个月经验 [!DNL Platform]
+* 使用AEM [!DNL Platform]的0-12个月经验
 * 执行组件开发的能力
 * 对AEM中的MVC框架、生命周期框架和库的基本了解
 
@@ -76,24 +76,24 @@ ht-degree: 0%
 * 确定管理自定义Oak索引的正确步骤
 * 确定配置OOTB SAML或IMS集成的正确步骤
 
-**第2款：AEM开发(40%)**
+**第2部分：AEM开发(40%)**
 
 * 确定实施基于核心的组件的正确步骤
 * 连接组件功能，包括HTL、模型和服务
 * 给定场景，确定开发工作流的正确步骤
 * 给定场景，概述内容片段或体验片段的用途
 
-**第3款：建立和部署(12%)**
+**第3部分：生成和部署(12%)**
 
 * 定义Maven项目结构
 * 从原型配置项目
 
-**第4节：环境维护(22%)**
+**第4部分：环境维护(22%)**
 
 * 给定场景，确定调试AEM环境中的问题所需的步骤
 * 解释AEM维护版本
 * 了解如何跨拓扑配置AEM
-* 确定规划和迁移到AEMas a Cloud Service所需的步骤
+* 确定规划和迁移到AEM as a Cloud Service所需的步骤
 
 <br>
 
@@ -121,7 +121,7 @@ ht-degree: 0%
 
 [参加Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240)
 
-[参加面向开发人员的Adobe Experience Manager Sites — 专业课程](https://app.rockinfo.com/courses/105)
+[参加开发人员的Adobe Experience Manager Sites — 专业课程](https://app.rockinfo.com/courses/105)
 
 **考试准备指南**
 
@@ -188,7 +188,7 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 

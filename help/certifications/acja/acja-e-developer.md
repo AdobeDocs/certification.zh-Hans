@@ -1,6 +1,6 @@
 ---
 title: 专家认证
-description: 了解如何成为Adobe领域的认证专家 [!DNL Customer Journey Analytics]
+description: 了解如何成为Adobe [!DNL Customer Journey Analytics]的认证专家
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Customer Journey Analytics] 开发人员专家
+# Adobe[!DNL Customer Journey Analytics]开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/132) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/132)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-您应具有12-24个月的Adobe经验 [!DNL Customer Journey Analytics]，并能够执行以下任务：
+您应在Adobe[!DNL Customer Journey Analytics]中拥有12-24个月的经验，并能够执行以下任务：
 
 * 阅读并了解XDM架构（类）
 * 演示熟悉平台界面
@@ -66,9 +66,9 @@ ht-degree: 0%
 * 配置与主要身份（人员ID）的连接
 * 配置与多个数据集的连接
 * 配置数据视图（量度/维度配置）
-* 配置Adobe [!DNL Customer Journey Analytics]
+* 配置Adobe[!DNL Customer Journey Analytics]
 * 转换维度和量度中的数据
-* 分析工作区基础知识（可视化图表、归因设置、过滤器、计算量度）
+* 分析Workspace基础知识（可视化图表、归因设置、过滤器、计算量度）
 * 了解CJA (DULE)中的数据治理
 * 跨渠道量度或基于人员的过滤器构建
 * 区分/了解AEP中的沙盒
@@ -80,12 +80,12 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1节：连接(22%)**
+**第1部分：连接(22%)**
 
 * 使用适当的设置设计CJA连接
 * 通过沙盒从AEP中可用的XDM数据集创建CJA连接
 
-**第2部分：数据查看(30%)**
+**第2部分：数据视图(30%)**
 
 * 配置用于报告和分析的数据视图
 * 修改数据视图中的组件
@@ -97,7 +97,7 @@ ht-degree: 0%
 * 构建或排除组件故障
 * 监控使用情况以许可
 
-**第4节：报告和激活(14%)**
+**第4部分：报告和激活(14%)**
 
 * 使用Analysis Workspace通过适当的可视化图表演示跨渠道客户历程
 * 将CJA过滤器的成员发送到RTCDP受众
@@ -123,7 +123,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -186,6 +186,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

@@ -1,14 +1,14 @@
 ---
-title: 主控技术认证
-description: 面向主控用户的认证选项概述
+title: 主技术认证
+description: 主用户的认证选项概述
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 44%
+ht-degree: 23%
 
 ---
 
-# 主控技术认证
+# 主技术认证
 
 
 **Analytics**
@@ -43,4 +43,3 @@ ht-degree: 44%
 >
 >* [专家技术认证](expert.md)
 >* [专业技术认证](professional.md)
-

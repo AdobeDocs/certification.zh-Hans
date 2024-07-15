@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专家认证
-description: 了解如何成为认证Adobe业务从业者专家 [!DNL Adobe Target].
+description: 了解如何在 [!DNL Adobe Target]中成为认证Adobe业务从业专家。
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的认证历程 [!DNL Adobe Target] 商业从业者专家
+# [!DNL Adobe Target]商业从业者专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/236) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/236)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -55,13 +55,13 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 2年以上的优化平台使用经验，包括 [!DNL Adobe Target]
-* 动手体验 [!DNL Adobe Target]
+* 2年以上的优化平台使用经验，包括[!DNL Adobe Target]
+* [!DNL Adobe Target]的动手体验
 * 2年以上领导/促进优化计划的经验
 * 了解Target/Adobe Marketing Cloud管理任务的基础知识（首选项、用户角色和权限、设置）
 * 能够了解业务KPI并将其转化为优化目标
 * 根据需求评估提出建议的能力
-* 能够确定适当的 [!DNL Adobe Target] 基于优化目标的活动类型
+* 能够根据优化目标确定适当的[!DNL Adobe Target]活动类型
 * 了解如何使用HTML和CSS优化用户体验
 * 了解JavaScript的概念
 * 适用于优化的统计概念和数据分析知识
@@ -79,8 +79,8 @@ ht-degree: 0%
 * 浏览器的控制台/浏览器开发人员工具，例如控制台、网络选项卡
 * 浏览器中的网络工具
 * 对其他Adobe工具的基本了解
-* 开发人员控制台（任何Web浏览器）
-* [!DNL Adobe Target] 样本计算器
+* Developer Console（任何Web浏览器）
+* [!DNL Adobe Target]计算器示例
 * Adobe Audience Manager基础知识
 * Adobe Experience Cloud（作为Target的受众源）
 * Adobe Experience Manager
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1款：规划和战略(31%)**
+**第1部分：规划和策略(31%)**
 
 * 确定业务KPI，并根据关键业务需求成功地将其转换为优化目标
 * 根据业务KPI和数据分析发现优化机会
@@ -117,7 +117,7 @@ ht-degree: 0%
 * 评估受众要求
 * 确定适当的Analytics报表源(即Target或Adobe Analytics)
 
-**第2节：配置、执行和管理(42%)**
+**第2部分：配置、执行和管理(42%)**
 
 * 解释基于表单的体验编辑器与可视化体验编辑器的用法
 * 应用过程以使用VEC创建体验
@@ -134,16 +134,16 @@ ht-degree: 0%
 * 应用过程以执行活动QA
 * 应用过程管理Target中的活动和受众
 
-**第3款：分析和报告(17%)**
+**第3部分：分析和报告(17%)**
 
 * 定义并评估报表设置，以帮助设置报表中显示的元素
-* 评估和比较 [!DNL Adobe Target] 规划Target活动和验证Target活动报表时的样本量计算器设置
+* 在规划Target活动和验证Target活动报表时，评估和比较[!DNL Adobe Target]样本量计算器设置
 * 评估并识别与A/B测试相关的常见问题以及如何避免这些问题
 * 了解Automated Personalization摘要报表与其他报表有何不同
 * 评估体验性能报表(MVT)
 * 根据观察到的提升度、置信水平和业务目标确定入选变量
 
-**第4部分：故障排除(10%)**
+**第4部分：疑难解答(10%)**
 
 * 诊断活动资格问题
 * 使用浏览器调试工具(包括Experience Cloud Debugger)来验证实施
@@ -169,7 +169,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -243,6 +243,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

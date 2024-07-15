@@ -1,6 +1,6 @@
 ---
 title: 开发人员专家认证
-description: 了解如何成为以下领域的认证Adobe Developer专家 [!DNL Campaign Classic].
+description: 了解如何在 [!DNL Campaign Classic]中成为认证Adobe Developer专家。
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Campaign Classic] 开发人员专家
+# Adobe[!DNL Campaign Classic]开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/252) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/252)提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 * 技术顾问
 * 营销技术工程师
-* Adobe [!DNL Campaign Classic] 开发人员
+* Adobe[!DNL Campaign Classic]开发人员
 
 <br>
 
@@ -74,14 +74,14 @@ ht-degree: 0%
 * 实施自定义配置
 * 识别Campaign控制面板配置功能
 
-**第2节：定制(22%)**
+**第2部分：自定义(22%)**
 
 * 给定一组要求，应用最佳实践来设计数据模型
 * 描述Campaign中API的实施
 * 描述在Adobe Campaign中使用JavaScript进行开发的最佳实践
 * 在工作流、SOAP调用、类型规则和个性化块中应用JavaScript库
-* 描述在Adobe中使用SQL函数的最佳实践 [!DNL Campaign Classic]
-* 给定一个方案，了解如何在Adobe中使用SQL脚本 [!DNL Campaign Classic]
+* 描述在Adobe[!DNL Campaign Classic]中使用SQL函数的最佳实践
+* 给定一个方案，了解如何在Adobe[!DNL Campaign Classic]中使用SQL脚本
 * 描述常用的OOTB函数
 
 **第3部分：访问管理(8%)**
@@ -99,7 +99,7 @@ ht-degree: 0%
 * 确定要从外部系统与Adobe Campaign集成的安全性和网络设置
 * 在Adobe Campaign外部的架构上设置CRUD流程
 
-**第五节　：实例维修(12%)**
+**第5节：实例维护(12%)**
 
 * 了解工作流热图并对其执行操作
 * 演示创建用于实例监控的自定义工作流或报告的过程
@@ -107,7 +107,7 @@ ht-degree: 0%
 * 解释服务和流程对系统的影响
 * 演示基本的系统审核指标/检查
 
-**第6部分：Campaign配置(25%)**
+**第6部分： Campaign配置(25%)**
 
 * 应用高级个性化技术
 * 配置并应用自定义目标映射
@@ -124,7 +124,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -146,7 +146,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -209,6 +209,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

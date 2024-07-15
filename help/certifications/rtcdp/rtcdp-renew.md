@@ -1,6 +1,6 @@
 ---
 title: 认证续订
-description: 了解如何续订您的 [!DNL Experience Platform] 中的认证 [!DNL Real-Time Customer Data Platform].
+description: 了解如何在 [!DNL Real-Time Customer Data Platform]中续订 [!DNL Experience Platform] 认证。
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 ---
 
-# 续订Adobe [!DNL Real-Time CDP] 认证
+# 续订Adobe[!DNL Real-Time CDP]认证
 
 您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
 
@@ -26,27 +26,27 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->**先登录：** 以下链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>**首先登录：**&#x200B;在&#x200B;**成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}后，以下链接只能**&#x200B;起作用&#x200B;**。**
 >
 ><br>
 >
->**要共享链接，请执行以下操作：** 如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
+>**共享链接：**&#x200B;如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 >[!BEGINTABS]
 
->[!TAB 专业]
+>[!TAB 专业人员]
 
-+++Adobe [!DNL Real-Time CDP] 商业从业者专业人员
++++Adobe[!DNL Real-Time CDP]商业从业者专业人员
 
-## 您应该拥有以下内容 **活动** 认证：
+## 您应该拥有以下&#x200B;**活动**&#x200B;认证：
 
-* Adobe [!DNL Real-Time CDP] 商业从业者专业人员
+* Adobe[!DNL Real-Time CDP]商业从业者专业人员
 
 ## 续订认证的说明：
 
-* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
 * **步骤2**：查看考试目标和资源
-* **步骤3**：参加并通过考试
+* **步骤3**：参加考试并通过考试
 
 ## 准备就绪
 
@@ -58,7 +58,7 @@ ht-degree: 1%
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：AD5-E845Adobe [!DNL Real-Time CDP] 商业从业者专业人员
+* 考试ID：AD5-E845Adobe[!DNL Real-Time CDP]商业从业者专业人员
 
 **范围和目标：**
 
@@ -91,60 +91,60 @@ ht-degree: 1%
 
 以下是一些可帮助您准备的建议资源：
 
-**章节1**
+**节1**
 
 * [区段生成器UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
 * [将受众激活到流目标](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
 * [目标类型和类别](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
-* [流式客户细分](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [流式分段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
 * [激活数据的护栏](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
 * [将受众激活到批量配置文件导出目标](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
 * [目标概述](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=zh-Hans){target="_blank"}
 * [目标激活工作流中的身份处理](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html){target="_blank"}
-* [支持的身份](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
+* [支持的标识](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
 * [将受众激活到批量配置文件导出目标](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
 
-**章节2**
+**节2**
 
 * [数据管理概述](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=zh-Hans){target="_blank"}
-* [Real-Time CDP中的数据治理](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
+* Real-Time CDP中的[数据管理](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [数据使用策略概述](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html?lang=zh-Hans){target="_blank"}
 * [在UI中管理数据使用标签](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?lang=zh-Hant){target="_blank"}
 * [自动策略实施](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html?lang=zh-Hans){target="_blank"}
 * [使用请求生成器](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hans#request-builder){target="_blank"}
 
-**章节3**
+**节3**
 
 * [分段服务概述](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=zh-Hans){target="_blank"}
 * [智能地重新吸引您的客户以返回](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html){target="_blank"}
 * [Customer AI概述](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html){target="_blank"}
-* [创建顺序受众](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
-* [构建多实体区段](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
-* [流式客户细分](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [创建连续受众](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
+* [生成多实体区段](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
+* [流式分段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
 * [创建受众](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
-* [监测UI中标识的数据流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
+* [监视UI中标识的数据流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
 * [将受众激活到批量配置文件导出目标](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
 * [部分批次摄取](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
 
-**章节4**
+**节4**
 
 * [将数据集导出到云存储目标](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html){target="_blank"}
 * [事件转发概述](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html){target="_blank"}
-* [Identity服务概述](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=zh-Hans){target="_blank"}
+* [身份服务概述](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=zh-Hans){target="_blank"}
 * [合并策略概述](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html){target="_blank"}
-* [实时客户资料UI指南](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=zh-Hans){target="_blank"}
-* [配置文件仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [实时客户个人资料UI指南](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=zh-Hans){target="_blank"}
+* [个人资料仪表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [在Real-time Customer Data Platform中浏览配置文件](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html){target="_blank"}
 
 ## 续订您的认证
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的按钮。
+请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的按钮。
 
-[!BADGE 接受Adobe [!DNL Real-Time CDP] 商业从业者专业资格更新考试AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
+[!BADGE 参加Adobe[!DNL Real-Time CDP]商业从业者专业资格更新考试AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
 
@@ -152,6 +152,6 @@ ht-degree: 1%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

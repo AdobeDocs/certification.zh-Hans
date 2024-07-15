@@ -1,6 +1,6 @@
 ---
 title: 开发人员专家认证
-description: 了解如何获得认证 [!DNL Adobe Analytics] 开发人员专家。
+description: 了解如何获得 [!DNL Adobe Analytics] 开发人员专家认证。
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Analytics] 开发人员专家
+# Adobe[!DNL Analytics]开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/221) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/221)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-您应具有作为混合角色实施顾问的经验，并在以下领域拥有约2年的经验 [!DNL Adobe Analytics] 实现。 您充当IT和业务之间的桥梁，将业务需求转换为技术解决方案(SDR)，并根据分析师提供的需求了解需要哪种类型的变量、在哪里以及如何收集数据、设计数据模型（数据层）、配置和维护标签管理解决方案。
+您应该具有作为混合角色的实施顾问的经验，在[!DNL Adobe Analytics]实施方面拥有约2年的经验。 您充当IT和业务之间的桥梁，将业务需求转换为技术解决方案(SDR)，并根据分析师提供的需求了解需要哪种类型的变量、在哪里以及如何收集数据、设计数据模型（数据层）、配置和维护标签管理解决方案。
 
 作为Analytics开发人员，您很少在页面上实施标记；相反，这些标记由IT或系统集成商实施。
 
@@ -60,15 +60,15 @@ ht-degree: 0%
 工具：
 
 * Adobe Experience Platform Launch(Adobe发布)
-* 调试工具与 [!DNL Adobe Analytics] (数据包监视器，例如Adobe Debugger、浏览器开发人员工具、Charles)
-* [!DNL Adobe Analytics] Admin Console报表包设置
-* 工作区基本知识
+* 与[!DNL Adobe Analytics]相关的调试工具(数据包监视器，如Adobe Debugger、浏览器开发人员工具、Charles)
+* [!DNL Adobe Analytics]Admin Console报表包设置
+* Workspace基础知识
 * Web开发工具、代码编辑器和移动调试工具
 * AdobeAuditor
 * 处理规则
 * 分类规则 — 基于正则表达式的分类规则
 * JavaScript错误
-* 对可用资源的基本了解 [!DNL Adobe Analytics] 相关API
+* 基本了解可用的[!DNL Adobe Analytics]相关API
 * Adobe I/O集成
 
 环境：
@@ -97,21 +97,21 @@ ht-degree: 0%
 
 **第3部分：Analytics实施和配置(36%)**
 
-* 确定要部署的环境 [!DNL Adobe Analytics] 代码
+* 确定要部署[!DNL Adobe Analytics]代码的环境
 * 为Analytics跟踪执行最小的部署代码
-* 在中配置各种组件 [!DNL Adobe Analytics] UI
-* 配置 [!DNL Adobe Analytics] 报表包和变量设置
+* 在[!DNL Adobe Analytics] UI中配置各种组件
+* 配置[!DNL Adobe Analytics]报表包和变量设置
 * 在部署中利用数据层
 * 执行高级跟踪功能，如链接跟踪和产品字符串
 
-**第4节：标签管理系统(20%)**
+**第4部分：标记管理系统(20%)**
 
-* 枚举在中部署Adobe Experience Platform Launch的要求 [!DNL Adobe Analytics]
+* 枚举在[!DNL Adobe Analytics]中部署Adobe Experience Platform Launch的要求
 * 应用进程以使用Adobe启动项配置网站标记
 * 枚举启用扩展和Adobe启动项的要求
 * 创建规则和数据元素
 
-**第5款：移动服务(8%)**
+**第5部分：Mobile Services (8%)**
 
 * 应用进程为移动设备配置和执行基本预部署代码
 * 演示对处理规则和移动服务的了解
@@ -119,9 +119,9 @@ ht-degree: 0%
 **第6部分：测试、验证和故障排除(20%)**
 
 * JavaScript错误疑难解答
-* 疑难解答 [!DNL Adobe Analytics] 变量
+* [!DNL Adobe Analytics]变量疑难解答
 * 推荐测试和调试最佳实践
-* 疑难解答 [!DNL Adobe Analytics] 整个生命周期的服务器调用（即从信标请求到显示在报表中的调用）
+* 对[!DNL Adobe Analytics]服务器调用在其生命周期内进行故障排除（从信标请求到显示在报表中）
 
 <br>
 
@@ -129,7 +129,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -159,7 +159,7 @@ ht-degree: 0%
 
 <br>
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -228,6 +228,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

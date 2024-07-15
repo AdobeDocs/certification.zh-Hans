@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Real-Time Customer Data Platform] 开发人员专家
+# Adobe[!DNL Real-Time Customer Data Platform]开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/246) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/246)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 您应该可以适应以下环境：
 
 * AEP
-* 边缘网络
+* Edge网络
 
 <br>
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 **数据架构(19%)**
 
-* 根据方案，将RDBMS转换为Adobe [!DNL RT-CDP]的NoSQL数据模型
+* 基于方案，将RDBMS转换为Adobe[!DNL RT-CDP]的NoSQL数据模型
 * 演示建模实时客户配置文件的最佳实践
 * 设计身份策略和关系以进行建模
 
@@ -105,10 +105,10 @@ ht-degree: 0%
 **数据摄取(13%)**
 
 * 描述CDP的数据摄取功能
-* 描述边缘摄取的功能
+* 描述Edge摄取的功能
 * 描述有关数据摄取体系结构的高级技术
 
-**区段划分(18%)**
+**分段(18%)**
 
 * 描述在CDP中构建受众和区段的不同方式
 * 解释各种分段类型及其操作方式
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 **治理(9%)**
 
-* 应用Adobe治理的最佳实践 [!DNL RT-CDP] 实现
+* 在Adobe[!DNL RT-CDP]实现中应用治理的最佳实践
 * 描述如何跨各种服务管理数据
 
 **管理(15%)**
@@ -130,7 +130,7 @@ ht-degree: 0%
 * 了解监控功能
 * 描述警报
 * 描述不同的许可证使用情况
-* 描述Adobe中启用ABAC的用例 [!DNL RT-CDP]
+* 描述Adobe[!DNL RT-CDP]中启用ABAC的用例
 
 <br>
 
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -215,6 +215,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

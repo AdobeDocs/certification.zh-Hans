@@ -10,14 +10,14 @@ ht-degree: 14%
 
 ---
 
-# Adobe [!DNL Workfront] 认证概述
+# Adobe[!DNL Workfront]认证概述
 
-## 所有可用Adobe考试 [!DNL Workfront]
+## Adobe[!DNL Workfront]的所有可用考试
 
-**专业**
+**专业人员**
 
 * [开发人员(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
-* [项目管理器](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
+* [项目经理](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
 * [开发人员（核心）](/help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
 
 **专家**
@@ -25,4 +25,4 @@ ht-degree: 14%
 * [开发人员（核心）](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
 * [AEM增强型连接器](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否有续订选项。
+请访问[续订您的认证](/help/certifications/renew.md)页面以查看此产品是否有续订选项。

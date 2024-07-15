@@ -1,6 +1,6 @@
 ---
 title: 专业认证
-description: 了解如何成为认证Adobe [!DNL Marketo Engage] 专业。
+description: 了解如何成为认证Adobe [!DNL Marketo Engage] 专业人员。
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Marketo Engage] 专业
+# Adobe[!DNL Marketo Engage]专业人士的认证历程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程**：如果您刚刚开始使用，或需要复习者，则获取 [Adobe Marketo Engage基础课程](https://app.rockinfo.com/courses/261) 访问关键概念、产品演练和知识检查的解释。 这为您可以在认证历程中在此基础上获得知识奠定了基础。
+>* **课程**：如果您刚刚开始学习或需要复习者，请参加[Adobe Marketo Engage基础课程](https://app.rockinfo.com/courses/261)，获取有关关键概念、产品演练和知识检查的解释。 这为您可以在认证历程中在此基础上获得知识奠定了基础。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/247) 提供量身定制的考试准备流程，包括考试成功所需的深入学习材料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/247)提供了通过考试准备过程量身定制的途径，包括考试成功所需的深入学习材料。
 >
 >_如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1款：建立和管理方案(39%)**
+**第1部分：生成和管理程序(39%)**
 
 * 确定何时使用4种程序类型中的每一种。
 * 确定使用事件程序的原因/时间。
@@ -106,7 +106,7 @@ ht-degree: 0%
 * 了解客户首选项（订阅、通信）。
 * 在启动之前应用最佳实践以供审查。
 
-**第2款：建造资产(19%)**
+**第2部分：构建资产(19%)**
 
 * 在Design Studio中处理文件（上传/替换图像和文件）。
 * 使用表单编辑器创建/修改表单。
@@ -124,16 +124,16 @@ ht-degree: 0%
 * 解释Smart Campaign结果。
 * 描述区段的用途及其用途。
 * 识别并导航数据库。
-* 说明如何在Adobe中设置隐私设置 [!DNL Marketo Engage].
+* 说明如何在Adobe[!DNL Marketo Engage]中设置隐私设置。
 * 区分智能列表和静态列表。
 * 定义系统智能列表。
 * 比较和对比不同类型的智能营销活动。
 * 了解Smart Campaign触发器和过滤器的工作方式。
 * 区分不同的列表导入。
 
-**第4款：分析和编制报告(9%)**
+**第4部分：分析和构建报告(9%)**
 
-* 说明标准Adobe [!DNL Marketo Engage] 报表以及应何时使用它们（电子邮件链接性能、电子邮件性能、登陆页面性能、人员性能、项目性能、网页活动等）
+* 解释标准Adobe[!DNL Marketo Engage]报告及其使用时间（电子邮件链接性能、电子邮件性能、登陆页性能、人员性能、项目性能、网页活动等）
 * 理解功能板信息和量度（电子邮件计划功能板、参与计划功能板）
 * 理解电子邮件分析量度
 
@@ -143,7 +143,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
 <br>
 
@@ -165,7 +165,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -245,6 +245,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

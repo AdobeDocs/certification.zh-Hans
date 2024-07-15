@@ -1,6 +1,6 @@
 ---
 title: 核心开发人员专业认证
-description: 了解如何成为Adobe领域的认证Adobe Developer专业人员 [!DNL Workfront].
+description: 了解如何在Adobe [!DNL Workfront]中成为经过认证的Adobe Developer专业人员。
 solution: Workfront
 role: Developer
 badge: label="考试AD0-E908" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Workfront] 核心开发人员专业版
+# Adobe[!DNL Workfront]核心开发人员专业人员的认证历程
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **可用的新课程：** 此 [Adobe Workfront核心开发人员 — 专业课程](https://app.rockinfo.com/courses/231) 包括关键概念的解释、实践演示和知识检查。
+>* **新课程已推出：** [Adobe Workfront Core Developer - Professional课程](https://app.rockinfo.com/courses/231)包括关键概念的解释、实践演示和知识检查。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/238) 提供量身定制的考试准备流程，包括考试成功所需的材料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/238)提供了通过考试准备过程量身定制的途径，包括考试成功所需的材料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -55,22 +55,22 @@ ht-degree: 0%
 * 资源管理器
 * 分析师
 * IT专家
-* [!DNL Workfront] 实施顾问/主管
+* [!DNL Workfront]实施顾问/主管
 
 <br>
 
 ### 最低体验 {#minimum-experience}
 
-虽然此测试不需要编码/编程知识，但至少需要3 - 6个月的Adobe实践经验 [!DNL Workfront]
+虽然此考试不需要编码/编程知识，但它需要至少3至6个月的实际操作经验(使用Adobe[!DNL Workfront])
 
 合格候选人还应具备：
 
-* Adobe体验 [!DNL Workfront] 功能和连通性（通过接收、批准、规划、执行和报告）
-* 对Adobe的深入了解 [!DNL Workfront] 对象类型，包括自定义表单和审批工作流、模板、持续时间、工作量/计划小时数
-* 对Adobe的深入了解 [!DNL Workfront] 设置，包括访问级别、布局模板、项目偏好设置和其他方法以简化最终用户设计
+* 通过接收、批准、规划、执行和报告体验Adobe[!DNL Workfront]的功能和连接性
+* 深入了解Adobe[!DNL Workfront]对象类型，包括自定义表单和审批工作流、模板、持续时间、工作量/计划小时数
+* 深入了解Adobe[!DNL Workfront]设置，包括访问级别、布局模板、项目偏好设置和其他方法以实现最终用户设计的简化
 * 了解流程映射并积累相关经验
-* 了解各种Adobe [!DNL Workfront] 角色以及如何参与支持
-* 熟悉本机连接器和其他Adobe [!DNL Workfront] 产品和服务
+* 了解其他Adobe[!DNL Workfront]角色以及如何参与支持
+* 熟悉本机连接器和其他Adobe[!DNL Workfront]产品和服务
 * 熟悉项目管理（包括敏捷和瀑布式管理）以及资源管理概念
 
 <br>
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第一节　：战略和吸纳(23%)**
+**第1部分：策略和摄取(23%)**
 
 * 使用Portfolio和程序
 * 使用请求队列
@@ -105,14 +105,14 @@ ht-degree: 0%
 * 说明如何构建和自定义功能板
 * 演示如何配置报告的功能视图
 
-**第五节　执行(24%)**
+**第5节：执行(24%)**
 
 * 演示如何设置批准和验证工作流
 * 识别为项目创建问题的目的
 * 演示如何自定义组级项目状态
-* 确定在中启用Agile所需的属性 [!DNL Workfront]
-* 确定输入时间的方法 [!DNL Workfront]
-* 确定中财务跟踪的元素 [!DNL Workfront]
+* 确定在[!DNL Workfront]中启用Agile所需的属性
+* 确定在[!DNL Workfront]中输入时间的方法
+* 识别[!DNL Workfront]中财务跟踪的元素
 
 <br>
 
@@ -134,7 +134,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
 {{take-course}}
 
-[参加Adobe Workfront核心开发人员 — 专业课程](https://app.rockinfo.com/courses/231)
+[参加Adobe Workfront Core Developer - Professional课程](https://app.rockinfo.com/courses/231)
 
 **考试准备指南**
 
@@ -203,6 +203,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

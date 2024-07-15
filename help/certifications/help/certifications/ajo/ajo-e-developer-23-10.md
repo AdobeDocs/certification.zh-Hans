@@ -13,13 +13,13 @@ ht-degree: 1%
 
 ---
 
-# Adobe的认证历程 [!DNL Journey Optimizer] 开发人员专家
+# Adobe[!DNL Journey Optimizer]开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->这是最新Adobe [!DNL Journey Optimizer] 开发人员专家考试(AD0-E606)。 如果您已开始学习或计划了 [较旧版本](ajo-e-developer.md)，您必须在2023年12月22日之前完成它。
+>这是最新的Adobe[!DNL Journey Optimizer]开发人员专家考试(AD0-E606)。 如果您已开始学习或计划使用[旧版本](ajo-e-developer.md)，则必须在2023年12月22日之前完成。
 
 
 ## 考试描述 {#exam-description}
@@ -77,20 +77,20 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 * 描述沙盒的概念以及如何跨业务部门使用数据
 * 展示对渠道管理的了解
 * 确定事件/操作/数据源的适当应用
-* 识别何时使用AJO特定的API — 限制、上限、抑制、对象复制、交互式消息执行
+* 识别何时使用特定于AJO的API — 限制、上限、抑制、对象复制、交互式消息执行
 
-**第2节：Journey Orchestration(22%)**
+**第2部分：Journey Orchestration(22%)**
 
 * 给定场景，在多渠道/多步骤历程中定位客户
 * 解释报表并调试性能指标
 * 给定场景，确定历程类型的适当用例
 * 准备测试案例（例如试验或多渠道历程）
 
-**第3节：Offer decisioning(16%)**
+**第3部分：Offer decisioning(16%)**
 
 * 演示对创建和管理优惠和组件的理解
 * 演示如何使用测试配置文件来运行优惠模拟
-* 解释选件中心和Edge API之间的区别
+* 解释选件中心与Edge API之间的区别
 * 应用流程以创建决策
 * 应用此过程以在不同渠道中添加选件
 
@@ -100,7 +100,7 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 * 解释帮助程序函数和个性化语法以显示将显示内容
 * 演示对验证、验证、调试和发布历程的了解
 
-**第五节　：数据建模(18%)**
+**第5节：数据建模(18%)**
 
 * 区分配置文件和事件类型架构
 * 说明如何设置数据源和数据摄取
@@ -130,27 +130,27 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 **第1部分：管理和配置**
 
-* [《Experience Platform、访问控制、沙盒指南》](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hans){target="_blank"}
-* [AJO指南、配置、短信渠道、历程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Experience Platform，访问控制，沙盒指南](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hans){target="_blank"}
+* [AJO指南，配置，短信渠道，历程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **第2部分：Journey Orchestration**
 
 * [AJO指南、历程、表达式、跟踪和监视](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 
-**第3节：Offer decisioning**
+**第3部分：Offer decisioning**
 
-* [AJO指南、决策管理、API参考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [AJO指南，决策管理，API参考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 
 **第4部分：内容创作**
 
-* [AJO指南、SMS渠道、隐私、配置、历程、表达式、内容管理、跟踪和监控、推送通知渠道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [AJO指南，短信渠道，隐私，配置，历程，表达式，内容管理，跟踪和监控，推送通知渠道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 * [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
 
-**第5节：数据建模**
+**第5部分：数据建模**
 
-* [AJO指南、配置、受众、配置文件和标识、数据管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-* [Experience Platform、数据集、源连接器指南、APITutorials、平台标识服务指南、分段UI、UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [AJO指南，配置，受众，配置文件和标识，数据管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Experience Platform，数据集， Source Connectors Guide， APITutorials， Platform Identity Service Guide，分段UI， UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
 +++
 
@@ -180,7 +180,7 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 >[!NOTE]
 >
->这是最新Adobe [!DNL Journey Optimizer] 开发人员专家考试(AD0-E606)。 如果您已开始学习或计划了 [较旧版本](ajo-e-developer.md)，您必须在2023年12月22日之前完成它。
+>这是最新的Adobe[!DNL Journey Optimizer]开发人员专家考试(AD0-E606)。 如果您已开始学习或计划使用[旧版本](ajo-e-developer.md)，则必须在2023年12月22日之前完成。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -209,6 +209,6 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

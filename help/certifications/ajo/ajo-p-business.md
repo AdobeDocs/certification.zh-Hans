@@ -1,6 +1,6 @@
 ---
 title: 专业认证
-description: 了解如何成为认证Adobe [!DNL Journey Optimizer] 商业从业者专业人士。
+description: 了解如何成为认证Adobe [!DNL Journey Optimizer] 商业从业者专业人员。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Journey Optimizer] 商业从业者专业人员
+# Adobe[!DNL Journey Optimizer]商业从业者专业人员的认证历程
 
 {{intro}}
 
@@ -21,10 +21,10 @@ ht-degree: 0%
 >
 >现在提供免费的按需课程来帮助您准备考试。 选择最符合您的体验级别的课程，立即开始您的学习之旅！
 >
->* 此 [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216) 引入了Adobe Experience Cloud，这是基于唯一专为大规模个性化而设计的平台而构建的一个端到端数字营销工具套件。
->* 此 [Adobe Journey Optimizer基础课程](https://app.rockinfo.com/courses/113) 提供了有关此特定应用程序的知识基础。
->* 此 [Adobe Journey Optimizer商业从业者专业课程](https://app.rockinfo.com/courses/107) 以“基础”课程为基础，帮助您准备专业级认证考试。
->* 此 [考试准备指南](https://app.rockinfo.com/courses/232) 提供量身定制的考试准备流程，包括考试成功所需的材料。
+>* [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216)引入了Adobe Experience Cloud，这是一套基于唯一专为大规模个性化而设计的端到端数字营销工具。
+>* [Adobe Journey Optimizer基础课程](https://app.rockinfo.com/courses/113)提供了有关该特定应用程序的知识基础。
+>* [Adobe Journey Optimizer商业从业者专业课程](https://app.rockinfo.com/courses/107)以基础课程为基础，帮助您准备专业级认证考试。
+>* [考试准备指南](https://app.rockinfo.com/courses/232)提供了考前准备过程的定制途径，包括考试成功所需的资料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ### 目标受众 {#intended-audience}
 
-* Adobe [!DNL Journey Optimizer] 业务顾问
+* Adobe[!DNL Journey Optimizer]业务顾问
 * 营销人员
 * 营销自动化业务从业者
 * 营销活动管理器
@@ -75,7 +75,7 @@ ht-degree: 0%
 * 使用订阅列表
 * 查看配置文件属性和事件（在UI中加载配置文件）
 * 了解并使用登陆页面
-* 了解何时使用不同类型的历程/营销活动，并能够在Adobe中利用“营销活动”功能 [!DNL Journey Optimizer] 用于构建一次性电子邮件爆炸
+* 了解何时使用不同类型的历程/营销活动，并能够利用Adobe[!DNL Journey Optimizer]中的“营销活动”功能来构建一次性电子邮件爆炸
 * 了解数据源、事件和操作的功能
 * 监控和查看历程报告以跟踪电子邮件参与/退回/错误率/垃圾邮件率/域问题
 * 构建和验证基本区段标准
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 * 合成受众（使用新的受众编辑器）
 * 导入受众（上传CSV受众）
-* 为电子邮件上载和自动转换HTML（新的html转换器）
+* 上传和自动转换电子邮件HTML  （新的html转换器）
 * 创建内容试验
 * 测量内容试验的结果
 * 标记/筛选/搜索历程、营销活动等
@@ -116,14 +116,14 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1部分：活动和历程优化(48%)**
+**第1部分：促销活动和历程优化(48%)**
 
 * 给定场景，确定如何构建客户历程
 * 给定场景，确定如何验证客户历程
 * 假定运行历程后出现的情况，请确定如何评估客户历程
 * 给定场景，标识何时使用单一事件或业务事件
 
-**第2节：Offer decisioning(12%)**
+**第2部分：Offer decisioning(12%)**
 
 * 了解如何创建优惠收藏集
 * 确定offer decisioning的各个阶段
@@ -142,7 +142,7 @@ ht-degree: 0%
 * 确定片段的类型
 * 识别如何创建电子邮件模板
 
-**第4款：AEP基础(20%)**
+**第4部分：AEP基础(20%)**
 
 * 给定场景，确定何时使用不同类型的数据
 * 确定审核用户档案属性和受众成员资格的位置
@@ -181,7 +181,7 @@ ht-degree: 0%
 [参加Adobe Journey Optimizer基础课程](https://app.rockinfo.com/courses/113){target="_blank"}
 [参加Adobe Journey Optimizer商业从业者专业课程](https://app.rockinfo.com/courses/107){target="_blank"}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -244,7 +244,7 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 

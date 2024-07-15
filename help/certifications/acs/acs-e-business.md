@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专家认证
-description: 了解如何成为Adobe领域的认证Adobe业务从业者专家 [!DNL Campaign Standard]
+description: 了解如何成为Adobe [!DNL Campaign Standard]中的认证Adobe业务从业者专家
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Campaign Standard] 商业从业者专家
+# Adobe[!DNL Campaign Standard]业务从业者专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/255) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/255)提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 此外，您应该拥有：
 
-* 使用Adobe的现场经验 [!DNL Campaign Standard] 有规律的频率
+* 使用定期频率的Adobe[!DNL Campaign Standard]的字段经验
 * 能够处理数据文件
 * 了解关系数据库、触发器、API和技术工作流的概念
 * 了解如何构建营销工作流并使用基础数据启动营销工作流
@@ -73,38 +73,38 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1节：交付管理(25%)**
+**第1部分：投放管理(25%)**
 
 * 在设置和部署投放时应用最佳实践
 * 确定正确的投放配置
-* 将Email Designer功能应用于相应的方案
+* 将Email Designer功能应用于适当的方案
 
 **第2部分：营销活动管理(25%)**
 
 * 应用配置以执行工作流
 * 在规划、概述和修改营销活动时应用最佳实践
 
-**第3款：需求分析(10%)**
+**第3部分：需求分析(10%)**
 
 * 根据业务/营销活动要求设计新工作流
 * 解释客户需求
 
-**第4节：报告(15%)**
+**第4部分：报告(15%)**
 
 * 根据客户要求，确定要生成的相应报表
 * 给定场景，自定义现成的动态报表
 * 给定示例OOTB报表数据，提供对结果的解释
 * 应用进程以计划和发送OOTB报告
 
-**第5节：故障排除(10%)**
+**第5节：疑难解答(10%)**
 
 * 监控和识别错误
 * 分析和解释部署结果
 
-**第6款：数据管理和行政(15%)**
+**第6节：数据管理和管理(15%)**
 
 * 说明数据模型资源
-* 执行 [!DNL Campaign Standard] 管理
+* 执行[!DNL Campaign Standard]管理
 * 应用此过程以构建目标受众
 
 <br>
@@ -113,7 +113,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -198,7 +198,7 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 

@@ -14,13 +14,13 @@ ht-degree: 4%
 
 ---
 
-# Adobe的认证历程 [!DNL Journey Optimizer] 开发人员专家
+# Adobe[!DNL Journey Optimizer]开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->这次考试，Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603)已更新。 如果您已开始学习或计划学习此版本，请确保在2023年12月22日之前完成该课程。 如果您刚刚开始，我们建议您参加 [该考试的最新版本](ajo-e-developer-23-10.md).
+>此考试(Adobe[!DNL Journey Optimizer]开发人员专家(AD0-E603))已更新。 如果您已开始学习或计划学习此版本，请确保在2023年12月22日之前完成该课程。 如果您刚刚开始，我们建议您参加此考试的[最新版本](ajo-e-developer-23-10.md)。
 
 ## 考试描述 {#exam-description}
 
@@ -85,7 +85,7 @@ ht-degree: 4%
 * 展示对渠道管理的了解
 * 演示对事件/操作/数据源的理解
 
-**第二节　：Adobe Experience Platform基金会(33%)**
+**第2部分：Adobe Experience Platform Foundation (33%)**
 
 * 演示对Experience Data Model (XDM)的理解
 * 说明如何设置数据源和数据摄取
@@ -93,7 +93,7 @@ ht-degree: 4%
 * 说明如何为AJO配置架构
 * 确定AJO上实时客户个人资料的行为
 
-**第3节：Offer decisioning(11%)**
+**第3部分：Offer decisioning(11%)**
 
 * 演示对创建和管理优惠和组件的理解
 * 演示如何使用测试配置文件来运行优惠模拟
@@ -104,7 +104,7 @@ ht-degree: 4%
 * 使用辅助函数演示对内容操纵和个性化的理解
 * 演示对验证、验证和发布消息的理解
 
-**第5款：Journey Orchestration(19%)**
+**第5节：Journey Orchestration(19%)**
 
 * 解释创建多渠道历程的过程
 * 确定访问报告仪表板的位置
@@ -116,7 +116,7 @@ ht-degree: 4%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -151,7 +151,7 @@ ht-degree: 4%
 * [沙盒概述](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=zh-Hans){target="_blank"}
 
 
-**第2部分：AEP基金会**
+**第2部分： AEP Foundation**
 
 * [Adobe [!DNL Experience Platform] 文档](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
@@ -159,17 +159,17 @@ ht-degree: 4%
    * Real-time Customer Profile指南
    * Platform Identity Service指南
    * 配置数据流
-   * 源连接器指南
+   * Source连接器指南
    * Data Ingestion指南
    * 分段服务指南
    * 架构
 
 * [Adobe简介 [!DNL Experience Platform] 课程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
-* [Adobe快速入门 [!DNL Experience Platform] 面向数据工程师的课程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
-* [面向数据工程师的数据引入课程](https://experienceleague.adobe.com/?lang=zh-Hans?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
+* [面向数据工程师的Adobe快速入门 [!DNL Experience Platform] 课程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
+* [数据引入数据工程师课程](https://experienceleague.adobe.com/?lang=zh-Hans?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
 * [数字体验Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=zh-Hans){target="_blank"}
 
-**第3节：Offer decisioning**
+**第3部分：Offer decisioning**
 
 * [Adobe [!DNL Journey Optimizer] 文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 
@@ -189,7 +189,7 @@ ht-degree: 4%
    * 个性化
    * 登陆页面
 
-**第5节：Journey Orchestration**
+**第5部分：Journey Orchestration**
 
 * [Adobe [!DNL Journey Optimizer] 文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 
@@ -200,7 +200,7 @@ ht-degree: 4%
 
 <br>
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -232,7 +232,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->这次考试，Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603)已更新。 如果您已开始学习或计划学习此版本，请确保在2023年12月22日之前完成该课程。 如果您刚刚开始，我们建议您参加 [该考试的最新版本](ajo-e-developer-23-10.md).
+>此考试(Adobe[!DNL Journey Optimizer]开发人员专家(AD0-E603))已更新。 如果您已开始学习或计划学习此版本，请确保在2023年12月22日之前完成该课程。 如果您刚刚开始，我们建议您参加此考试的[最新版本](ajo-e-developer-23-10.md)。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -261,6 +261,6 @@ ht-degree: 4%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

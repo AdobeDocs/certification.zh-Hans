@@ -1,6 +1,6 @@
 ---
 title: 架构师主认证
-description: 了解如何获得认证 [!DNL Adobe Analytics] 架构师母版。
+description: 了解如何获得 [!DNL Adobe Analytics] 架构师资格认证。
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# 的认证历程 [!DNL Adobe Analytics] 架构师母版
+# [!DNL Adobe Analytics]架构师母版的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/223) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/223)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-您至少应有3至4年的设计经验 [!DNL Adobe Analytics] 架构、数据层规范和标签管理，以及对JavaScript代码的基本了解。
+您应该具有至少3至4年的设计[!DNL Adobe Analytics]架构、数据层规范和标签管理经验，并且对JavaScript代码的基本了解。
 
-此外，您还负责将业务需求转换为跟踪规格和 [!DNL Adobe Analytics] 变量，并且您熟悉以下技术和环境：
+此外，您还负责将业务需求转换为跟踪规范和[!DNL Adobe Analytics]变量，并且您熟悉以下技术和环境：
 
 * 网站分析应用程序
 * Adobe Experience Cloud
@@ -87,7 +87,7 @@ ht-degree: 0%
 * 为站点开发人员编写技术规范
 * 创建Experience Cloud用户/组
 
-**第3款：员额执行(28%)**
+**第3部分：Post实施(28%)**
 
 * 给定一组要求，通过浏览器开发人员工具和Adobe报告验证跟踪
 * 应用过程概念来管理数据提取和关系
@@ -115,7 +115,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -178,7 +178,7 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 

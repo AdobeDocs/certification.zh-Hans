@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专业认证
-description: 了解如何获得Adobe认证 [!DNL Advertising Search] 商业从业者专业人士。
+description: 了解如何获得Adobe [!DNL Advertising Search] 商业从业者专业认证。
 solution: Advertising
 product: Advertising Cloud
 level: Experienced
@@ -11,11 +11,11 @@ exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
 source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# 的认证历程 [!DNL Adobe Advertising Search] 商业从业者专业人员
+# [!DNL Adobe Advertising Search]商业从业者专业人员的认证历程
 
 {{intro}}
 
@@ -50,8 +50,8 @@ ht-degree: 1%
 您应该拥有：
 
 * 具有12-24个月付费搜索性能行业的项目经理体验
-* 至少3-6个月 [!DNL Advertising Search] 平台体验
-* 在中工作的经验 [!DNL Advertising Search] 并熟悉付费搜索竞价自动化，营销活动管理，
+* 至少3-6个月的[!DNL Advertising Search]平台体验
+* 具有在[!DNL Advertising Search]中工作的经验并熟悉付费搜索竞价自动化、营销活动管理、
 * 对Portfolio理论的理解
 
 您还应该具有使用下列功能的经验：
@@ -103,7 +103,7 @@ ht-degree: 1%
 * 设置帐户
 * 构建、管理和组织营销活动的各个方面
 
-**第四节　：计量(10%)**
+**第4部分：测量(10%)**
 
 * 给定一个业务情景，确定促销活动转化跟踪的方法并应用
 * 给定场景，解决营销活动转化量度问题
@@ -114,7 +114,7 @@ ht-degree: 1%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}。
 
 <br>
 
@@ -138,8 +138,8 @@ ht-degree: 1%
 
 **第1部分：Portfolio和优化**
 
-* [Adobe简介 [!DNL Analytics] 用于Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
-* [概述 [!DNL Analytics] 对象 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=zh-Hans){target="_blank"}
+* [Adobe [!DNL Advertising]的Adobe [!DNL Analytics] 简介](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
+* [有关 [!DNL Advertising]的 [!DNL Analytics] 概述](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html){target="_blank"}
 * [性能优化](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [了解Enhanced Analytics中的KPI](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
 * [向智能列表筛选器添加约束](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
@@ -147,27 +147,27 @@ ht-degree: 1%
 
 **第2部分：报表、见解和工具**
 
-* [[!DNL Analytics] Tools指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hans){target="_blank"}
+* [[!DNL Analytics] 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [开始使用 [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
-* [[!DNL Campaign] 报表](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [创建 [!DNL Analytics] 用于Adobe的配置文件 [!DNL Advertising] 激活和报告](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
-* [报告 [!DNL Advertising] Adobe中的数据 [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
-* [报表时间处理](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=zh-Hans){target="_blank"}
-* [Adobe [!DNL Analytics] 功能板记分卡生成器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=zh-Hans){target="_blank"}
+* [[!DNL Campaign] 报告](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
+* [为Adobe [!DNL Advertising] 激活和报告](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html)创建 [!DNL Analytics] 配置文件{target="_blank"}
+* [报告Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}中的 [!DNL Advertising] 数据
+* [报表时间处理](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html){target="_blank"}
+* [Adobe [!DNL Analytics] 功能板记分卡生成器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html){target="_blank"}
 
 **第3部分：营销活动管理**
 
-* [快速入门 [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
+* [开始使用 [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 * [查看它的工作原理是什么](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
-* [优化您的搜索营销](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
+* [智能处理您的搜索营销](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
 * [在单个屏幕上查看整个客户历程](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
-* [了解批量处理和触发智能营销活动](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
+* [了解批处理并触发智能营销活动](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
-**第四节　：计量**
+**第4部分：测量**
 
-* [创建 [!DNL Analytics] 带Adobe的自定义量度 [!DNL Advertising] 数据](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
+* [创建具有Adobe [!DNL Advertising] 数据的自定义指标](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"} [!DNL Analytics] 
 * [PDF中的网格、参考线和测量](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
-* [Attribution &amp; Measurement](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
+* [归因和测量](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Marketo Measure帮助文档](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [转化变量(eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
@@ -224,9 +224,9 @@ ht-degree: 1%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 
 
 

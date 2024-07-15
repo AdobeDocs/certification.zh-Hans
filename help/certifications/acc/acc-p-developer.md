@@ -1,6 +1,6 @@
 ---
 title: 开发人员专业认证
-description: 了解如何成为以下领域的认证Adobe Developer专业人员 [!DNL Campaign Classic].
+description: 了解如何在 [!DNL Campaign Classic]中成为经过认证的Adobe Developer专业人员。
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Campaign Classic] 开发人员专业版
+# Adobe[!DNL Campaign Classic]开发人员专业人员的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/250) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/250)提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 您应该拥有：
 
-* Adobe至少一年 [!DNL Campaign Classic] 软件体验
-* 至少一年在JavaScript编程、包括ETL在内的SQL开发以及Web技术(XML、HTML和Web服务)方面的综合经验
+* Adobe[!DNL Campaign Classic]软件使用经验至少一年
+* 在JavaScript编程、包括ETL在内的SQL开发以及Web技术(XML、HTML和Web服务)方面至少有一年的综合经验
 * 对营销自动化的基本了解
 * 了解关系数据库概念
 
@@ -75,12 +75,12 @@ ht-degree: 0%
 * 确定“打开”和“关闭”枚举的配置设置
 * 区分分类规则类型
 * 确定利用自定义Target Map的需求及其对OOTB功能的影响
-* 描述如何在Adobe中访问其他Adobe Experience Cloud解决方案外部生成的受众 [!DNL Campaign Classic]
+* 描述如何在Adobe[!DNL Campaign Classic]中访问其他Adobe Experience Cloud解决方案外部生成的受众
 * 描述交互和优惠的业务用例
 * 描述消息中心的业务用例
 * 确定V8 API数据导入功能
 
-**第2节：定制(16%)**
+**第2部分：自定义(16%)**
 
 * 应用进程以编辑营销活动架构
 * 确定设置以确保正确的架构扩展或配置自定义架构
@@ -91,14 +91,14 @@ ht-degree: 0%
 * 确定使用内容管理的用例
 * 应用于进程以更新OOTB表单
 
-**第3款：业务安全(10%)**
+**第3部分：操作安全性(10%)**
 
 * 描述添加用户组和角色的流程
 * 应用此过程以翻译具有正确用户权限和层次结构的用户管理矩阵
 * 识别并定义正确的权限
 * 确定用户组的安全区域
 
-**第4节：技术工作流(29%)**
+**第4部分：技术工作流(29%)**
 
 * 将流程应用于导入/导出
 * 确定工作流可以访问的不同数据源
@@ -119,7 +119,7 @@ ht-degree: 0%
 * 识别不同服务日志中的错误
 * 说明工作流热图读数
 
-**第6部分：Campaign配置(14%)**
+**第6部分： Campaign配置(14%)**
 
 * 应用该流程以使用营销活动模板创建营销活动
 * 描述创建批准的流程
@@ -134,7 +134,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -156,7 +156,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -219,6 +219,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

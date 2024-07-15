@@ -1,6 +1,6 @@
 ---
 title: 专业认证
-description: 了解如何成为认证用户 [!DNL Experience Platform] 专业领域 [!DNL Real-Time Customer Data Platform]
+description: 了解如何在 [!DNL Real-Time Customer Data Platform]中成为认证 [!DNL Experience Platform] 专业人员
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Real-Time CDP] 商业从业者专业人员
+# Adobe[!DNL Real-Time CDP]商业从业者专业人员的认证历程
 
 {{intro}}
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 如果你刚开始工作，或者需要个新手，就把我们的 [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216) 访问关键概念、产品演练和知识检查的解释。 本课程为您提供了知识基础，您可以在认证历程中在此基础上进行学习。
+>* **课程：**&#x200B;如果您刚刚开始学习或需要复习者，请参加我们的[Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216)，获取有关关键概念、产品演练和知识检查的解释。 本课程为您提供了知识基础，您可以在认证历程中在此基础上进行学习。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/133) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/133)提供量身定制的认证考试准备流程，包括成功获得此认证所需的材料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -94,20 +94,20 @@ ht-degree: 0%
 * 应用目标中定位身份所需的概念
 * 确定到目标的属性映射和区段计划
 
-**第2部分：隐私和数据治理(20%)**
+**第2部分：隐私和数据管理(20%)**
 
 * 演示对DULE策略及其对目标数据可用性的影响的理解
 * 确保遵循隐私和数据合规措施
 
-**第三节　：业务分析(30%)**
+**第3部分：业务分析(30%)**
 
 * 确定与业务KPI绑定的用例
 * 在Platform中对客户区段执行数据分析
 * 演示对数据流概念的理解
 
-**第4部分：模式和配置文件(18%)**
+**第4部分：架构和配置文件(18%)**
 
-* 演示对Adobe的理解 [!DNL Experience Platform] 概念
+* 演示对Adobe[!DNL Experience Platform]概念的理解
 * 使用配置文件功能
 
 <br>
@@ -141,7 +141,7 @@ ht-degree: 0%
 </span>
 </a>
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -205,6 +205,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

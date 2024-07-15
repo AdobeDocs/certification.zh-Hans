@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专业认证
-description: 了解如何获得Adobe认证 [!DNL Audience Manager] 商业从业者专业人士。
+description: 了解如何获得Adobe [!DNL Audience Manager] 商业从业者专业认证。
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Audience Manager] 商业从业者专业人员
+# Adobe[!DNL Audience Manager]商业从业者专业人员的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/245) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/245)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -76,17 +76,17 @@ ht-degree: 0%
 * 给定场景，识别信号、特征、区段和受众
 * 识别不同类型特征的用途
 
-**第3款：报告和计量(16%)**
+**第3部分：报告和测量(16%)**
 
 * 给定场景，生成报表以衡量激活或营销活动目标
 * 给定场景，根据匹配率比较受众
 
-**第4部分：故障排除(10%)**
+**第4部分：疑难解答(10%)**
 
 * 在给定场景下，对来自不同源和源类型的入站数据进行故障诊断
 * 验证入站数据文件的格式
 
-**第五节　：分类(12%)**
+**第5节：分类(12%)**
 
 * 确定适当的结构，以创建使用清晰一致命名法的特性和区段
 * 确定使用明确的文件夹结构维护有组织的平台的正确技术
@@ -175,7 +175,7 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 

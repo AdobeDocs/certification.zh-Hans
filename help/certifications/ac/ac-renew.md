@@ -1,6 +1,6 @@
 ---
 title: 认证续订
-description: 了解如何续订Adobe [!DNL Commerce] 认证过期之前。
+description: 了解如何在Adobe [!DNL Commerce] 认证过期前续订。
 solution: Commerce
 product: Magento
 role: Developer,User,Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# 续订Adobe [!DNL Commerce] 认证
+# 续订Adobe[!DNL Commerce]认证
 
 您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
 
@@ -26,27 +26,27 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->**先登录：** 以下链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>**首先登录：**&#x200B;在&#x200B;**成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}后，以下链接只能**&#x200B;起作用&#x200B;**。**
 >
 ><br>
 >
->**要共享链接，请执行以下操作：** 如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
+>**共享链接：**&#x200B;如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 >[!BEGINTABS]
 
->[!TAB 专业]
+>[!TAB 专业人员]
 
-+++Adobe [!DNL Commerce] 商业从业者专业人员
++++Adobe[!DNL Commerce]商业从业者专业人员
 
-## 您必须具备以下条件 **活动** 要使用此方法续订的认证：
+## 您必须拥有以下&#x200B;**活动**&#x200B;认证才能使用此方法续订：
 
-* Adobe [!DNL Commerce] 商业从业者专业人员
+* Adobe[!DNL Commerce]商业从业者专业人员
 
 ## 续订认证的说明：
 
-* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
 * **步骤2**：查看考试目标和资源
-* **步骤3**：参加并通过考试
+* **步骤3**：参加考试并通过考试
 
 ## 准备就绪
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：AD5-E840Adobe [!DNL Commerce] 商业从业者专业更新考试
+* 考试ID：AD5-E840Adobe[!DNL Commerce]商业从业者专业资格更新考试
 
 **范围和目标：**
 
@@ -99,30 +99,30 @@ ht-degree: 0%
 
 以下是一些可帮助您准备的建议资源：
 
-**章节1**
+**节1**
 
 * [Adobe [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
 * [小组件](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
 * [Adobe [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html){target="_blank"}
-* [Adobe [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
+* [Adobe [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
 * [店面品牌](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
 * [添加客户变量](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
 * [购物车价格规则](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
-* [新的客户帐户选项](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/configure/account-options-new.html){target="_blank"}
+* [新客户帐户选项](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/configure/account-options-new.html){target="_blank"}
 * [订单状态](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
 * [Business Intelligence工具](https://experienceleague.adobe.com/docs/commerce-admin/start/reporting/business-intelligence.html){target="_blank"}
 
-**章节2**
+**节2**
 
 * [Page Builder 概述](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/page-builder-overview.html)
 * [电子邮件模板](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
-* [为购物者提供帮助](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
+* [向购物者提供帮助](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
 * [内容暂存](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
 * [安装和配置](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
 * [专业体系结构](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [安全性](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
-**章节3**
+**节3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
 * [SEO概述](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
@@ -130,7 +130,7 @@ ht-degree: 0%
 * [PCI合规性](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
 * [了解全渠道营销和多渠道营销之间的区别](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
 
-**章节4**
+**节4**
 
 * [GDPR](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
 * [Adobe [!DNL Commerce] 安全最佳实践](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
@@ -138,29 +138,29 @@ ht-degree: 0%
 
 ## 续订您的认证
 
-续订Adobe [!DNL Commerce] 商业从业者专业认证：
+要续订Adobe[!DNL Commerce]商业从业者专业认证，请执行以下操作：
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击Adobe [!DNL Commerce] 商业从业者专业资格更新考试(AD5-E840)链接如下。
+请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的Adobe[!DNL Commerce]商业从业者专业续订考试(AD5-E840)链接。
 
-[!BADGE 接受Adobe [!DNL Commerce] 商业从业者专业资格更新考试(AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
+[!BADGE 参加Adobe[!DNL Commerce]商业从业者专业资格更新考试(AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
 
-+++Adobe [!DNL Commerce] 开发人员专业版
++++Adobe[!DNL Commerce]开发人员专业人员
 
-## 您必须具备以下条件 **活动** 要使用此方法续订的认证：
+## 您必须拥有以下&#x200B;**活动**&#x200B;认证才能使用此方法续订：
 
-Adobe [!DNL Commerce] 开发人员专业版
+Adobe[!DNL Commerce]开发人员专业人员
 
 ## 续订认证的说明：
 
-* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
 * **步骤2**：查看考试目标和资源
-* **步骤3**：参加并通过考试
+* **步骤3**：参加考试并通过考试
 
 ## 准备就绪
 
@@ -172,7 +172,7 @@ Adobe [!DNL Commerce] 开发人员专业版
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：AD5-E839Adobe [!DNL Commerce] 开发人员专业版
+* 考试ID： AD5-E839Adobe[!DNL Commerce] Developer Professional
 
 **范围和目标：**
 
@@ -182,7 +182,7 @@ Adobe [!DNL Commerce] 开发人员专业版
 * 标识创建或修改管理网格/表单时要使用的组件
 * 识别创建商店/管理员配置和菜单项时要使用的文件
 
-**第2款：建筑(36%)**
+**第2部分：架构(36%)**
 
 * 描述Magento文件结构
 * 描述MagentoCLI命令
@@ -198,7 +198,7 @@ Adobe [!DNL Commerce] 开发人员专业版
 * 描述Magento缓存体系
 * 描述商店、网站和商店视图（基本了解）
 
-**第3款：EAV/数据库(17%)**
+**第3部分：EAV/数据库(17%)**
 
 * 给定方案，更改/添加/删除属性集和/或属性
 * 描述不同类型的属性
@@ -206,7 +206,7 @@ Adobe [!DNL Commerce] 开发人员专业版
 * 描述模型、资源模型和集合
 * 描述实体属性值(EAV)的基础知识
 
-**第4部分：布局/UI (18%)**
+**第4节：布局/UI (18%)**
 
 * 描述CMS页面和块的使用
 * 给定方案，修改布局
@@ -215,7 +215,7 @@ Adobe [!DNL Commerce] 开发人员专业版
 * 给定场景，使用JavaScript文件（基本）
 * 描述客户数据的前端使用情况
 
-**第五节　：结账和销售(12%)**
+**第5部分：结帐和销售(12%)**
 
 * 描述购物车组件
 * 描述购物车促销规则
@@ -224,7 +224,7 @@ Adobe [!DNL Commerce] 开发人员专业版
 * 在场景中，配置付款和配送方式
 * 在场景下，配置税则、货币、购物车和/或结账
 
-**第六节　：目录(10%)**
+**第6节：目录(10%)**
 
 * 确定类别管理和产品管理的基础知识
 * 描述产品类型
@@ -237,18 +237,18 @@ Adobe [!DNL Commerce] 开发人员专业版
 
 以下是一些可帮助您准备的建议资源：
 
-**章节1**
+**节1**
 
 * [创建访问控制列表(ACL)规则](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
 * [添加管理网格](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
 * [system.xml引用](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
-**章节2**
+**节2**
 
 * [路由](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
 * [URL重写](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
 * [缓存类型配置](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-* [站点、存储和查看范围](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [站点、存储和查看作用域](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
 * [命令行工具](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
 * [依赖项注入配置](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
 * [创建模块](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
@@ -256,23 +256,23 @@ Adobe [!DNL Commerce] 开发人员专业版
 * [翻译](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
 * [插件](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
-**章节3**
+**节3**
 
 * [属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
 * [EAV和扩展属性](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
-* [配置声明性模式](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+* [配置声明性架构](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
 * [创建组件文件结构](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
-**章节4**
+**节4**
 
 * [内容块](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
 * [查看模型](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
 * [布局说明](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
 * [主题结构](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
 * [调用并初始化JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-* [私有内容](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+* [私人内容](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
-**章节5**
+**节5**
 
 * [购物车配置](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
 * [创建购物车价格规则](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
@@ -281,7 +281,7 @@ Adobe [!DNL Commerce] 开发人员专业版
 * [自定义配送方式列表](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
 * [税务配置设置](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
 
-**章节6**
+**节6**
 
 * [修改目录](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
 * [创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
@@ -290,29 +290,29 @@ Adobe [!DNL Commerce] 开发人员专业版
 
 ## 续订您的认证
 
-续订Adobe [!DNL Commerce] 开发人员专业认证：
+要续订Adobe[!DNL Commerce] Developer Professional认证：
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击Adobe [!DNL Commerce] 开发人员专业资格更新考试(AD5-E839)链接如下。
+请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的Adobe[!DNL Commerce]开发人员专业续订考试(AD5-E839)链接。
 
-[!BADGE 接受Adobe [!DNL Commerce] 开发人员专业资格更新考试(AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
+[!BADGE 参加Adobe[!DNL Commerce]开发人员专业续订考试(AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
 
-+++Adobe [!DNL Commerce] 前端开发人员专业版
++++Adobe[!DNL Commerce]前端开发人员专业人员
 
-## 您必须具备以下条件 **活动** 要使用此方法续订的认证：
+## 您必须拥有以下&#x200B;**活动**&#x200B;认证才能使用此方法续订：
 
-Adobe [!DNL Commerce] 前端开发人员专业版
+Adobe[!DNL Commerce]前端开发人员专业人员
 
 ## 续订认证的说明：
 
-* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
 * **步骤2**：查看考试目标和资源
-* **步骤3**：参加并通过考试
+* **步骤3**：参加考试并通过考试
 
 ## 准备就绪
 
@@ -324,13 +324,13 @@ Adobe [!DNL Commerce] 前端开发人员专业版
 * 交付：按需/非托管
 * 可用语言：英语
 * 费用：免费
-* 考试ID：AD5-E844Adobe [!DNL Commerce] 前端开发人员专业版续订
+* 考试ID：AD5-E844Adobe[!DNL Commerce]前端开发人员专业版续订
 
 **范围和目标：**
 
-**第1节：主题管理（主题层次结构、图像配置和翻译）(14%)**
+**第1部分：主题管理（主题层次结构、图像配置、翻译）(14%)**
 
-* 描述Adobe [!DNL Commerce] 主题文件夹结构
+* 描述Adobe[!DNL Commerce]主题文件夹结构
 * 演示创建新主题或扩展现有主题的能力
 * 演示添加自定义翻译短语的能力
 
@@ -353,19 +353,19 @@ Adobe [!DNL Commerce] 前端开发人员专业版
 
 **第4部分：JavaScript (18%)**
 
-* 演示初始化和调用JavaScript组件的功能
+* 演示初始化和调用JavaScript组件的能力
 * 演示RequireJS的使用
 * 描述mixin的用法
 * 描述如何在JS中添加翻译
 * 描述“挖空JS”的用法
 * 描述jQuery小组件的用法
 
-**第5部分：管理员配置和PageBuilder (8%)**
+**第5节：管理员配置和PageBuilder (8%)**
 
 * 演示自定义页面生成器和CMS内容的能力
 * 描述自定义事务性电子邮件的步骤
 
-**第6节：工具（CLI和Grunt）(8%)**
+**第6部分：工具（CLI和Grunt） (8%)**
 
 * 描述基本bin/Magento命令的用法
 * 描述编辑器命令的用法（安装、更新、需要、删除）
@@ -378,14 +378,14 @@ Adobe [!DNL Commerce] 前端开发人员专业版
 
 以下是一些可帮助您准备的建议资源：
 
-**章节1**
+**节1**
 
 * [主题翻译词典示例](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
 * [主题结构](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
 * [配置主题属性](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
 * [使用字典自定义字符串](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
 
-**章节2**
+**节2**
 
 * [referenceBlock和referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
 * [布局说明](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
@@ -394,65 +394,65 @@ Adobe [!DNL Commerce] 前端开发人员专业版
 * [创建新布局](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
 * [如何覆盖布局](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
 * [模板自定义演练](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
-* [magento2/app/design/frontend/fluma/Magento/luma/Magento分层导航/模板/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
+* [magento2/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
 * [主题继承](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
 * [跨站点脚本(XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
 
-**章节3**
+**节3**
 
-* [响应式设计中的CSS](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* 响应式设计中的[CSS](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
 * [自定义主题样式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
 * [扩展父样式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
 * [覆盖父样式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
 * [编译模式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
 
-**章节4**
+**节4**
 
 * [调用并初始化JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
-* [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
-* [Mixin范围](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
+* [mixin](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Mixin作用域](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
 * [主题字符串](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
 * [绑定映射](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
 * [初始化折叠构件](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
 
 ## 续订您的认证
 
-续订Adobe [!DNL Commerce] 前端开发人员专业认证：
+要续订Adobe[!DNL Commerce]前端开发人员专业认证，请执行以下操作：
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击Adobe [!DNL Commerce] 前端开发人员专业资格更新考试(AD5-E844)链接如下。
+请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的Adobe[!DNL Commerce]前端开发人员专业续订考试(AD5-E844)链接。
 
-[!BADGE 接受Adobe [!DNL Commerce] 前端开发人员专业更新考试(AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
+[!BADGE 参加Adobe[!DNL Commerce]前端开发人员专业资格更新考试(AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
 
->[!TAB 专家和主人]
+>[!TAB 专家和专家]
 
-## 您必须至少具备以下任一项 **活动** 要续订的认证：
+## 您必须至少拥有以下&#x200B;**个活动**&#x200B;认证中的一个认证才能续订：
 
-* [!DNL Adobe Commerce] 商业从业者专家
-* [!DNL Adobe Commerce] 开发人员专家
-* [!DNL Adobe Commerce] 架构师母版
-* [!DNL Adobe Commerce] 前端开发人员专家
+* [!DNL Adobe Commerce]商业从业者专家
+* [!DNL Adobe Commerce]开发人员专家
+* [!DNL Adobe Commerce]架构师母版
+* [!DNL Adobe Commerce]前端开发人员专家
 
-## 有关续订的说明 [!DNL Adobe Commerce] 认证
+## 有关续订[!DNL Adobe Commerce]认证的说明
 
-选择 **三个活动** 完成并通过与每个课程相关的课程评估。
+选择&#x200B;**三个活动**&#x200B;以完成并通过与每个活动关联的课程评估。
 
-* **第1步：** 成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-* **第2步：** 学习Experience League课程
-* **步骤3：** 从以下选项中选择以完成续订。
+* **步骤1：**&#x200B;已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
+* **第2步：**&#x200B;学习Experience League中的课程
+* **步骤3：**&#x200B;从以下选项中选择以完成续订。
 
   **选项A：**
-选择 **三门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+选择**三门课程**&#x200B;以完成并通过每门课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
 
   **选项B：**
-首先，选择 **两门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+首先，选择**两门课程**&#x200B;完成并通过每门课程的评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
 
-  第二， **提交客户推荐表** 验证您作为Adobe认证的个人，继续领导、管理和/或参与Adobe Experience Cloud实施项目的工作情况。 本表确认您在认证续订2年间隔内至少参加了100小时的演示项目参与。
+  其次，**提交客户参考表**，以经Adobe认证的个人身份验证您的后续工作，该个人将领导、管理和/或参与Adobe Experience Cloud实施项目。 本表确认您在认证续订2年间隔内至少参加了100小时的演示项目参与。
 
   [客户参考表 [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
@@ -460,22 +460,22 @@ Adobe [!DNL Commerce] 前端开发人员专业版
 
 >[!NOTE]
 >
->如果您持有多个 [!DNL Adobe Commerce] 专家认证和主认证，仅完成一项认证的续订要求，其余认证将自动续订。
+>如果您持有多个[!DNL Adobe Commerce]专家认证和主认证，请仅完成一个认证的续订要求，其余认证将自动续订。
 
 ### 针对专家和硕士的课程和课程评估：
 
 | 专家与硕士课程 | 课程评估 |
 | ------- | ------- |
 | [Adobe [!DNL Commerce] E-Commerce趋势](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
-| [Adobe [!DNL Commerce] 个性化](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
 | [Adobe [!DNL Commerce] AI自动化](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
-| [[!DNL Commerce]：与Experience Platform及外部的数据集成](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
-| [[!DNL Commerce]：Adobe上的可组合Commerce [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
+| [[!DNL Commerce]：与Experience Platform和更高版本的数据集成](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
+| [[!DNL Commerce]：Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"}上的可组合Commerce | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
 
 >[!ENDTABS]
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

@@ -26,9 +26,9 @@ ht-degree: 1%
 
 个人优势：认证是认可Adobe申请中个人的技能和能力的凭据。 通过认证考试的考生将成为Adobe认证专家、专家或硕士。
 
-认证需要您做出承诺、具备法律抗辩能力，并且需要通过Adobe您的专业知识进行验证。 您还可以从下载徽章，在社交个人资料上突出您的认证 [!DNL Credly].
+认证需要您做出承诺、具备法律抗辩能力，并且需要通过Adobe您的专业知识进行验证。 您还可以通过从[!DNL Credly]下载徽章，在社交个人资料上突出您的认证。
 
-要详细了解如何在中管理您的徽章，请执行以下操作 [!DNL Credly]，转到 [此处](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+若要了解有关如何在[!DNL Credly]中管理徽章的更多信息，请转到[此处](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}。
 
 +++
 
@@ -36,32 +36,32 @@ ht-degree: 1%
 
 认证基于角色，这意味着有多个可用考试。 查看认证历程页面以选择要参加的考试。 您通过以下方式选择考试：
 
-* 应用程序：例如， [!DNL Adobe Analytics] 或 [!DNL Marketo Engage]
+* 应用程序：例如，[!DNL Adobe Analytics]或[!DNL Marketo Engage]
 * 角色：例如，开发人员或商业从业者
 * 级别：例如，专业人员，0-12个月的经验；或专家1-3年
 
 有时候，一个考试会有多个版本。 最好采用最新版本。
 
 * 如果考试即将弃用，您将在认证历程页面上看到备注。 这意味着此考试版本不久将被删除，因为有新版本的考试可用。 我们鼓励考生使用最新版本，但如果您觉得更愿意使用退休版本，则可以使用该版本。 不管怎样，你的认证将持续两年。
-* 如果当前认证即将过期，则应续订该认证。 续订选项的问题较少，并且免费。 这些选项涵盖最新的应用程序功能。 如果认证过期，您将必须参加最新版本的认证考试，您将需要为此付费。 [了解有关续订选项的更多信息](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
+* 如果当前认证即将过期，则应续订该认证。 续订选项的问题较少，并且免费。 这些选项涵盖最新的应用程序功能。 如果认证过期，您将必须参加最新版本的认证考试，您将需要为此付费。 [了解有关续订选项的更多信息](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}。
 
 +++
 
 +++如果我在监考期间遇到技术问题，该怎么办？
 
-[!DNL Examity] 通过聊天、电子邮件和电话提供支持。 Adobe支持无法解决考试期间出现的技术问题。
+[!DNL Examity]提供聊天、电子邮件和电话支持。 Adobe支持无法解决考试期间出现的技术问题。
 
-[!DNL Examity] 支持： `adobepartnersupport@examity.com`
+[!DNL Examity]支持： `adobepartnersupport@examity.com`
 
 最快速的帮助资源是通过聊天获得。 所有考生在参加考试前，都应确保计算机具有适当的系统要求。
 
-欲知更多详情，请参见 [!DNL Examity] 用于管理考试和技术设置的页面。
+有关更多详细信息，请参阅用于管理考试和技术设置的[!DNL Examity]页面。
 
 +++
 
 +++如果遇到认证问题，我可以联系谁？
 
-有关考试注册、考试付款、考试投放、测试中心、考试评论、考试问题、测试体验、考试安排或有关认证门户的问题，请联系 `certif@adobe.com`.
+有关考试注册、考试付款、考试投放、测试中心、考试评论、考试问题、测试体验、考试安排或认证门户的问题，请联系`certif@adobe.com`。
 
 +++
 
@@ -77,9 +77,9 @@ Adobe支持或检查均无法处理重新计划和取消请求。 48小时以内
 
 +++Adobe能否满足有特殊要求的候选人？
 
-Adobe可满足某些特殊要求。 如果您需要更多的时间来完成考试或其他住宿，请联系 `certif@adobe.com` 您的请求。
+Adobe可满足某些特殊要求。 如果您需要更多的时间来完成考试或其他住宿安排，请联系`certif@adobe.com`提出您的请求。
 
-**您的申请必须在考试时间表之前2周发送。**
+**必须提前2周发送您的申请。**
 
 +++
 
@@ -93,7 +93,7 @@ Adobe可满足某些特殊要求。 如果您需要更多的时间来完成考�
 
 +++如何获取得分报告的副本？
 
-* 步骤1：登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}、证书量度。 使用您的ID或电子邮件地址和密码登录。
+* 步骤1：登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}，CertMetrics。 使用您的ID或电子邮件地址和密码登录。
 * 步骤2：单击历史记录。
 * 第3步：滚动浏览成绩单历史记录，然后选择要查看的报告。 您可以通过电子邮件将报告发送给您，也可以在屏幕上查看报告。
 
@@ -101,7 +101,7 @@ Adobe可满足某些特殊要求。 如果您需要更多的时间来完成考�
 
 +++如何跟踪我的认证状态？
 
-您可以通过转到以下位置跟踪您的认证状态 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"} 在“认证”选项卡下。
+您可以通过转到“认证”选项卡下的[Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}来跟踪您的认证状态。
 
 +++
 
@@ -113,13 +113,13 @@ Adobe可满足某些特殊要求。 如果您需要更多的时间来完成考�
 
 +++如何登录或创建Adobe凭据管理/Certmetrics帐户？
 
-您可以 [在此处登录或创建帐户](https://www.certmetrics.com/adobe/){target="_blank"}. 您可以在该网站上查看可用的考试、考试历史记录、认证过期日期以及任何优惠（例如折扣）。
+您可以[在此登录或创建帐户](https://www.certmetrics.com/adobe/){target="_blank"}。 您可以在该网站上查看可用的考试、考试历史记录、认证过期日期以及任何优惠（例如折扣）。
 
 +++
 
 +++认证持续多长时间？
 
-因为我们需要确保我们的Adobe认证人员能够及时了解新的应用程序特性和功能，所以Adobe认证是 **有效期为2年**.
+由于我们需要确保我们的Adobe认证人员具有最新的应用程序特性和功能，因此Adobe认证的有效期为&#x200B;**两年**。
 
 +++
 
@@ -160,9 +160,9 @@ Adobe认证将在两年后过期。 您可以通过参加并通过适用的Adobe
 
 +++如果在认证过期之前不续订认证，会发生什么情况？
 
-您的认证将过期，并将在 [!DNL Credly] 以及您的任何社交个人资料。 此外，如果认证过期，您将无法参加更短的续订考试或通过持续学习进行续订。
+您的认证将过期，并将在[!DNL Credly]和您的任何社交个人资料中显示为已过期。 此外，如果认证过期，您将无法参加更短的续订考试或通过持续学习进行续订。
 
-要详细了解如何在中管理您的徽章，请执行以下操作 [!DNL Credly]，转到 [此处](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+若要了解有关如何在[!DNL Credly]中管理徽章的更多信息，请转到[此处](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}。
 
 +++
 
@@ -170,13 +170,13 @@ Adobe认证将在两年后过期。 您可以通过参加并通过适用的Adobe
 
 您可以免费续订您的认证。 这为您提供了一种经济高效的方法来维护您的认证，并使您的解决方案技能保持最新。
 
-要了解有关如何续订认证的更多信息，请转到 [此处](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
+若要了解有关如何续订认证的更多信息，请转到[此处](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}。
 
 +++
 
 +++在哪里可以查看我的认证过期日期？ 能通知我吗？
 
-登录 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}. 您可以在此处查看凭据的获取时间和过期时间。 您还应检查配置文件，并确认您的联系人、辅助电子邮件和职位信息正确无误。
+登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}。 您可以在此处查看凭据的获取时间和过期时间。 您还应检查配置文件，并确认您的联系人、辅助电子邮件和职位信息正确无误。
 
 您将在认证过期前一个月收到电子邮件通知。 但是，如果您更改了作业并且没有更新电子邮件，则可能不会收到通知。 在您的CertMetrics帐户中添加一封辅助电子邮件（如Gmail、Hotmail、Yahoo等），以便您收到认证过期提醒电子邮件，即使您更改了公司也是如此。
 
@@ -184,7 +184,7 @@ Adobe认证将在两年后过期。 您可以通过参加并通过适用的Adobe
 
 +++我需要参加哪项考试才能续约？
 
-要了解您需要参加哪些考试，请登录 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"} 使用您的Adobe ID，单击认证，然后选择认证名称。 续订考试列在 **保持最新状态的要求**.
+要了解您需要参加哪些考试，请使用您的Adobe ID登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}，单击“认证”，然后选择认证名称。 续订考试列在&#x200B;**要求下，以保持最新**。
 
 +++
 
@@ -240,13 +240,13 @@ Adobe提供持续学习和参与活动，以便候选人可以保持活跃状态
 
 +++我是否必须通过评估并提交客户推荐表？
 
-否，提交客户推荐表是可选的，候选人可以完成相应的活动以续订其认证。 例如， [!DNL Adobe Analytics] 认证续订要求从给定列表中至少完成3个活动。 该列表包括通过6项评估和提交客户推荐表。 候选人可以通过两项评估并提交客户推荐表，从而满足至少3项续订要求。
+否，提交客户推荐表是可选的，候选人可以完成相应的活动以续订其认证。 例如，[!DNL Adobe Analytics]认证续订要求完成给定列表中的至少3个活动。 该列表包括通过6项评估和提交客户推荐表。 候选人可以通过两项评估并提交客户推荐表，从而满足至少3项续订要求。
 
 +++
 
 +++我在一个解决方案中拥有三个认证。 是否需要完成每个认证的要求？
 
-不需要，您只需完成针对解决方案列出的要求。 完成所需活动并将结果提交给Adobe凭据管理器后，将续订您的认证。 例如，如果您在中持有多个认证 [!DNL Adobe Analytics] 作为业务从业者、开发人员和架构师，您只需完成3个活动即可满足所有认证的续订要求，进而续订。
+不需要，您只需完成针对解决方案列出的要求。 完成所需活动并将结果提交给Adobe凭据管理器后，将续订您的认证。 例如，如果您在[!DNL Adobe Analytics]中以业务从业者、开发人员和架构师的身份持有多个认证，则只需完成3个活动即可满足所有认证的续订要求，即可续订。
 
 +++
 
@@ -256,7 +256,7 @@ Adobe提供持续学习和参与活动，以便候选人可以保持活跃状态
 
 +++
 
->[!TAB  优惠券]
+>[!TAB 个优惠券]
 
 +++考试凭单什么时候到期？ 它们的有效期有多长？
 
@@ -266,7 +266,7 @@ Adobe考试凭单在购买后12个月到期。 优惠券不能延长到过期�
 
 +++凭单是否可以退回信用或退款？
 
-_所有销售都是最终的。_ 不接受退货和退款。 Adobe考试凭单是按考试级别购买的，而不是用于特定考试，这提供了灵活性。
+_所有销售都是最终销售。不接受_&#x200B;退货和退款。 Adobe考试凭单是按考试级别购买的，而不是用于特定考试，这提供了灵活性。
 
 * 示例：当您购买10份Adobe Certified Expert级别的考试凭单并分发时，您不必提前了解或规划谁将参加哪个Expert考试。
 * 管理员可以将优惠券分配给用户，并查看优惠券是否被查看、兑换或者考试是在何时安排或进行的。
@@ -303,7 +303,7 @@ _所有销售都是最终的。_ 不接受退货和退款。 Adobe考试凭单�
 
 +++如何访问我的Xvoucher帐户？
 
-只需登录到您的帐户即可 [此处](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+只需在[此处](https://www.xvoucher.com/Login.aspx){target="_blank"}登录到您的帐户即可。
 
 +++
 

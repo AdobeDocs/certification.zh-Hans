@@ -1,6 +1,6 @@
 ---
 title: 架构师主新认证
-description: 了解如何成为认证用户 [!DNL Adobe Target] 架构师母版。
+description: 了解如何成为认证的 [!DNL Adobe Target] 架构师。
 solution: Target
 product: Target
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的认证历程 [!DNL Adobe Target] 架构师母版
+# [!DNL Adobe Target]架构师母版的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/237) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/237)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 本认证的预定候选人包括以下小组/组织的成员：
 
 * 转化率优化工程师/架构师
-* 个性化工程师/架构师
+* Personalization工程师/架构师
 * 数字解决方案架构师
 * 数字转型顾问
 * 体验优化潜在客户
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 * 多个Adobe Experience Cloud程序(Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud调试器、Target API)
 * JavaScript（Ajax、JQuery等）
-* 基于浏览器的调试工具（Chrome开发人员工具、VEC助手）、用于调试来自Target的响应的JSON
+* 基于浏览器的调试工具(Chrome开发人员工具、VEC助手)、用于调试来自Target的响应的JSON
 * 本机应用程序的调试工具（Charles代理、Fiddler）
 * HTML、CSS、HTTP、XML配置
 * 原生移动开发IDE、iOS开发基础、Android开发基础
@@ -93,47 +93,48 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1节： [!DNL Adobe Target] 基本面(13%)**
+**第1部分：[!DNL Adobe Target]基础知识(13%)**
 
-* 确定适当的 [!DNL Adobe Target] 给定场景的使用情况
-* 解释的基础技术 [!DNL Adobe Target] 实现
+* 确定给定方案的适当[!DNL Adobe Target]用法
+* 解释[!DNL Adobe Target]实现的基本技术
 
-**第2部分：与集成 [!DNL Adobe Target] (18%)**
+**第2部分：与[!DNL Adobe Target] (18%)集成**
 
-* 应用进程以集成 [!DNL Adobe Target] 使用Adobe Analytics (A4T)
-* 应用进程以集成 [!DNL Adobe Target] 至Adobe Experience Manager
+* 应用进程将[!DNL Adobe Target]与Adobe Analytics (A4T)集成
+* 应用进程将[!DNL Adobe Target]集成到Adobe Experience Manager
 * 描述与Adobe Experience Cloud解决方案和Adobe Experience Platform解决方案的集成
 * 描述与Adobe Experience Cloud受众的集成
 
-**第3节： [!DNL Adobe Target] 行政和治理(6%)**
+**第3部分：[!DNL Adobe Target]管理和管理(6%)**
 
-* 定义正在进行的 [!DNL Adobe Target] 实施战略和系统治理
+* 定义正在进行的[!DNL Adobe Target]实施策略和系统管理
 * 应用该流程和最佳实践来管理用户
 * 描述实施设置的管理方面
 
-**第4节： [!DNL Adobe Target] 和受支持的接触点(6%)**
+**第4部分：[!DNL Adobe Target]和支持的接触点(6%)**
 
 * 描述客户端交付实施
 * 描述服务器端交付实施
 * 描述移动、电子邮件定位和API的实施要求
 
-**第5部分：利用 [!DNL Adobe Target] 建议(11%)**
+**第5部分：利用[!DNL Adobe Target]个推荐(11%)**
 
 * 演示对建议、目录和标准的理解
 * 应用此过程以配置Target推荐
 
-**第6节：架构师、设计和实施 [!DNL Adobe Target] (18%)**
+**第6节：架构师、设计和实施[!DNL Adobe Target] (18%)**
 
-* 选择正确的Target请求实施（全局、订单确认、混合）评估和设计 [!DNL Adobe Target] 实现
-* 描述实现 [!DNL Adobe Target] 在本机移动设备应用程序中
+* 选择正确的Target请求实施（全局、订单确认、混合）
+评估和设计[!DNL Adobe Target]实施
+* 描述[!DNL Adobe Target]在本机移动设备应用程序中的实现
 
-**第7部分：故障排除(28%)**
+**第7节：疑难解答(28%)**
 
 * mbox错误疑难解答
 * Target请求和响应错误疑难解答
 * 活动设置错误疑难解答
 * 了解集成错误
-* 疑难解答 [!DNL Adobe Target] Recommendations错误
+* [!DNL Adobe Target]个Recommendations错误疑难解答
 
 <br>
 
@@ -155,7 +156,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -218,6 +219,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

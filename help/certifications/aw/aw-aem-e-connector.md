@@ -1,6 +1,6 @@
 ---
 title: 增强型连接器专家认证
-description: 了解如何成为Adobe中的认证Adobe Certified Expert [!DNL Workfront] 对象 [!DNL Experience Manager]
+description: 了解如何在Adobe [!DNL Workfront] 中成为 [!DNL Experience Manager]的认证Adobe Certified Expert
 solution: Workfront
 role: Developer
 badge: label="考试AD0-E906" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Workfront] 对象 [!DNL Experience Manager] 增强型连接器专家
+# [!DNL Experience Manager]增强型连接器专家的Adobe[!DNL Workfront]认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/244) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/244)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -54,13 +54,13 @@ ht-degree: 0%
 
 * AEM Assets开发人员认证专家
 * AEM Sites开发人员认证专家
-* [!DNL Workfront] 核心开发人员认证专家
+* [!DNL Workfront]核心开发人员认证专家
 
 而且，您应该拥有：
 
 * 1年以上的CMS经验
 * 1年以上的AEM体验
-* 1年以上 [!DNL Workfront] 体验
+* 1年以上[!DNL Workfront]体验
 * 2年以上的Java/J2EE开发人员经验
 * 联合构建至少一个基于AEM的解决方案
 * 体验直接与客户合作来创建自定义解决方案
@@ -73,12 +73,12 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1款：技术要求(25%)**
+**第1部分：技术要求(25%)**
 
-* 使用 [!DNL Workfront] 自定义Forms
+* 使用[!DNL Workfront]自定义Forms
 * 在给定场景下，演示文档管理
 * 演示跨环境提升代码的相关知识
-* 给定一个方案，标识如何将值传递到 [!DNL Workfront] 自定义表单
+* 给定一个方案，确定如何将值传递到[!DNL Workfront]自定义表单
 * 服务器端代码疑难解答
 
 **第2部分：配置(26%)**
@@ -88,15 +88,15 @@ ht-degree: 0%
 * 做出为不同资源类型自定义元数据架构所需的决策
 * 应用部署OSGi包、资源、元数据架构、标记和权限所需的过程AEM概念
 
-**第3节：业务做法(21%)**
+**第3部分：业务实践(21%)**
 
 * 解释客户需求以建议合适的工作流策略
-* 演示如何设置 [!DNL Workfront] 审批和校对工作流
+* 演示如何设置[!DNL Workfront]审批和验证工作流
 * 在场景中，确定使用验证查看器、设置和标记功能的最佳实践
 * 演示对作为营销活动管理一部分的跟踪交付项的了解
-* 在场景中，确定以下项的更改管理的主要注意事项 [!DNL Workfront] 实现
+* 给定方案，确定[!DNL Workfront]实施的更改管理的主要注意事项
 
-**第4节：连接器的安装和配置(28%)**
+**第4部分：连接器的安装和配置(28%)**
 
 * 验证AEM中的先决条件
 * 在客户使用案例中，确定要实施的连接器的功能
@@ -186,6 +186,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

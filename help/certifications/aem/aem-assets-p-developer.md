@@ -1,6 +1,6 @@
 ---
 title: 专业认证
-description: 了解如何成为认证Adobe [!DNL Experience Manager] 专业。
+description: 了解如何成为认证Adobe [!DNL Experience Manager] 专业人员。
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager] Assets Developer Professional
+# Adobe[!DNL Experience Manager] Assets开发人员专业人员的认证历程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 如果你刚开始工作，或者需要新手，就拿着 [Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240) 访问关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
+>* **课程：**&#x200B;如果您刚开始学习或需要复习者，请参加[Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240)以获取有关关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/120) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/120)提供量身定制的认证考试准备流程，包括成功获得此认证所需的材料。
 >
 >_如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-您应该能够熟练使用AdobeManaged Services和Adobe [!DNL Experience Manager as a Cloud Service]，并且能够设置Adobe [!DNL Experience Manager] 环境和基础架构。
+您应该能够熟练使用AdobeManaged Services和Adobe[!DNL Experience Manager as a Cloud Service]，并能够设置Adobe[!DNL Experience Manager]环境和基础架构。
 
 您应该拥有：
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 * IO CLIADOBE
 * Git CLI
 * 云过渡工具
-* Dispatcher转换器
+* Dispatcher converter
 * 存储库现代化器
 * 开发暂存和生产
 * 开发沙盒
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1部分：资产工作流(24%)**
+**第1部分：资源工作流(24%)**
 
 * 解释自定义OOTB工作流的过程
 * 识别何时创建或自定义资产工作流以实施客户要求
@@ -98,26 +98,26 @@ ht-degree: 0%
 
 **第2部分：资产组织和资产控制台(22%)**
 
-* 演示如何在收藏集中创建和组织资源
-* 演示如何使用标记整理资源
+* 演示如何在收藏集中创建和组织Assets
+* 演示如何使用标记整理Assets
 * 了解如何利用OOTB搜索筛选器和Facet
 * 描述如何配置和生成AEM Asset报表
 * 描述如何管理资产文件夹的用户权限
 
-**第3节：资产元数据(24%)**
+**第3节：资源元数据(24%)**
 
 * 定义元数据架构
 * 给定场景，确定如何调整适当的元数据架构
 * 给定场景，确定如何利用元数据配置文件来满足要求
 * 了解串联元数据架构的工作原理
 
-**第4节：资产类型(18%)**
+**第4部分：资源类型(18%)**
 
 * 描述可用于资源类型的OOTB功能
 * 解释内容片段和内容片段模型
 * 演示如何使用以及何时使用内容片段变量
 
-**第5部分：资产功能集和功能(12%)**
+**第5部分：资源功能集和功能(12%)**
 
 * 描述使用Brand Portal的常见用例和好处
 * 描述使用Dynamic Media的常见用例和好处
@@ -129,7 +129,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -153,7 +153,7 @@ ht-degree: 0%
 
 [参加Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240)
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -217,6 +217,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

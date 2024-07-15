@@ -1,6 +1,6 @@
 ---
 title: 核心开发人员专家认证
-description: 了解如何成为Adobe领域的认证Adobe Developer专家 [!DNL Workfront].
+description: 了解如何成为Adobe [!DNL Workfront]中的认证Adobe Developer专家。
 solution: Workfront
 role: Developer
 badge: label="考试AD0-E907" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Workfront] 核心开发人员专家
+# Adobe[!DNL Workfront]核心开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/241) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/241)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ### 目标受众 {#intended-audience}
 
-* [!DNL Workfront] 专门负责实施以及新的或更新实例配置的系统管理员
+* [!DNL Workfront]系统管理员，专门负责实施以及新的或更新实例配置
 * 流程设计者/架构师
 * 业务分析师
 * 技术顾问
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-您应至少拥有18-24个月的Adobe经验 [!DNL Workfront]，并且应该能够：
+您应该在Adobe[!DNL Workfront]方面拥有至少18-24个月的经验，并且应该能够：
 
-* 导航 [!DNL Workfront] 系统，了解其功能所在的位置
+* 导航[!DNL Workfront]系统，了解其功能所在的位置
 * 配置系统的所有方面
 * 与客户讨论需求并将这些需求转化为可行的解决方案
 * 以协作方式获取和修改现有流程以进行改进
@@ -66,17 +66,17 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第一节　：核心系统管理和设置(17%)**
+**第1部分：核心系统管理和设置(17%)**
 
 * 给定场景，描述有效共享权限和访问的方法。
 * 给定场景，确定何时应使用组状态与系统状态。
 * 给定一个数据集，演示快速启动的功能。
 * 在场景中，确定自动配置用户的最佳实践。
-* 在场景中，演示用户配置文件中的组和团队如何影响可在其中查看或执行的操作 [!DNL Workfront].
+* 在场景中，演示用户配置文件中的组和团队如何影响[!DNL Workfront]中可以看到的内容或可以完成的操作。
 * 给定场景，推荐展示板配置以满足自定义要求。
 * 在场景中，确定群组管理的最佳实践。
 
-**第2节：录取、定制表格和项目启动(13%)**
+**第2部分：录取、自定义表单和项目启动(13%)**
 
 * 给定一个方案，确定支持工作分配所需的配置区域。
 * 给定场景，标识如何将值传递到项目自定义表单。
@@ -85,7 +85,7 @@ ht-degree: 0%
 * 给定一个具有多个表单的场景，可确定用于控制访问、可见性和依赖性的操作。
 * 给定多对象表单上具有计算字段的方案，请确定正确的公式。
 
-**第3款：战略职能：组合和方案管理、资源管理(13%)**
+**第3节：战略功能：投资组合和方案管理，资源管理(13%)**
 
 * 给定一个方案，定义工具以捕获项目范围中的更改。
 * 给定一个方案，创建一个视图来标识项目组合中项目是否满足要执行的所需条件的平均水平。
@@ -94,13 +94,13 @@ ht-degree: 0%
 * 在场景中，提供一种机制，确保使用资源管理工具为项目配备充足的人员。
 * 在给定场景下，使用资源管理工具确定用户过度分配的原因。
 
-**第4节：文件管理和证明(13%)**
+**第4部分：文档管理和校对(13%)**
 
 * 在给定的场景中，演示何时使用文档管理和校对
 * 在场景中，确定使用验证查看器、设置和标记功能的最佳实践
 * 在场景中，演示如何编辑和设置文件的权限
 * 在给定场景下，演示如何设置具有安全限制的外部文档存储
-* 给定场景，设置与AEMas a Cloud Service或AEM Assets Essentials的连接。
+* 在给定场景下，设置与AEM as a Cloud Service或AEM Assets Essentials的连接。
 
 **第5节：报告(11%)**
 
@@ -108,26 +108,26 @@ ht-degree: 0%
 * 给定报表或过滤器，演示使用通配符值的优点。
 * 确定如何使用本机报告来报告父子关系。
 * 在场景中，描述报告如何促进工作的高效执行。
-* 给定场景，说明 [!DNL Workfront] 用于监控和改进用户采用情况的报告。
+* 在场景中，说明[!DNL Workfront]报告以监视和改进用户采用。
 * 给定场景，确定字段类型在报表中的呈现方式。 （字段类型包括：富文本、图像、多选）
 
-**第6节：方法/最佳做法/用例(22%)**
+**第6部分：方法/最佳实践/用例(22%)**
 
-* 给定场景，在 [!DNL Workfront]，演示用于设置跟踪作为单个营销活动一部分的交付项的功能。
-* 给定场景，在 [!DNL Workfront]，演示围绕工作的战略优先顺序和合理化的功能。
-* 给定场景，在 [!DNL Workfront]，演示有关财务、利用率、预测、记帐费率/记录的功能
-* 给定场景，在 [!DNL Workfront]，演示有关设置工作流和批准的功能。
+* 给定[!DNL Workfront]中的方案，演示用于设置跟踪作为单个营销活动一部分的交付项的功能。
+* 在[!DNL Workfront]内的场景中，演示围绕工作的战略优先顺序和理由的功能。
+* 在[!DNL Workfront]内的场景中，演示有关财务、利用率、预测、记帐费率/记录的功能
+* 给定[!DNL Workfront]中的方案，演示关于设置工作流和批准的功能。
 * 给定一种情况，建议在扩展客户端实例时围绕系统管理建立一个治理框架。
 * 根据场景，确定在扩展客户端实例以使其他团队能够协作时要考虑的领域。
-* 给定场景使用 [!DNL Workfront] 展示板，识别本机功能以显示进度。
+* 假定方案使用[!DNL Workfront]讨论区，请确定显示进度的本机功能。
 * 在给定场景下，建议围绕系统和组管理构建治理框架。
 
-**第7节：商业咨询(11%)**
+**第7部分：业务咨询(11%)**
 
-* 给定场景，描述完全支持实施工作所需的流程 [!DNL Workfront] 跨职能部门工作。
+* 在场景中，描述完全支持在跨职能部门中实施[!DNL Workfront]的工作所需的流程。
 * 给定一个情景，解释如何调整现有工作流以满足关键正在进行的业务流程中的最新变化。
 * 给定场景，确定最难更改给定实例的配置设置。
-* 在场景中，确定以下项的更改管理的主要注意事项 [!DNL Workfront] 实现
+* 给定方案，确定[!DNL Workfront]实施的更改管理的主要注意事项
 * 给定客户有多个团队的情况，提供提高效率的建议。
 
 <br>
@@ -136,7 +136,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
 
 <br>
 
@@ -219,6 +219,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

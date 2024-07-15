@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专业认证
-description: 了解如何成为Adobe领域的认证Adobe商业从业者 [!DNL Commerce].
+description: 了解如何成为Adobe [!DNL Commerce]中的认证Adobe商业从业者专业人员。
 solution: Commerce
 product: Magento
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Commerce] 商业从业者专业人员
+# Adobe[!DNL Commerce]商业从业者专业人员的认证历程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程**：使用 [Adobe Commerce商业从业者专业课程](https://app.rockinfo.com/courses/219) 了解关键概念的解释、实践演示和知识检查。 如果你刚开始的话 [Adobe Commerce基础课程](https://app.rockinfo.com/courses/148) 提供了知识基础，您可以在认证历程中在此基础上进行构建。
+>* **课程**：参加[Adobe Commerce商业从业者专业课程](https://app.rockinfo.com/courses/219)，了解关键概念的解释、实践演示和知识检查。 如果您刚刚开始，[Adobe Commerce基础课程](https://app.rockinfo.com/courses/148)将为您提供基础知识，帮助您在认证历程中不断积累知识。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/137) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/137)提供量身定制的认证考试准备流程，包括成功获得此认证所需的材料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 * 项目经理
 * 产品所有者
 * 顾问
-* [!DNL Adobe Commerce] 策略师
+* [!DNL Adobe Commerce]策略师
 * 电子商务管理员/Director/经理/顾问
 * Digital Marketing Director/经理/开发人员
 * 解决方案专家
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-您至少应有0至12个月的实践经验， [!DNL Magento Open Source] 版本2.4.3，使用LUMA或BLANK主题并基本了解Adobe [!DNL Commerce] 版本2.4.3。
+您应该在使用LUMA或BLANK主题的[!DNL Magento Open Source]版本2.4.3方面有至少0至12个月的实践经验，并且对Adobe[!DNL Commerce]版本2.4.3有基本的了解。
 
 此外，您应该对电子商务体验有基本的了解，并熟悉以下概念：
 
-* 数字营销(SEO、CMS、电子邮件营销、销售技术 [交叉销售、追加销售]、分析、报告和监控)
+* 数字营销（SEO、CMS、电子邮件营销、销售技巧[交叉销售、追加销售]、分析、报告和监控）
 * 电子商务术语（全渠道和多渠道等销售/营销策略）
 * 定价和促销活动
 * 客户购买历程
@@ -81,24 +81,24 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1节： [!DNL Magento Open Source] 核心特性(49%)**
+**第1部分：[!DNL Magento Open Source]个核心功能(49%)**
 
-* 识别的功能 [!DNL Magento Open Source]
+* 识别[!DNL Magento Open Source]的功能
 * 区分正确的范围以及何时使用每个
 * 演示目录管理知识
-* 使用操纵定价 [!DNL Magento Open Source] 功能
+* 使用[!DNL Magento Open Source]功能操纵定价
 * 描述标准客户历程
 * 描述标准订单生命周期
 * 描述商店维护中涉及的日常任务
 * 解释不同类型的内容元素以及何时使用
 
-**第2部分：Adobe [!DNL Commerce] 基本知识(14%)**
+**第2部分：Adobe[!DNL Commerce]基础知识(14%)**
 
-* 确定Adobe中可用的主要功能 [!DNL Commerce]
-* 识别Adobe中的服务加载项 [!DNL Commerce]
-* 确定用于Adobe的托管选项 [!DNL Commerce]
+* 识别Adobe[!DNL Commerce]中可用的主要功能
+* 识别Adobe[!DNL Commerce]中的服务加载项
+* 确定Adobe[!DNL Commerce]的托管选项
 
-**第3节：数字营销和电子商务基本面(24%)**
+**第3部分：数字营销和电子商务基础知识(24%)**
 
 * 确定数字营销工具(Google Analytics/Adobe Analytics、Google Tag Manager、电子邮件营销、分段、社交插件)的基本用法
 * 解释SEO的基本原则
@@ -106,10 +106,10 @@ ht-degree: 0%
 * 确定电子商务网站的主要功能
 * 确定基本电子商务概念（包括店面选项）
 
-**第4部分：合规/安全基本知识(13%)**
+**第4部分：合规性/安全性基础知识(13%)**
 
 * 了解隐私法律和支付安全合规性的基础知识
-* 识别Adobe的常见安全方面 [!DNL Commerce] 项目
+* 识别Adobe[!DNL Commerce]项目的常见安全方面
 * 确定无障碍合规性的最佳实践和法律要求
 
 <br>
@@ -118,7 +118,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -140,7 +140,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -211,6 +211,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

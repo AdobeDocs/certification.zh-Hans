@@ -1,6 +1,6 @@
 ---
 title: 前端开发人员专家新认证
-description: 了解如何成为Adobe领域的认证Adobe Developer专家 [!DNL Commerce].
+description: 了解如何成为Adobe [!DNL Commerce]中的认证Adobe Developer专家。
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的认证历程 [!DNL Adobe Commerce] 前端开发人员专家
+# [!DNL Adobe Commerce]前端开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/139) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/139)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 此外，您应该可以熟练使用以下技术：
 
-* [!DNL Adobe Commerce]  — 版本2.4.6
+* [!DNL Adobe Commerce] — 版本2.4.6
 * 对前端结构和布局的基本了解
 * 对HTML、CSS（和预处理器）、LESS、JavaScript和UI组件、jQuery、Underscore、Require.JS、Knockout、PHP模板、数据库知识和内容管理的经验和理解
 * 熟悉平台、CMS块、小组件、CMS页面、类别页面、产品页面、购物车和结账以及帐户仪表板区域
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1节：主题管理（主题层次结构、图像配置和翻译）(16%)**
+**第1部分：主题管理（主题层次结构、图像配置、翻译）(16%)**
 
 * 描述Adobe Commerce主题文件夹结构以及它如何与基于文件夹的主题相关联
 * 演示创建新主题的功能（继承/回退、设计异常、主题属性）
@@ -86,7 +86,7 @@ ht-degree: 0%
 * 演示应用翻译的能力
 * 给定一组用例，确定何时将文件放入应用程序/代码或应用程序/设计
 
-**第2部分：布局XML和模板（phtml模板）(22%)**
+**第2部分：布局XML和模板（phtml模板） (22%)**
 
 * 演示利用布局XML指令的能力
 * 演示创建新页面布局的能力
@@ -108,7 +108,7 @@ ht-degree: 0%
 
 **第4部分：JavaScript（图像小组件、图像库、客户数据模块、挖空模板）(22%)**
 
-* 演示初始化和调用JavaScript组件的功能
+* 演示初始化和调用JavaScript组件的能力
 * 区分不同JavaScript组件的用例
 * 演示RequireJS的使用
 * 演示实施不同类型的mixin的能力
@@ -118,14 +118,14 @@ ht-degree: 0%
 * 演示jQuery小组件的使用
 * 演示使用布局XML的JS组件
 
-**第5部分：管理员配置和页面生成器(12%)**
+**第5节：管理员配置和页面生成器(12%)**
 
 * 演示自定义页面生成器内容的能力
 * 描述前端优化
 * 自定义事务性电子邮件
 * 演示管理开发工具的使用
 
-**第6节：工具（CLI和Grunt）(10%)**
+**第6部分：工具（CLI和Grunt） (10%)**
 
 * 演示基本bin/Magento命令的用法
 * 描述编辑器命令的用法（安装、更新、需要、删除）
@@ -139,7 +139,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -224,6 +224,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

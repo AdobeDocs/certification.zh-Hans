@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专家认证
-description: 了解如何获得Adobe认证 [!DNL Audience Manager] Business Manager专家。
+description: 了解如何获得Adobe [!DNL Audience Manager] Business Manager Expert认证。
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
@@ -10,11 +10,11 @@ exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
 source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# 的认证历程 [!DNL Adobe Audience Manager] 商业从业者专家
+# [!DNL Adobe Audience Manager]商业从业者专家的认证历程
 
 {{intro}}
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 环境：
 
-* 中小企业/企业级业务
+* 小型/Medium/企业级业务
 * 数字营销
 * 数据和分析
 
@@ -95,19 +95,19 @@ ht-degree: 1%
 * 为给定的受众策略推荐特征
 * 确定创建和更新基于规则的特征和/或已载入特征的正确方法
 
-**第3款：报告和计量(22%)**
+**第3部分：报告和测量(22%)**
 
 * 在场景中，分析报表以提供可操作的后续步骤来实现业务目标
 * 给定场景，分析受众优化
 
-**第4节：疑难解答和管理(26%)**
+**第4部分：疑难解答和管理(26%)**
 
 * 在场景中，验证受众交付信息，以确保计划的交付需求
 * 确定验证离线入站文件的相应实践
 * 给定场景，确定对ID同步执行QA的正确方法
 * 确定从AdobeAudience Marketplace导航和激活的适当方法
 
-**第五节　：分类(10%)**
+**第5节：分类(10%)**
 
 * 确定适当的结构，以创建使用清晰一致命名法的特性和区段
 * 确定使用明确的文件夹结构维护有组织的平台的正确技术
@@ -118,7 +118,7 @@ ht-degree: 1%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -142,8 +142,8 @@ ht-degree: 1%
 
 **第1部分：区段创建和联合**
 
-* [报告在区段级别的Audience Marketplace中的第二方和第三方数据使用情况](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
-* [使用筛选器和推荐在Audience Marketplace中选择第三方数据](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
+* [在区段级别报告Audience Marketplace中的第二方和第三方数据使用情况](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
+* [使用筛选器和建议选择Audience Marketplace中的第三方数据](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
 * [了解分段](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
 * [区段：目的、构成和规则](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
 * [分段和筛选](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
@@ -153,36 +153,36 @@ ht-degree: 1%
 
 * [特征Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
 * [特征和区段资格参考](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
-* [信号、特征和区段](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=zh-Hans){target="_blank"}
+* [信号、特征和区段](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
 * [管理特征规则](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
 * [创建基于规则的特征或已载入的特征](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
 
-**第3节：报告和衡量**
+**第3部分：报告和测量**
 
 * [区段趋势报表](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
 * [监控和报告活动使用情况](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
 * [趋势报表](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html)
-* [使用Audience Optimization报告了解介质性能](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
-* [发布者的Audience Optimization](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
+* [使用Audience Optimization报告了解媒体性能](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
+* 发布者[Audience Optimization](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
 
 **第4部分：疑难解答和管理**
 
-* [Experience Platform区段共享对象 [!DNL Audience Manager] 和其他Experience Cloud解决方案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
+* [与 [!DNL Audience Manager] 和其他Experience Cloud解决方案共享Experience Platform区段](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
 * [引入基于文件的数据的步骤](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
 * [ID同步文件的名称和内容要求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
-* [在中创建和管理数据激活 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
+* [在 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}中创建和管理数据激活
 
-**第五节　：分类**
+**第5节：分类**
 
-* [信号、特征和区段](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=zh-Hans){target="_blank"}
+* [信号、特征和区段](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
 * [使用限制](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html){target="_blank"}
 * [创建特征分类](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html){target="_blank"}
-* [使用通用分类法对特征进行分类](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
+* [使用通用分类法将特征分类](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
 * [文件夹特征：关于](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
 <br>
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -239,8 +239,8 @@ ht-degree: 1%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 
 <!--divider-->

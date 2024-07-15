@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专家认证
-description: 了解如何成为认证Adobe业务从业专家 [!DNL Campaign Classic].
+description: 了解如何通过 [!DNL Campaign Classic]成为认证Adobe业务从业者专家。
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Campaign Classic] 商业从业者专家
+# Adobe[!DNL Campaign Classic]业务从业者专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/253) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/253)提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 至少2年广泛Adobe [!DNL Campaign Classic] 软件体验
+* 至少2年丰富的Adobe[!DNL Campaign Classic]软件使用经验
 * 使用数字全渠道开发营销活动和策略的多年经验
 * 将业务需求解释/转换为可操作的Campaign交付件方面的经验
 * 体验ROI、点进率和转化率等营销指标
@@ -77,14 +77,14 @@ ht-degree: 0%
 * 描述目标映射
 * 说明如何配置Web应用程序和Web窗体
 
-**第2节：工作流管理(22%)**
+**第2部分：工作流管理(22%)**
 
 * 评估一组给定的营销活动要求并建议行动方案
 * 给定场景，分析工作流错误
 * 给定一组营销活动要求，确定营销工作流的正确设计
 * 在执行工作流时应用建议的做法
 
-**第3款：数据管理(24%)**
+**第3部分：数据管理(24%)**
 
 * 解释关系数据库的核心概念
 * 确定工作流可以访问的不同数据源
@@ -94,7 +94,7 @@ ht-degree: 0%
 * 应用这些步骤来配置预定义过滤器
 * 根据业务要求，确定适当的输入表单
 
-**第4节：交付管理(14%)**
+**第4部分：投放管理(14%)**
 
 * 应用这些步骤来创建/配置投放
 * 给定场景，选择并设置适当的验证受众以供审批
@@ -106,7 +106,7 @@ ht-degree: 0%
 * 解释内置报告
 * 解释日志清理/清除对报告的影响
 
-**第六节　：管理(8%)**
+**第6部分：管理(8%)**
 
 * 在场景中，解释日志清除对报告的影响
 * 根据业务要求，授予适当的授权和访问权限
@@ -132,7 +132,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -195,6 +195,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

@@ -1,6 +1,6 @@
 ---
 title: 开发人员专业认证
-description: 了解如何成为Adobe领域的认证Adobe Developer专业人员 [!DNL Workfront Fusion].
+description: 了解如何在Adobe [!DNL Workfront Fusion]中成为经过认证的Adobe Developer专业人员。
 solution: Workfront
 role: Developer
 badge: label="考试AD0-E902" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Workfront Fusion] 开发人员专业版
+# Adobe[!DNL Workfront Fusion]开发人员专业人员的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/228) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/228)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -54,10 +54,10 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 与配合使用的功能 [!DNL Workfront] API和API Explorer，但不一定精通API调用
-* 能够使用自定义API调用以处理 [!DNL Workfront] 和其他API
-* 能够将模块用于 [!DNL Workfront] 应用程序和其他操作，例如创建、读取、更新、删除和搜索
-* 能够构建可行的解决方案，在不影响业务成果的情况下实现业务成果 [!DNL Fusion] 护栏
+* 能够使用[!DNL Workfront] API和API Explorer，但不一定精通API调用
+* 能够使用自定义API调用来处理[!DNL Workfront]和其他API
+* 能够为[!DNL Workfront]应用程序和其他操作（如创建、读取、更新、删除和搜索）使用模块
+* 能够构建可行的解决方案，在不影响[!DNL Fusion]护栏的情况下产生业务成果
 * 能够选择适当的触发器模块来实现业务成果
 * 了解如何使用流量控制（路由、迭代器/聚合器、流量说明）
 * 能够执行基本故障排除和错误处理
@@ -71,50 +71,50 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1款：基本技术概念(39%)**
+**第1部分：基础技术概念(39%)**
 
-* 给定 [!DNL Fusion] 如果一个字段格式需要采用其他字段格式，请提供可用于正确转换数据的可能函数
-* 给定 [!DNL Fusion] 如果方案要求将函数嵌套在另一个函数中，请选择格式正确的表达式
-* 确定使用团队控制对连接和其他内容的访问的方法 [!DNL Fusion] 功能
-* 给定 [!DNL Fusion] 场景，确定系统和功能的限制
-* 给定 [!DNL Fusion] 需要时区操纵的场景，区分用户、可见组织和需要覆盖时区的位置
-* 给定 [!DNL Fusion] 方案，选择适当的 [!DNL Workfront] 模块或操作
-* 给定 [!DNL Fusion] 方案，选择将输入数据适当转换为输出数据的映射面板表达式和/或模块
-* 确定利用 [!DNL Fusion] 开发工具，用于排除执行中的错误或确定对第三方系统的调用和响应
-* 给定 [!DNL Fusion] 当一条路径中的数据需要另一条路径中的数据时，提供设置获取解决方案，以便能够在其他路由路径上使用该数据
-* 确定使用或生成 [!DNL Fusion] 业务需求模板
-* 给定 [!DNL Fusion] 场景，标识要查看执行和/或解决错误所需执行的操作
-* 确定中的不同选项 [!DNL Fusion] 用于满足方案需求的方案设置
-* 给定 [!DNL Fusion] 方案，选择适当的流控制和/或确定流控制模块的正确组合
+* 给定一个字段格式为[!DNL Fusion]的场景需要采用其他字段格式，则提供可用于正确转换数据的可能函数
+* 假定一个[!DNL Fusion]方案要求将函数嵌套在另一个函数中，请选择格式正确的表达式
+* 确定使用团队控制对连接和其他[!DNL Fusion]功能的访问的方法
+* 给定一个[!DNL Fusion]方案，确定系统和功能的限制
+* 在需要时区操作的[!DNL Fusion]场景中，区分用户、可见组织和需要覆盖时区的位置
+* 给定[!DNL Fusion]方案，选择适当的[!DNL Workfront]模块或操作
+* 给定[!DNL Fusion]方案，选择将输入数据适当转换为输出数据的映射面板表达式和/或模块
+* 确定利用[!DNL Fusion]开发工具排除执行错误或确定对第三方系统的调用和响应的正确方法
+* 假设一个[!DNL Fusion]方案需要另一路径中的数据，则提供设置获取解决方案，使该数据在其他路由路径上可用
+* 确定使用或生成[!DNL Fusion]模板以满足业务需求的方法
+* 给定一个[!DNL Fusion]方案，确定要查看执行和/或解决错误要执行的操作
+* 识别[!DNL Fusion]方案设置中的不同选项以满足方案需求
+* 给定一个[!DNL Fusion]方案，选择适当的流控制和/或确定流控制模块的正确组合
 
-**第2部分：方案设计和架构(35%)**
+**第2部分：方案设计和体系结构(35%)**
 
 * 给出一个步骤列表，选择要解析JSON并转换为捆绑包的正确序列
 * 给定一组要求，确定正确的数据查找方法
 * 识别即时触发器和计划触发器之间的区别
-* 确定要将文档上传到的正确模块 [!DNL Workfront]
-* 根据业务需求，确定正确的跟踪方法 [!DNL Fusion] 已处理记录（不是用户）并且时间
-* 给定 [!DNL Fusion] 方案，确定简化设计和/或优化维护的机会
-* 识别 [!DNL Fusion] 记录场景的最佳实践
+* 识别用于将文档上传到[!DNL Workfront]的正确模块
+* 在业务需求的前提下，确定跟踪[!DNL Fusion]处理记录（不是用户）的正确方法，以及时间
+* 在[!DNL Fusion]方案下，确定一个机会来简化设计和/或优化维护
+* 确定用于记录方案的[!DNL Fusion]最佳实践
 * 在给定情况下，识别减少场景中数据流的机会
 * 给定搜索模块和以下聚合器上显示的捆绑包数量的示例，说明捆绑包检查器处理和显示的操作数量的变化
 * 标识在包检查器中找到的信息
 * 说明了需要存档场景超过60天并选择唯一可行的方法（导入/导出Blueprint）
 * 以错误403：禁止为例，正确选择错误消息的来源和原因
 
-**第三节　：检测和差错处理(16%)**
+**第3部分：测试和错误处理(16%)**
 
 * 确定测试计划的要素
 * 识别测试用例的元素
-* 给定 [!DNL Fusion] 场景，正确识别相应的指令以处理不可靠的服务
-* 确定在中添加自定义错误处理的流程 [!DNL Fusion] 方案
+* 在给定[!DNL Fusion]方案的情况下，正确识别处理不可靠服务的适当指令
+* 确定在[!DNL Fusion]方案中添加自定义错误处理的进程
 * 确定如何跟踪、读取和解决未完成的执行
-* 给定 [!DNL Fusion] 缺少所需数据的方案，请选择处理无效数据的方法
+* 给定缺少必需数据的[!DNL Fusion]方案，请选择处理无效数据的方法
 
 **第4部分：使用API (10%)**
 
 * 给定返回429：请求过量的第三方API，请确定解决方案以防止或处理错误
-* 给定 [!DNL Fusion] 新功能在中不可用的场景 [!DNL Workfront] 模块，识别正确的参考和模块类型以使用新功能
+* 给定在[!DNL Workfront]模块中没有新功能的[!DNL Fusion]方案，请确定使用新功能的正确引用和模块类型
 * 对于没有专用应用程序的第三方系统，请识别HTTP应用程序并选择适当的模块
 * 识别CRUD操作与REST API其他常用功能之间的区别
 
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -201,6 +201,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

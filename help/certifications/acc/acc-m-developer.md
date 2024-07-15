@@ -1,6 +1,6 @@
 ---
 title: 架构师主认证
-description: 了解如何在中成为认证Adobe架构师 [!DNL Campaign Classic].
+description: 了解如何在 [!DNL Campaign Classic]中成为认证Adobe架构师大师。
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Campaign Classic] 架构师母版
+# Adobe[!DNL Campaign Classic]架构师母版的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/254) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/254)提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ### 目标受众 {#intended-audience}
 
-* Adobe技术主管 [!DNL Campaign Classic] 背景
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] 开发人员
-* Adobe [!DNL Campaign Classic] 开发人员或类似角色
+* 具有Adobe[!DNL Campaign Classic]背景的技术主管
+* Adobe Certified Expert - [!DNL Campaign Classic]开发人员
+* Adobe[!DNL Campaign Classic]开发人员或类似角色
 * Martech解决方案架构师
 
 <br>
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 具有多个Adobe的体验 [!DNL Campaign Classic] 实施
+* 具有多个Adobe[!DNL Campaign Classic]实施的体验
 * 了解Adobe Campaign如何作为数字营销解决方案使用，并根据项目要求进行实施
 * 创建功能设计文档的能力
 * 能够为Adobe Campaign安装创建功能性的工作范围
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 * 根据特定的业务需求，确定与解决方案设计相关的信息
 * 给定场景，提供性能、基础架构和配置建议
-* 分析 [!DNL Campaign Classic] 设置以提供改进建议
+* 分析[!DNL Campaign Classic]设置以提出改进建议
 * 确定设计数字营销解决方案的业务需求
 * 给定方案，请指定正确的产品部署方法
 
@@ -89,22 +89,22 @@ ht-degree: 0%
 * 在场景中，确定符合法律法规所需的解决方案设计
 * 给定场景，确定最佳的技术工作流设计
 
-**第3节：安装和管理(16%)**
+**第3部分：安装和管理(16%)**
 
 * 给定一组关键模块，验证模块设置的配置
-* 在场景中，推荐集成解决方案，以启用与Adobe的本机集成和第三方集成 [!DNL Campaign Classic]
+* 在给定场景下，建议集成解决方案以启用与Adobe[!DNL Campaign Classic]的本机集成和第三方集成
 * 给定场景，确定诊断方法
 * 指定Adobe和非Adobe应用程序集成的集成参数和方法
 * 在给定情况下，就解决方案设计期间所需的适当硬件基础架构提出建议
 * 给定场景，确定将解决方案提升到相应环境的正确方法
 
-**第4款：项目领导(10%)**
+**第4部分：项目领导力(10%)**
 
 * 根据客户需求，确定所需的适当活动和资源
 * 给定一个方案，分析整个解决方案以确定技术风险、假设、问题和依赖关系
 * 向内部和外部团队传达ACC的技术专业知识
 
-**第5节：定制(26%)**
+**第5节：自定义(26%)**
 
 * 分析和设计自定义功能
 * 分析和设计自定义集成
@@ -117,7 +117,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -198,8 +198,8 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 
 

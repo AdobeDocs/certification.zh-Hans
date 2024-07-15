@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/126) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/126)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 在使用和配置Adobe Cloud Manager方面至少拥有1-3年的经验
+* 在使用和配置AdobeCloud Manager方面至少拥有1-3年的经验
 * 在配置、实施和管理持续集成/持续部署任务方面至少有两年的经验
 
 您应该能够熟练使用AdobeManaged Services和Adobe Experience Manager as a Cloud Service，并能够设置Adobe Experience Manager环境和基础架构。
@@ -93,24 +93,24 @@ ht-degree: 0%
 * 确定迁移到Adobe Experience Manager as a Cloud Service的正确方法
 * 确定在Adobe I/O上设置集成的正确方法
 
-**第3部分：配置Web代理基础架构(12%)**
+**第3部分：配置Web代理基础结构(12%)**
 
 * 确定管理Dispatcher配置的正确方法
 * 在某种情况下，解决缓存问题
 
-**第4款：建立和部署(28%)**
+**第4部分：生成和部署(28%)**
 
 * 确定管理Cloud Manager部署的正确方法
 * 给定场景，分析Cloud Manager管道的状态
 * 确定跨多个Adobe Experience Manager实例管理内容包的正确方法
 * 确定更改Maven文件以支持管道的正确方法
 
-**第5款：监测和报告质量指标(14%)**
+**第5部分：监控和报告质量指标(14%)**
 
 * 确定收集性能量度和报表的正确方法
 * 确定扩展基础架构的正确方法
 
-**第6节：经营Admin Console(8%)**
+**第6节：操作Admin Console(8%)**
 
 * 确定在Admin Console中提交支持请求的正确方法
 * 确定配置联合SSO并同步Adobe Experience Manager用户和组的正确方法
@@ -119,7 +119,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
 
 <br>
 
@@ -211,6 +211,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

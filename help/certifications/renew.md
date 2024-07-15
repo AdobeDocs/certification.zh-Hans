@@ -16,7 +16,7 @@ ht-degree: 0%
 
 要维护Adobe认证，您必须每两年更新一次。 如果认证过期前未续订，则需要再次参加完整的认证考试才能获得重新认证。
 
-查看您当前和过期的认证，位于 **认证** 选项卡，在 [Adobe凭据管理系统](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+在[Adobe凭据管理系统](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}的&#x200B;**认证**&#x200B;选项卡下查看当前和过期的认证。
 
 ## 如何续订认证？
 
@@ -34,7 +34,7 @@ Adobe提供各种资源和工具来帮助您续订认证，包括：
 
 ## 多少钱？
 
-大多数认证都可以续订 **免费**. 某些认证尚未提供免费续订选项。 要更新这些认证，您需要重新参加完整的认证考试。
+大多数认证均可免费续订&#x200B;****。 某些认证尚未提供免费续订选项。 要更新这些认证，您需要重新参加完整的认证考试。
 
 ## 免费续订选项
 
@@ -57,6 +57,6 @@ Adobe提供各种资源和工具来帮助您续订认证，包括：
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

@@ -10,9 +10,9 @@ ht-degree: 21%
 
 ---
 
-# Adobe [!DNL Journey Optimizer] 认证概述
+# Adobe[!DNL Journey Optimizer]认证概述
 
-**专业**
+**专业人员**
 
 * [商业从业者](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
 
@@ -20,4 +20,4 @@ ht-degree: 21%
 
 * [开发人员](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
-访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否有续订选项。
+请访问[续订您的认证](/help/certifications/renew.md)页面以查看此产品是否有续订选项。

@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专业认证
-description: 了解如何成为认证用户 [!DNL Adobe Target] 商业从业者专业人士。
+description: 了解如何成为经认证的 [!DNL Adobe Target] 商业从业者专业人员。
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的认证历程 [!DNL Adobe Target] 商业从业者专业人员
+# [!DNL Adobe Target]商业从业者专业人员的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/235) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/235)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 在优化平台方面有0-12个月的经验，包括 [!DNL Adobe Target]
-* 指导下的动手体验 [!DNL Adobe Target]
+* 在优化平台（包括[!DNL Adobe Target]）方面有0-12个月的经验
+* 监督的[!DNL Adobe Target]动手体验
 * 0至12个月的体验引导/促进优化计划
 * 能够识别基本的Target/Adobe Marketing Cloud管理任务（首选项、用户角色和权限、设置）
 * 三步工作流程的基本知识（体验、定位以及目标和设置，包括所有报表源）
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1款：规划和战略(26%)**
+**第1部分：规划和策略(26%)**
 
 * 确定业务KPI
 * 给定业务KPI和数据分析方案，找出优化机会
@@ -79,7 +79,7 @@ ht-degree: 0%
 * 给定场景，评估受众要求
 * 描述相应的Analytics报表源(即Target或Adobe Analytics)
 
-**第2节：配置、执行和管理(50%)**
+**第2部分：配置、执行和管理(50%)**
 
 * 解释基于表单的体验编辑器与可视化体验编辑器的用法
 * 描述使用VEC创建体验的过程
@@ -96,16 +96,16 @@ ht-degree: 0%
 * 描述执行活动QA的过程
 * 描述用于管理Target中的活动和受众的过程
 
-**第3款：分析和报告(16%)**
+**第3部分：分析和报告(16%)**
 
 * 描述有助于设置报表中显示的元素的设置
-* 描述以下内容中的差异 [!DNL Adobe Target] 计划和验证之间的样本量计算器设置
+* 描述规划与验证之间的[!DNL Adobe Target]样本量计算器设置差异
 * 描述与A/B测试相关的常见问题
 * 确定Automated Personalization摘要报表与其他报表的差异
 * 描述体验性能报表(MVT)的功能
 * 描述在A/B测试执行中应遵循的最佳实践
 
-**第4部分：故障排除(8%)**
+**第4部分：疑难解答(8%)**
 
 * 给定场景，确定活动资格问题
 * 识别浏览器调试工具(包括Experience Cloud Debugger)的功能
@@ -131,7 +131,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -196,6 +196,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

@@ -4,7 +4,7 @@ description: 适用于专业用户的认证选项概述
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 44%
+ht-degree: 13%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 44%
 
 * [商业从业者](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [开发人员（站点）](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [开发人员（资产）](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [开发人员(Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [后端开发人员(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [技术基础](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
@@ -59,7 +59,7 @@ ht-degree: 44%
 **Workfront**
 
 * [开发人员(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
-* [项目管理器](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
+* [项目经理](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
 * [开发人员（核心）](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 >[!MORELIKETHIS]

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager Forms] 后端开发人员专业版
+# Adobe[!DNL Experience Manager Forms]后端开发人员专业人员的认证历程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 如果你刚开始工作，或者需要新手，就拿着 [Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240) 访问关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
+>* **课程：**&#x200B;如果您刚开始学习或需要复习者，请参加[Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240)以获取有关关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/123) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/123)提供量身定制的认证考试准备流程，包括成功获得此认证所需的材料。
 >
 >_如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 您应是后端表单开发人员，并且具有：
 
 * 使用AEM平台的0-12个月经验
-* 12个月使用和配置AdobeCloud Manager的体验
+* 12个月使用和配置AdobeCloud Manager的经验
 * 在配置、实施和管理持续集成/持续部署任务方面至少拥有24个月的经验
 
 此外，您应该已经能够熟练使用AdobeManaged Services和Adobe Experience Manager as a Cloud Service。 能够设置Adobe Experience Manager环境和基础架构。
@@ -75,7 +75,7 @@ ht-degree: 0%
 * IO CLIADOBE
 * Git CLI
 * 云过渡工具
-* Dispatcher转换器
+* Dispatcher converter
 * 存储库现代化器
 * 开发暂存和生产
 * 开发沙盒
@@ -92,9 +92,9 @@ ht-degree: 0%
 * 给定场景，确定构建AEM Forms所需的步骤
 * 描述Forms数据模型
 * 确定自定义AEM Forms的步骤
-* 给定场景，确定使用JavaScript ClientLib并利用GuideBridge API的步骤
+* 在场景中，确定利用GuideBridge API使用JavaScript ClientLib的步骤
 
-**第2款：流程和工作流(34%)**
+**第2部分：进程和工作流(34%)**
 
 * 给定场景，确定表单审批工作流的步骤
 * 使用Document Services API识别OSGi捆绑包的功能
@@ -103,7 +103,7 @@ ht-degree: 0%
 * 给定场景，使用Forms或汇编程序服务处理PDF
 * 描述实施JDBC服务的方法
 
-**第3节：管理和故障排除(21%)**
+**第3部分：管理和故障排除(21%)**
 
 * 识别在日志文件中生成的问题
 * 给定场景，确定执行管理活动的步骤
@@ -116,7 +116,7 @@ ht-degree: 0%
 * 给定一个方案，描述将AEM Form与Adobe Experience Cloud集成的流程
 * 确定生成各种端点服务的步骤
 
-**第5款：互动交流(9%)**
+**第5节：交互式通信(9%)**
 
 * 在场景中，演示并实现了交互通信过程
 
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 [查看考试准备指南](https://app.rockinfo.com/courses/123)
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -209,8 +209,8 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 
 

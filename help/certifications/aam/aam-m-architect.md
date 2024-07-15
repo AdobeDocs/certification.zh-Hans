@@ -1,6 +1,6 @@
 ---
 title: 架构师主认证
-description: 了解如何获得Adobe认证 [!DNL Audience Manager] 架构师母版。
+description: 了解如何获得Adobe [!DNL Audience Manager] 架构师资格认证。
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
@@ -11,11 +11,11 @@ exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
 source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '562'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# 的认证历程 [!DNL Adobe Audience Manager] 架构师母版
+# [!DNL Adobe Audience Manager]架构师母版的认证历程
 
 {{intro}}
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 
 ### 目标受众 {#intended-audience}
 
-* [!DNL Audience Manager] 顾问
+* [!DNL Audience Manager]顾问
 * 多解决方案架构师
 * Adobe实践主管
 * 企业架构师
@@ -60,10 +60,10 @@ ht-degree: 3%
 
 * 分析业务需求以了解现有数据和所需的其他数据
 * 设计和开发特定实施以满足客户需求
-* 实施Adobe [!DNL Audience Manager] 使用不同的方法
+* 使用其他方法实施Adobe[!DNL Audience Manager]
 * 创建区段
 * 在不同的Adobe和非Adobe云解决方案中激活受众区段
-* 在中生成和分析不同的报告 [!DNL Audience Manager]
+* 在[!DNL Audience Manager]内生成和分析不同的报告
 * 了解数据收集策略
 
 <br>
@@ -74,7 +74,7 @@ ht-degree: 3%
 
 **考试目标和范围**
 
-**第1款：实施情况分析(26%)**
+**第1部分：实现分析(26%)**
 
 * 确定如何指导和支持将AAM作为独立产品或云解决方案的一部分进行实施
 * 分析出站目标选项并推荐AAM实施方法
@@ -82,7 +82,7 @@ ht-degree: 3%
 * 识别访客资料查看器、标记、RBAC等功能以与业务目标保持一致
 * 确定如何设计和测试创建区段和特征所需的像素
 
-**第2部分：解决方案设计和建议(18%)**
+**第2部分：解决方案设计和推荐(18%)**
 
 * 根据客户的Audience和Activation用例确定AAM功能
 * 应用过程概念以利用受众身份解决方案来补充设计架构
@@ -91,19 +91,19 @@ ht-degree: 3%
 
 **第3部分：分段和激活(30%)**
 
-* 应用过程概念在中创建目标 [!DNL Audience Manager]
+* 应用过程概念在[!DNL Audience Manager]中创建目标
 * 识别信号以创建基于规则的特征、载入的特征和算法特征
 * 应用过程性概念以使用频率/回访间隔创建区段
 * 确定如何使用配置文件合并规则创建区段
 * 应用过程概念来创建算法或预测模型
 * 根据用例确定分段逻辑
 
-**第4部分：隐私和数据治理(8%)**
+**第4部分：隐私和数据管理(8%)**
 
-* 推荐 [!DNL Audience Manager] 与治理、隐私和安全相关的功能
+* 推荐[!DNL Audience Manager]功能，因为它与治理、隐私和安全相关
 * 确定符合政府法规的客户数据策略
 
-**第5款：业绩和报告(18%)**
+**第5节：性能和报表(18%)**
 
 * 确定如何在AAM中配置报表以收集信号、特征并根据业务需求细分性能
 
@@ -113,7 +113,7 @@ ht-degree: 3%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}。
 
 <br>
 
@@ -135,10 +135,10 @@ ht-degree: 3%
 
 {{study-materials-intro}}
 
-**第一节　：实施情况分析**
+**第1部分：实现分析**
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Analytics集成](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=zh-Hans){target="_blank"}
+* [Analytics集成](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
 * [Adobe Experience Cloud Identity服务](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **第2部分：解决方案设计和Recommendations**
@@ -156,9 +156,9 @@ ht-degree: 3%
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Analytics管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hans){target="_blank"}
+* [Analytics管理员指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
-**第5节：业绩和报告**
+**第5节：性能和报表**
 
 * [Adobe Experience Cloud Identity服务](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
@@ -215,6 +215,6 @@ ht-degree: 3%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

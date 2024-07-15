@@ -1,6 +1,6 @@
 ---
 title: 商业从业者认证
-description: 了解如何获得认证 [!DNL Adobe Analytics] 商业从业者专家
+description: 了解如何获得 [!DNL Adobe Analytics] 业务从业者专家认证
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的认证历程 [!DNL Adobe Analytics] 商业从业者专家
+# [!DNL Adobe Analytics]商业从业者专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/220) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/220)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 * 交流结果的能力，并可根据对报告的分析提出行动方案
 * 帮助客户了解如何提取/提取他们想要的信息（例如，帮助他们定义业务问题）
 * 从功能角度了解技术的工作方式并了解客户的实施（例如，数据位于何处、如何收集和如何跟踪数据）
-* 至少一年 [!DNL Adobe Analytics] 动手体验
+* [!DNL Adobe Analytics]动手体验中的至少一年
 * 基本了解Digital Analytics如何过滤/结构化数据
-* 对整合的了解 [!DNL Adobe Analytics] 与其他Adobe解决方案
+* 了解[!DNL Adobe Analytics]与其他Adobe解决方案的集成
 
 此外，您还应熟悉以下技术和环境：
 
 * FTP客户端
-* 当前 [!DNL Adobe Analytics] Workspace功能和Workspace之外的其他报表选项(例如 计划项目和计划报告)
-* 调试工具与 [!DNL Adobe Analytics] (数据包监视器，例如Adobe Debugger、浏览器开发人员工具、Charles)
+* 当前的[!DNL Adobe Analytics]Workspace功能和Workspace之外的其他报表选项(例如 计划项目和计划报告)
+* 与[!DNL Adobe Analytics]相关的调试工具(数据包监视器，如Adobe Debugger、浏览器开发人员工具、Charles)
 * Admin Console(Analytics报表包Admin Console和Experience CloudAdmin Console)
 * AdobeLaunch基础知识/基础知识
 * 应用程序、SPA、基本网站了解
@@ -115,19 +115,19 @@ ht-degree: 0%
 * 将区段应用于项目和组件
 * 应用流程以生成计算和/或分段量度
 
-**第4节：一般工具知识和故障排除(12%)**
+**第4部分：一般工具知识和疑难解答(12%)**
 
 * 分析报告并确定数据质量问题
-* 定义存在于中的不同类型的尺寸和参数 [!DNL Adobe Analytics] （eVar、prop和事件）
-* 确定如何将数据传入和传出 [!DNL Adobe Analytics]
+* 定义[!DNL Adobe Analytics]中存在的不同类型的维度和参数（eVar、prop和事件）
+* 确定如何将数据导入和导出[!DNL Adobe Analytics]
 * 识别来自营销URL的信息
 
-**第五节　：管理(10%)**
+**第5部分：管理(10%)**
 
-* 应用进程以配置 [!UICONTROL Marketing Channel] 报告 [!UICONTROL Marketing Channel] 处理规则
+* 应用进程以使用[!UICONTROL Marketing Channel]处理规则配置[!UICONTROL Marketing Channel]报表
 * 应用此过程以配置分类导入器和规则生成器
 * 应用此过程以根据现有区段配置虚拟报表包
-* 使用 [!UICONTROL Data Feed] Manager管理UI
+* 使用[!UICONTROL Data Feed]管理员用户界面
 * 了解数据管理
 
 <br>
@@ -136,7 +136,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
 
 <br>
 
@@ -158,7 +158,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -232,7 +232,7 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 

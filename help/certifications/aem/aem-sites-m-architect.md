@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager Sites] 架构师母版
+# Adobe[!DNL Experience Manager Sites]架构师母版的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/130) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/130)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 您应该拥有：
 
 * 至少3年建筑AEM Sites的建筑师经验
-* 能够在AdobeManaged Services和Adobe中工作 [!DNL Experience Manager as a Cloud Service]
-* 设置Adobe的功能 [!DNL Experience Manager] 环境和基础架构
+* 能够在AdobeManaged Services和Adobe[!DNL Experience Manager as a Cloud Service]中工作
+* 能够设置Adobe[!DNL Experience Manager]环境和基础架构
 
 此外，您还应能够执行以下任务：
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 * 为内容/资产定义一个内容模型，以适应未来的要求
 * 根据业务需求定义必要的模板和组件
 * 确定何时使用开箱即用/功能/核心组件与自定义组件
-* 设计缓存、负载平衡和安全策略（Dispatcher、防火墙、CDN）
+* 设计缓存、负载平衡和安全策略(Dispatcher、防火墙、CDN)
 * 为初始设置和功能交付提供高级别的工作量估计
 * 建立国际化的功能和用例
 * 定义支持多站点和多语言的策略
@@ -79,7 +79,7 @@ ht-degree: 0%
 * 设计业务流程的工作流模型
 * 制定平台性能和渗透/安全性测试策略
 * 跨多个渠道重用内容
-* 考虑以云为中心的注意事项，例如：自动缩放、复制、资产管理、本地和托管服务之间的影响和差异、Cloud Manager、包管理
+* 考虑以云为中心的注意事项，例如：自动缩放、复制、资产管理、本地服务和托管服务之间的影响和差异、Cloud Manager、包管理
 
 <br>
 
@@ -102,14 +102,14 @@ ht-degree: 0%
 * 将过程概念应用于设计可扩展且可复原的架构
 * 给定场景，推荐迁移策略
 
-**第3款：执行(22%)**
+**第3部分：实现(22%)**
 
 * 给定场景，识别并解决实施阶段显示的设计问题
 * 在场景中，根据要求推荐实施方法
 * 确定用于为解决方案原型化以验证概念的适当方法
 * 给定场景，诊断并解决实施期间遇到的问题
 
-**第4节：维修(16%)**
+**第4部分：维护(16%)**
 
 * 给定场景，诊断并解决生产环境中遇到的问题
 * 应用过程概念规划新功能和升级的使用
@@ -121,7 +121,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -213,6 +213,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

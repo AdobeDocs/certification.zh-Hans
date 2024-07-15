@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专业认证
-description: 了解如何成为Adobe领域的认证商业从业者专业人员 [!DNL Experience Manager].
+description: 了解如何在Adobe [!DNL Experience Manager]中成为经认证的业务从业者专业人员。
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager] 商业从业者专业人员
+# Adobe[!DNL Experience Manager]商业从业者专业人员的认证历程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 如果你刚开始工作，或者需要新手，就拿着 [Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240) 访问关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
+>* **课程：**&#x200B;如果您刚开始学习或需要复习者，请参加[Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240)以获取有关关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/122) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/122)提供量身定制的认证考试准备流程，包括成功获得此认证所需的材料。
 >
 >_如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
@@ -58,11 +58,11 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 在使用和配置AdobeCloud Manager方面至少拥有0-12个月的经验
+* 在使用和配置AdobeCloud Manager方面至少具有0-12个月的经验
 * 至少拥有0-12个月的AEM特性和功能使用经验，让开发人员能够找到业务解决方案
 * 在配置、实施和管理持续集成/持续部署任务方面至少拥有0-12个月的经验
 
-您应该能够熟练使用AdobeManaged Services和Adobe [!DNL Experience Manager] as a Cloud Service，并且能够设置Adobe [!DNL Experience Manager] 环境和基础架构。
+您应该能够熟练使用AdobeManaged Services和Adobe[!DNL Experience Manager]as a Cloud Service，并能够设置Adobe[!DNL Experience Manager]环境和基础架构。
 
 此外，您应该拥有：
 
@@ -76,20 +76,20 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1款：教育(22%)**
+**第1部分：教育(22%)**
 
 * 识别AEM特性和功能
 * 描述满足业务需求的AEM功能
 * 描述为内容编辑进行培训所需的过程概念
 
-**第2款：建筑(22%)**
+**第2部分：架构(22%)**
 
 * 使用内部部署或Adobe托管（云）环境确定适合满足业务需求的信息体系结构
 * 描述AEM如何与第三方服务连接
 * 确定定义角色和权限的位置
 * 在给定场景下，定义可用的缓存方法
 
-**第三节　：业务分析(43%)**
+**第3部分：业务分析(43%)**
 
 * 在场景中，确定用于解决客户业务问题的AEM标准模块
 * 确定AEM模块的内容管理概念
@@ -98,7 +98,7 @@ ht-degree: 0%
 * 给定一个方案，描述在预算和/或范围内实现业务目标的正确方法
 * 确定将业务目标与开发团队联系在一起的方法
 
-**第4款：设立和执行(13%)**
+**第4部分：设置和实施(13%)**
 
 * 确定使用内容组件的最佳AEM实践
 * 给定场景，确定某项功能的正确实施
@@ -200,6 +200,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

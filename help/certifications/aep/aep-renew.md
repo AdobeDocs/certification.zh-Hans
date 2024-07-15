@@ -1,6 +1,6 @@
 ---
 title: 认证续订
-description: 了解如何续订Adobe [!DNL Experience Platform] 认证过期之前。
+description: 了解如何在Adobe [!DNL Experience Platform] 认证过期前续订。
 solution: Experience Platform
 product: Experience Platform
 role: User,Developer,Data Architect
@@ -8,12 +8,12 @@ badge: label="Adobe Journey Optimizer续订" type="neutral"
 hidefromtoc: true
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# 续订Adobe [!DNL Experience Platform] 认证
+# 续订Adobe[!DNL Experience Platform]认证
 
 通过认证考试后，您的认证有效期为两年。
 
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->**先登录：** 以下链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>**首先登录：**&#x200B;在&#x200B;**成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}后，以下链接只能**&#x200B;起作用&#x200B;**。**
 >
 ><br>
 >
->**要共享链接，请执行以下操作：** 如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
+>**共享链接：**&#x200B;如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 >[!NOTE]
 >专家更新即将推出。
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Journey Optimizer] 开发人员专家
+# Adobe[!DNL Journey Optimizer]开发人员专家的认证历程
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 免费、按需 [Adobe Journey Optimizer开发人员专家课程](https://app.rockinfo.com/courses/147) 包括关键概念的解释、实践演示和知识检查。
+>* **课程：**&#x200B;免费的随选[Adobe Journey Optimizer Developer Expert课程](https://app.rockinfo.com/courses/147)包括关键概念的解释、实践演示和知识检查。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/143) 提供量身定制的考试准备流程，包括考试成功所需的深入学习材料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/143)提供了通过考试准备过程量身定制的途径，包括考试成功所需的深入学习材料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -82,20 +82,20 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 * 描述沙盒的概念以及如何跨业务部门使用数据
 * 展示对渠道管理的了解
 * 确定事件/操作/数据源的适当应用
-* 识别何时使用AJO特定的API — 限制、上限、抑制、对象复制、交互式消息执行
+* 识别何时使用特定于AJO的API — 限制、上限、抑制、对象复制、交互式消息执行
 
-**第2节：Journey Orchestration(22%)**
+**第2部分：Journey Orchestration(22%)**
 
 * 给定场景，在多渠道/多步骤历程中定位客户
 * 解释报表并调试性能指标
 * 给定场景，确定历程类型的适当用例
 * 准备测试案例（例如，试验或多渠道历程）
 
-**第3节：Offer decisioning(16%)**
+**第3部分：Offer decisioning(16%)**
 
 * 演示对创建和管理优惠和组件的理解
 * 演示如何使用测试配置文件来运行优惠模拟
-* 解释选件中心和Edge API之间的区别
+* 解释选件中心与Edge API之间的区别
 * 应用流程以创建决策
 * 应用此过程以在不同渠道中添加选件
 
@@ -105,7 +105,7 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 * 解释帮助程序函数和个性化语法以显示将显示内容
 * 演示对验证、验证、调试和发布历程的了解
 
-**第五节　：数据建模(18%)**
+**第5节：数据建模(18%)**
 
 * 区分配置文件和事件类型架构
 * 说明如何设置数据源和数据摄取
@@ -139,7 +139,7 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 [参加Adobe Journey Optimizer开发人员专家课程](https://app.rockinfo.com/courses/147)
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -202,6 +202,6 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

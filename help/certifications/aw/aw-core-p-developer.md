@@ -1,6 +1,6 @@
 ---
 title: 核心开发人员专业认证
-description: 了解如何成为Adobe领域的认证Adobe Developer专业人员 [!DNL Workfront].
+description: 了解如何在Adobe [!DNL Workfront]中成为经过认证的Adobe Developer专业人员。
 solution: Workfront
 role: Developer
 badge: label="考试AD0-E905" type="neutral"
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Workfront] 核心开发人员专业版
+# Adobe[!DNL Workfront]核心开发人员专业人员的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->这次考试，Adobe [!DNL Workfront] 核心开发人员专业版(AD0-E905)已更新。 如果您已开始学习或计划学习此版本，请确保在2024年2月26日之前完成该课程。 如果您刚刚开始，我们建议您参加 [该考试的最新版本(AD0-E908)](aw-core-p-developer-23-12.md). 如果需要重新安排，则必须参加新的考试。
+>此考试Adobe[!DNL Workfront] Core Developer Professional (AD0-E905)已更新。 如果您已开始学习或计划学习此版本，请确保在2024年2月26日之前完成该课程。 如果您刚刚开始，我们建议您参加此考试的[最新版本(AD0-E908)](aw-core-p-developer-23-12.md)。 如果需要重新安排，则必须参加新的考试。
 
 ## 考试描述 {#exam-description}
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 * 资源管理器
 * 分析师
 * IT专家
-* [!DNL Workfront] 实施顾问/主管
+* [!DNL Workfront]实施顾问/主管
 
 <br>
 
@@ -58,19 +58,19 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 使用Adobe至少3至6个月的实践经验 [!DNL Workfront]
-* Adobe体验 [!DNL Workfront] 功能和连通性（通过接收、批准、规划、执行和报告）
-* 对Adobe的深入了解 [!DNL Workfront] 对象类型，包括自定义表单和审批工作流、模板、持续时间、工作量/计划小时数
-* 对Adobe的深入了解 [!DNL Workfront] 设置，包括访问级别、布局模板、项目偏好设置和其他方法以简化最终用户设计
+* 使用Adobe[!DNL Workfront]至少3至6个月的实践经验
+* 通过接收、批准、规划、执行和报告体验Adobe[!DNL Workfront]的功能和连接性
+* 深入了解Adobe[!DNL Workfront]对象类型，包括自定义表单和审批工作流、模板、持续时间、工作量/计划小时数
+* 深入了解Adobe[!DNL Workfront]设置，包括访问级别、布局模板、项目偏好设置和其他方法以实现最终用户设计的简化
 * 对流程映射的理解和经验
-* 了解不同的Adobe [!DNL Workfront] 角色以及如何参与支持
+* 了解其他Adobe[!DNL Workfront]角色以及如何参与支持
 
 而且，您应该拥有：
 
-* 熟悉 [!DNL Workfront] API和API Explorer，但不一定精通API调用
-* 能够使用自定义API调用以处理 [!DNL Workfront] 和其他API
-* 熟悉Adobe [!DNL Workfront]
-* 熟悉本机连接器和其他Adobe [!DNL Workfront] 产品和服务
+* 熟悉[!DNL Workfront] API和API Explorer，但不一定熟悉API调用
+* 能够使用自定义API调用来处理[!DNL Workfront]和其他API
+* 熟悉Adobe[!DNL Workfront]
+* 熟悉本机连接器和其他Adobe[!DNL Workfront]产品和服务
 * 熟悉项目管理（包括敏捷和瀑布式管理）以及资源管理概念
 
 <br>
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1节。 战略和接收(24%)**
+**第1节。 策略和摄取(24%)**
 
 * 使用项目组合和程序
 * 使用请求队列
@@ -105,14 +105,14 @@ ht-degree: 0%
 * 说明如何构建和自定义功能板
 * 演示如何配置报告的功能视图
 
-**第五节　。 执行(24%)**
+**第5节。 执行(24%)**
 
 * 演示如何设置批准和验证工作流
 * 识别为项目创建问题的目的
 * 演示如何自定义组级项目状态
-* 确定在中启用Agile所需的属性 [!DNL Workfront]
-* 确定输入时间的方法 [!DNL Workfront]
-* 确定中财务跟踪的元素 [!DNL Workfront]
+* 确定在[!DNL Workfront]中启用Agile所需的属性
+* 确定在[!DNL Workfront]中输入时间的方法
+* 识别[!DNL Workfront]中财务跟踪的元素
 
 <br>
 
@@ -120,7 +120,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
 <br>
 
@@ -142,16 +142,16 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1节：战略和吸纳**
+**第1部分：策略和摄取**
 
 * [最佳实践 — Portfolio和计划](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
-* [Adobe中的Portfolio概述 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
+* Adobe [!DNL Workfront]中的[Portfolio概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
 * [创建请求队列](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 * [了解请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [自定义表单概述](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
-**第2款：预算和规划**
+**第2节：预算和规划**
 
 * [Adobe中的资源规划 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
 * [什么是资源规划者？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html){target="_blank"}
@@ -167,16 +167,16 @@ ht-degree: 0%
 * [系统设置：组和用户](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
 * [共享项目](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
 * [访问级别和权限如何协同工作](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
-* [将数据导入Adobe [!DNL Workfront] 使用Kick-Start模板](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
+* 使用Kick-StartAdobe](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html)将数据导入 [!DNL Workfront] {target="_blank"}[
 
 **第4部分：指标和报表**
 
-* [创建自定义报表](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
-* [发送和共享报表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
+* [创建自定义报告](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
+* [发送并共享报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
 * [最佳实践 — 自定义报表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
 
-**第五节　执行**
+**第5节：执行**
 
 * [工作流管理](https://business.adobe.com/products/workfront/workflow-management.html){target="_blank"}
 * [项目进度状态概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html){target="_blank"}
@@ -219,7 +219,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这次考试，Adobe [!DNL Workfront] 核心开发人员专业版(AD0-E905)已更新。 如果您已开始学习或计划学习此版本，请确保在2024年2月26日之前完成该课程。 如果您刚刚开始，我们建议您参加 [该考试的最新版本(AD0-E908)](aw-core-p-developer-23-12.md).
+>此考试Adobe[!DNL Workfront] Core Developer Professional (AD0-E905)已更新。 如果您已开始学习或计划学习此版本，请确保在2024年2月26日之前完成该课程。 如果您刚刚开始，我们建议您参加此考试的[最新版本(AD0-E908)](aw-core-p-developer-23-12.md)。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -248,6 +248,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

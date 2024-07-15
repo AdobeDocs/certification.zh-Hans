@@ -1,6 +1,6 @@
 ---
 title: 技术基础专业认证
-description: 了解如何成为认证Adobe [!DNL Experience Manager] 专业。
+description: 了解如何成为认证Adobe [!DNL Experience Manager] 专业人员。
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager] 技术基础专业人员
+# Adobe[!DNL Experience Manager]技术基础专业人员认证历程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 如果你刚开始工作，或者需要新手，就拿着 [Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240) 访问关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
+>* **课程：**&#x200B;如果您刚开始学习或需要复习者，请参加[Adobe Experience Manager基础课程](https://app.rockinfo.com/courses/240)以获取有关关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
 >
->* **考试准备指南：**  此 [考试准备指南](https://app.rockinfo.com/courses/124) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/124)提供量身定制的认证考试准备流程，包括成功获得此认证所需的材料。
 >
 >_如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 * 应用过程概念来翻译内容
 * 使用多站点和活动副本
 
-**第2款：执行(42%)**
+**第2部分：实现(42%)**
 
 * 应用过程概念来创建组件
 * 创建可编辑的模板
@@ -102,13 +102,13 @@ ht-degree: 0%
 * 扩展核心组件
 * 结构内容建模
 
-**第3款：设置和部署(13%)**
+**第3部分：设置和部署(13%)**
 
 * 安装包
 * 部署包
 * 安装AEM实例
 
-**第4节：维护和用户管理(12%)**
+**第4部分：维护和用户管理(12%)**
 
 * 管理用户访问权限
 * 修改OSGI配置
@@ -200,8 +200,8 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 
 

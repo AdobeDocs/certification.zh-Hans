@@ -1,6 +1,6 @@
 ---
 title: 架构师主认证
-description: 了解如何成为Adobe的认证Adobe架构师 [!DNL Marketo Engage].
+description: 了解如何在Adobe [!DNL Marketo Engage]中成为认证Adobe架构师。
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Marketo Engage] 架构师母版
+# Adobe[!DNL Marketo Engage]架构师母版的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/248) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/248)提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此认证有一个先决条件。 您必须具有活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者 **专家** 参加Adobe的认证 [!DNL Marketo Engage] 架构师级考试。
+>此认证有一个先决条件。 您必须拥有有效的（未过期的）Adobe[!DNL Marketo Engage]商业从业者&#x200B;**专家**&#x200B;认证才能参加Adobe[!DNL Marketo Engage]架构师硕士考试。
 
-* 先决条件：活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者专家认证
+* 先决条件：活动（未过期）Adobe[!DNL Marketo Engage]商业从业者专家认证
 * 级别：硕士（3-5年经验）
 * 从业者认证
 * 及格分数：32/50
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1款：项目领导(16%)**
+**第1部分：项目领导力(16%)**
 
 * 通过案例研究，确定合适的利益相关者
 * 评估一组要求并建议项目界限、预算、资源和范围
@@ -108,7 +108,7 @@ ht-degree: 0%
 * 给定一个方案，概述受提议的更改/要求影响的人员生命周期中的各个阶段
 * 评估一组要求并推荐营销活动逻辑的方法
 
-**第3节：报告和归因(20%)**
+**第3部分：报告和归因(20%)**
 
 * 给出了一个模型以供评述，并解释了生命周期建模器中绕线的概念
 * 给定在线广告或自然社交或内容，推荐一种报告方法
@@ -118,7 +118,7 @@ ht-degree: 0%
 * 识别并描述不同归因模型的利弊
 * 给定业务需求，描述渠道设置对报表的影响
 
-**第4款：高级业务(16%)**
+**第4部分：高级操作(16%)**
 
 * 给定场景，确定改进管理或治理的适当步骤
 * 给定一组要求，建议一个高效的数据模式
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -155,7 +155,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此认证有一个先决条件。 您必须具有活动（未过期）Adobe [!DNL Marketo Engage] 商业从业者 **专家** 认证以参加Adobe [!DNL Marketo Engage] 架构师级考试。
+>此认证有一个先决条件。 您必须拥有有效的（未过期的）Adobe[!DNL Marketo Engage]商业从业者&#x200B;**专家**&#x200B;认证才能参加Adobe[!DNL Marketo Engage]架构师硕士考试。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

@@ -2,17 +2,17 @@
 title: Target认证概述
 description: Adobe Target 认证选项概述
 solution: Target
-exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 37%
+ht-degree: 18%
 
 ---
 
-# [!DNL Adobe Target] 认证概述
+# [!DNL Adobe Target]认证概述
 
-**专业**
+**专业人员**
 
 * [认证专家](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
@@ -24,4 +24,4 @@ ht-degree: 37%
 
 * [架构师](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
-访问 [续订您的认证](/help/certifications/renew.md) 页面以查看此产品是否有续订选项。
+请访问[续订您的认证](/help/certifications/renew.md)页面以查看此产品是否有续订选项。

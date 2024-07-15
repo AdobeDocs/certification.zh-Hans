@@ -1,6 +1,6 @@
 ---
 title: 开发人员专家认证
-description: 了解如何成为认证Adobe Developer专家Adobe [!DNL Campaign Standard].
+description: 了解如何成为认证Adobe Developer专家Adobe [!DNL Campaign Standard]。
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Campaign Standard] 开发人员专家
+# Adobe[!DNL Campaign Standard]开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/256) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习材料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/256)提供量身定制的认证考试准备流程，包括成功获得此认证所需的深入学习资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 您应该拥有：
 
-* Adobe至少两年 [!DNL Campaign Standard] 软件体验
+* Adobe[!DNL Campaign Standard]软件使用经验至少两年
 * 至少两年在多渠道数字营销活动和Web开发（例如REST API）方面的相关经验
 * 能够在Adobe Campaign中执行任务（包括模板开发、技术工作流、模式开发和集成），并能够使用控制面板监控实例
 * 在渠道投放环境（电子邮件、直邮、移动设备和社交）中工作的体验
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1款：数据建模和管理(26%)**
+**第1部分：数据建模和管理(26%)**
 
 * 在给定的场景中，将客户端需求转换为自定义资源
 * 确定如何配置屏幕和过滤器定义
@@ -101,7 +101,7 @@ ht-degree: 0%
 * 确定使用创意设计器构建电子邮件的正确方法
 * 确定创建自定义报表的正确方法
 
-**第三节　：管理(24%)**
+**第3部分：管理(24%)**
 
 * 确定创建用户安全组和组织单位的正确方法
 * 确定管理和部署软件包的正确方法
@@ -116,7 +116,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -201,6 +201,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

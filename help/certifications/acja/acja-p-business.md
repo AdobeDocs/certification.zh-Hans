@@ -1,6 +1,6 @@
 ---
 title: 专业认证
-description: 了解如何成为以下领域的认证Adobe专家： [!DNL Customer Journey Analytics]
+description: 了解如何在 [!DNL Customer Journey Analytics]中成为认证Adobe专家
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Customer Journey Analytics] 商业从业者专业人员
+# Adobe[!DNL Customer Journey Analytics]商业从业者专业人员的认证历程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程：** 如果你刚开始工作，或者需要新手，就拿着 [Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216) 访问关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
+>* **课程：**&#x200B;如果您刚开始学习或需要复习者，请参加[Adobe Experience Platform基础课程](https://app.rockinfo.com/courses/216)以获取有关关键概念、产品演练和知识检查的解释。 本课程将为您提供基础知识，帮助您在认证历程中不断积累。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/131) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/131)提供量身定制的认证考试准备流程，包括成功获得此认证所需的材料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-最理想的合格候选人是具有6个月以上Adobe经验的分析师 [!DNL Customer Journey Analytics] 以及对它如何与配合使用的基础性理解 [!DNL Adobe Experience Platform]. 候选人能够使用适当的报表和可视化选项针对给定的业务需求执行基本和高级分析。
+理想的符合最低条件的候选人是对Adobe[!DNL Customer Journey Analytics]具有至少6个月经验并基本了解其如何与[!DNL Adobe Experience Platform]配合工作的分析师。 候选人能够使用适当的报表和可视化选项针对给定的业务需求执行基本和高级分析。
 
 <br>
 
@@ -69,25 +69,25 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1款：构成部分(30%)**
+**第1部分：组件(30%)**
 
 * 将业务问题转换为相关组件
 * 使用适当的组件和过滤器创建数据子集
 * 构建非管理员组件以解决业务问题
 
-**第2节：报告(32%)**
+**第2部分：报告(32%)**
 
 * 确定适当的可视化图表或表格以解决业务问题
 * 根据数据源、身份和日期范围确定要使用的数据视图
 * 确定如何使用和应用日期范围
 
-**第3款：分配(12%)**
+**节3：分发(12%)**
 
 * 计划报告并与关键利益相关者共享报告
 * 策划特定报表或仪表板中可用的字段
 * 以逻辑方式组织项目
 
-**第4节：数据分析(26%)**
+**第4部分：数据分析(26%)**
 
 * 执行探索性分析并解释结果以提供见解
 * 评估受众以与其他AEP工具共享
@@ -113,7 +113,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -187,6 +187,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

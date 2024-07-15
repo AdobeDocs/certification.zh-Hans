@@ -1,6 +1,6 @@
 ---
 title: 前端开发人员专业版新认证
-description: 了解如何成为Adobe的认证Adobe Developer专业人员 [!DNL Commerce].
+description: 了解如何成为Adobe [!DNL Commerce]的认证Adobe Developer专业人员。
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Commerce] 前端开发人员专业版
+# Adobe[!DNL Commerce]前端开发人员专业人员的认证历程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >现在提供免费的按需资源，帮助您准备考试：
 >
->* **课程**：如果您刚刚开始使用，或需要复习者，则获取 [Adobe Commerce基础课程](https://app.rockinfo.com/courses/148) 访问关键概念、产品演练和知识检查的解释。 这为您可以在认证历程中在此基础上获得知识奠定了基础。
+>* **课程**：如果您刚刚开始学习或需要复习者，请参加[Adobe Commerce基础课程](https://app.rockinfo.com/courses/148)，获取有关关键概念、产品演练和知识检查的解释。 这为您可以在认证历程中在此基础上获得知识奠定了基础。
 >
->* **考试准备指南：** 此 [考试准备指南](https://app.rockinfo.com/courses/138) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。
+>* **考试准备指南：** [考试准备指南](https://app.rockinfo.com/courses/138)提供量身定制的认证考试准备流程，包括成功获得此认证所需的材料。
 >
 >_如果系统提示您登录，请使用您的Adobe ID。_
 
@@ -86,9 +86,9 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1节：主题管理（主题层次结构、图像配置和翻译）(14%)**
+**第1部分：主题管理（主题层次结构、图像配置、翻译）(14%)**
 
-* 描述Adobe [!DNL Commerce] 主题文件夹结构
+* 描述Adobe[!DNL Commerce]主题文件夹结构
 * 演示创建新主题或扩展现有主题的能力
 * 演示添加自定义翻译短语的能力
 
@@ -104,28 +104,28 @@ ht-degree: 0%
 
 * 描述样式 — m.less、样式 — l.less、打印.less的目的
 * 描述特定部分文件(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less)之间的区别
-* 给定场景，演示覆盖或扩展的能力 [!DNL Magento] 更少
+* 给定一个方案，演示覆盖或扩展[!DNL Magento]的能力
 * 描述LESS的基本概念
 * 解释样式的层次结构（库、模块、主题）
 * 解释客户端和服务器端编译
 
 **第4部分：JavaScript (18%)**
 
-* 演示初始化和调用JavaScript组件的功能
+* 演示初始化和调用JavaScript组件的能力
 * 演示RequireJS的使用
 * 描述mixin的用法
 * 描述如何在JS中添加翻译
 * 描述“挖空JS”的用法
 * 描述jQuery小组件的用法
 
-**第5部分：管理员配置和页面生成器(6%)**
+**第5节：管理员配置和页面生成器(6%)**
 
 * 演示自定义Page Builder和CMS内容的能力”
 * 将主题应用/安排到特定范围（网站、商店、商店视图）
 * 使用管理员配置将设计更改应用于类别、产品和CMS页面
 * 描述自定义事务性电子邮件的步骤
 
-**第6节：工具（CLI和Grunt）(8%)**
+**第6部分：工具（CLI和Grunt） (8%)**
 
 * 描述基本bin/Magento命令的用法
 * 描述编辑器命令的用法（安装、更新、需要、删除）
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -226,6 +226,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

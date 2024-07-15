@@ -1,6 +1,6 @@
 ---
 title: 认证续订
-description: 了解如何续订您的 [!DNL Adobe Analytics] 认证过期之前。
+description: 了解如何在 [!DNL Adobe Analytics] 认证过期前续订。
 solution: Analytics
 product: Analytics
 role: User,Developer, Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# 续订Adobe [!DNL Analytics] 认证
+# 续订Adobe[!DNL Analytics]认证
 
 您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
 
@@ -26,27 +26,27 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->**先登录：** 以下链接将起作用 **仅限** 之后 **成功登录** 到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}.
+>**首先登录：**&#x200B;在&#x200B;**成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}后，以下链接只能**&#x200B;起作用&#x200B;**。**
 >
 ><br>
 >
->**要共享链接，请执行以下操作：** 如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
+>**共享链接：**&#x200B;如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
 
 >[!BEGINTABS]
 
->[!TAB 专业]
+>[!TAB 专业人员]
 
-+++Adobe [!DNL Analytics] 开发人员专业版
++++Adobe[!DNL Analytics]开发人员专业人员
 
 ## 您必须具有以下有效认证才能续订：
 
-* Adobe [!DNL Analytics] 开发人员专业版
+* Adobe[!DNL Analytics]开发人员专业人员
 
 ## 续订认证的说明：
 
-* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
 * **步骤2**：查看考试目标和资源
-* **步骤3**：参加并通过考试
+* **步骤3**：参加考试并通过考试
 
 ### 准备就绪
 
@@ -107,37 +107,37 @@ ht-degree: 0%
 
 以下是一些可帮助您准备的建议资源：
 
-**章节1**
+**节1**
 
 * [Analytics Cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
 * [添加数据元素、规则和库](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
 * [添加嵌入代码](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
-**章节2**
+**节2**
 
 * [在Launch中验证全局页面加载规则](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
-* [卫星对象引用](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
+* [Satellite对象引用](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
 * [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
 
-**章节3**
+**节3**
 
 * [appendVisitorIDsTo（跨域跟踪）](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html?lang=zh-Hans){target="_blank"}
 * [s_objectID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/s-objectid.html){target="_blank"}
-* [交易ID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
+* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
 
-**章节4**
+**节4**
 
 * [添加嵌入代码](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 * [Adobe Experience Cloud Identity Service扩展概述](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html){target="_blank"}
 * [选择加入参考](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
 
-**章节5**
+**节5**
 
 * [Analytics导出指南](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
-* [处理规则的工作原理](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-* [ADOBE ANALYTICS API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [处理规则的工作方式](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
+* [Adobe Analytics API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
-**章节6**
+**节6**
 
 * [JavaScript实施疑难解答](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 * [使用Experience Cloud Debugger切换标记环境](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
@@ -145,27 +145,27 @@ ht-degree: 0%
 
 ## 续订您的认证
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的Adobe Analytics Developer Professional Renewal Exam - AD5-E831链接。
+请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的Adobe Analytics Developer Professional Renewal Exam - AD5-E831链接。
 
 * [Adobe Analytics开发人员专业续订考试 — AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
 
-+++Adobe [!DNL Analytics] 商业从业者专业人员
++++Adobe[!DNL Analytics]商业从业者专业人员
 
-## 您必须具备以下条件 **活动** 要使用此方法续订的认证：
+## 您必须拥有以下&#x200B;**活动**&#x200B;认证才能使用此方法续订：
 
-* Adobe [!DNL Analytics] 商业从业者专业人员
+* Adobe[!DNL Analytics]商业从业者专业人员
 
 ## 续订认证的说明：
 
-* **步骤1**：成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
+* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
 * **步骤2**：查看考试目标和资源
-* **步骤3**：参加并通过考试
+* **步骤3**：参加考试并通过考试
 
 ## 准备就绪
 
@@ -231,35 +231,35 @@ ht-degree: 0%
 
 以下是一些可帮助您准备的建议资源：
 
-**章节1**
+**节1**
 
 * [贡献分析概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
 * [Analysis Workspace 概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
 * [转化漏斗](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [登入维度](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
-**章节2**
+**节2**
 
 * [共享项目](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
 * [组件概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
 * [警报生成器](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
 * [创建移动记分卡](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
-**章节3**
+**节3**
 
 * [区段比较](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
-* [生成量度](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
-* [在Analysis Workspace中使用下拉过滤器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
+* [生成指标](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+* [在Analysis Workspace中使用下拉筛选器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
 * [标记区段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
-**章节4**
+**节4**
 
 * [数据激增和骤减故障诊断](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
 * [自定义事件](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
 * [下载PDF或CSV文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
-* [URL参数入门指南](https://www.semrush.com/blog/url-parameters/)
+* [初学者的URL参数指南](https://www.semrush.com/blog/url-parameters/)
 
-**章节5**
+**节5**
 
 * [营销渠道的处理规则](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
 * [分类概述](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
@@ -268,19 +268,19 @@ ht-degree: 0%
 
 ## 续订您的认证
 
-确保您已执行上述步骤1，并成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然后，要续订您的认证，请单击下面的AD5-E832 Adobe Analytics商业从业者专业续订考试(AD5-E832)链接。
+请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的AD5-E832 Adobe Analytics商业从业者专业续订考试(AD5-E832)链接。
 
-* [AD5-E832 Adobe Analytics商业从业者专业资格更新考试](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
+* [AD5-E832 Adobe Analytics商业从业者专业更新考试](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待 **30天** 再试一次。 如果未能遵守，可能会导致您的认证被吊销。
+>这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
 
 +++
 
->[!TAB 专家和主人]
+>[!TAB 专家和专家]
 
-## 您必须至少具备以下任一项 **活动** 要使用此方法续订的认证：
+## 您必须至少拥有以下&#x200B;**活动**&#x200B;认证中的一个，才能使用此方法续订：
 
 * Adobe Analytics Developer Expert
 * Adobe Analytics商业从业者专家
@@ -288,17 +288,17 @@ ht-degree: 0%
 
 ## 有关续订Adobe Analytics认证的说明
 
-* **第1步：** 成功登录到 [Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页面
-* **第2步：** 学习Experience League课程
-* **步骤3：** 从以下选项中选择以完成续订。
+* **步骤1：**&#x200B;已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
+* **第2步：**&#x200B;学习Experience League中的课程
+* **步骤3：**&#x200B;从以下选项中选择以完成续订。
 
   **选项A：**
-选择 **三门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+选择**三门课程**&#x200B;以完成并通过每门课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
 
   **选项B：**
-首先，选择 **两门课程** 完成并通过每个课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+首先，选择**两门课程**&#x200B;完成并通过每门课程的评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
 
-  第二， **提交客户推荐表** 验证您作为Adobe认证的个人，继续领导、管理和/或参与Adobe Experience Cloud实施项目的工作情况。 本表确认您在认证续订2年间隔内至少参加了100小时的演示项目参与。
+  其次，**提交客户参考表**，以经Adobe认证的个人身份验证您的后续工作，该个人将领导、管理和/或参与Adobe Experience Cloud实施项目。 本表确认您在认证续订2年间隔内至少参加了100小时的演示项目参与。
 
   [Adobe Analytics客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
@@ -312,17 +312,17 @@ ht-degree: 0%
 
 | 专家与硕士课程 | 课程评估 |
 | ------- | ------- |
-| [Adobe Analytics将价值归因于客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
-| [导出Adobe Analytics数据并使其民主化 — 第5和第6课](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
+| [Adobe Analytics将值归因到客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
+| [导出和民主化Adobe Analytics数据 — 第5课和第6课](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
 | [使用自定义分段和日期过滤数据 — 第2课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [引导式Analytics实施 — 第5课](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
-| [实施和衡量内部站点搜索 — 第3和第4课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
-| [ADOBE ANALYTICS API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
+| [实施和衡量内部站点搜索 — 第3课和第4课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
+| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
 
 >[!ENDTABS]
 
 ### 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

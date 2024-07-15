@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专业认证
-description: 了解如何获得认证 [!DNL Adobe Analytics] 商业从业者专业人士。
+description: 了解如何获得 [!DNL Adobe Analytics] 商业从业者专业认证。
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Analytics] 商业从业者专业人员
+# Adobe[!DNL Analytics]商业从业者专业人员的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/145) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/145)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-您至少应有3个月的以下工作经验： [!DNL Adobe Analytics] 和以下体验：
+您在[!DNL Adobe Analytics]中应具有至少3个月的体验和以下体验：
 
 * 营销背景或来自营销角色，但可能来自各种工作角色。
 * 基本熟悉数字分析量度和维度。
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第一节　：业务分析(34%)**
+**第1部分：业务分析(34%)**
 
 * 根据业务需求/问题，确定适当的报告策略以执行分析
 * 分析数据以回答业务问题
@@ -96,10 +96,10 @@ ht-degree: 0%
 * 将区段应用于项目和组件
 * 应用此过程以生成基本的计算和/或分段量度
 
-**第4节：一般工具知识和故障排除(9%)**
+**第4节：一般工具知识和疑难解答(9%)**
 
-* 了解中存在的不同类型的尺寸和参数 [!DNL Adobe Analytics] （evar、prop和事件）
-* 确定如何从导出数据 [!DNL Adobe Analytics]
+* 了解[!DNL Adobe Analytics]中存在的不同类型的维度和参数（evar、prop和事件）
+* 确定如何从[!DNL Adobe Analytics]导出数据
 
 <br>
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -199,6 +199,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

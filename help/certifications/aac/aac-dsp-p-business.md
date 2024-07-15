@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专业认证
-description: 了解如何获得Adobe认证 [!DNL Advertising DSP] 商业从业者专业人士。
+description: 了解如何获得Adobe [!DNL Advertising DSP] 商业从业者专业认证。
 solution: Advertising
 product: Advertising Cloud
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Advertising DSP] 商业从业者专业人员
+# Adobe[!DNL Advertising DSP]商业从业者专业人员的认证历程
 
 {{intro}}
 
@@ -50,13 +50,13 @@ ht-degree: 0%
 
 您应该拥有：
 
-* 6个月以上的使用体验 [!DNL Adobe Advertising]
+* 使用[!DNL Adobe Advertising]的6个月以上的体验
 * 在媒体购买软件方面规划和或衡量关键性能指标方面的经验
 
 您还应熟悉以下工具和技术：
 
-* 广告测试/调试软件（VAST INSPECTOR、Chrome开发人员工具）
-* 分析工具([!DNL Adobe Analytics]，Google Analytics)
+* 广告测试/调试软件(VAST INSPECTOR、Chrome开发人员工具)
+* Analytics工具([!DNL Adobe Analytics]，Google Analytics)
 * 第三方标记软件(Sizmek、Google Tag Manager)
 * 第三方媒体质量工具(IAS、MOAT)
 * 主要浏览器
@@ -78,14 +78,14 @@ ht-degree: 0%
 * 给定场景，复制并编辑营销活动
 * 应用为市场活动设置私有和按需清单所需的过程性概念
 
-**第2部分：运行和优化活动(22%)**
+**第2部分：运行和优化营销活动(22%)**
 
 * 应用过程概念以确保营销活动正确运行
 * 应用过程概念以优化活动
 * 应用过程概念对营销活动进行故障排除
 * 在给定的场景中，管理与平台内解决方案的集成
 
-**第3款：报告和分析(26%)**
+**第3部分：报告和分析(26%)**
 
 * 在给定场景下，读取平台内的数据
 * 给定场景，创建和读取自定义报告
@@ -93,7 +93,7 @@ ht-degree: 0%
 * 给定场景，评估营销活动的效果
 * 将性能归因到营销活动的过程概念
 
-**第4款：为活动提供建议(10%)**
+**第4部分：提供营销活动的建议(10%)**
 
 * 在给定场景下，根据促销活动为客户提供更新
 * 给定场景，根据营销活动效果调整营销活动策略
@@ -118,29 +118,29 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1部分：设置活动**
+**第1部分：设置营销活动**
 
-* [关于中的受众管理 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
-* [中的清单功能概述 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [关于 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}中的受众管理
+* [在 [!DNL Advertising DSP]中的清单功能概述](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
 * [[!DNL Campaign] 设置](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
-* [投放设置](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
+* [位置设置](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
-**第2部分：运行和优化活动**
+**第2部分：运行和优化营销活动**
 
-* [如何 [!DNL Advertising DSP] 优化活动](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [如何 [!DNL Advertising DSP] 优化您的营销活动](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [关于自定义目标](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
-* [设置效果活动的最佳实践](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
+* [设置效果营销活动的最佳实践](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
 * [关于按需高级库存](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
-* [报告 [!DNL Advertising] 营销渠道](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
+* 使用 [!DNL Advertising] 营销渠道](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}进行[报告
 
-**第3节：报告和分析**
+**第3部分：报告和分析**
 
 * [Web控制台](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
-**第4节：提供活动建议**
+**第4部分：提供营销活动建议**
 
-* [如何 [!DNL Advertising] DSP优化您的活动](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
-* [关于中的广告管理 [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
+* [DSP如何优化您的营销活动](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"} [!DNL Advertising] 
+* [关于 [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}中的广告管理
 
 +++
 
@@ -195,6 +195,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

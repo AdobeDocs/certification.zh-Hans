@@ -1,6 +1,6 @@
 ---
 title: 商业从业者专家认证
-description: 了解如何成为认证Adobe业务从业者专家 [!DNL Marketo Engage].
+description: 了解如何在 [!DNL Marketo Engage]中成为认证Adobe业务从业专家。
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Marketo Engage] 商业从业者专家
+# Adobe[!DNL Marketo Engage]业务从业者专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/144) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/144)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 * 营销运营经理/专家/专家/分析师
 * 数字营销经理/专家/专家/分析师
 * Campaign经理/专家/专家/分析师
-* [!DNL Marketo Engage] 顾问
+* [!DNL Marketo Engage]顾问
 * 数字/营销自动化经理/专家/专家/分析师
 * 营销系统管理员
 * 需求生成管理器
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 最低体验 {#minimum-experience}
 
-* 具有Adobe约18个月的经验 [!DNL Marketo Engage] 创建营销活动和利用客户行为数据所需的功能
+* 具有Adobe[!DNL Marketo Engage]创建营销活动和利用客户行为数据所需的功能和特性大约18个月的经验
 
 您应该是在以下领域拥有经验的营销人员：
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第一节　：管理和维修(12%)**
+**第1部分：管理和维护(12%)**
 
 * 确定Marketo与CRM之间的映射过程
 * 使用审核记录识别资产所发生的情况
@@ -93,7 +93,7 @@ ht-degree: 0%
 * 通过本机Marketo同步识别CRM平台
 * 给定场景，找到引用信息的位置
 
-**第2部分：营销活动/Campaign Management(46%)**
+**第2部分：营销活动/Campaign Management (46%)**
 
 * 演示对智能营销活动、逻辑、限制和流程步骤的了解
 * 给定场景，定义下一步
@@ -103,14 +103,14 @@ ht-degree: 0%
 * 给出不同类型令牌的使用示例
 * 概述Webhook在Marketo中的用途及其使用方式
 * 确定并正确使用周转基金
-* 解释全球资产的好处及其使用方法
+* 解释全球Assets的好处及其使用方法
 * 演示表单的功能
 * 执行和分析A/B测试策略
 * 识别在何处使用“使用者”引用了项目或资产
 * 通信限制疑难解答
 * 在事件程序中使用网络研讨会提供商信息
 
-**第3款：销售线索管理(12%)**
+**第3部分：潜在客户管理(12%)**
 
 * 概述定义生命周期模型时的关键决策点
 * 在潜在客户评分方面应用最佳实践
@@ -118,7 +118,7 @@ ht-degree: 0%
 * 解释潜在客户活动日志
 * 给定场景，标识创建源
 
-**第4节：数据管理(10%)**
+**第4部分：数据管理(10%)**
 
 * 演示如何设置数据管理计划
 * 分析实例的数据质量
@@ -130,7 +130,7 @@ ht-degree: 0%
 * 给定活动结果，确定如何设置项目以提供最佳报告
 * 在场景中，能够调查和分配适当的客户获取项目
 
-**第6节：最佳做法(16%)**
+**第6部分：最佳实践(16%)**
 
 * 展示潜在客户评分在营销和销售协作中的相关性
 * 说明文件夹结构和命名约定的好处
@@ -144,7 +144,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -166,7 +166,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -240,7 +240,7 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
 

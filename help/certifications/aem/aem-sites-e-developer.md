@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager] Sites开发人员专家
+# Adobe[!DNL Experience Manager] Sites开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/125) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/125)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -80,10 +80,10 @@ ht-degree: 0%
 * 确定创建和管理AEM Dispatcher配置的步骤
 * 确定配置多租户的正确步骤
 * 说明如何创建和管理OSGi配置
-* 给定场景，确定创建和管理自定义Oak索引的正确方法
+* 在场景中，确定创建和管理自定义Oak索引的正确方法
 * 确定配置OOTB SAML和LDAP集成的正确步骤
 
-**第2款：AEM开发(44%)**
+**第2部分：AEM开发(44%)**
 
 * 确定实施SPA结构、模板和组件的正确步骤
 * 根据设计，创建自定义组件，包括HTL、模型和服务
@@ -92,12 +92,12 @@ ht-degree: 0%
 * 在场景中，确定任何第三方集成的方法
 * 确定实施Headless或混合实施的方法
 
-**第3款：建立和部署(14%)**
+**第3部分：生成和部署(14%)**
 
 * 确定设置和维护前端和后端依赖关系管理的步骤
 * 在构建项目时确定正确的原型
 
-**第4节：环境维护(22%)**
+**第4部分：环境维护(22%)**
 
 * 在场景中，确定管理AEM环境所需的步骤
 * 解释与版本管理相关的设置步骤
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -132,7 +132,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -206,6 +206,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。

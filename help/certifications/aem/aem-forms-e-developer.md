@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的认证历程 [!DNL Experience Manager Forms] 开发人员专家
+# Adobe[!DNL Experience Manager Forms]开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究资源：** 此 [考试准备指南](https://app.rockinfo.com/courses/128) 提供量身定制的认证考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
+>**可用的新学习资源：** [考试准备指南](https://app.rockinfo.com/courses/128)提供量身定制的考试准备流程，包括成功获得此认证所需的资料。 _如果系统提示您登录《备考指南》，请使用您的Adobe ID。_
 
 ## 考试描述 {#exam-description}
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 * 基本了解AEM Forms Workbench (JEE)，以创建长线 — 短线流程和服务。
 * 使用GuideBridge API开发JavaScript clientlibs
 * 根据sign v government CAC，可了解要使用哪种AEM Forms环境桌面或服务器
-* 基本了解Java/J2EE和JavaScript，编写逻辑和调用不同的服务。
+* 基本了解Java/J2EE和JavaScript，可以编写逻辑和调用不同的服务。
 * 预填自适应表单
 * 对OSGi、Sling组件的基本了解或知识
 * 使用Document Services
-* AEM Designer， AEM Workbench， AEM Workspace
+* AEM Designer， AEM workbench， AEM workspace
 * 自适应表单控制台
 * Java IDE工具
 * Maven
@@ -98,7 +98,7 @@ ht-degree: 0%
 * 自定义AEM Forms
 * 利用GuideBridge API开发和使用JavaScript ClientLib
 
-**第2款：流程和工作流(34%)**
+**第2部分：进程和工作流(34%)**
 
 * 设计和编排表单审批工作流
 * 使用Document Services API开发OSGi包
@@ -107,7 +107,7 @@ ht-degree: 0%
 * 使用Forms或汇编程序服务处理PDF
 * 实施JDBC服务
 
-**第3节：管理和故障排除(18%)**
+**第3部分：管理和故障排除(18%)**
 
 * 故障排除和区分日志文件
 * 执行管理活动
@@ -120,7 +120,7 @@ ht-degree: 0%
 * 与Adobe Experience Cloud集成
 * 生成和使用各种端点服务
 
-**第5款：互动通信(4%)**
+**节5：交互式通信(4%)**
 
 * 设计、演示和实施交互式通信流程
 
@@ -130,7 +130,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[参加在线准备情况调查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+[参加在线准备问卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**参加练习测试**
+**参加实践测试**
 
 {{practice-test}}
 
@@ -215,6 +215,6 @@ ht-degree: 0%
 
 ## 问题
 
-查看认证 [常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}.
+其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
