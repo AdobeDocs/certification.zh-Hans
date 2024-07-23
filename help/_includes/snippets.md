@@ -1,7 +1,7 @@
 ---
-source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
+source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
 workflow-type: tm+mt
-source-wordcount: '1842'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 <!--divider-->
 
 ## 简介 {#intro}
-
->[!WARNING]
->
->有些用户报告在尝试登录Adobe凭据管理系统时收到错误，导致他们无法参加考试。 我们正在努力解决此问题。 将联系受影响的用户以获取更多信息。
 
 本页面提供了有关如何获得此认证的信息。 其中包括考试说明、学习材料、认证流程的分步说明以及如何续订认证。
 

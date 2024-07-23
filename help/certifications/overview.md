@@ -4,10 +4,10 @@ description: 在Adobe中了解 [!DNL Experience Cloud] 认证。 了解获得认
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
+source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 5%
+source-wordcount: '437'
+ht-degree: 6%
 
 ---
 
@@ -16,11 +16,6 @@ ht-degree: 5%
 在Adobe了解Experience Cloud认证以及获得认证可为您做什么。
 
 ![横幅](/help/certifications/assets/home_banner_smallwide.png)
-
->[!WARNING]
->
->有些用户报告在尝试登录Adobe凭据管理系统时收到错误，导致他们无法参加考试。 我们正在努力解决此问题。 将联系受影响的用户以获取更多信息。
-
 
 Adobe数字体验认证计划旨在帮助您证明在Adobe[!DNL Experience Cloud]产品方面的技能。 通过Adobe认证，您可以展示自己的专业技能，给客户和雇主留下深刻印象。
 
