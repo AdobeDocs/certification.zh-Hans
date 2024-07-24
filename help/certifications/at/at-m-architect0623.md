@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="考试AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 150bbde0e2f440fffa3d9f53fbba0a58a3652688
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -125,7 +125,7 @@ ht-degree: 0%
 **第6节：架构师、设计和实施[!DNL Adobe Target] (18%)**
 
 * 选择正确的Target请求实施（全局、订单确认、混合）
-评估和设计[!DNL Adobe Target]实施
+* 评估和设计[!DNL Adobe Target]实施
 * 描述[!DNL Adobe Target]在本机移动设备应用程序中的实现
 
 **第7节：疑难解答(28%)**
