@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="考试AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 150bbde0e2f440fffa3d9f53fbba0a58a3652688
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -221,4 +221,4 @@ ht-degree: 0%
 
 查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
+其他问题？ [联系我们](mailto:certif@adobe.com)。

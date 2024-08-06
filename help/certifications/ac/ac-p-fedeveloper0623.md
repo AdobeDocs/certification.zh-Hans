@@ -7,7 +7,7 @@ role: Developer
 badge: label="考试AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -120,7 +120,7 @@ ht-degree: 0%
 
 **第5节：管理员配置和页面生成器(6%)**
 
-* 演示自定义Page Builder和CMS内容的能力”
+* 展示自定义页面生成器和CMS内容的能力”
 * 将主题应用/安排到特定范围（网站、商店、商店视图）
 * 使用管理员配置将设计更改应用于类别、产品和CMS页面
 * 描述自定义事务性电子邮件的步骤
@@ -228,4 +228,4 @@ ht-degree: 0%
 
 查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
+其他问题？ [联系我们](mailto:certif@adobe.com)。

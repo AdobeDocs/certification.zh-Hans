@@ -7,7 +7,7 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 2dccb15126e43c102ab9afdbd99f75c73e315deb
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1864'
 ht-degree: 0%
@@ -325,4 +325,4 @@ ht-degree: 0%
 
 查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
+其他问题？ [联系我们](mailto:certif@adobe.com)。

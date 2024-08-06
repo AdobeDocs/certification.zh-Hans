@@ -7,7 +7,7 @@ role: User
 badge: label="考试AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 此外，您应该对电子商务体验有基本的了解，并熟悉以下概念：
 
-* 数字营销（SEO、CMS、电子邮件营销、销售技巧[交叉销售、追加销售]、分析、报告和监控）
+* 数字营销(SEO、CMS、电子邮件营销、销售技巧[交叉销售、追加销售]、分析、报告和监控)
 * 电子商务术语（全渠道和多渠道等销售/营销策略）
 * 定价和促销活动
 * 客户购买历程
@@ -213,4 +213,4 @@ ht-degree: 0%
 
 查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
+其他问题？ [联系我们](mailto:certif@adobe.com)。

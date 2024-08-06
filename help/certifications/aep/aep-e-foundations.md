@@ -9,7 +9,7 @@ hidefromtoc: true
 hide: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 0%
@@ -393,4 +393,4 @@ AD0-E600测验在专家级别验证Adobe[!DNL Experience Platform]的基本功�
 
 查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
+其他问题？ [联系我们](mailto:certif@adobe.com)。

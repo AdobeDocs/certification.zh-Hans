@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="考试AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -87,7 +87,7 @@ ht-degree: 0%
 * 为站点开发人员编写技术规范
 * 创建Experience Cloud用户/组
 
-**第3部分：Post实施(28%)**
+**第3部分：发布实施(28%)**
 
 * 给定一组要求，通过浏览器开发人员工具和Adobe报告验证跟踪
 * 应用过程概念来管理数据提取和关系
@@ -180,5 +180,5 @@ ht-degree: 0%
 
 查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
+其他问题？ [联系我们](mailto:certif@adobe.com)。
 

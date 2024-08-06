@@ -9,7 +9,7 @@ badge: label="考试AD0-E600和AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 0%
@@ -74,7 +74,7 @@ ht-degree: 0%
 >
 ><br>
 >
->**如果您已经安排了AD0-E600**&#x200B;考试，我们强烈建议您在考试门户网站中取消预约（请参阅下面的步骤3），并在新考试发布时重新安排。 如有疑问，请联系[认证支持](mailto:certif@adobe.com){target="_blank"}。
+>**如果您已经安排了AD0-E600**&#x200B;考试，我们强烈建议您在考试门户网站中取消预约（请参阅下面的步骤3），并在新考试发布时重新安排。 如有疑问，请联系[认证支持](mailto:certif@adobe.com)。
 
 AD0-E600测验在专家级别验证Adobe[!DNL Experience Platform]的基本功能和经常执行的任务的技能和知识。
 
@@ -183,7 +183,7 @@ AD0-E600测验在专家级别验证Adobe[!DNL Experience Platform]的基本功�
 >
 ><br>
 >
->**如果您已经安排了AD0-E600**&#x200B;考试，我们强烈建议您在考试门户网站取消约会，并在新考试发布时重新安排。 如有疑问，请联系[认证支持](mailto:certif@adobe.com){target="_blank"}。
+>**如果您已经安排了AD0-E600**&#x200B;考试，我们强烈建议您在考试门户网站取消约会，并在新考试发布时重新安排。 如有疑问，请联系[认证支持](mailto:certif@adobe.com)。
 
 {{schedule-and-pay}}
 
@@ -211,7 +211,7 @@ AD0-E600测验在专家级别验证Adobe[!DNL Experience Platform]的基本功�
 >
 ><br>
 >
->**如果您已经安排了AD0-E600**&#x200B;考试，我们强烈建议您在考试门户网站取消约会，并在新考试发布时重新安排。 如有疑问，请联系[认证支持](mailto:certif@adobe.com){target="_blank"}。
+>**如果您已经安排了AD0-E600**&#x200B;考试，我们强烈建议您在考试门户网站取消约会，并在新考试发布时重新安排。 如有疑问，请联系[认证支持](mailto:certif@adobe.com)。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -244,7 +244,7 @@ AD0-E600测验在专家级别验证Adobe[!DNL Experience Platform]的基本功�
 >
 ><br>
 >
->**如果您已经通过AD0-E600Adobe[!DNL Experience Platform]技术基础考试，并且正在准备AD7-E601考试**，我们建议您保留预约，因为通过AD7-E601考试将会为您授予Adobe[!DNL Real-Time Customer Data Platform]专家认证。 如有疑问，请联系[认证支持](mailto:certif@adobe.com){target="_blank"}。
+>**如果您已经通过AD0-E600Adobe[!DNL Experience Platform]技术基础考试，并且正在准备AD7-E601考试**，我们建议您保留预约，因为通过AD7-E601考试将会为您授予Adobe[!DNL Real-Time Customer Data Platform]专家认证。 如有疑问，请联系[认证支持](mailto:certif@adobe.com)。
 
 AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨源目标以及其他主题。 本测试将验证为遵守数据和隐私法规的统一用户档案实时采用Real-time CDP进行受众分段、目标导出和激活所需的基本技能和知识。 候选人应具有客户数据平台(CDP)经验和Adobe[!DNL Experience Platform]知识。
 
@@ -431,4 +431,4 @@ AD7-E601考试涵盖客户个人资料的创建、管理和了解、分段、跨
 
 查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
+其他问题？ [联系我们](mailto:certif@adobe.com)。

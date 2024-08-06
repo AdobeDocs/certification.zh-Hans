@@ -6,7 +6,7 @@ role: Developer
 badge: label="考试AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 而且，您应该拥有：
 
-* 1年以上的CMS经验
+* 1年以上的CMS体验
 * 1年以上的AEM体验
 * 1年以上[!DNL Workfront]体验
 * 2年以上的Java/J2EE开发人员经验
@@ -188,4 +188,4 @@ ht-degree: 0%
 
 查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他问题？ [联系我们](mailto:certif@adobe.com){target="_blank"}。
+其他问题？ [联系我们](mailto:certif@adobe.com)。
