@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 >[!NOTE]
 >
 >您必须登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后才能单击下面的“检查”按钮。
+
+>[!WARNING]
+>
+>Adobe数字体验认证计划正在为升级做准备。 因此，候选人目前无法安排2024年9月26日之后举行的考试。 升级完成后，计划将会恢复正常。
 
 <!--divider-->
 
