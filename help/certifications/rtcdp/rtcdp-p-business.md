@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="考试AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: ef8afa56b9e78e616f7949f302526e258721518b
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 ### 考试详细信息 {#exam-details}
 
 * 级别：专业（0-12个月经验）
-* 及格分数：28/50
+* 及格分数：33/50
 * 时间：100分钟
 * 投放：在线监护（需要访问摄像头）
 * 可用语言：英语
