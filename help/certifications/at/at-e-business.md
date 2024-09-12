@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 1c42b43504436e797f4d3a68c4438ed0d956fc14
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -168,10 +168,6 @@ ht-degree: 0%
 **学习材料**
 
 {{study-materials-intro}}
-
-**参加实践测试**
-
-{{practice-test}}
 
 **考试准备指南**
 
