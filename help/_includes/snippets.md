@@ -1,5 +1,5 @@
 ---
-source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
+source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
 workflow-type: tm+mt
 source-wordcount: '1835'
 ht-degree: 0%
@@ -193,7 +193,7 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
 >[!WARNING]
 >
->Adobe数字体验认证计划正在为升级做准备。 因此，候选人目前无法安排2024年9月26日之后举行的考试。 升级完成后，计划将会恢复正常。
+>Adobe数字体验认证计划正在为升级做准备。 因此，候选人目前无法安排2024年10月13日之后举行的考试。 升级完成后，计划将会恢复正常。
 
 <!--divider-->
 
