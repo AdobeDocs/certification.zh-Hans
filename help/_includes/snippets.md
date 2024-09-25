@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 
 **购买优惠券**
 
-你可以用凭单来支付考试费用。 若要购买考试凭单，请转到[Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
+你可以用凭单来支付考试费用。 若要购买考试凭单，请转到[Adobe认证凭单中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。
 
 您可以在安排考试时应用优惠券代码。 有关优惠券折扣信息，请参阅下文。
 
 通过Adobe认证凭单中心进行购买时，所有考生均可享受批量购买10门或更多考试的折扣。
 
-有关优惠券的详细信息，请参阅[常见问题解答](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}。
+有关优惠券的详细信息，请参阅[常见问题解答](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}。
 
 **折扣**
 
@@ -143,7 +143,7 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 
 合作伙伴折扣：铜级或更高级别的合作伙伴可在所有Adobe认证考试和课程中获取折扣。 您可以在解决方案合作伙伴门户上阅读有关这些折扣以及如何访问合作伙伴权益的更多信息。
 
-优惠券折扣：所有考生在通过Adobe认证优惠券中心购买时，都可以获得批量购买10次或更多次考试的折扣。
+优惠券折扣：所有候选人在通过[Adobe认证优惠券中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}购买10个或更多考试时，都可以获得批量购买折扣。
 
 注意：批量折扣不能与任何其他优惠或折扣合并。
 
@@ -183,7 +183,7 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
 * **安排、重新安排或取消考试。**&#x200B;请注意，取消和重新安排考试的时间必须在预定考试时间的48小时之前开始。 候选人必须自行修改此约会。
 
-* **为您的考试付费。**&#x200B;在考试门户中通过优惠券或信用卡支付认证考试费用。 若要购买考试凭证，请转到：[Adobe认证凭证系统](https://market.xvoucher.com/adobe/global){target="_blank"}。 您可以在安排考试时应用优惠券代码。 如果您有折扣，它将在结账时应用。
+* **为您的考试付费。**&#x200B;在考试门户中通过优惠券或信用卡支付认证考试费用。 若要购买考试凭单，请转到[Adobe认证凭单中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。 您可以在安排考试时应用优惠券代码。 如果您有折扣，它将在结账时应用。
 
 * **参加考试。**
 
