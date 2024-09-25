@@ -1,7 +1,7 @@
 ---
-source-git-commit: b343d44734e84224e6e266235573a3c29a273721
+source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -187,9 +187,7 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
 * **参加考试。**
 
->[!NOTE]
->
->您必须登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后才能单击下面的“检查”按钮。
+**请注意：**&#x200B;您必须登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后才能单击下面的“检查”按钮。
 
 >[!WARNING]
 >
