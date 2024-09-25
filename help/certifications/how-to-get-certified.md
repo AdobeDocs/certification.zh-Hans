@@ -4,9 +4,9 @@ description: 了解如何获得Adobe认证。 在获得认证之前、期间和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Adobe支持或检查均无法处理重新计划和取消请求。 48小时以内
 
 **为您的考试付费**
 
-您可以通过凭单或信用卡支付认证考试费用。 若要购买考试凭单，请转到[Adobe认证凭单中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
+您可以通过凭单或信用卡支付认证考试费用。 若要购买考试凭单，请转到[Adobe认证凭单中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。
 
 您可以在安排考试时应用优惠券代码。 如果您有折扣，则会在结账时应用该折扣。
 
@@ -82,7 +82,7 @@ Adobe支持或检查均无法处理重新计划和取消请求。 48小时以内
 
 **其他折扣**
 
-此外，所有考生在通过[Adobe认证优惠券中心](https://market.xvoucher.com/adobe/global){target="_blank"}购买10个或更多考试时，都可以获得批量购买折扣。
+此外，所有考生在通过[Adobe认证优惠券中心](https://certification.adobe.com/certifications/vouchers)购买10个或更多考试时，都可以获得批量购买折扣。
 
 **批量折扣级别**
 
@@ -94,6 +94,68 @@ Adobe支持或检查均无法处理重新计划和取消请求。 48小时以内
 | 25-49 | 25% |
 | 50+ | 33% |
 
+>[!TAB 优惠券]
+
+Adobe数字体验认证计划将于今年秋季转移到新平台！ 新的Adobe认证门户网站将为认证候选人提供技术培训并改善用户体验。
+
+作为门户的一部分，我们设计了新的[Adobe优惠券中心](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}，将于2024年9月23日启动。 这种用于购买和管理凭单的新系统更稳健、更易于导航，并为管理员提供了增强的报告选项。
+
+您通过Xvoucher购买的任何优惠券都将在此过渡后的72小时内在Adobe认证门户中提供。 登录后，转到[Adobe优惠券中心](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}查看有效优惠券和优惠券历史记录，并购买新优惠券。
+
+**要记住的重要日期：**
+
+**东部时间2024年9月23日凌晨12:01**
+* Xvoucher上无法再购买优惠券。
+* 优惠券购买将在[Adobe优惠券中心](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}中提供。
+* 仍可从[Adobe凭据管理系统](https://www.certmetrics.com/adobe/){target="_blank"}计划考试。
+
+**东部时间2024年9月25日上午8:00**
+* 您的Xvoucher帐户中的优惠券将显示在[Adobe优惠券中心](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}中。
+
+**常见问题一览**
+
++++现有优惠券会发生什么情况？
+
+您通过Xvoucher购买的任何优惠券将于2024年9月25日东部时间上午8:00在Adobe认证门户上提供。 您仍可以使用这些凭单安排考试。 即使从Xvoucher过渡之后，数字也不会改变。
+
++++
+
++++如何在Adobe认证门户上购买优惠券？
+
+转到[Adobe优惠券中心](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}，并将所需数量的优惠券添加到购物车中。 只要您使用合作伙伴电子邮件登录，就会应用合作伙伴折扣。
+
+有关购买优惠券的演示，请观看此[视频](https://video.tv.adobe.com/v/3434122){target="_blank"}。
+
++++
+
++++如何为我的团队分配和管理优惠券？
+
+此[视频](https://video.tv.adobe.com/v/3434581){target="_blank"}详细概述了Adobe优惠券中心的管理员功能。
+
++++
+
++++我可以在哪里查看团队的凭证？
+
+您团队的优惠券将显示在[Adobe优惠券中心](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}中。
+
++++
+
++++我的团队成员可以在哪里查看他们分配的优惠券？
+
+个人可以在Adobe认证门户的[帐户](https://certification.adobe.com/user/purchases){target="_blank"}中查看其分配的优惠券。
+
++++
+
++++如何在新系统中开始采购订单载入？
+
+请查看我们[优惠券常见问题解答](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}中的最后一个问题：“使用采购订单付款的流程是什么？”
+
++++
+
+**问题?**
+
+请访问我们网站上的[优惠券常见问题解答](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}。
+
 >[!TAB 认证供应商]
 
 Adobe数字体验认证计划与供应商合作，帮助支持该计划的计划和目标。 以下是供应商及其联系信息：
@@ -102,7 +164,6 @@ Adobe数字体验认证计划与供应商合作，帮助支持该计划的计划
 | ------- | ------- | ------- |
 | credly | 徽章管理系统 | [支持](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | 考试 | 测试交货供应商（仅限在线采购） | [电子邮件](mailto:support@examity.com){target="_blank"}或855 — 示例(855-392-6489) |
-| Xvoucher -Adobe认证凭证中心 | 用于购买个人或批量凭证的凭证中心 | [电子邮件](mailto:support@xvoucher.com){target="_blank"}或[联机帮助](https://help.xvoucher.com/hc/en-us) |
 
 其他供应商资源：
 
@@ -123,69 +184,6 @@ Adobe数字体验认证计划与供应商合作，帮助支持该计划的计划
 * [如何重新计划您的测试约会](https://vimeo.com/394507149){target="_blank"}
 * [如何取消您的测试约会](https://vimeo.com/394507135){target="_blank"}
 * [如何参加联机测试](https://vimeo.com/394506686){target="_blank"}
-
-Adobe认证凭单中心(Xvoucher)常见问题解答
-
-+++考试凭单什么时候到期？ 它们的有效期有多长？
-
-Adobe考试凭单在购买后12个月到期。 优惠券不能延长到过期日期。 考试报名必须在考试凭单过期日期之前计划、支付和进行。
-
-+++
-
-+++凭单是否可以退回信用或退款？
-
-_所有销售都是最终销售。不接受_&#x200B;退货和退款。 Adobe考试凭单是按考试级别购买的，而不是用于特定考试，这提供了灵活性。
-
-* 示例：当您购买10份Adobe Certified Expert级别的考试凭单并分发时，您不必提前了解或规划谁将参加哪个Expert考试。
-* 管理员可以将优惠券分配给用户，并查看优惠券是否被查看、兑换或者考试是在何时安排或进行的。
-
-+++
-
-+++接受哪种类型的付款？
-
-可以通过（所有主要的）信用卡付款。 通过信用卡进行支付需要接受在线点击式包裹协议。 不同的付款选项有：
-
-* 电汇、采购订单或ACH：在Xvoucher系统中创建可打印并发送到应付帐款部门的采购订单。 该订单将在收到电汇或支票后获得批准。
-* 信用卡：所有主要信用卡均可接受。
-* Xwallet：这将从Xwallet池中减去订单金额。
-
-+++
-
-+++我可以购买的凭证数量是否存在最小值或最大值？
-
-没有，没有最小值或最大值。 客户购买仅限于可用资金，如信用卡限额或电汇的银行帐户余额。
-
-+++
-
-+++下订单后，需要多长时间才能获得优惠券？
-
-如果通过信用卡或Xwallet支付，购买后即可获得优惠券。
-
-* 如果您自己购买，将在屏幕上通过电子邮件提供优惠券代码。
-* 如果您为其他人购买，请登录您的Xvoucher帐户，并从该帐户将优惠券分发给您的最终用户。
-* 如果通过电汇或采购订单付款，则凭证订单将在Xvoucher收到资金时释放。
-
-[联机帮助](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++如何访问我的Xvoucher帐户？
-
-只需在[此处](https://www.xvoucher.com/Login.aspx){target="_blank"}登录到您的帐户即可。
-
-+++
-
-+++如何访问Adobe优惠券？
-
-将优惠券分配给您后，您将从support@xvoucher.com收到一封电子邮件，其中包含优惠券代码和如何兑换优惠券的说明。 如果没有收到电子邮件，请检查垃圾邮件文件夹。 如果您仍然找不到电子邮件，则可以登录您的Xvoucher帐户。
-
-+++
-
-+++凭单是否可以退回信用或退款？
-
-所有销售都是最终的。 不接受退货和退款。 Adobe考试凭单是按考试级别购买的，而不是用于特定考试，这提供了很大的灵活性。
-
-+++
 
 >[!TAB 管理您的认证配置文件]
 
