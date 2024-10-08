@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '2421'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # 续订Adobe[!DNL Marketo Engage]认证
+
+{{renewals-hold}}
 
 您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
 
@@ -271,7 +273,7 @@ ht-degree: 0%
 **第1部分：管理和维护**
 
 * [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （字段管理、CRM同步、审核跟踪、用户管理、工作区和分区、智能列表、自定义字段）
-* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"}（与Salesforce同步，CRM集成）
+* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"}(与Salesforce同步，CRM集成)
 
 **第2部分：营销活动/营销活动管理**
 
