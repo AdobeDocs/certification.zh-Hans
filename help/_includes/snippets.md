@@ -1,7 +1,7 @@
 ---
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
 workflow-type: tm+mt
-source-wordcount: '1989'
+source-wordcount: '1983'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 0%
 本页面提供了有关如何获得此认证的信息。 其中包括考试说明、学习材料、认证流程的分步说明以及如何续订认证。
 
 >[!NOTE]
->Adobe数字体验认证计划更新
 >
 >**Adobe数字体验认证计划正在移动！**&#x200B;新的Adobe认证门户将于2024年10月22日启动。 请记下这些&#x200B;**重要日期：**
 >
