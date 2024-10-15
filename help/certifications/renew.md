@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 839b73b72e72e4460d78028047abc8bf6ada0675
+source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ Adobe提供各种资源和工具来帮助您续订认证，包括：
 
 大多数认证均可免费续订&#x200B;****。 某些认证尚未提供免费续订选项。 要更新这些认证，您需要重新参加完整的认证考试。
 
-## 免费续订选项
-
-在以下链接下找到的认证可以免费续订，或者通过持续学习或按需续订考试。 如果此处找不到您的认证，则需要重新参加完整的认证考试来续订。
-
 <!-- 
+
+## Free renewal options
+
+The certifications found under the links below can be renewed for free, either through continuous learning or by taking an on-demand renewal exam. If you do not find your certification here, you will need to renew by retaking the full certification exam.
 
 >[!NOTE]
 >
