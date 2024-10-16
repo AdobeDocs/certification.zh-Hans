@@ -3,10 +3,10 @@ title: Real-Time CDP认证概述
 description: Adobe Real-Time CDP 认证选项概述
 solution: Real-Time Customer Data Platform
 exl-id: 763724d3-1fac-421f-b166-b4aea210872f
-source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 22%
+source-wordcount: '19'
+ht-degree: 42%
 
 ---
 
@@ -20,4 +20,5 @@ ht-degree: 22%
 
 * [开发人员](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
-请访问[续订您的认证](/help/certifications/renew.md)页面以查看此产品是否有续订选项。
+{{questions}}
+

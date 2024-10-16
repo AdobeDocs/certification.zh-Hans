@@ -7,389 +7,393 @@ recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
 hidefromtoc: true
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '4542'
-ht-degree: 1%
+source-wordcount: '41'
+ht-degree: 0%
 
 ---
 
 # 通过从已过期更改为已认证，重新启动您的认证历程
 
-Adobe重启计划允许具有合格的[!DNL Experience Cloud]过期认证的个人通过非委托的按需评估或考试免费重新认证。
-
-对于希望保持竞争力的人员来说，认证是一项宝贵的资源，此计划为更新[!DNL Experience Cloud]技能以及在快速变化的数字环境中保持领先地位提供了机会。
-
 >[!IMPORTANT]
 >
->**此限时计划仅在2023年4月24日至2023年10月20日期间提供。**
+>**不再提供此限时计划。**
 
-## 资格
+<!--
 
-认证过期但符合此计划资格的人员，应该已经收到Adobe认证计划的一封电子邮件，邮件主题为“免费再次获得Adobe认证”。
+The Adobe Restart Program allows individuals with eligible expired [!DNL Experience Cloud] certifications to re-certify free of charge through non-proctored, on-demand assessments or exams. 
 
-如果您不确定您是否符合条件，请查看[此处](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}。
+Certification is a valuable resource for people seeking to stay competitive, and this program provides an opportunity to update [!DNL Experience Cloud] skills and keep ahead of the curve in a rapidly changing digital landscape.
 
-若要获得资格，您的认证必须满足以下&#x200B;**所有**&#x200B;条件：
 
-* 它必须在2020年1月1日至2023年4月23日期间过期。
-* 必须是“专家”或“专家”级别。
-* 它必须有一个当前可用的考试。 （如果认证不再有有效的考试，则不符合重新启动计划的资格。）
-* 它必须出现在以下符合条件的认证列表中：
 
-+++查看合格认证
+## Eligibility
+
+Individuals with expired certifications who are eligible for this program should have received an email from the Adobe Certification Program with the subject, "Become Adobe Certified Again for Free."
+
+If you are not sure whether you are eligible, please check [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
+
+To be eligible, your certification must meet **all** of the following criteria:
+
+* It must have expired between January 1, 2020 and April 23, 2023.
+* It must be Expert or Master level.
+* It must have a current exam available. (If the certification no longer has an active exam, it is not eligible for the Restart Program.)
+* It must appear on the list of eligible certifications below:
+
++++View eligible certifications
 
 **Adobe Experience Manager**
 
-| 考试编号 | 考试名称 |
+| Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E121 | [!DNL Adobe Experience Manager Sites]商业从业者专家 |
-| AD0-E102 | [!DNL Adobe Experience Manager Sites]商业从业者专家 |
-| AD0-E103 | [!DNL Adobe Experience Manager Sites]开发人员专家 |
-| AD0-E116 | [!DNL Adobe Experience Manager Sites]开发人员专家 |
-| AD0-E106 | [!DNL Adobe Experience Manager]开发/运营工程师专家 |
-| AD0-E117 | [!DNL Adobe Experience Manager Sites]架构师母版 |
-| AD0-E104 | [!DNL Adobe Experience Manager Sites]架构师母版 |
+| AD0-E121  | [!DNL Adobe Experience Manager Sites] Business Practitioner Expert |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Business Practitioner Expert |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops Engineer Expert |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architect Master |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architect Master |
 
 **[!DNL Adobe Analytics]**
 
-| 考试编号 | 考试名称 |
+| Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E201 | [!DNL Adobe Analytics]开发人员专家 |
-| AD0-E202 | [!DNL Adobe Analytics]商业从业者专家 |
-| AD0-E200 | [!DNL Adobe Analytics]架构师母版 |
-| AD0-E207 | [!DNL Adobe Analytics]架构师母版 |
+| AD0-E201 | [!DNL Adobe Analytics] Developer Expert |
+| AD0-E202 | [!DNL Adobe Analytics] Business Practitioner Expert |
+| AD0-E200 | [!DNL Adobe Analytics] Architect Master |
+| AD0-E207 | [!DNL Adobe Analytics] Architect Master |
 
 **Adobe Audience Manager**
 
-| 考试编号 | 考试名称 |
+| Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E454 | [!DNL Adobe Audience Manager]架构师母版 |
-| AD0-E452 | [!DNL Adobe Audience Manager]架构师母版 |
-| AD0-E453 | [!DNL Adobe Audience Manager]商业从业者专家 |
+| AD0-E454 |  [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E452 |  [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E453 | [!DNL Adobe Audience Manager] Business Practitioner Expert |
 
 **Adobe Campaign Classic**
 
-| 考试编号 | 考试名称 |
+| Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E300 | Adobe[!DNL Campaign Classic]站点业务从业者专家 |
-| AD0-E314 | Adobe[!DNL Campaign Classic]站点业务从业者专家 |
-| AD0-E318 | Adobe[!DNL Campaign Classic]架构师母版 |
-| AD0-E303 | Adobe[!DNL Campaign Classic]架构师母版 |
-| AD0-E312 | Adobe[!DNL Campaign Classic] Developer Expert |
-| AD0-E308 | Adobe[!DNL Campaign Classic] Developer Expert |
+| AD0-E300  | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Developer Expert |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Developer Expert |
 
 **Adobe Campaign Standard**
 
-| 考试编号 | 考试名称 |
+| Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E307 | Adobe[!DNL Campaign Standard]商业从业者专家 |
-| AD0-E302 | Adobe[!DNL Campaign Standard]商业从业者专家 |
-| AD0-E306 | Adobe[!DNL Campaign Standard] Developer Expert |
-| AD0-E301 | Adobe[!DNL Campaign Standard] Developer Expert |
+| AD0-E307  | Adobe [!DNL Campaign Standard] Business Practitioner Expert |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Business Practitioner Expert |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Developer Expert |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Developer Expert |
 
-**Adobe[!DNL Marketo Engage]**
+**Adobe [!DNL Marketo Engage]**
 
-| 考试编号 | 考试名称 |
+| Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E552 | Adobe[!DNL Marketo Engage]商业从业者（以前称为MCE） |
+| AD0-E552  | Adobe [!DNL Marketo Engage] Business Practitioner (previously MCE) |
 
 **Adobe Target**
 
-| 考试编号 | 考试名称 |
+| Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E401 | [!DNL Adobe Target]商业从业者专家 |
-| AD0-E402 | [!DNL Adobe Target]架构师母版 |
+| AD0-E401  | [!DNL Adobe Target] Business Practitioner Expert |
+| AD0-E402 | [!DNL Adobe Target] Architect Master |
 
 +++
 
-## 重新启动已过期认证的步骤{#exams}
+## Steps to restart your expired certification{#exams}
 
-* **步骤1：**&#x200B;请参阅上面的“资格”部分，确定您的认证是否符合重新启动计划的资格。 如果是，则继续执行步骤2。
-* **步骤2：**&#x200B;在以下选项卡中查找您的应用程序，并查看您的认证的重新启动程序要求。
-* **步骤3：**&#x200B;按照说明在2023年10月20日截止日期&#x200B;**之前，通过提供的选项**&#x200B;完成所需的课程评估或考试。
+* **Step 1:** See the Eligibility section above to determine whether your certification is eligible for the Restart program. If it is, proceed to step 2.
+* **Step 2:** Find your application among the tabs below and review the Restart Program requirements for your certification. 
+* **Step 3:** Follow the instructions to complete the required course assessments or exams from the options provided **before the October 20, 2023 deadline**. 
 
-## Adobe认证重启计划路径（按应用程序）
+## Adobe Certification Restart Program paths by application
 
 >[!BEGINTABS]
 
 >[!TAB Experience Manager]
 
-### 重新启动Adobe[!DNL Experience Manager]认证的说明
+### Instructions for restarting your Adobe [!DNL Experience Manager] certification
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：学习Experience League中的课程
-* **步骤3**：从以下选项中进行选择。
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Study the courses in Experience League
+* **Step 3**: Choose from the options below.
 
-  **选项A：**
+   **Option A:**
+   
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  选择&#x200B;**三门课程**&#x200B;以完成并通过每门课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+   **Option B:**
+   
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
+   
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement in the past 12 months. 
 
-  **选项B：**
+   [Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100){target="_blank"}
 
-  首先，选择&#x200B;**两门课程**&#x200B;完成并通过每门课程的评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+   You will be notified by the Adobe Credential Team when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
-  其次，**提交客户参考表**，以经Adobe认证的个人身份验证您的后续工作，该个人将领导、管理和/或参与Adobe Experience Cloud实施项目。 本表确认您在过去12个月中至少参加了100小时的项目参与演示。
+### Courses and Course Assessments for Expert and Master:
 
-  [Adobe Experience Manager客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
-
-  当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
-
-### 针对专家和硕士的课程和课程评估：
-
-| 课程 | 课程评估 |
+| Course | Course Assessment |
 | ------- | ------- |
-| [移动到Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
-| [计划迁移至Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
-| [Adobe Experience Manager as a Cloud Service简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=zh-Hans){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
-| 使用GraphQL API的[Headless内容管理](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
-| [使用Adobe Experience Manager和Adobe Target个性化体验](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
-| [将Experience Manager FormsCloud Service与Salesforce集成](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
-| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
-| 面向架构师的[Adobe Experience Manager Sites](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
+| [Moving to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA101){target="_blank"} |
+| [Planning Your Move to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA102){target="_blank"} |
+| [Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA103){target="_blank"} |
+| [Headless content management using GraphQL APIs](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA104){target="_blank"} |
+| [Personalize Experiences with Adobe Experience Manager and Adobe Target](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA105){target="_blank"} |
+| [Integrate Experience Manager Forms Cloud Service with Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA106){target="_blank"} |
+| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA107){target="_blank"} |
+| [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA108){target="_blank"} |
 
 >[!TAB Analytics]
 
-### 重新启动Adobe Analytics认证的说明
+### Instructions for restarting your Adobe Analytics certification
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：学习Experience League中的课程
-* **步骤3**：从以下选项中进行选择。
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Study the courses in Experience League
+* **Step 3**: Choose from the options below.
 
-  **选项A：**
+   **Option A:**
+   
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  选择&#x200B;**三门课程**&#x200B;以完成并通过每门课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+   **Option B:**
+   
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
+   
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement in the past 12 months. 
 
-  **选项B：**
+   [Customer Reference Form for Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA200){target="_blank"}
 
-  首先，选择&#x200B;**两门课程**&#x200B;完成并通过每门课程的评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+   You will be notified by the Adobe Credential Team when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
-  其次，**提交客户参考表**，以经Adobe认证的个人身份验证您的后续工作，该个人将领导、管理和/或参与Adobe Experience Cloud实施项目。 本表确认您在过去12个月中至少参加了100小时的项目参与演示。
+### Courses and Course Assessments for Expert and Master:
 
-  [Adobe Analytics客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
-
-  当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
-
-### 针对专家和硕士的课程和课程评估：
-
-| 课程 | 课程评估 |
+| Course | Course Assessment |
 | ------- | ------- |
-| [Adobe Analytics将值归因到客户历程中的数字接触点](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADS-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA201){target="_blank"} |
-| [导出和民主化Adobe Analytics数据 — 第5课和第6课](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
-| [使用自定义分段和日期过滤数据 — 第2课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
-| [引导式Analytics实施 — 第5课](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
-| [实施和衡量内部站点搜索 — 第3课和第4课](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
-| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
+| [Adobe Analytics Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADS-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA201){target="_blank"} |
+| [Export and democratize Adobe Analytics data - Lesson 5 & 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA202){target="_blank"} |
+| [Filtering your data with custom segmentation and dates - Lesson 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA203){target="_blank"} |
+| [Guided Analytics Implementation - Lesson 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA204){target="_blank"} |
+| [ Implementing and Measuring Internal Site Search - Lesson 3 & 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA205){target="_blank"} |
+| [Adobe Analytics APIs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA206){target="_blank"} |
 
 >[!TAB Target]
 
-### 重新启动Adobe Target认证的说明
+### Instructions for restarting your Adobe Target certification
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：学习Experience League中的课程
-* **步骤3**：从以下选项中进行选择。
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Study the courses in Experience League
+* **Step 3**: Choose from the options below.
 
-  **选项A：**
+   **Option A:**
+   
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  选择&#x200B;**三门课程**&#x200B;以完成并通过每门课程评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+   **Option B:**
+   
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
+   
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement in the past 12 months. 
 
-  **选项B：**
+   [Customer Reference Form for Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA400){target="_blank"}
 
-  首先，选择&#x200B;**两门课程**&#x200B;完成并通过每门课程的评估，其分数为80%或更高。 课程评估是免费、按需、非委托和公开的。 您可以重复这些课程，直到成功通过80%的评估为止。
+   You will be notified by the Adobe Credential Team when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
-  其次，**提交客户参考表**，以经Adobe认证的个人身份验证您的后续工作，该个人将领导、管理和/或参与Adobe Experience Cloud实施项目。 本表确认您在过去12个月中至少参加了100小时的项目参与演示。
+### Courses and Course Assessments for Expert and Master:
 
-  [Adobe Target客户参考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
-
-  当您的客户参考资料经过审核后，Adobe凭据团队会通知您。 如果您的参考未被接受，您可以再次提交，直到您成功，只要它在您的认证过期之前。
-
-### 针对专家和硕士的课程和课程评估：
-
-| 课程 | 课程评估 |
+| Course | Course Assessment |
 | ------- | ------- |
-| [Adobe [!DNL Target] 设备上决策概述](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA401){target="_blank"} |
-| Personalization课程中的[Adobe [!DNL Target] 创新](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADS-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA402){target="_blank"} |
-| [移动应用程序实施和Personalization课程](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA403){target="_blank"} |
-| [面向开发人员的引导式移动和IoT启动课程](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
-| [面向开发人员的引导式网站启动课程](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA405){target="_blank"} |
+| [Adobe [!DNL Target] On-Device Decisioning Overview](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA401){target="_blank"} |
+| [Adobe [!DNL Target] Innovations in Personalization Course](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADS-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA402){target="_blank"} |
+| [Mobile App Implementation and Personalization Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA403){target="_blank"} |
+| [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA404){target="_blank"} |
+| [Guided Website Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA405){target="_blank"} |
 
 >[!TAB Audience Manager]
 
-### 根据角色选择适用的考试以重新开始Adobe Audience Manager认证
+### Select the applicable exam based on role to restart your Adobe Audience Manager certification
 
-+++ADS-E826 Adobe Audience Manager **商业从业者**&#x200B;专家重新考试
++++ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart exam
 
-**重新启动认证的说明：**
+**Instructions for restarting your certification:**
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：查看考试目标和资源
-* **步骤3**：参加考试并通过考试
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 准备就绪
+### Get ready
 
-**考试详细信息：**
+**Exam details:**
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 23/30
+* Time: 68 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner Expert Restart
 
-* 级别：专家（1-3年经验）
-* 及格分数：23/30
-* 时间：68分钟
-* 交付：按需/非托管
-* 可用语言：英语
-* 费用：免费
-* 考试ID：ADS-E826 - Adobe Audience Manager商业从业者专家重启
 
+**Exam Objectives and Scope**
 
-**考试目标和范围**
+**Section 1: Segment Creation and Syndication (25%)**
 
-**第1部分：区段创建和联合(25%)**
+* Determine the appropriate method to create segments utilizing 1p/2p/3p data for targeting and analytical purposes
+* Given a scenario, recommend segments for activation that align to business or campaign goals
+* Determine the appropriate method to syndicate segments to destinations for activation
 
-* 确定利用1p/2p/3p数据创建区段的适当方法，以用于定位和分析目的
-* 给定场景，建议与业务或营销活动目标一致的激活区段
-* 确定将区段联合到目标以供激活的适当方法
+**Section 2: Trait Creation (17%)**
 
-**第2部分：特征创建(17%)**
+* Recommend traits for a given audience strategy
+* Determine the correct method to create and update rule-based and/or onboarded traits
 
-* 为给定的受众策略推荐特征
-* 确定创建和更新基于规则的特征和/或已载入特征的正确方法
+**Section 3: Reporting and Measurements (21%)**
 
-**第3部分：报告和测量(21%)**
+* Given a scenario, analyze reports to provide actionable next steps to meet business goals
+* Given a scenario, analyze audience optimization
 
-* 在场景中，分析报表以提供可操作的后续步骤来实现业务目标
-* 给定场景，分析受众优化
+**Section 4: Troubleshooting and Administration (26%)**
 
-**第4部分：疑难解答和管理(26%)**
+* Given a scenario, verify audience delivery information to ensure scheduled delivery needs
+* Determine the appropriate practice to validate offline inbound files
+* Given a scenario, determine the correct method to perform QA against the ID sync
+* Determine the appropriate method to navigate and activate from the Adobe Audience Marketplace
 
-* 在场景中，验证受众交付信息，以确保计划的交付需求
-* 确定验证离线入站文件的相应实践
-* 给定场景，确定对ID同步执行QA的正确方法
-* 确定从AdobeAudience Marketplace导航和激活的适当方法
+**Section 5: Taxonomy (11%)**
 
-**第5节：分类(11%)**
+* Determine the appropriate structure to create traits and segments that utilize a clear and consistent nomenclature
+* Determine the correct technique to maintain an organized platform using a clear folder structure
+* Differentiate between the different types of destinations
 
-* 确定适当的结构，以创建使用清晰一致命名法的特性和区段
-* 确定使用明确的文件夹结构维护有组织的平台的正确技术
-* 区分不同类型的目标
+### Get prepped
 
-### 准备好
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+Here are suggested resources:
 
-以下是建议的资源：
+* [Sample Exam](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
+* [[!DNL Audience Manager] Product Documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Adobe Support - [!DNL Experience Cloud] Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [[!DNL Experience Cloud] Learn and Support](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
+* [Experience League - [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
-* [样本考试](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
-* [[!DNL Audience Manager] 产品文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Adobe支持 —  [!DNL Experience Cloud] 受众](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
-* [[!DNL Experience Cloud] 学习和支持](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
-* [Experience League- [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
+**Restart your certification**
 
-**重新启动您的认证**
+The Adobe Audience Manager Business Practitioner Expert Restart exam ADS-E826 is free, open book, and non-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply may result in your certification being revoked.
 
-Adobe Audience Manager Business Practitioner Expert Restart考试ADS-E826是免费的、公开的，并且不接受监护。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被撤销。
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
 </span>
 </a>
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **架构师**&#x200B;重启主考试
++++ADS-E825 Adobe Audience Manager **Architect** Master Restart exam
 
-**重新启动认证的说明：**
+**Instructions for restarting your certification:**
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：查看考试目标和资源
-* **步骤3**：参加考试并通过考试
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 准备就绪
+### Get ready
 
-**考试详细信息：**
+**Exam details:**
+  
+* Level: Master (3-5 years' experience)
+* Passing Score: 22/29
+* Time: 58 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 
-* 级别：硕士（3-5年经验）
-* 及格分数：22/29
-* 时间：58分钟
-* 交付：按需/非托管
-* 可用语言：英语
-* 费用：免费
-* 考试ID：ADS-E825 - Adobe Audience Manager架构师主要重启
+**Scope and objectives:**
 
-**范围和目标：**
+Section 1: Implementation Analysis (28%)
 
-第1款：实施情况分析(28%)
+* Determine how to guide and support implementation of AAM as a stand-alone product or as part of a cloud solution
+* Analyze outbound destination options and recommend an AAM implementation approach
+* Determine a data onboarding strategy for a business use case
+* Identify features such as visitor profile viewer, tags, RBAC, and so on to align with business goals
+* Determine how to design and test pixels required to create segments and traits
 
-* 确定如何指导和支持将AAM作为独立产品或云解决方案的一部分进行实施
-* 分析出站目标选项并推荐AAM实施方法
-* 确定业务用例的数据载入策略
-* 识别访客资料查看器、标记、RBAC等功能以便与业务目标保持一致
-* 确定如何设计和测试创建区段和特征所需的像素
+Section 2: Solution Design and Recommendations (17%)
 
-第2部分：解决方案设计和Recommendations (17%)
+* Determine AAM capabilities based on customer use case for audience and activation
+* Apply procedural concepts to utilize audience identity solutions to compliment design architecture
+* Identify attribute and behavioral data and map it to specific business use cases
+* Apply procedural concepts to design folder taxonomy and naming convention
 
-* 根据客户的Audience和Activation用例确定AAM功能
-* 应用过程概念以利用受众身份解决方案来补充设计架构
-* 识别属性和行为数据，并将其映射到特定的业务用例
-* 应用过程概念设计文件夹分类和命名约定
+Section 3: Segmentation and Activation (31%)
 
-第3部分：分段和激活(31%)
+* Apply procedural concepts to create destinations in Audience Manager
+* Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
+* Apply procedural concepts to create segments using frequency/recency
+* Determine how to create segments using profile merge rules
+* Apply procedural concepts to create an algorithmic or predictive model
+* Determine segmentation logic based on use cases
 
-* 应用过程概念在Audience Manager中创建目标
-* 识别信号以创建基于规则的特征、载入的特征和算法特征
-* 应用过程性概念以使用频率/回访间隔创建区段
-* 确定如何使用配置文件合并规则创建区段
-* 应用过程概念来创建算法或预测模型
-* 根据用例确定分段逻辑
+Section 4: Privacy and Data Governance (7%)
 
-第4部分：隐私和数据管理(7%)
+* Recommend Audience Manager capabilities as it relates to governance, privacy, and security
+* Identify customer data policies that are in line with government regulations
 
-* 推荐与治理、隐私和安全相关的Audience Manager功能
-* 确定符合政府法规的客户数据策略
+Section 5: Performance and Reporting (17%)
 
-第5款：业绩和报告情况(17%)
+* Determine how to configure reports in AAM to gather signal, traits, and segment performance per business requirements
 
-* 确定如何在AAM中配置报表以收集信号、特征并根据业务需求细分性能
+### Get prepped
 
-### 准备好
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可帮助您准备的建议资源：
+**Section 1: Implementation Analysis**
 
-**第1部分：实现分析**
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Analytics] Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [[!DNL Analytics] 集成](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
-* [Adobe [!DNL Experience Cloud] 标识服务](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+**Section 2: Solution Design and Recommendations**
 
-**第2部分：解决方案设计和Recommendations**
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
-* [Audience Manager指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Audience Manager教程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
+**Section 3: Segmentation and Activation**
 
-**第3部分：分段和激活**
-
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [[!DNL Audience Manager] 社区](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Community](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
 * [[!DNL Audience Manager] Tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
-**第4部分：隐私和数据管理**
+**Section 4: Privacy and Data Governance**
 
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [[!DNL Analytics] 管理员指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [[!DNL Analytics] Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
-**第5节：性能和报表**
+**Section 5: Performance and Reporting**
 
-* [Adobe [!DNL Experience Cloud] 标识服务](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
-### 重新启动您的认证
+### Restart your certification
 
-Adobe Audience Manager Architect Master Restart考试ADS-E825是免费的、公开的、无监督的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被撤销。
+The Adobe Audience Manager Architect Master Restart exam ADS-E825 is free, open book, and non-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply may result in your certification being revoked.
 
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
 </span>
 </a>
 
@@ -397,302 +401,302 @@ Adobe Audience Manager Architect Master Restart考试ADS-E825是免费的、公�
 
 >[!TAB Campaign]
 
-### 根据角色选择适用的考试以重新开始Adobe Campaign认证
+### Select the applicable exam based on role to restart your Adobe Campaign certification
 
-+++ADS-E821Adobe **Campaign Standard开发人员**&#x200B;专家复习考试
++++ADS-E821 Adobe **Campaign Standard Developer** Expert Restart exam
 
-**重新启动认证的说明：**
+**Instructions for restarting your certification:**
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：查看考试目标和资源
-* **步骤3**：参加考试并通过考试
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 准备就绪
+### Get ready
 
-**考试详细信息：**
+**Exam details:**
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 23/30
+* Time: 60 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: ADS-E821 - Adobe Campaign Standard Developer Expert Restart
 
-* 级别：专家（1-3年经验）
-* 及格分数：23/30
-* 时间：60分钟
-* 交付：按需/非托管
-* 可用语言：英语
-* 费用：免费
-* 考试ID：ADS-E821 - Adobe Campaign Standard开发人员专家重启
+**Scope and objectives:**
 
-**范围和目标：**
+Section 1: Campaign management
 
-第1部分：营销活动管理
+* Organize hierarchies based on a given use case
+* Given sample business requirements, determine what can be fulfilled by OOTB features
+* Given a scenario, apply best practices to design a multi- or cross-channel campaign
+* Identify channels (push notification, email, SMS, direct mail, in-app) in Campaign Standard
 
-* 根据给定用例组织层次结构
-* 根据示例业务要求，确定OOTB功能可以满足哪些要求
-* 在场景中，应用最佳实践来设计多渠道或跨渠道营销活动
-* 识别Campaign Standard中的渠道（推送通知、电子邮件、短信、直邮、应用程序内）
+Section 2: Delivery management
 
-第二节　：投放管理
+* Given sample requirements, design and configure a delivery
+* Apply best practices in delivery design
 
-* 给定示例要求，设计和配置投放
-* 在投放设计中应用最佳实践
+Section 3: Workflow design and execution
 
-第3部分：工作流设计和执行
+* Manipulate data for use in a campaign, configure targeting, enrichment
+* Identify targets: data collection, segmentation, audiences, lists, filtering
+* Given a use case, identify the use of the main marketing-related tables
 
-* 处理要在营销活动中使用的数据，配置定位、扩充
-* 确定目标：数据收集、分段、受众、列表、筛选
-* 根据用例，确定与营销相关的主要表的用途
+Section 4: Administration, monitoring and reporting
 
-第四节　：管理、监测和报告
+* Interpret delivery error logs and identify and solve workflow errors
+* Determine and measure the success of deliveries and campaigns
+* Recognize access and named rights
 
-* 解释投放错误日志并识别和解决工作流错误
-* 确定和衡量投放和活动是否成功
-* 识别访问权和已命名权限
+### Get prepped
 
-### 准备好
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可帮助您准备的建议资源：
+**Section 1: Data Modeling and Management**
 
-**第1部分：数据建模和管理**
+* [Create a custom resource (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
+* [Create a resource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [Configure screen definition and filtering (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
+* [Configure screen definition](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [Configure filtering](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [Create a custom link (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [Configuring the keys, indexes, and links](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
+* [Approval Process Learning Path (course module)](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
+* [Updating and publishing a resource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
+* [Troubleshoot data modeling](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
+* [Building technical workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html){target="_blank"}
 
-* [创建自定义资源（视频）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
-* [创建资源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
-* [配置屏幕定义和筛选（视频）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
-* [配置屏幕定义](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
-* [配置筛选](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
-* [创建自定义链接（视频）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
-* [配置密钥、索引和链接](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
-* [审批流程学习路径（课程模块）](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [正在更新和发布资源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
-* [数据建模疑难解答](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
-* [正在构建技术工作流](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=zh-Hans){target="_blank"}
+**Section 2: Campaign Management**
 
-**第2部分：Campaign Management**
+* [Troubleshoot Errors](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&_LANG=en){target="_blank"}
+* [Workflow best practices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html){target="_blank"}
+* [Build a campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html){target="_blank"}
+* [Get started with profiles and audiences](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [About typologies and typology rules](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [Filtering rules](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
+* [Create and manage templates](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [Configuring a landing page](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [Subscription Services](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [Channels to send a delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [Tracking and monitoring a delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [Delivery summary](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Discover email designer (video)](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
+* [Customize your reports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
+* [Get started with dynamic reports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
 
-* [错误疑难解答](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [工作流最佳实践](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=zh-Hans){target="_blank"}
-* [构建营销活动](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=zh-Hans){target="_blank"}
-* [开始使用用户档案和受众](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
-* [关于类型和类型规则](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
-* [筛选规则](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
-* [创建和管理模板](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
-* [配置登陆页面](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
-* [订阅服务](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
-* [发送投放的频道](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
-* [跟踪和监视投放](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
-* [投放摘要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [发现电子邮件设计器（视频）](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
-* [促销活动电子邮件Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
-* [自定义您的报表](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
-* [动态报告入门](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
+**Section 3: Administration**
 
-**第3部分：管理**
+* [Security groups](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html)
+* [Organizational units](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html)
+* [Managing packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html)
+* [Exporting / importing custom resources](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html)
+* [External accounts](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html)
+* [Managing execution options](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html)
+* [Monitoring workflow execution](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html)
+* [Create a new brand](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html)
+* [About channel configuration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html)
+* [Get started with communication channels](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html)
 
-* [安全组](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html)
-* [组织单位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html)
-* [管理资源包](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html)
-* [导出/导入自定义资源](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html)
-* [外部帐户](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html)
-* [管理执行选项](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=zh-Hans)
-* [监控工作流执行](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html)
-* [创建新品牌](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html)
-* [关于渠道配置](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html)
-* [通信渠道入门](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html)
+### Restart your certification
 
-### 重新启动您的认证
+The Adobe [!DNL Campaign Standard] Developer Expert Restart exam ADS-821 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-Adobe[!DNL Campaign Standard] Developer Expert Restart考试ADS-821是免费的、可打开的书本，并且没有监护。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
 </span>
 </a>
 
 +++
 
-+++ADS-E822Adobe **Campaign Standard商业从业者**&#x200B;专家复习考试
++++ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert Restart exam
 
-**重新启动认证的说明：**
+**Instructions for restarting your certification:**
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：查看考试目标和资源
-* **步骤3**：参加考试并通过考试
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 准备就绪
+### Get ready
 
-**考试详细信息：**
+**Exam details:**
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 23/30
+* Time: 60 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: ADS-E822 - Campaign Standard Business Practitioner Expert Restart
 
-* 级别：专家（1-3年经验）
-* 及格分数：23/30
-* 时间：60分钟
-* 交付：按需/非托管
-* 可用语言：英语
-* 费用：免费
-* 考试ID：ADS-E822 -Campaign Standard业务从业者专家重启
+**Scope and objectives:**
 
-**范围和目标：**
+Section 1: Campaign management
 
-第1部分：营销活动管理
+* Organize hierarchies based on a given use case
+* Given sample business requirements, determine what can be fulfilled by OOTB features
+* Given a scenario, apply best practices to design a multi- or cross-channel campaign
+* Identify channels (push notification, email, SMS, direct mail, in-app) in Campaign Standard
 
-* 根据给定用例组织层次结构
-* 根据示例业务要求，确定OOTB功能可以满足哪些要求
-* 在场景中，应用最佳实践来设计多渠道或跨渠道营销活动
-* 识别Campaign Standard中的渠道（推送通知、电子邮件、短信、直邮、应用程序内）
+Section 2: Delivery management
 
-第二节　：投放管理
+* Given sample requirements, design and configure a delivery
+* Apply best practices in delivery design
+* Apply the latest features of Email Designer
 
-* 给定示例要求，设计和配置投放
-* 在投放设计中应用最佳实践
-* 应用Email Designer的最新功能
+Section 3: Workflow design and execution
 
-第3部分：工作流设计和执行
+* Manipulate data for use in a campaign, configure targeting, enrichment
+* Identify targets: data collection, segmentation, audiences, lists, filtering
+* Given a use case, identify the use of the main marketing-related tables
 
-* 处理要在营销活动中使用的数据，配置定位、扩充
-* 确定目标：数据收集、分段、受众、列表、筛选
-* 根据用例，确定与营销相关的主要表的用途
+Section 4: Administration, monitoring and reporting
 
-第四节　：管理、监测和报告
+* Interpret delivery error logs and identify and solve workflow errors
+* Determine and measure the success of deliveries and campaigns
+* Recognize access and named rights
 
-* 解释投放错误日志并识别和解决工作流错误
-* 确定和衡量投放和活动是否成功
-* 识别访问权和已命名权限
+### Get prepped
 
-### 准备好
+**Section 1: Campaign management**
 
-**第1部分：营销活动管理**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels) 
 
-* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans){target="_blank"}（使用营销活动、构建电子邮件内容、通信渠道、投放、配置渠道）
+**Section 2: Delivery management**
 
-**第2部分：投放管理**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (building email content, preparing and testing messages, communication channels -- email, application settings)
 
-* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans){target="_blank"} （构建电子邮件内容，准备和测试邮件，通信渠道 — 电子邮件，应用程序设置）
+**Section 3: Workflow design and execution**
 
-**第3部分：工作流设计和执行**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (managing processes and data, managing audiences, scheduling messages, adding or extending a resource)
 
-* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans){target="_blank"} （管理流程和数据、管理受众、计划消息、添加或扩展资源）
+**Section 4: Administration, monitoring, and reporting**
 
-**第4部分：管理、监视和报告**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (executing a workflow, testing and sending, customizing reports, profiles and audiences, users and security)
 
-* [Adobe [!DNL Campaign Standard] 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans){target="_blank"} （执行工作流、测试和发送、自定义报告、用户档案和受众、用户和安全性）
+### Restart your certification
 
-### 重新启动您的认证
+The Adobe [!DNL Campaign Standard] Business Practitioner Expert restart exam ADS-822 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-Adobe[!DNL Campaign Standard] Business Practitioner Expert重开考试ADS-822是免费的、未预订的并且未接受监护。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
 </span>
 </a>
 
 +++
 
-+++ADS-E823Adobe **Campaign Classic**&#x200B;专家和/或重修硕士考试
++++ADS-E823 Adobe **Campaign Classic** Expert and/or Master Restart exam
 
-**重新启动认证的说明：**
+**Instructions for restarting your certification:**
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：查看考试目标和资源
-* **步骤3**：参加考试并通过考试
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 准备就绪
+### Get ready
 
-**考试详细信息：**
+**Exam details:**
+  
+* Level: Expert (1-3 years' experience) and Master (3-5 years' experience)
+* Passing Score: 42/55
+* Time: 110 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] Expert and/or Master Restart
 
-* 级别：专家（1-3年经验）和硕士（3-5年经验）
-* 及格分数：42/55
-* 时间：110分钟
-* 交付：按需/非托管
-* 可用语言：英语
-* 费用：免费
-* 考试ID：ADS-E823 -Adobe[!DNL Campaign Classic] Expert和/或Master Restart
+**Scope and objectives**
 
-**范围和目标**
+Section 1: Installation and system configuration (23%)
 
-第1部分：安装和系统配置(23%)
+* Given a scenario, determine which options should be used (i.e., moving things from stage to production)
+* Ability to use Packages to migrate between instances
+* Explain how deployment Wizard settings impact deliverability
+* Outline the underlying infrastructure of the hosting model available for Adobe [!DNL Campaign Classic] v8
+* Describe commonly used OOTB functions
+* Explain integration with other Adobe [!DNL Experience Cloud] products
+* Explain integration using standard external accounts
 
-* 给定场景，确定应使用的选项（即，将内容从暂存环境移动到生产环境）
-* 能够使用包在实例之间迁移
-* 说明部署向导设置如何影响可投放性
-* 概述可用于Adobe[!DNL Campaign Classic] v8的托管模型的基础基础结构
-* 描述常用的OOTB函数
-* 解释与其他Adobe[!DNL Experience Cloud]产品的集成
-* 说明使用标准外部帐户的集成
+Section 2: Customization (18%)
 
-第2节：定制(18%)
+* Describe best practices for using SQL functions in Adobe [!DNL Campaign]
+* Describe best practices for developing with JavaScript in Adobe [!DNL Campaign]
+* Given a set of requirements, apply best practices around a data model
+* Describe the requirements and processes for access management
+* Describe folder structure management
 
-* 描述在Adobe[!DNL Campaign]中使用SQL函数的最佳实践
-* 描述在Adobe[!DNL Campaign]中使用JavaScript进行开发的最佳实践
-* 给定一组要求，围绕数据模型应用最佳实践
-* 描述访问管理的要求和流程
-* 描述文件夹结构管理
+Section 3: Data architecture (22%)
 
-第3节：数据架构(22%)
+* Identify the data storage differences in v8
+* Identify the built-in workflows that synchronize local data to Snowflake
+* Explain when to use staging tables vs direct writes to Snowflake
+* Identify the new API commands in Batch processing and when/how to use
+* Given a scenario, explain how to create custom schemas (how to use other schemas as template, sys filters, locking down data, links)
+* Explain the integration between different solutions and [!DNL Campaign] such as Adobe [!DNL Experience Platform] and [!DNL Journey Optimizer]
 
-* 识别v8中的数据存储差异
-* 确定将本地数据同步到Snowflake的内置工作流
-* 解释何时使用临时表与直接写入Snowflake
-* 确定批处理中的新API命令以及何时/如何使用新命令
-* 给定场景，说明如何创建自定义架构（如何使用其他架构作为模板、系统过滤器、锁定数据和链接）
-* 解释其他解决方案与[!DNL Campaign](如Adobe[!DNL Experience Platform]和[!DNL Journey Optimizer])之间的集成
+Section 4: Campaign, workflow, delivery, and reporting (37%)
 
-第4部分：活动、工作流、投放和报告(37%)
+* Apply best practices to build a campaign
+* Given a scenario, analyze workflow errors
+* Given a scenario, analyze delivery errors around target mapping
+* Describe workflow practices that have a negative impact on performance
+* Given a use case, recommend targeting workflow design
+* Apply delivery and approval settings
+* Given a scenario, determine the appropriate report(s) to generate
+* Given a scenario, select the best approach to integrate with external data sources
+* Apply data integration techniques within a workflow
+* Describe functionality in the workflow activity palette
+* Troubleshoot or configure an instance using Control Panel
 
-* 应用最佳实践来构建营销活动
-* 给定场景，分析工作流错误
-* 给定场景，围绕目标映射分析投放错误
-* 描述对性能产生负面影响的工作流做法
-* 给定一个用例，推荐定位工作流设计
-* 应用投放和批准设置
-* 给定场景，确定要生成的相应报表
-* 给定场景，选择与外部数据源集成的最佳方法
-* 在工作流中应用数据集成技术
-* 描述工作流活动面板中的功能
-* 使用控制面板对实例进行故障诊断或配置
+### Get prepped
 
-### 准备好
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可帮助您准备的建议资源：
+**Section 1: Installation and system configuration**
 
-**第1部分：安装和系统配置**
+* [Managing packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [Work with data packages](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Deploying an instance](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
+* [Integrating with Adobe Campaign Classic](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
-* [管理包](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
-* [使用数据包](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
-* [部署实例](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
-* [与Adobe Campaign Classic集成](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
+**Section 2: Customization**
 
-**第2部分：自定义**
+* [JavaScript scripts and templates](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
+* [Data model best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
+* [Create and manage operators](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Manage access to folders](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
-* [JavaScript脚本和模板](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
-* [数据模型最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
-* [创建和管理操作员](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
-* [管理对文件夹的访问](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
+**Section 3: Data architecture**
 
-**第3部分：数据架构**
+* [Transition from [!DNL Campaign Classic] v7 to [!DNL Campaign] v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html){target="_blank"}
+* [Work with Sources and Destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [About Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
-* [从 [!DNL Campaign Classic] v7过渡到 [!DNL Campaign] v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hans){target="_blank"}
-* [使用源和目标](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
-* [特定的FFDA促销活动API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
-* [关于Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
+**Section 4: Campaign, workflow, delivery, and reporting**
 
-**第4部分：营销活动、工作流、投放和报告**
+* [Workflow best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+* [Set up and manage the approval process](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
+* [Enrichment](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
+* [Import and export best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
 
-* [工作流最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
-* [设置和管理审批流程](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
-* [扩充](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
-* [导入和导出最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+### Restart your certification
 
-### 重新启动您的认证
+The Adobe Campaign Classic Restart exam ADS-823 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-Adobe Campaign Classic重启考试ADS-823是免费的、公开的、无监督的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
 </span>
 </a>
 
@@ -700,132 +704,134 @@ Adobe Campaign Classic重启考试ADS-823是免费的、公开的、无监督的
 
 >[!TAB Marketo Engage]
 
-**重新启动认证的说明：**
+**Instructions for restarting your certification:**
 
-* **步骤1** — 已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2** — 查看考试目标和资源
-* **步骤3** — 参加考试并通过考试
+* **Step 1** - Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} then return to this page
+* **Step 2** - Review the exam objectives and resources
+* **Step 3** - Take and pass the exam
 
-### 准备就绪
+### Get ready
 
-**考试详细信息：**
+**Exam details:**
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 30/40
+* Time: 80 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: ADS-E824 - Adobe Marketo Engage Business Practitioner Expert Restart
 
-* 级别：专家（1-3年经验）
-* 及格分数：30/40
-* 时间：80分钟
-* 交付：按需/非托管
-* 可用语言：英语
-* 费用：免费
-* 考试ID：ADS-E824 - Adobe Marketo Engage商业从业者专家重启
+**Scope and objectives:**
 
-**范围和目标：**
+Section 1: Administration and maintenance (12%)
 
-第一节　：管理和维修(12%)
+* Determine the mapping process between [!DNL Marketo] and CRM
+* Identify what happened to an asset using the Audit Trail
+* Recognize differences between users and roles
+* Given a scenario, identify the best fit for using workspace and partitions
+* Identify CRM platforms with native [!DNL Marketo] synchronization
+* Given a scenario, locate where information is referenced
 
-* 确定[!DNL Marketo]与CRM之间的映射进程
-* 使用审核记录识别资产所发生的情况
-* 识别用户和角色之间的差异
-* 给定一个方案，确定最适合使用工作区和分区的方法
-* 使用本机[!DNL Marketo]同步识别CRM平台
-* 给定场景，找到引用信息的位置
+Section 2: Marketing activities/Campaign management (48%)
 
-第2部分：营销活动/营销活动管理(48%)
+* Demonstrate an understanding of Smart Campaigns, logic, constraints, and flow steps
+* Given a scenario, define the next step
+* Identify the root cause of a problem
+* Interpret the relationship between programs, channels, tags, and period cost
+* Demonstrate/apply the correct configuration to Engagement Programs
+* Give examples of usage for different types of tokens
+* Summarize the utility of Webhooks in Marketo and how they are used
+* Identify and apply the appropriate use of the PMCF
+* Explain the benefits of Global Assets and how to use them
+* Demonstrate the capabilities of forms
+* Perform and analyze an A/B test strategy
+* Identify where a program or asset has been referenced with 'Used By'
+* Troubleshoot communication limits
+* Use Webinar provider information in an event program
 
-* 演示对智能营销活动、逻辑、限制和流程步骤的了解
-* 给定场景，定义下一步
-* 确定问题的根本原因
-* 解释计划、渠道、标记和期间成本之间的关系
-* 演示/将正确的配置应用于参与计划
-* 给出不同类型令牌的使用示例
-* 概述Webhook在Marketo中的用途及其使用方式
-* 确定并正确使用周转基金
-* 解释全球Assets的好处及其使用方法
-* 演示表单的功能
-* 执行和分析A/B测试策略
-* 识别在何处使用“使用者”引用了项目或资产
-* 通信限制疑难解答
-* 在事件程序中使用网络研讨会提供商信息
+Section 3: Lead management (10%)
 
-第3款：销售线索管理(10%)
+* Outline the key decision points in defining the lifecycle model
+* Apply best practices around lead scoring
+* Implement the appropriate interesting moments
+* Interpret the lead activity log
+* Given a scenario, identify the creation source
 
-* 概述定义生命周期模型时的关键决策点
-* 在潜在客户评分方面应用最佳实践
-* 实施适当的有趣时刻
-* 解释潜在客户活动日志
-* 给定场景，标识创建源
+Section 4: Data management (10%)
 
-第4款：数据管理(10%)
+* Demonstrate how to set up a data management program
+* Analyze an instance's data quality
+* Identify a few key pieces of Marketo's data retention policy as it relates to smart lists
+* Summarize how segmentation works
 
-* 演示如何设置数据管理计划
-* 分析实例的数据质量
-* 确定Marketo数据保留策略中与智能列表相关的几个关键部分
-* 概述分段的工作方式
+Section 5: Reporting (5%)
 
-第5节：报告(5%)
+* Given an outcome of a campaign, determine how to set up a program to provide the best reporting
+* Given a scenario, be able to investigate and assign the appropriate acquisition program
 
-* 给定活动结果，确定如何设置项目以提供最佳报告
-* 在场景中，能够调查和分配适当的客户获取项目
+Section 6: Best practices (15%)
 
-第6节：最佳做法(15%)
+* Demonstrate the relevance of lead scoring in marketing and sales collaboration
+* Illustrate the benefits of the folder structure and naming conventions
+* Apply best practices around A/B testing
+* Explain the process to perform a quality check on any Marketo program
+* Explain the process to perform a quality check on an email
 
-* 展示潜在客户评分在营销和销售协作中的相关性
-* 说明文件夹结构和命名约定的好处
-* 应用有关A/B测试的最佳实践
-* 解释对任何Marketo项目执行质量检查的过程
-* 解释对电子邮件执行质量检查的过程
+### Get prepped
 
-### 准备好
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可帮助您准备的建议资源：
+**Section 1: Administration and maintenance**
 
-**第1部分：管理和维护**
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Field Management, CRM Sync, Audit Trail, User Administration, Workspaces and Partitions, Smart Lists, Custom Field)
+* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synching with Salesforce, CRM integrations)
 
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （字段管理、CRM同步、审核跟踪、用户管理、工作区和分区、智能列表、自定义字段）
-* [Adobe [!DNL Marketo] 国家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （与Salesforce同步，CRM集成）
+**Section 2: Marketing activities/Campaign management**
 
-**第2部分：营销活动/营销活动管理**
+* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Random Sample, Smart Campaign with data value fire, Wait Steps, member.webinar url, Campaign Inspector, Filter Logic, Using Tokens in Emails, Lead creation via Form Fill Out, Assets and Workspaces, Managing Forms)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smart Lists, Smart Campaigns, Demand Generation Forms, Demand Generation Events, Email Marketing, Creating Programs, Events, Audit Trail, Working with Programs, Administration Tags, Drip Nurturing, Landing Pages, Tokens, Administration Additional Integrations, Webhook, Program Member Custom Fields, Workspace and Person Partitions)
 
-* [Adobe [!DNL Marketo] 国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (随机样本、触发了数据值的智能营销活动、等待步骤、member.webinar url、营销活动检查器、筛选器逻辑、在电子邮件中使用令牌、通过表单填写创建潜在客户、Assets和工作区、管理Forms)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} (智能列表、智能营销活动、需求生成Forms、需求生成活动、电子邮件营销、创建项目、活动、审核跟踪、使用项目、管理标记、滴管培养、登陆页面、令牌、管理其他集成、Webhook、项目成员自定义字段、Workspace和人员分区)
+**Section 3: Lead management**
 
-**第3部分：潜在客户管理**
+* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Build a Lead Lifecycle Program video, Unsubscribe from Email)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smart Campaigns, [!DNL Marketo] Sales Insight, Interesting Moments, Managing People in Smart Lists, System Managed Fields)
 
-* [Adobe [!DNL Marketo] 国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （构建潜在客户生命周期计划视频，取消订阅电子邮件）
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （智能营销活动、[!DNL Marketo]销售分析、有趣的时刻、管理智能列表中的人员、系统管理的字段）
+**Section 4: Data management**
 
-**第4部分：数据管理**
+* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Maintaining a Directory of Leads Bouncing Emails article, How to Manage Your Marketo Database for Deliverability support blog, [!DNL Marketo] Activities Data Retention Policy - Under the Hood article)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Email Marketing Hard and Soft Bounces, Report Types, Personalization, Dynamic Content)
 
-* [Adobe [!DNL Marketo] 国家/地区](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (维护潜在客户退回电子邮件的目录文章，如何管理Marketo数据库以进行可投放性支持博客，[!DNL Marketo]活动数据保留策略 — 在标题文章下)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} (电子邮件营销硬退信和软退信、报表类型、Personalization、动态内容)
+**Section 5: Reporting**
 
-**第5部分：报告**
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Setting Acquisition best practices article)
+* [Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Reporting, Performance Insights, Program Performance Report, Editing reports, Program Membership)
 
-* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"}（“设置客户获取最佳实践”文章）
-* [Experience League-Marketo Engage产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}（报表、性能分析、项目性能报表、编辑报表、项目成员资格）
+**Section 6: Best practices**
 
-**第6部分：最佳实践**
+* [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Working with Programs, Email Marketing, A/B Testing)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Mind your QA Process)
 
-* [引导评分的最终指南](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}（使用计划、电子邮件营销、A/B测试）
-* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （请注意QA流程）
+### Restart your certification
 
-### 重新启动您的认证
+The Adobe Marketo Engage Business Practitioner expert restart exam ADS-E824is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-Adobe Marketo Engage业务从业者专家重启考试ADS-E824是免费的、可公开预订的，并且不受监督。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加考试
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
 </span>
 </a>
 
 >[!ENDTABS]
 
-## 问题
+## Questions
 
-查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->

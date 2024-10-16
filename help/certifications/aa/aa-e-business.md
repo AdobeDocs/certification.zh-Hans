@@ -7,9 +7,9 @@ role: User
 badge: label="考试AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 21c5386c5979cc9446e206f49a4d128f4aab4450
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,4 @@ ht-degree: 0%
 * 费用：225美元（全球）/150美元（印度）
 * 考试ID：AD0-E208（英语）、AD0-E208-J（日语）
 
-## 问题
-
-[联系我们](mailto:certif@adobe.com)
+{{questions}}

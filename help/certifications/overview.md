@@ -4,9 +4,9 @@ description: 在Adobe中了解 [!DNL Experience Cloud] 认证。 了解获得认
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '542'
 ht-degree: 5%
 
 ---
@@ -75,8 +75,4 @@ Adobe数字认证计划专为众多领域的专业人士设计，其中包括开
 
 您是否正在寻找Adobe[!DNL Creative Cloud]认证？ 访问[Adobe认证专家](https://certifiedprofessional.adobe.com/en/home){target="_blank"}网站，了解如何获得Creative Cloud计划的认证。
 
-## 问题
-
-查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
-
-其他问题？ [联系我们](mailto:certif@adobe.com)。
+{{questions}}

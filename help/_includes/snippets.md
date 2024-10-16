@@ -1,7 +1,7 @@
 ---
-source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '2012'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,16 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
 ## 续订已搁置 {#renewals-hold}
 
->[!WARNING]
+>[!NOTE]
 >
->Adobe数字体验认证计划不久将进行更改。 如果您正在续订认证，请注意&#x200B;**2024年10月13日是完成续订的最后日期。**
+>Adobe数字体验认证计划简化了认证续订流程，使您的体验更加方便。 在执行此新进程时，**续订暂时搁置。**
+>
+>* 对于认证将于2024年10月14日至2025年9月30日之间到期的人员，您的认证将延长至2025年10月1日。
+>
+>* 更新的续订过程的详细信息将在3月初共享，确保所有认证持有者都有充足的时间来续订其认证。
+
+<!--divider-->
+
+## 问题 {#questions}
+
+**问题？** [联系我们](mailto:certif@adobe.com)

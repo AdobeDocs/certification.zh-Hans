@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '2421'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -18,417 +18,423 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-您的Adobe认证有效期为两年。 如果您接近两年期限，是时候续订您的认证以使其保持活动状态了。
+<!--
 
-首先，在下面的选项卡中选择适当的级别（“专业”、“专家”或“主人”）。 然后，仔细查看续订认证所需的操作。
-
-确保在认证过期之前有充足的时间完成所有要求。
-
-请务必注意，如果认证过期，您将必须重新参加认证考试，该考试不免费。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
+ 
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**首先登录：**&#x200B;在&#x200B;**成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}后，以下链接只能**&#x200B;起作用&#x200B;**。**
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**共享链接：**&#x200B;如果您想与同事共享更新考试或评估的链接，请链接到整个考试更新页面，而不是考试本身的URL，以避免登录问题。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB 专业人员]
+>[!TAB Professional]
 
-## 您当前应在以下位置获得认证（未过期）：
+## You should be currently certified (not expired) in:
 
-* Adobe[!DNL Marketo Engage]商业从业者专业人员
+* Adobe [!DNL Marketo Engage] Business Practitioner Professional
 
-## 续订认证的说明：
+## Instructions for renewing your certification:
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：查看考试目标和资源
-* **步骤3**：参加考试并通过考试
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 准备就绪
+### Get ready
 
-**考试详细信息：**
+**Exam details:**
+  
+* Level: Expert (0-12 months' experience)
+* Passing Score: 27/36
+* Time: 71 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E836 - Adobe [!DNL Marketo Engage] Business Practitioner Professional Renewal Exam
 
-* 级别：专家（0-12个月经验）
-* 及格分数：27/36
-* 时间：71分钟
-* 交付：按需/非托管
-* 可用语言：英语
-* 费用：免费
-* 考试ID：AD5-E836 -Adobe[!DNL Marketo Engage]商业从业者专业资格更新考试
+**Scope and objectives:**
 
-**范围和目标：**
+Section 1: Building and Managing Programs (39%)
 
-第1款：建立和管理方案(39%)
+* Identify when to use each of the 4 program types
+* Identify why/when to use the event program
+* Identify why/when to use the default program
+* Identify the special features of engagement program
+* Identify the special features of email program
+* Recognize what can be cloned
+* Identify the benefits of custom tags
+* Identify the purpose of channels
+* Describe the importance of Period Costs
+* Recognize the concept of using lead scoring
+* Understanding Communication limits
+* Recognizing program membership and acquisition
+* Understanding customer preferences (subscription, communication)
+* Apply best practices for review prior to launch
 
-* 确定何时使用4种程序类型中的每一种
-* 确定使用事件程序的原因/时间
-* 确定使用默认程序的原因/时间
-* 确定参与计划的特殊功能
-* 识别电子邮件计划的特殊功能
-* 识别可以克隆的内容
-* 确定自定义标记的优势
-* 识别渠道的用途
-* 描述期间成本的重要性
-* 认识使用潜在客户评分的概念
-* 了解通信限制
-* 认可计划会员资格和客户获取
-* 了解客户偏好（订阅、通信）
-* 在启动之前应用最佳实践以供审查
+Section 2: Building Assets (19%)
 
-第二节　：Assets楼(19%)
+* Manipulating files in Design Studio (uploading/replacing images and files)
+* Create/Modify a form using the Form editor
+* Create/Edit an email using the Email editor
+* Create/Edit a landing page using the Landing Page editor
+* Create/Edit a snippet in the Snippet editor
+* Distinguish the difference between Draft and Approved assets
+* Distinguish the difference between Local and Global assets
 
-* 在Design Studio中处理文件（上传/替换图像和文件）
-* 使用表单编辑器创建/修改表单
-* 使用电子邮件编辑器创建/编辑电子邮件
-* 使用登陆页面编辑器创建/编辑登陆页面
-* 在代码片段编辑器中创建/编辑代码片段
-* 区分草稿资产和批准资产之间的差异
-* 区分本地资产和全局资产之间的差异
+Section 3: Defining and Targeting Audiences (33%)
 
-第3部分：定义和定位受众(33%)
+* Create/Modify Smart Lists
+* Understand Smart campaign flow steps
+* Understand how to Schedule and/or activate Smart campaigns
+* Interpret Smart campaign results
+* Describe the purpose of a segmentation and its use
+* Identify and navigate the database
+* Explain how to set privacy settings in Adobe Marketo Engage (within a context of campaigns that are created)
+* Differentiate between smart lists and static lists (when to use each)
+* Define system Smart lists
+* Compare and contrast the different types of campaigns
+* Understand how Smart campaign triggers and filters work
+* Differentiate the different List imports
 
-* 创建/修改智能列表
-* 了解Smart Campaign流程步骤
-* 了解如何计划和/或激活智能营销活动
-* 解释Smart活动结果
-* 描述区段的用途及其用途
-* 识别并导航数据库
-* 说明如何在Adobe Marketo Engage中设置隐私设置（在创建营销活动的上下文中）
-* 区分智能列表和静态列表（何时使用每个）
-* 定义系统智能列表
-* 比较和对比不同类型的营销活动
-* 了解Smart Campaign触发器和过滤器的工作方式
-* 区分不同的列表导入
+Section 4: Analyzing and Building Reports (9%)
 
-第4款：分析和建立报告(9%)
+* Explain the Core Adobe Marketo Engage reports
+* Email Link Performance
+* Email Performance
+* Landing Page Performance
+* People Performance
+* Program Performance
+* Web Page Activity
+* When to pull a list vs a report
+* Comprehend Dashboard information and metrics
+* Email insights
 
-* 解释核心Adobe Marketo Engage报表
-* 电子邮件链接性能
-* 电子邮件性能
-* 登陆页面性能
-* 人员绩效
-* 项目绩效
-* 网页活动
-* 何时提取列表和报表
-* 了解功能板信息和量度
-* 电子邮件分析
+### Get prepped
 
-### 准备好
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可帮助您准备的建议资源：
+**Section 1**
 
-**节1**
+* [Understanding Engagement Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
+* [Simple Scoring](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
+* [Enable Communication Links](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html){target="_blank"}
+* [Understanding Program Membership](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
+* [Make an Email Operational](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
+* [Best Practice for Smart Lists](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
+* [Understanding Event Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
+* [Leverage the flexibility of default programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html){target="_blank"}
+* [Schedule Email Programs with Recipient Time Zone](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.html){target="_blank"}
+* [Clone a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html){target="_blank"}
+* [Understanding tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
+* [Create a Program Channel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
+* [Understanding Period Costs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
 
-* [了解参与计划](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
-* [简单得分](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
-* [启用通信链接](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html){target="_blank"}
-* [了解计划成员资格](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-* [使电子邮件正常工作](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
-* [智能列表的最佳实践](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
-* [了解活动计划](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [利用默认程序的灵活性](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html){target="_blank"}
-* [计划具有收件人时区的电子邮件计划](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.html){target="_blank"}
-* [克隆程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html){target="_blank"}
-* [了解标记](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
-* [创建节目频道](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
-* [了解期间成本](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
+**Section 2**
 
-**节2**
+* [Add Images and Files to Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
+* [Dynamically Toggle Visibility of a Form Field](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
+* [Email Editor v2.0 Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html){target="_blank"}
+* [Approve, Unapprove, or Delete a Landing Page](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
+* [Edit Snippets with Dynamic Content](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.html){target="_blank"}
 
-* [将图像和文件添加到Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
-* [动态切换表单字段的可见性](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
-* [电子邮件编辑器v2.0概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html){target="_blank"}
-* [批准、取消批准或删除登陆页面](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
-* [编辑包含动态内容的代码片段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.html){target="_blank"}
+**Section 3** 
 
-**节3**
+* [Using Advanced Smart List Rule Logic](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
+* [Learn about building a gated content email program](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
+* [Create and measure a default program](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs.html){target="_blank"}
+* [Understanding Batch and Trigger Smart Campaigns](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
+* [Import a List of People](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html){target="_blank"}
+* [Use a Specific Date in a Wait Flow Step](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.html){target="_blank"}
+* [Override Person Restrictions in a Smart Campaign](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.html){target="_blank"}
+* [Filter Smart Campaign Results](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.html){target="_blank"}
+* [Create a Segmentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
+* [Database Dashboard](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html){target="_blank"}
+* [Understanding Privacy Settings](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/understanding-privacy-settings.html){target="_blank"}
+* [Refresh a List or Smart List](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.html){target="_blank"}
+* [Use Built-in/System Smart Lists](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
 
-* [使用高级智能列表规则逻辑](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
-* [了解如何构建封闭式内容电子邮件程序](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
-* [创建并测量默认程序](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs.html){target="_blank"}
-* [了解批处理并触发智能营销活动](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
-* [导入人员列表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html){target="_blank"}
-* [在等待流步骤](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.html)中使用特定日期{target="_blank"}
-* [在智能营销活动中覆盖人员限制](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.html){target="_blank"}
-* [筛选智能营销活动结果](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.html){target="_blank"}
-* [创建分段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
-* [数据库仪表板](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html){target="_blank"}
-* [了解隐私设置](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/understanding-privacy-settings.html){target="_blank"}
-* [刷新列表或智能列表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.html){target="_blank"}
-* [使用内置/系统智能列表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
+**Section 4**
 
-**节4**
+* [Report Type Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [Landing Page Performance Report](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
+* [Custom Dimensions for Email Insights](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.html){target="_blank"}
 
-* [报表类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [登陆页面性能报表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
-* [电子邮件分析的自定义Dimension](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.html){target="_blank"}
+### Renew your certification
 
-### 续订您的认证
+First, ensure that you have successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Then, to renew your Adobe [!DNL Marketo Engage] Business Practitioner Professional certification, click on the link below.
 
-首先，确保您已成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订Adobe[!DNL Marketo Engage]商业从业者专业认证，请单击下面的链接。
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E836" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加AD5-E836考试
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E836" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam AD5-E836
 </span>
 </a>
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
->[!TAB 专家]
+>[!TAB Expert]
 
-## 您当前应在以下位置获得认证（未过期）：
+## You should be currently certified (not expired) in:
 
-* Adobe[!DNL Marketo Engage]商业从业者专家
+* Adobe [!DNL Marketo Engage] Business Practitioner Expert
 
-## 续订认证的说明：
+## Instructions for renewing your certification:
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：查看考试目标和资源
-* **步骤3**：参加考试并通过考试
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 准备就绪
+### Get ready
 
-**考试详细信息：**
+**Exam details:**
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 30/40
+* Time: 80 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E824 - Adobe [!DNL Marketo Engage] Business Practitioner Expert Renewal Exam
 
-* 级别：专家（1-3年经验）
-* 及格分数：30/40
-* 时间：80分钟
-* 交付：按需/非托管
-* 可用语言：英语
-* 费用：免费
-* 考试ID：AD5-E824 -Adobe[!DNL Marketo Engage]商业从业者专家续约考试
+**Scope and objectives:**
 
-**范围和目标：**
+Section 1: Administration and maintenance (12%)
 
-第一节　：管理和维修(12%)
+* Determine the mapping process between Marketo and CRM
+* Identify what happened to an asset using the Audit Trail
+* Recognize differences between users and roles
+* Given a scenario, identify the best fit for using workspace and partitions
+* Identify CRM platforms with native Marketo synchronization
+* Given a scenario, locate where information is referenced
 
-* 确定Marketo与CRM之间的映射过程
-* 使用审核记录识别资产所发生的情况
-* 识别用户和角色之间的差异
-* 给定一个方案，确定最适合使用工作区和分区的方法
-* 通过本机Marketo同步识别CRM平台
-* 给定场景，找到引用信息的位置
+Section 2: Marketing activities/Campaign management (48%)
 
-第2部分：营销活动/营销活动管理(48%)
+* Demonstrate an understanding of Smart Campaigns, logic, constraints, and flow steps
+* Given a scenario, define the next step
+* Identify the root cause of a problem
+* Interpret the relationship between programs, channels, tags, and period cost
+* Demonstrate/apply the correct configuration to Engagement Programs
+* Give examples of usage for different types of tokens
+* Summarize the utility of Webhooks in Marketo and how they are used
+* Identify and apply the appropriate use of the PMCF
+* Explain the benefits of Global Assets and how to use them
+* Demonstrate the capabilities of forms
+* Perform and analyze an A/B test strategy
+* Identify where a program or asset has been referenced with 'Used By'
+* Troubleshoot communication limits
+* Use Webinar provider information in an event program
 
-* 演示对智能营销活动、逻辑、限制和流程步骤的了解
-* 给定场景，定义下一步
-* 确定问题的根本原因
-* 解释计划、渠道、标记和期间成本之间的关系
-* 演示/将正确的配置应用于参与计划
-* 给出不同类型令牌的使用示例
-* 概述Webhook在Marketo中的用途及其使用方式
-* 确定并正确使用周转基金
-* 解释全球Assets的好处及其使用方法
-* 演示表单的功能
-* 执行和分析A/B测试策略
-* 识别在何处使用“使用者”引用了项目或资产
-* 通信限制疑难解答
-* 在事件程序中使用网络研讨会提供商信息
+Section 3: Lead management (10%)
 
-第3款：销售线索管理(10%)
+* Outline the key decision points in defining the lifecycle model
+* Apply best practices around lead scoring
+* Implement the appropriate interesting moments
+* Interpret the lead activity log
+* Given a scenario, identify the creation source
 
-* 概述定义生命周期模型时的关键决策点
-* 在潜在客户评分方面应用最佳实践
-* 实施适当的有趣时刻
-* 解释潜在客户活动日志
-* 给定场景，标识创建源
+Section 4: Data management (10%)
 
-第4款：数据管理(10%)
+* Demonstrate how to set up a data management program
+* Analyze an instance's data quality
+* Identify a few key pieces of Marketo's data retention policy as it relates to smart lists
+* Summarize how segmentation works
 
-* 演示如何设置数据管理计划
-* 分析实例的数据质量
-* 确定Marketo数据保留策略中与智能列表相关的几个关键部分
-* 概述分段的工作方式
+Section 5: Reporting (5%)
 
-第5节：报告(5%)
+* Given an outcome of a campaign, determine how to set up a program to provide the best reporting
+* Given a scenario, be able to investigate and assign the appropriate acquisition program
 
-* 给定活动结果，确定如何设置项目以提供最佳报告
-* 在场景中，能够调查和分配适当的客户获取项目
+Section 6: Best practices (15%)
 
-第6节：最佳做法(15%)
+* Demonstrate the relevance of lead scoring in marketing and sales collaboration
+* Illustrate the benefits of the folder structure and naming conventions
+* Apply best practices around A/B testing
+* Explain the process to perform a quality check on any Marketo program
+* Explain the process to perform a quality check on an email
 
-* 展示潜在客户评分在营销和销售协作中的相关性
-* 说明文件夹结构和命名约定的好处
-* 应用有关A/B测试的最佳实践
-* 解释对任何Marketo项目执行质量检查的过程
-* 解释对电子邮件执行质量检查的过程
+### Get prepped
 
-### 准备好
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可帮助您准备的建议资源：
+**Section 1: Administration and maintenance**
 
-**第1部分：管理和维护**
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Field Management, CRM Sync, Audit Trail, User Administration, Workspaces and Partitions, Smart Lists, Custom Field)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synching with Salesforce, CRM integrations)
 
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} （字段管理、CRM同步、审核跟踪、用户管理、工作区和分区、智能列表、自定义字段）
-* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"}(与Salesforce同步，CRM集成)
+**Section 2: Marketing activities/Campaign management**
 
-**第2部分：营销活动/营销活动管理**
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Random Sample, Smart Campaign with data value fire, Wait Steps, member.webinar url, Campaign Inspector, Filter Logic, Using Tokens in Emails, Lead creation via Form Fill Out, Assets and Workspaces, Managing Forms)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smart Lists, Smart Campaigns, Demand Generation Forms, Demand Generation Events, Email Marketing, Creating Programs, Events, Audit Trail, Working with Programs, Administration Tags, Drip Nurturing, Landing Pages, Tokens, Administration Additional Integrations, Webhook, Program Member Custom Fields, Workspace and Person Partitions)
 
-* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (随机样本、触发数据值的智能营销活动、等待步骤、member.webinar url、营销活动检查器、筛选器逻辑、在电子邮件中使用令牌、通过表单填写创建潜在客户、Assets和工作区、管理Forms)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} (智能列表、智能营销活动、需求生成Forms、需求生成活动、电子邮件营销、创建项目、活动、审核跟踪、使用项目、管理标记、滴管培养、登陆页面、令牌、管理其他集成、Webhook、项目成员自定义字段、Workspace和人员分区)
+**Section 3: Lead management**
 
-**第3部分：潜在客户管理**
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Build a Lead Lifecycle Program video, Unsubscribe from Email)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smart Campaigns, Marketo Sales Insight, Interesting Moments, Managing People in Smart Lists, System Managed Fields)
 
-* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （构建潜在客户生命周期计划视频，取消订阅电子邮件）
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} (Smart Campaigns、Marketo Sales Insight、Interesting Ments、Managing People in Smart List、System Managed Fields)
+**Section 4: Data management**
 
-**第4部分：数据管理**
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Maintaining a Directory of Leads Bouncing Emails article, How to Manage Your Marketo Database for Deliverability support blog, Marketo Activities Data Retention Policy - Under the Hood article)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Email Marketing Hard and Soft Bounces, Report Types, Personalization, Dynamic Content)
 
-* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (维护潜在客户退回电子邮件目录，如何在文章下方管理Marketo数据库以提供可投放性支持博客、Marketo活动数据保留策略)
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"} (电子邮件营销硬退信和软退信、报表类型、Personalization、动态内容)
+**Section 5: Reporting**
 
-**第5部分：报告**
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Setting Acquisition best practices article)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Reporting, Performance Insights, Program Performance Report, Editing reports, Program Membership)
 
-* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"}（“设置客户获取最佳实践”文章）
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}（报表、性能分析、项目性能报表、编辑报表、项目成员资格）
+**Section 6: Best practices**
 
-**第6部分：最佳实践**
+* [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Working with Programs, Email Marketing, A/B Testing)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Mind your QA Process)
 
-* [引导评分的最终指南](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League- [!DNL Marketo Engage] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}（使用计划、电子邮件营销、A/B测试）
-* [AdobeMarketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （请注意QA流程）
+### Renew your certification
 
-### 续订您的认证
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Marketo Engage] Business Practitioner Expert renewal link below.
 
-请确保您已执行上述步骤1，并首先成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订您的认证，请单击下面的Adobe[!DNL Marketo Engage] Business Practioner Expert续订链接。
-
-[!BADGE 参加Adobe[!DNL Marketo Engage]商业从业者专家续约考试AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGE Take the Adobe [!DNL Marketo Engage] Business Practitioner expert renewal exam AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E824 newtab=true"} 
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
->[!TAB 主控]
+>[!TAB Master]
 
-您当前应在以下位置获得认证（未过期）：
+You should be currently certified (not expired) in:
 
-* Adobe Marketo Engage架构师母版
+* Adobe Marketo Engage Architect Master
 
-## 续订认证的说明：
+## Instructions for renewing your certification:
 
-* **步骤1**：已成功登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后返回此页
-* **步骤2**：查看考试目标和资源
-* **步骤3**：参加考试并通过考试
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 准备就绪
+### Get ready
 
-**考试详细信息：**
+**Exam details:**
+  
+* Level: Expert (3-5 years' experience)
+* Passing Score: 23/36
+* Time: 72 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E834 - Adobe [!DNL Marketo Engage] Architect Master
 
-* 级别：专家（3-5年经验）
-* 及格分数：23/36
-* 时间：72分钟
-* 交付：按需/非托管
-* 可用语言：英语
-* 费用：免费
-* 考试ID：AD5-E834 -Adobe[!DNL Marketo Engage]架构师主讲
+**Scope and objectives:**
 
-**范围和目标：**
+Section 1: Project Leadership 16%
 
-第1款：项目领导力16%
+* 1.1 Given a case study, identify the right stakeholders
+* 1.2 Evaluate a set of requirements and recommend project boundaries, budget, resources, and scope
+* 1.3 Given a modified process, determine impact, change management, and enablement requirements
+* 1.4 Given a set of business requirements, evaluate, audit, and recommend priorities and timeline
 
-* 1.1根据案例研究，确定适当的利益攸关方
-* 1.2评估一套要求并建议项目界限、预算、资源和范围
-* 1.3在修改流程后，确定影响、更改管理和启用要求
-* 1.4根据一系列业务要求，评估、审计并建议优先事项和时限
+Section 2: Marketo Architecture Design 48%
 
-第2部分：Marketo架构设计48%
+* 2.1 Gather requirements/needs and recommend a lead management and lifecycle design
+* 2.2 Review an existing implementation and provide findings
+* 2.3 Given a business need, identify the most efficient way to set up scoring
+* 2.4 Review existing workflows and recommend actions to efficiently scale campaign execution
+* 2.5 Outline the most effective approaches to facilitate Marketing operations and lead management across multiple countries
+* 2.6 Given a scenario, evaluate the impact and requirements to incorporate new technology to an instance
+* 2.7 Identify different types of integrations (Adobe Experience Cloud or external products) and when to use them
+* 2.8 Given a scenario/case study, identify the different stages in the lead lifecycle that will be affected by the proposed changes or requirements.
+* 2.9 Recommend appropriate campaign logic to support a specific business requirement
 
-* 2.1收集需求/需求，并推荐潜在客户管理和生命周期设计
-* 2.2审查现有的实施情况并提供调查结果
-* 2.3根据业务需求，确定设置评分的最有效方法
-* 2.4审查现有工作流程并提出行动建议，以有效扩大活动执行范围
-* 2.5概述促进多个国家/地区的营销运作和领导管理的最有效方法
-* 2.6根据设想方案，评价将新技术纳入一个实例的影响和要求
-* 2.7确定不同类型的集成(Adobe Experience Cloud或外部产品)以及何时使用这些集成
-* 2.8根据情景/案例研究，确定潜在客户生命周期中受建议更改或需求影响的不同阶段。
-* 2.9推荐适当的营销活动逻辑，以支持特定的业务需求
+Section 3: Reporting and Attribution 20%
 
-第3节：报告和归因20%
+* 3.1 Given a model to review, explain/articulate the concept of detours in the lifecycle modeler
+* 3.2 Given a multi-channel campaign (online advertising/organic social/content), recommend an approach for reporting
+* 3.3 Validate that Marketo reporting tracks lifecycle changes
+* 3.4 Identify metrics to use in a given report type
+* 3.5 Identify how to track multi-channel attribution to evaluate ROI
+* 3.6 Identify and describe the pros and cons of different attribution models
+* 3.7 Given a business requirement, describe the effects of channel setup to reporting
 
-* 3.1给出一个模型，在生命周期建模器中解释/阐述绕线的概念
-* 3.2鉴于多渠道营销活动（在线广告/有机社交/内容），建议采用一种报告方法
-* 3.3验证Marketo报表是否跟踪生命周期更改
-* 3.4确定在给定报表类型中使用的量度
-* 3.5确定如何跟踪多渠道归因以评估ROI
-* 3.6确定并描述不同归因模型的利弊
-* 3.7根据业务要求，说明渠道设置对报告的影响
+Section 4: Advanced Administration 16%
 
-第四节　：高级行政管理16%
+* 4.1 Given a scenario, identify appropriate steps to improve platform governance
+* 4.2 Given an integration specification, recommend an efficient data schema
+* 4.3 Evaluate an implementation and recommend actions to improve email performance
+* 4.4 Evaluate an implementation and recommend actions to improve administration management
+* 4.5 Gather information about an implementation and recommend security practices
+* 4.6 Explain the applicability of workspace and partitions for a given scenario
 
-* 4.1在某种情况下，确定改进平台治理的适当步骤
-* 4.2给定一个集成规范，推荐一个高效的数据模式
-* 4.3评估实施并建议改进电子邮件性能的操作
-* 4.4评价实施情况并提出行动建议，以改善行政管理
-* 4.5收集关于实施的信息并推荐安全做法
-* 4.6说明工作区和分区在给定场景下的适用性
+### Get prepped
 
-### 准备好
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-在参加考试之前，您不需要完成培训，仅靠培训无法为您提供通过考试所需的知识和技能。 培训和成功的在职经验相结合，对于为您提供通过考试所需的存储库至关重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可帮助您准备的建议资源：
+**Section 1: Project Leadership**
 
-**第1部分：项目领导力**
+* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Documentation - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
+* [Understanding Revenue Models](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
-* [Champion博客 — Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
-* [文档 — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
-* [了解收入模型](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
+**Section 2: Adobe [!DNL Marketo Engage] architecture design**
 
-**第2部分：Adobe[!DNL Marketo Engage]架构设计**
+* [Instructions for Creating a Custom Sync Rule](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [Email Scripting](https://developers.marketo.com/email-scripting/){target="_blank"}
+* [Initial Setup](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html){target="_blank"}
 
-* [有关创建自定义同步规则的说明](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [引导评分的最终指南](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
-* [电子邮件脚本](https://developers.marketo.com/email-scripting/){target="_blank"}
-* [初始设置](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html){target="_blank"}
+**Section 3: Reporting and attribution**
 
-**第3部分：报告和归因**
+* [Report Type Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [Understanding Attribution](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
+* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [The Predictive Content Summary](https://experienceleague.adobe.com/docs/marketo/using/product-docs/predictive-content/the-predictive-content-summary.html){target="_blank"}
 
-* [报表类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [了解归因](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
-* [Champion博客 — Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [预测内容摘要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/predictive-content/the-predictive-content-summary.html){target="_blank"}
+**Section 4: Advanced operations**
 
-**第4部分：高级操作**
+* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Suppressing Soft Bounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [Understanding Workspaces and Person Partitions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [Understanding Marketo Custom Objects](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
 
-* [Marketo产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}
-* [正在禁止软退回](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [了解工作区和人员分区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
-* [了解Marketo自定义对象](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
+### Renew your certification
 
-### 续订您的认证
+First, ensure that you have successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Then, to renew your Adobe [!DNL Marketo Engage] Architect Master certification, click on the link below.
 
-首先，确保您已成功登录[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。 然后，要续订Adobe[!DNL Marketo Engage]架构师主证书，请单击以下链接。
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E834" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   参加AD5-E834考试
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E834" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam AD5-E834
 </span>
 </a>
 
 >[!NOTE]
 >
->这次考试是免费的、公开的、没有监考的。 最多可以参加三次考试。 如果在第三次尝试后不成功，则必须等待&#x200B;**30天**&#x200B;才能重试。 如果未能遵守，可能会导致您的认证被吊销。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 >[!ENDTABS]
 
 
-### 问题
+### Questions
 
-查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-其他问题？ [联系我们](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

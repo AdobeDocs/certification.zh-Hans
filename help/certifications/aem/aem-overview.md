@@ -3,10 +3,10 @@ title: Experience Manager认证概述
 description: Adobe Experience Manager 认证选项概述
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 7%
+source-wordcount: '84'
+ht-degree: 9%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 7%
 
 * [架构师（站点）](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-请访问[续订您的认证](/help/certifications/renew.md)页面以查看此产品是否有续订选项。
+{{questions}}

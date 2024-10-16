@@ -4,10 +4,10 @@ description: Adobe Analytics 认证选项概述
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 17%
+source-wordcount: '24'
+ht-degree: 29%
 
 ---
 
@@ -27,4 +27,5 @@ ht-degree: 17%
 
 * [架构师](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
-请访问[续订您的认证](/help/certifications/renew.md)页面以查看此产品是否有续订选项。
+{{questions}}
+

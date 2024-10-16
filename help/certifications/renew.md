@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -16,27 +16,29 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-要维护Adobe认证，您必须每两年更新一次。 如果认证过期前未续订，则需要再次参加完整的认证考试才能获得重新认证。
+<!--
 
-在[Adobe凭据管理系统](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}的&#x200B;**认证**&#x200B;选项卡下查看当前和过期的认证。
+To maintain your Adobe certification, you must renew it every 2 years. If you do not renew your certification before it expires, you will need to take the full certification exam again to become re-certified.
 
-## 如何续订认证？
+View your current and expired certifications under the **Certifications** tab, in the [Adobe Credential Management system](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
-续订Adobe认证非常简单！ 根据您掌握的认证，您可以通过持续学习活动和通过评估来完成续订，或通过非监护、按需参加工作角色考试。
+## How do I renew my certification?
 
-## 研究资源
+Renewing your Adobe certification is easy! Depending on which certification you hold, you will complete your renewal by working through continuous learning activities and passing assessments, or by passing a non-proctored, on-demand job role exam. 
 
-在Adobe的支持下，续订Adobe Experience Cloud认证是一个简单的过程，使您能够保持专业知识并在数字市场中保持竞争力。
+## Study resources
 
-Adobe提供各种资源和工具来帮助您续订认证，包括：
+With Adobe's support, renewing an Adobe Experience Cloud Certification is a straightforward process that enables you to maintain your expertise and stay competitive in the digital marketplace.
 
-* 访问在线课程
-* 教程
-* 学习材料
+Adobe offers various resources and tools to help you renew your certification, including:
 
-## 多少钱？
+* Access to online courses
+* Tutorials
+* Study materials
 
-大多数认证均可免费续订&#x200B;****。 某些认证尚未提供免费续订选项。 要更新这些认证，您需要重新参加完整的认证考试。
+## How much does it cost?
+
+Most certifications can be renewed **free of charge**. Some certifications do not yet have a free renewal option. To renew those certifications, you will need to retake the full certification exam.
 
 <!-- 
 
@@ -61,8 +63,4 @@ The certifications found under the links below can be renewed for free, either t
 
 -->
 
-## 问题
-
-查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
-
-其他问题？ [联系我们](mailto:certif@adobe.com)。
+{{questions}}
