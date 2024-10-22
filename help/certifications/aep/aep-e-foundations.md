@@ -5,44 +5,105 @@ solution: Experience Platform
 product: Experience Platform
 role: Developer
 badge: label="考试AD0-E600和AD7-E601" type="neutral"
-hidefromtoc: true
 hide: true
 mini-toc-levels: 1
+hidefromtoc: true
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
 # Adobe[!DNL Experience Platform]专家的认证历程
 
-{{intro}}
+>[!NOTE]
+>
+>**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！**&#x200B;阅读下面的新增功能以及如何入门。
 
-## 要求#1：Adobe[!DNL Experience Platform]技术基础信息(AD0-E600) {#req-1}
+## 新的Adobe认证门户有哪些内容？
 
-## AD0-E600的考试详细信息 {#exam-details-600}
+您以前在此页面上找到的所有内容，等等！
 
-* 级别：专家（1-3年经验）
-* 及格分数：35/50
-* 时间：105分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD0-E600
+* 考试计划
+* 考试详细信息
+* 研究资源
+* 实践测试
+* 徽章验证和共享
+* 新的技术培训课程
+* 全新Adobe数字体验社区
+* 用于跟踪和共享您的课程和认证活动的新交互式仪表板
 
-## 要求#2：Adobe[!DNL Real-Time CDP]技术从业者信息(AD7-E601) {#req-2}
+## 常见问题解答
 
-## AD7-E601的考试详细信息
+### 我该从哪里开始？
 
-* 级别：专家（1-3年经验）
-* 及格分数：25/34
-* 时间：51分钟
-* 交付：在线监护（需要摄像头访问）或测试中心监护
-* 语言：英语
-* 费用：225美元（全球）/150美元（印度）
-* 考试ID：AD7-E601
+[立即登录](https://certification.adobe.com/){target="_blank"}并验证您的配置文件数据。
+
+然后，探索我们的[课程](https://certification.adobe.com/courses/?/courses){target="_blank"}、[认证](https://certification.adobe.com/certifications){target="_blank"}、[社区](https://certification.adobe.com/community/){target="_blank"}和[可自定义仪表板](https://certification.adobe.com/user/dashboard){target="_blank"}。
+
+### 如何安排考试？
+
+您现在可以在Adobe认证门户网站上安排考试。
+
+1. 转到[认证目录](https://certification.adobe.com/certifications){target="_blank"}。
+2. 查找您的考试
+3. 转到&#x200B;**计划或参加考试**&#x200B;选项卡。
+4. 在&#x200B;**计划和付费**&#x200B;部分中，您可以找到考试页面链接。
+5. 单击&#x200B;**安排考试**&#x200B;按钮。
+
+### 在哪里可以找到我的认证历史记录？
+
+您的活动认证已在Adobe认证门户上迁移到[您的帐户](https://certification.adobe.com/user/certifications){target="_blank"}。 迁移您的剩余用户数据时，帐户的某些方面可能尚未完全填充。 感谢您的耐心！
+
+### 在哪里可以找到我的优惠券？
+
+您的凭证（包括从Xvoucher转帐的凭证）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
+
+### 我的认证徽章在哪里？
+
+您的徽章现已在Adobe认证门户中提供。
+
+1. 转到&#x200B;**我的帐户** > [成就](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}。
+2. 查找&#x200B;**活动认证**&#x200B;小组件。
+
+* 要查看您的徽章验证页面，请单击&#x200B;**共享**&#x200B;按钮。 从该页面，您可以共享到社交媒体。
+
+* 要下载徽章，请单击&#x200B;**徽章缩略图图像**。
+
+### 有问题吗？
+
+查看主页底部的[操作方法视频](https://certification.adobe.com/#){target="_blank"}，访问我们的[常见问题解答](https://certification.adobe.com/support/faq){target="_blank"}，或[联系我们](https://certification.adobe.com/support/contactus){target="_blank"}。
+
+我们很高兴您能够探索Adobe数字体验认证计划的新主页并深入了解我们的新功能！
+
+<!--
+
+## Requirement #1: Information for Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600) {#req-1}
+
+## Exam details for AD0-E600 {#exam-details-600}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 35/50
+* Time: 105 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Language: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E600
+
+## Requirement #2: Information for Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601) {#req-2}
+
+## Exam details for AD7-E601
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 25/34
+* Time: 51 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Language: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD7-E601 
 
 {{questions}}
 
+-->
