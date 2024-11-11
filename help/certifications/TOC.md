@@ -2,7 +2,7 @@
 user-guide-title: Adobe 认证
 breadcrumb-title: Adobe 认证
 user-guide-description: 在Adobe中了解 [!DNL Experience Cloud] 认证。 了解获得认证能为您做什么。
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 28%
@@ -34,12 +34,6 @@ ht-degree: 28%
       + 母版{#aa-master}
          + [架构师](/help/certifications/aa/aa-m-architect.md)
       + [续订](/help/certifications/aa/aa-renew.md)
-   + Adobe[!DNL Customer Journey Analytics] {#acja}
-      + [Customer Journey Analytics概述](/help/certifications/acja/acja-overview.md)
-      + 专业{#acja-professional}
-         + [商业从业者](/help/certifications/acja/acja-p-business.md)
-      + 专家{#acja-expert}
-         + [Developer](/help/certifications/acja/acja-e-developer.md)
    + Adobe[!DNL Audience Manager] {#aam}
       + [Audience Manager 概述](/help/certifications/aam/aam-overview.md)
       + 专业{#aam-professional}
@@ -79,6 +73,12 @@ ht-degree: 28%
       + 母版{#ac-master}
          + [架构师](/help/certifications/ac/ac-m-architect.md)
       + [续订](/help/certifications/ac/ac-renew.md)
+   + Adobe[!DNL Customer Journey Analytics] {#acja}
+      + [Customer Journey Analytics概述](/help/certifications/acja/acja-overview.md)
+      + 专业{#acja-professional}
+         + [商业从业者](/help/certifications/acja/acja-p-business.md)
+      + 专家{#acja-expert}
+         + [Developer](/help/certifications/acja/acja-e-developer.md)
    + Adobe[!DNL Document Cloud] {#adc}
       + [Document Cloud概述](/help/certifications/adc/adc-overview.md)
       + 专业{#adc-professional}
@@ -101,6 +101,13 @@ ht-degree: 28%
       + 母版{#aem-master}
          + [架构师（站点）](/help/certifications/aem/aem-sites-m-architect.md)
       + [续订](/help/certifications/aem/aem-renew.md)
+   + Adobe[!DNL Journey Optimizer] {#ajo}
+      + [Journey Optimizer概述](/help/certifications/ajo/ajo-overview.md)
+      + 专业{#ajo-professional}
+         + [商业从业者](/help/certifications/ajo/ajo-p-business.md)
+      + 专家{#ajo-expert}
+         + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
+      + [续订](/help/certifications/ajo/ajo-renew.md)
    + Adobe[!DNL Marketo Engage] {#ame}
       + [Marketo Engage概述](/help/certifications/ame/ame-overview.md)
       + 专业{#ame-professional}
@@ -117,13 +124,6 @@ ht-degree: 28%
       + 专家{#rtcdp-expert}
          + [Developer](/help/certifications/rtcdp/rtcdp-e-developer.md)
       + [续订](/help/certifications/rtcdp/rtcdp-renew.md)
-   + Adobe[!DNL Journey Optimizer] {#ajo}
-      + [Journey Optimizer概述](/help/certifications/ajo/ajo-overview.md)
-      + 专业{#ajo-professional}
-         + [商业从业者](/help/certifications/ajo/ajo-p-business.md)
-      + 专家{#ajo-expert}
-         + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
-      + [续订](/help/certifications/ajo/ajo-renew.md)
    + Adobe[!DNL Target] {#at}
       + [Target概述](/help/certifications/at/at-overview.md)
       + 专业{#at-professional}
