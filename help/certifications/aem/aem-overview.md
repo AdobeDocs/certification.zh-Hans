@@ -3,10 +3,10 @@ title: Experience Manager认证概述
 description: Adobe Experience Manager 认证选项概述
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cbb6e2db5709cee2b2183dffe359079c9697ba22
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 11%
+source-wordcount: '76'
+ht-degree: 10%
 
 ---
 
@@ -25,7 +25,8 @@ ht-degree: 11%
 **专家**
 
 * [商业从业者（站点）](https://certification.adobe.com/certification/sites-business-practitioner-expert){target="_blank"} <!--AD0-E121-->
-* [开发人员（站点）](https://certification.adobe.com/certification/sites-developer-expert){target="_blank"} <!--AD0-E134-->
+* [开发人员（站点） — 新](https://certification.adobe.com/certification/sites-developer-expert-v2){target="_blank"} <!--AD0-E137-->
+* [开发人员（站点） — 2025年1月10日到期](https://certification.adobe.com/certification/sites-developer-expert){target="_blank"} <!--AD0-E134-->
 * [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-->
 * [开发人员(Forms)](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} <!--AD0-E125-->
 * [Cloud Service迁移](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
