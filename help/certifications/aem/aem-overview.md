@@ -3,10 +3,10 @@ title: Experience Manager认证概述
 description: Adobe Experience Manager 认证选项概述
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 19e2a9d5c40fa94ab5be60fddb6fae488205233a
+source-git-commit: bcf93b87d923a5902a7a93afe0e2eb52c060a1a1
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,8 @@ ht-degree: 10%
 **专业人员**
 
 * [商业从业者](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
-* [开发人员（站点）](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
+* [开发人员（站点） — 新](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
+* [开发人员（站点） — 2025年2月10日到期](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
 * [开发人员(Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [后端开发人员(Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [技术基础](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
