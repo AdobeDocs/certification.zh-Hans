@@ -4,14 +4,16 @@ description: Adobe Commerce 认证选项概述
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: 2d2cdd441d5ef1c799bfe53bf0213c9e34d389ea
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 14%
+source-wordcount: '84'
+ht-degree: 8%
 
 ---
 
 # Commerce认证概述
+
+选择您的级别和工作角色以查找认证考试详细信息、访问学习资源并安排考试。 您还可以探索[完整认证目录](https://certification.adobe.com/certifications){target="_blank"}以及[技术培训课程](https://certification.adobe.com/courses/?/courses){target="_blank"}。
 
 **专业人员**
 
