@@ -5,87 +5,71 @@ solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 hidefromtoc: true
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: a033bd6a57abf06eb6712cf1aca076b39e8a4739
 workflow-type: tm+mt
-source-wordcount: '724'
-ht-degree: 1%
+source-wordcount: '348'
+ht-degree: 2%
 
 ---
 
 # 快速入门 {#getting-started}
 
-Adobe认证旨在验证使用我们的数字营销解决方案的专业人员的知识和技能。 使用以下选项卡开始了解认证计划。
+>[!NOTE]
+>
+>**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！**&#x200B;阅读下面的新增功能以及如何入门。
 
->[!BEGINTABS]
+## 新的Adobe认证门户有哪些内容？
 
->[!TAB 考试类型]
+您以前在此页面上找到的所有内容，等等！
 
-了解您的认证历程中会遇到的考试类型之间的差异。
+* 考试计划
+* 考试详细信息
+* 研究资源
+* 实践测试
+* 徽章验证和共享
+* 新的技术培训课程
+* 全新Adobe数字体验社区
+* 用于跟踪和共享您的课程和认证活动的新交互式仪表板
 
-| 类型 | 描述 |
-| ------- | ------- |
-| 认证考试 | 认证是认可Adobe申请中个人的技能和能力的凭据。 通过认证考试的应试者将成为该考试所依据的产品和工作角色的Adobe认证专家、专家或硕士。 |
-| 续约考试 | Adobe认证将在两年后过期。 通过续修考试后，您的认证证书将再延长两年。 |
-| 课程评估 | 对于某些解决方案，Adobe提供了通过续订考试以维护您的认证凭据的替代方法。 候选人将获得（通常）5至7个按需课程以供审查。 每个课程都有一个与该课程相关的简短评估，称为&#x200B;_课程评估_。 续订认证的标准是通过任意三个基于课程的评估，或者通过两个评估，并提交已签署的客户推荐表。 |
-| 实践测试 | 实践测试是认证测试的完整版本，其内容（测试目标）与认证测试相同。 尽管它们与您参加认证考试时回答的问题不同，但练习题与认证考试的编写时间相同。 虽然通过练习测试不能保证您通过认证考试，但它确实提供了您参加考试的准备程度的一个突出指标 |
-| 示例问题 | 对于某些认证考试，Adobe还没有完整的实践考试。 对于这些考试，提供一组具有代表性的示例问题。 |
-| 准备情况调查表 | 准备情况调查表是另一种可用于评估贵机构参加认证考试准备情况的工具。 准备情况调查表包括根据考试目标确认陈述 — 通过回答每个陈述中的“是”或“否”，您可以确定与考试涵盖的主要内容领域相关的准备情况。 |
+## 常见问题解答
 
-{style="table-layout:auto"}
+### 我该从哪里开始？
 
->[!TAB 认证级别]
+[立即登录](https://certification.adobe.com/){target="_blank"}并验证您的配置文件数据。
 
-Adobe[!DNL Experience Cloud]提供三个级别的认证：专业、专家和专家。 这些认证旨在验证使用Adobe数字营销解决方案的专业人员的技能和知识。
+然后，探索我们的[课程](https://certification.adobe.com/courses/?/courses){target="_blank"}、[认证](https://certification.adobe.com/certifications){target="_blank"}、[社区](https://certification.adobe.com/community/){target="_blank"}和[可自定义仪表板](https://certification.adobe.com/user/dashboard){target="_blank"}。
 
-这些级别反映了熟练程度和知识的进步，专业认证是初级认证，专家是中级认证，硕士是最高级认证。
+### 如何安排考试？
 
-| 徽章 | 描述 |
-| ------- | ------- |
-| ![专业徽章](/help/certifications/assets/professional-badge-Xsmall.png) | **专业认证**&#x200B;验证应聘者是否对Adobe的数字营销解决方案有基本的了解。 认证考试涵盖Adobe[!DNL Experience Cloud]的基本概念和功能。 |
-| ![专家徽章](/help/certifications/assets/expert-badge-Xsmall.png) | **专家认证**&#x200B;适用于对Adobe的数字营销解决方案有更深入了解的专业人员。 认证考试涵盖Adobe[!DNL Experience Cloud]更复杂的概念和功能，包括实施和疑难解答。 |
-| ![主徽章](/help/certifications/assets/master-badge-Xsmall.png) | **主认证**&#x200B;适用于对Adobe的数字营销解决方案有深入了解，并在Adobe[!DNL Experience Cloud]的多个领域表现出专业知识的专业人员。 认证考试涵盖了高级主题和场景，包括复杂的集成、自定义和故障排除。 |
+您现在可以在Adobe认证门户网站上安排考试。
 
-{style="table-layout:auto"}
+1. 转到[认证目录](https://certification.adobe.com/certifications){target="_blank"}。
+2. 查找您的考试
+3. 转到&#x200B;**计划或参加考试**&#x200B;选项卡。
+4. 在&#x200B;**计划和付费**&#x200B;部分中，您可以找到考试页面链接。
+5. 单击&#x200B;**安排考试**&#x200B;按钮。
 
->[!TAB 职位角色]
+### 在哪里可以找到我的认证历史记录？
 
-Adobe认证考试可自定义为三种不同的工作角色。 请阅读以下信息以找到适合您职业发展道路的认证。
+您的活动认证已在Adobe认证门户上迁移到[您的帐户](https://certification.adobe.com/user/certifications){target="_blank"}。 迁移您的剩余用户数据时，帐户的某些方面可能尚未完全填充。 感谢您的耐心！
 
-| 徽标 | 描述 |
-| ------- | ------- |
-| ![商业从业者徽章](/help/certifications/assets/business_practitioner_blk_small.png) | **业务从业者**&#x200B;负责使用Adobe[!DNL Experience Cloud]解决方案设计、执行和管理营销活动。 他们应该对Adobe的数字营销解决方案有基本的了解，并在营销和广告方面有丰富的经验。 该商业从业者认证将验证他们有效使用Adobe的数字营销解决方案来实现业务目标的能力。 |
-| ![开发人员徽章](/help/certifications/assets/developer_blk_small.png) | **开发人员**&#x200B;负责实现Adobe[!DNL Experience Cloud]解决方案并将其集成到组织的技术栈栈中。 他们应具有软件开发经验并熟练掌握Web技术，例如HTML、CSS、JavaScript和RESTful API。 开发人员认证将验证他们是否能够有效实施和自定义Adobe的数字营销解决方案，以满足业务需求。 |
-| ![架构师徽章](/help/certifications/assets/architect_blk_small.png) | **架构师**&#x200B;负责使用Adobe[!DNL Experience Cloud]解决方案设计和实施企业级解决方案。 他们应具有对Adobe数字营销解决方案的广泛知识以及在软件架构、集成和定制方面的经验。 架构师认证将验证他们使用Adobe的数字营销解决方案设计和实施复杂解决方案的能力。 |
+### 在哪里可以找到我的优惠券？
 
-{style="table-layout:auto"}
+您的凭证（包括从Xvoucher转帐的凭证）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
 
-<!--
+### 我的认证徽章在哪里？
 
->[!TAB Certification journey]
+您的徽章现已在Adobe认证门户中提供。
 
-The Certification Journey Guide is a comprehensive tool designed to provide you with all the information you need to prepare for a certification exam. The guide is divided into three main sections: Get Ready, Get Prepped, and Get Certified.
+1. 转到&#x200B;**我的帐户** > [成就](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}。
+2. 查找&#x200B;**活动认证**&#x200B;小组件。
 
-| Sections | Description |
-| ------- | ------- |
-|**Get Ready** | Intended to give an overview of the exam, including information about the intended audience, exam details, readiness self-assessment, exam objectives, and scope. This section helps you understand the exam and what you can expect when taking it. The readiness self-assessment is particularly helpful, as it allows you to determine your current level of knowledge and identify areas where you may need to focus your study efforts. |
-| **Get Prepped** | Is where you can find training and resources to help you prepare for the exam. This section includes information about and links to study materials and training courses. |
-| **Get Certified** | Offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams. |
+* 要查看您的徽章验证页面，请单击&#x200B;**共享**&#x200B;按钮。 从该页面，您可以共享到社交媒体。
 
-{style="table-layout:auto"}
+* 要下载徽章，请单击&#x200B;**徽章缩略图图像**。
 
--->
+### 有问题吗？
 
->[!ENDTABS]
+查看主页底部的[操作方法视频](https://certification.adobe.com/#){target="_blank"}，访问我们的[常见问题解答](https://certification.adobe.com/support/faq){target="_blank"}，或[联系我们](https://certification.adobe.com/support/contactus){target="_blank"}。
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   获得认证
-</span>
-</a>
-
-## 问题
-
-查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
-
-其他问题？ [联系我们](mailto:certif@adobe.com)。
+我们很高兴您能够探索Adobe数字体验认证计划的新主页并深入了解我们的新功能！
