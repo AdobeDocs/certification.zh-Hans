@@ -8,7 +8,7 @@ badge: label="考试AD0-E208" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 实践测试
 * 徽章验证和共享
 * 新的技术培训课程
-* 全新Adobe数字体验社区
+* 新的Adobe数字体验社区
 * 用于跟踪和共享您的课程和认证活动的新交互式仪表板
 
 ## 常见问题解答
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ### 如何安排考试？
 
-您现在可以在Adobe认证门户网站上安排考试。
+您现在可以在Adobe认证门户上安排考试。
 
 1. 转到[认证目录](https://certification.adobe.com/certifications){target="_blank"}。
 2. 查找您的考试
@@ -75,4 +75,4 @@ ht-degree: 0%
 
 查看主页底部的[操作方法视频](https://certification.adobe.com/#){target="_blank"}，访问我们的[常见问题解答](https://certification.adobe.com/support/faq){target="_blank"}，或[联系我们](https://certification.adobe.com/support/contactus){target="_blank"}。
 
-我们很高兴您能够探索Adobe数字体验认证计划的新主页并深入了解我们的新功能！
+我们很高兴您能探索Adobe数字体验认证计划的新主页并深入了解我们的新功能。
