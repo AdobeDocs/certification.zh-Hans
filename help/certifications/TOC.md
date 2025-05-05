@@ -16,7 +16,7 @@ ht-degree: 28%
 + [快速入门](getting-started.md)
 + [如何获得认证](how-to-get-certified.md)
 + [续订您的认证](renew.md)
-+ 按解决方案{#technical-certifications}列出的技术认证
++ 按解决方案列出的技术认证{#technical-certifications}
    + Adobe[!DNL Advertising] {#aac}
       + [Advertising概述](/help/certifications/aac/aac-overview.md)
       + 专业{#aac-professional}
