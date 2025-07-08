@@ -4,10 +4,10 @@ description: Adobe Marketo Engage 认证选项概述
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
+source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 11%
+source-wordcount: '82'
+ht-degree: 9%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 11%
 
 * [认证专家](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [认证专家 — 日语](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
+* [数字营销人员](https://certification.adobe.com/certification/digital-marketer-professional) （请注意，此认证不计入合作伙伴要求。）{target="_blank"} <!--AD0-E564-->
 
 **专家**
 

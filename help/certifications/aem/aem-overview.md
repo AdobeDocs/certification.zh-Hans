@@ -3,10 +3,10 @@ title: Experience Manager认证概述
 description: Adobe Experience Manager 认证选项概述
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
+source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 8%
+source-wordcount: '127'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,9 @@ ht-degree: 8%
 * [开发人员(Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [后端开发人员(Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [技术基础](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
+* [数字库管理员](https://certification.adobe.com/certification/digital-librarian-professional) （请注意，此认证不计入合作伙伴要求。）{target="_blank"} <!--AD0-E143-->
+* [内容作者](https://certification.adobe.com/certification/sites-content-author-professional) （请注意，此认证不计入合作伙伴要求。）
+  {target="_blank"} <!--AD0-E144-->
 
 **专家**
 
