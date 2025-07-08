@@ -21,7 +21,7 @@ ht-degree: 6%
 * [开发人员(Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [后端开发人员(Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [技术基础](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
-* [数字库管理员](https://certification.adobe.com/certification/digital-librarian-professional) （请注意，此认证不计入合作伙伴要求。）{target="_blank"} <!--AD0-E143-->
+* [数字库管理员](https://certification.adobe.com/certification/digital-librarian-professional){target="_blank"} （请注意，此认证不计入合作伙伴要求。） <!--AD0-E143-->
 * [内容作者](https://certification.adobe.com/certification/sites-content-author-professional) （请注意，此认证不计入合作伙伴要求。）
   {target="_blank"} <!--AD0-E144-->
 
