@@ -19,7 +19,7 @@ ht-degree: 9%
 
 * [认证专家](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [认证专家 — 日语](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
-* [数字营销人员](https://certification.adobe.com/certification/digital-marketer-professional) （请注意，此认证不计入合作伙伴要求。）{target="_blank"} <!--AD0-E564-->
+* [数字营销人员](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} （请注意，此认证不计入合作伙伴要求。） <!--AD0-E564-->
 
 **专家**
 
