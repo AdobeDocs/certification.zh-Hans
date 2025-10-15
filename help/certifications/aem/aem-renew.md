@@ -123,7 +123,7 @@ Here are some suggested resources to help you prepare:
 * [Introduction to AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html?lang=zh-Hans){target="_blank"}
 * [Empower Your Digital Experience with AEM as a Cloud Service](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
 * [Introduction to Adobe Experience Manager as a Headless CMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html?lang=zh-Hans){target="_blank"}
-* [Manage product, help and support content from creation to delivery.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
+* [Manage product, help and support content from creation to delivery.](https://business.adobe.com/cn/products/experience-manager/guides/aem-guides.html){target="_blank"}
 * [Overview of Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=zh-Hans){target="_blank"}
 * [Project Roles and Responsibilities](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html?lang=zh-Hans){target="_blank"}
 * [Adding Page Annotations](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html?lang=zh-Hans){target="_blank"}
