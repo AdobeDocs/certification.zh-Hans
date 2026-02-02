@@ -3,9 +3,9 @@ title: Workfront认证概述
 description: Adobe Workfront 认证选项概述
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 5a731d7198970cc5857ad0a7342a82178511094a
+source-git-commit: ad703f6a21a7e5ee807418b9e5b9cc9ba659d268
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '79'
 ht-degree: 8%
 
 ---
@@ -23,8 +23,7 @@ _请注意，合格认证不是认证。_
 
 * [开发人员(Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
 * [项目经理](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
-* [开发人员（核心） — 新](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
-* [开发人员（核心） — 2026年1月31日到期](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
+* [开发人员（核心）](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
 
 **专家**
 
