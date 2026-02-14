@@ -393,7 +393,7 @@ Here are some suggested resources to help you prepare:
 **Section 2: Adobe [!DNL Marketo Engage] architecture design**
 
 * [Instructions for Creating a Custom Sync Rule](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [The Definitive Guide to Lead Scoring](https://business.adobe.com/cn/resources/guides/lead-scoring.html){target="_blank"}
 * [Email Scripting](https://developers.marketo.com/email-scripting/){target="_blank"}
 * [Initial Setup](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html?lang=zh-Hans){target="_blank"}
 

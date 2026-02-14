@@ -132,13 +132,13 @@ Here are some suggested resources to help you prepare:
 * [SEO Overview](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html?lang=zh-Hans){target="_blank"}
 * [Enhanced storefront experiences](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html?lang=zh-Hans){target="_blank"}
 * [PCI compliance](https://business.adobe.com/cn/products/magento/pci-compliance.html){target="_blank"}
-* [Learn the difference between omnichannel and multichannel marketing](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
+* [Learn the difference between omnichannel and multichannel marketing](https://business.adobe.com/cn/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
 
 **Section 4**
 
 * [GDPR](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html?lang=zh-Hans){target="_blank"}
 * [Adobe [!DNL Commerce] Security Best Practices](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
-* [How to Make Your Ecommerce Website ADA Compliant](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
+* [How to Make Your Ecommerce Website ADA Compliant](https://business.adobe.com/cn/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 
 ## Renew your certification
 
