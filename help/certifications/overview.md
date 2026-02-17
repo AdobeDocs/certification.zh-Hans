@@ -1,10 +1,10 @@
 ---
 title: 认证主页
 description: 在Adobe中了解 [!DNL Experience Cloud] 认证。 了解获得认证能为您做什么。
-role: User,Developer,Data Architect
+role: User,Developer
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 8e6929bf11e7e122e54035c05310e6fa730f1760
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
@@ -29,10 +29,10 @@ ht-degree: 3%
 * 实践测试
 * 徽章验证和共享
 * 新的技术培训课程
-* 全新Adobe数字体验社区
+* 新的Adobe数字体验社区
 * 用于跟踪和共享您的课程和认证活动的新交互式仪表板
 
-## 常见问题解答
+## 常见问题
 
 ### 我该从哪里开始？
 
@@ -42,7 +42,7 @@ ht-degree: 3%
 
 ### 如何安排考试？
 
-您现在可以在Adobe认证门户网站上安排考试。
+您现在可以在Adobe认证门户上安排考试。
 
 1. 转到[认证目录](https://certification.adobe.com/certifications){target="_blank"}。
 2. 查找您的考试
@@ -56,7 +56,7 @@ ht-degree: 3%
 
 ### 在哪里可以找到我的优惠券？
 
-您的凭证（包括从Xvoucher转帐的凭证）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
+您的优惠券（包括从Xvoucher转帐的优惠券）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
 
 ### 我的认证徽章在哪里？
 
