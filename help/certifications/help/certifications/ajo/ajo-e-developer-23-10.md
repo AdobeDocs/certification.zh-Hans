@@ -7,20 +7,20 @@ role: Developer
 badge: label="考试AD0-E606" type="neutral"
 hidefromtoc: true
 exl-id: null
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
 
-# Adobe[!DNL Journey Optimizer]开发人员专家的认证历程
+# Adobe [!DNL Journey Optimizer]开发人员专家的认证历程
 
 {{intro}}
 
 >[!NOTE]
 >
->这是最新的Adobe[!DNL Journey Optimizer]开发人员专家考试(AD0-E606)。 如果您已开始学习或计划使用[旧版本](ajo-e-developer.md)，则必须在2023年12月22日之前完成。
+>这是最新的Adobe [!DNL Journey Optimizer]开发人员专家考试(AD0-E606)。
 
 
 ## 考试描述 {#exam-description}
@@ -80,14 +80,14 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 * 确定事件/操作/数据源的适当应用
 * 识别何时使用特定于AJO的API — 限制、上限、抑制、对象复制、交互式消息执行
 
-**第2部分：Journey Orchestration(22%)**
+**第2部分：Journey Orchestration (22%)**
 
 * 给定场景，在多渠道/多步骤历程中定位客户
 * 解释报表并调试性能指标
 * 给定场景，确定历程类型的适当用例
 * 准备测试案例（例如试验或多渠道历程）
 
-**第3部分：Offer decisioning(16%)**
+**第3部分：Offer Decisioning (16%)**
 
 * 演示对创建和管理优惠和组件的理解
 * 演示如何使用测试配置文件来运行优惠模拟
@@ -139,21 +139,21 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 * [AJO指南、历程、表达式、跟踪和监视](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 
-**第3部分：Offer decisioning**
+**第3部分：Offer Decisioning**
 
 * [AJO指南，决策管理，API参考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 
 **第4部分：内容创作**
 
 * [AJO指南，短信渠道，隐私，配置，历程，表达式，内容管理，跟踪和监控，推送通知渠道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-* [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
+* [Journey Optimizer教程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
 
 **第5部分：数据建模**
 
 * [AJO指南，配置，受众，配置文件和标识，数据管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-* [Experience Platform，数据集， Source Connectors Guide， APITutorials， Platform Identity Service Guide，分段UI， UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hans){target="_blank"}
+* [Experience Platform， Datasets， Source Connectors Guide， API教程， Platform Identity Service Guide， Segmentation UI， UI教程](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
-+++
++++ 
 
 <br>
 
@@ -173,7 +173,7 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 <br>
 
-+++第5步：参加考试
++++步骤5：参加考试
 
 {{about-certification-exam}}
 
@@ -181,7 +181,7 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 >[!NOTE]
 >
->这是最新的Adobe[!DNL Journey Optimizer]开发人员专家考试(AD0-E606)。 如果您已开始学习或计划使用[旧版本](ajo-e-developer.md)，则必须在2023年12月22日之前完成。
+>这是最新的Adobe [!DNL Journey Optimizer]开发人员专家考试(AD0-E606)。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 ## 问题
 
-查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=zh-Hans){target="_blank"}。
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
 其他问题？ [联系我们](mailto:certif@adobe.com)。
