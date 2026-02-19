@@ -9,4 +9,4 @@ ht-degree: 0%
 
 此存储库已迁移到GitHub企业云
 
-<https://github.com/Adobe-Enterprise-Docs/certification.en>
+<https://github.com/Adobe-Enterprise-Docs/certification.zh-Hans>
