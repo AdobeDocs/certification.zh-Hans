@@ -8,7 +8,7 @@ level: Experienced
 type: Certification
 topic: Certification
 mini-toc-levels: 1
-git-repo: https://github.com/AdobeDocs/certification.en
+git-repo: https://github.com/AdobeDocs/certification.zh-Hans
 index: true
 source-git-commit: dc60f80736f78d8909f78e9fa0081fc9fe6002f9
 workflow-type: tm+mt
