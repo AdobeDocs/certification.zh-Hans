@@ -4,10 +4,10 @@ description: Adobe Document Cloud 认证选项概述
 solution: Document Cloud
 hide: true
 exl-id: e7bb19f7-a87e-46df-a4ef-98b8dede4aba
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: b7942e7bc83adbf4e31c407de730160eaa62e8a2
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 15%
+source-wordcount: '65'
+ht-degree: 12%
 
 ---
 
