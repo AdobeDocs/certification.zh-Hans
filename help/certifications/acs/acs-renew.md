@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
 
-# 续订Adobe[!DNL Campaign Standard]认证
+# 续订Adobe [!DNL Campaign Standard]认证
 
 {{renewals-hold}}
 
