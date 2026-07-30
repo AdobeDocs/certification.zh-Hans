@@ -110,7 +110,7 @@ ht-degree: 0%
 >
 > **需要政府ID：**&#x200B;您必须使用政府颁发的照片ID作为有效ID。 不允许使用软副本或数字ID。<br><br> **Adobe ID帐户名称：**&#x200B;您的Adobe ID帐户名称必须与您政府ID上的名称匹配。 若要更新您的Adobe ID帐户名称，请发送电子邮件至<certif@adobe.com>。 请提前&#x200B;**72小时请求此更正**。 如果考试时姓名不符，您需要报名参加新考试，但需额外付费。
 
-您必须拥有Adobe ID才能安排和参加考试。 如果您没有Adobe ID，则可以在[此处](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)创建一个。
+您必须拥有Adobe ID才能安排和参加考试。 如果您没有Adobe ID，则可以在[此处](https://helpx.adobe.com/cn/manage-account/using/create-update-adobe-id.html)创建一个。
 
 必须具有Adobe ID，原因有三：
 
@@ -278,7 +278,7 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
 ## 正在续订您的认证 {#renewing-intro}
 
-认证有效期为两年。 要维护您的认证，您必须在认证过期之前续订认证。 有关详细信息，请访问[续订您的认证](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}页面。
+认证有效期为两年。 要维护您的认证，您必须在认证过期之前续订认证。 有关详细信息，请访问[续订您的认证](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=zh-Hans){target="_blank"}页面。
 
 <!--divider-->
 
