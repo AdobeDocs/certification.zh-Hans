@@ -1,7 +1,7 @@
 ---
 source-git-commit: 623b5ac3fe79543a23f7ac0f79a688ad4a3c98ec
 workflow-type: tm+mt
-source-wordcount: '2229'
+source-wordcount: '2373'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！**&#x200B;阅读下面的新增功能以及如何入门。
+>**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！** 阅读下面的新增功能以及如何入门。
 
 ## 新的Adobe认证门户有哪些内容？
 
@@ -31,10 +31,10 @@ ht-degree: 0%
 * 实践测试
 * 徽章验证和共享
 * 新的技术培训课程
-* 全新Adobe数字体验社区
+* 新的Adobe数字体验社区
 * 用于跟踪和共享您的课程和认证活动的新交互式仪表板
 
-## 常见问题解答
+## 常见问题
 
 ### 我该从哪里开始？
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ### 如何安排考试？
 
-您现在可以在Adobe认证门户网站上安排考试。
+您现在可以在Adobe认证门户上安排考试。
 
 1. 转到[认证目录](https://certification.adobe.com/certifications){target="_blank"}。
 2. 查找您的考试
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 ### 在哪里可以找到我的优惠券？
 
-您的凭证（包括从Xvoucher转帐的凭证）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
+您的优惠券（包括从Xvoucher转帐的优惠券）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
 
 ### 我的认证徽章在哪里？
 
@@ -115,8 +115,8 @@ ht-degree: 0%
 必须具有Adobe ID，原因有三：
 
 * 您需要Adobe ID才能创建并登录您的[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}帐户。 您可以在此处查看认证、考试历史记录、考试分数和其他信息。
-* 您必须登录到Adobe凭据管理系统才能创建并登录到您的Examity帐户。 您可以在此安排、支付和参加测试。
-* 您必须登录Adobe认证管理系统才能在Adobe认证考试准备门户网站上进行练习测试。
+* 您必须登录到Adobe凭据管理系统才能创建并登录您的Examity帐户。 您可以在此安排、支付和参加测试。
+* 您必须登录Adobe凭据管理系统才能在Adobe认证考试准备门户上参加实践测试。
 
 <!--divider-->
 
@@ -140,7 +140,7 @@ ht-degree: 0%
 
 ## 参加练习测试 {#practice-test}
 
-我们建议您在开始之前参加免费的练习测试。 您将可以不受限制地访问所有可用的练习测试，以进行Adobe级别的考试。
+我们建议您在开始之前参加免费的练习测试。 您将可以不受限制地访问Adobe专家级考试的所有可用练习测试。
 
 我们的实践测试都是基于与实时考试相同的Blueprint开发的。 练习测试将帮助您了解现场测试涵盖的主题。
 
@@ -162,7 +162,7 @@ ht-degree: 0%
 
 **考试投放**
 
-Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 所有新的认证考试都已监考。 更新考试是按需考试且无门槛的。
+Adobe使用名为Examity的供应商来管理计划的委托考试。 所有新的认证考试都已监考。 更新考试是按需考试且无门槛的。
 
 **安排、重新安排或取消考试**
 
@@ -170,7 +170,7 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 
 1. 首先，使用您的Adobe ID登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}。
 
-2. 然后，转到[考试门户](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"}并按照屏幕上提供的说明操作。
+2. 然后，转到[考试门户](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx？){target="_blank"}并按照屏幕上提供的说明操作。
 
 必须在&#x200B;**48小时之前**&#x200B;计划考试约会开始取消和重新计划。 候选人必须自行修改此约会。 Adobe支持或考试供应商均无法处理重新计划和取消请求。 48小时以内的课程取消除考试费外，还须缴纳重新安排学期的费用。
 
@@ -182,11 +182,11 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 
 **购买优惠券**
 
-你可以用凭单来支付考试费用。 若要购买考试凭单，请转到[Adobe认证凭单中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。
+你可以用凭单来支付考试费用。 若要购买考试优惠券，请转到[Adobe认证优惠券中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。
 
 您可以在安排考试时应用优惠券代码。 有关优惠券折扣信息，请参阅下文。
 
-通过Adobe认证凭单中心进行购买时，所有考生均可享受批量购买10门或更多考试的折扣。
+通过Adobe认证优惠券中心购买时，所有考生均可享受批量购买10项或更多考试的折扣。
 
 有关优惠券的详细信息，请参阅[常见问题解答](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}。
 
@@ -202,7 +202,7 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 
 合作伙伴折扣：铜级或更高级别的合作伙伴可在所有Adobe认证考试和课程中获取折扣。 您可以在解决方案合作伙伴门户上阅读有关这些折扣以及如何访问合作伙伴权益的更多信息。
 
-优惠券折扣：所有候选人在通过[Adobe认证优惠券中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}购买10个或更多考试时，都可以获得批量购买折扣。
+优惠券折扣：所有考生在通过[Adobe认证优惠券中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}购买10个或更多考试时，都可以获得批量购买折扣。
 
 注意：批量折扣不能与任何其他优惠或折扣合并。
 
@@ -215,7 +215,7 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 * 运行系统测试。
 * 确保在计算机上安装了Zoom。 Zoom必须有权使用摄像头和麦克风，才能共享屏幕，并且允许您的管理员临时接管您的计算机。
 * 在开始考试前关闭弹出窗口阻止程序。
-* 在考试配置文件中再次检查您的时区，方法是转到Adobe凭据管理系统，单击“计划/修改我的考试预约”，选择您的考试，然后转到您的考试配置文件。
+* 在考试配置文件中再次检查您的时区，方法是转到Adobe Credential Management系统，单击“计划/修改我的考试预约”，选择您的考试，然后转到您的考试配置文件。
 
 >[!IMPORTANT]
 >
@@ -224,14 +224,14 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 **考试日**
 
 * 早点来！ 您的检察官将在预约开始时间准确地启动您的会话，以便在预约之前有时间登录到考试。
-* 准备您的桌面空间。 卸下所有其它显示器、电子产品、书籍、笔记本、纸张等。 从您的桌面。
+* 准备您的桌面空间。 从桌面上卸下所有其它显示器、电子产品、书籍、笔记本、纸张等。
 * 插入计算机。
 * 关闭除屏幕共享和浏览器之外的所有应用程序。 Proctor将指导您打开任务管理器，以显示没有其他应用程序正在运行。
 * 注意：如果断开连接，您将收到来自Examity Support的电子邮件通知以帮助重新连接。 您还可以选择直接联系Examity支持部门以重新连接。
 
 **考试后**
 
-* 考试完成后，您会暂时收到通过/未通过，但最终分数可能需要72小时。 审查并最终确定测试后，您将在“History”（历史记录）选项卡下的“Credential Management”(Adobe凭证管理)中找到记分卡。
+* 考试完成后，您会暂时收到通过/未通过，但最终分数可能需要72小时。 审查并完成测试后，您将在Adobe凭据管理中的“历史记录”选项卡下找到记分卡。
 * 如果您第一次未通过Adobe认证考试，则必须至少等待24小时再重新参加考试。 第二次考试不及格或以后任何尝试都需要14个日历天的等待时间，才能重新参加考试。 每次尝试都将产生单独的考试费用。
 
 <!--divider-->
@@ -240,13 +240,13 @@ Adobe使用名为Examity的供应商来管理安排的、受监督的考试。 �
 
 Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
-* **安排、重新安排或取消考试。**&#x200B;请注意，取消和重新安排考试的时间必须在预定考试时间的48小时之前开始。 候选人必须自行修改此约会。
+* **安排、重新安排或取消考试。** 请注意，取消和重新安排考试的时间必须在安排的考试预约48小时之前开始。 候选人必须自行修改此约会。
 
-* **为您的考试付费。**&#x200B;在考试门户中通过优惠券或信用卡支付认证考试费用。 若要购买考试凭单，请转到[Adobe认证凭单中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。 您可以在安排考试时应用优惠券代码。 如果您有折扣，它将在结账时应用。
+* **为您的考试付费。** 通过考试门户中的凭单或信用卡支付认证考试费用。 若要购买考试优惠券，请转到：[Adobe认证优惠券中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。 您可以在安排考试时应用优惠券代码。 如果您有折扣，它将在结账时应用。
 
 * **参加考试。**
 
-**请注意：**&#x200B;您必须登录到[Adobe凭据管理系统](https://www.certmetrics.com/adobe){target="_blank"}，然后才能单击下面的“检查”按钮。
+**请注意：**&#x200B;您必须登录到[Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}，然后才能单击下面的“检查”按钮。
 
 >[!WARNING]
 >
@@ -256,20 +256,20 @@ Adobe使用Examity管理在线监考考试。 在考试门户中，您可以：
 
 ## 管理您的徽章 {#manage-your-badges}
 
-通过认证考试后，您将从数字认证服务提供商Credly处获得Adobe Experience Cloud数字徽章。
+在通过认证考试后，您将从数字认证服务提供商Credly那里获得Adobe Experience Cloud数字徽章。
 
-您的徽章是您精通Adobe Experience Cloud产品的具体证据。 通过将其显示在您的社交媒体个人资料或简历上，您可以向潜在的雇主和客户展示您的成就，并在这些应用程序中展示您的技能。
+您的徽章可实际证明您精通Adobe Experience Cloud产品。 通过将其显示在您的社交媒体个人资料或简历上，您可以向潜在的雇主和客户展示您的成就，并在这些应用程序中展示您的技能。
 
 **对于现有用户，可通过两种方式接受您的Adobe认证徽章：**
 
-* **步骤1：**&#x200B;登录到[Credly](https://www.credly.com/users/sign_in){target="_blank"}。 (您必须使用用于获取Adobe凭据的同一电子邮件，否则您将看不到徽章。)
+* **步骤1：**&#x200B;登录到[Credly](https://www.credly.com/users/sign_in){target="_blank"}。 （您必须使用用于获取Adobe凭据的同一电子邮件，否则您将看不到徽章。）
 * **步骤2：**&#x200B;或转到从Credly收到的电子邮件以接受徽章。
 * **步骤3：**&#x200B;接受并共享您的徽章。
 
 **对于新用户，请按照下面的说明接受您的Adobe认证徽章：**
 
 * **步骤1：**&#x200B;转到您从Credly收到的电子邮件以接受徽章。
-* **步骤2：**&#x200B;创建帐户。 (您必须使用用于获取Adobe凭据的同一电子邮件，否则您将看不到徽章。)
+* **步骤2：**&#x200B;创建帐户。 （您必须使用用于获取Adobe凭据的同一电子邮件，否则您将看不到徽章。）
 * **步骤3：**&#x200B;接受并共享您的徽章。
 
 [了解详情](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
