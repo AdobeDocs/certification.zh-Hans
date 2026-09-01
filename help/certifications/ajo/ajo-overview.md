@@ -10,10 +10,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 7b0065da8c5ac7357552c37570138b9a602cbf61
+source-git-commit: 09e244494cddb7063b9055c70a1aaf4d807db341
 workflow-type: tm+mt
-source-wordcount: 74
-ht-degree: 10%
+source-wordcount: 86
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,9 @@ ht-degree: 10%
 
 **专业人员**
 
+
 * [商业从业者](https://certification.adobe.com/certification/journey-optimizer-business-practitioner-professional){target="_blank"}<!--AD0-E607-->
+* [B2B edition商业从业者](https://certification.adobe.com/certification/brb-business-practitioner-professional/1373){target="_blank"}<!--AD0-E613-->
 
 **专家**
 
