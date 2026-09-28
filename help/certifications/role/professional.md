@@ -3,11 +3,9 @@ title: 专业技术认证
 description: 适用于专业用户的认证选项概述
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 13%
-
+source-wordcount: '77'
+ht-degree: 12%
 ---
-
 # 专业技术认证
 
 **Advertising**
