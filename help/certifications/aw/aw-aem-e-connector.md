@@ -1,24 +1,22 @@
 ---
 title: 增强型连接器专家认证
-description: 了解如何在Adobe [!DNL Workfront] 中成为 [!DNL Experience Manager]的认证Adobe Certified Expert
+description: 了解如何在Adobe [!DNL Workfront]中成为[!DNL Experience Manager]的认证Adobe Certified Expert
 solution: Workfront
 role: Developer
 badge: label="考试AD0-E906" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: yes
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
 source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '390'
 ht-degree: 0%
-
 ---
-
-# [!DNL Experience Manager]增强型连接器专家的Adobe[!DNL Workfront]认证历程
+# [!DNL Experience Manager]增强型连接器专家的Adobe [!DNL Workfront]认证历程
 
 >[!NOTE]
 >
->**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！**&#x200B;阅读下面的新增功能以及如何入门。
+>**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！** 阅读下面的新增功能以及如何入门。
 
 ## 新的Adobe认证门户有哪些内容？
 
@@ -30,10 +28,10 @@ ht-degree: 0%
 * 实践测试
 * 徽章验证和共享
 * 新的技术培训课程
-* 全新Adobe数字体验社区
+* 新的Adobe数字体验社区
 * 用于跟踪和共享您的课程和认证活动的新交互式仪表板
 
-## 常见问题解答
+## 常见问题
 
 ### 我该从哪里开始？
 
@@ -43,7 +41,7 @@ ht-degree: 0%
 
 ### 如何安排考试？
 
-您现在可以在Adobe认证门户网站上安排考试。
+您现在可以在Adobe认证门户上安排考试。
 
 1. 转到[认证目录](https://certification.adobe.com/certifications){target="_blank"}。
 2. 查找您的考试
@@ -57,7 +55,7 @@ ht-degree: 0%
 
 ### 在哪里可以找到我的优惠券？
 
-您的凭证（包括从Xvoucher转帐的凭证）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
+您的优惠券（包括从Xvoucher转帐的优惠券）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
 
 ### 我的认证徽章在哪里？
 
