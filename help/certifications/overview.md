@@ -1,16 +1,22 @@
 ---
 title: 认证主页
-description: 在Adobe中了解 [!DNL Experience Cloud] 认证。 了解获得认证能为您做什么。
+description: 了解 Adobe 的 [!DNL Experience Cloud] 认证。 了解获得认证能为您做什么。
 role: User,Developer
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '377'
-ht-degree: 3%
-
+source-wordcount: '413'
+ht-degree: 4%
 ---
-
 
 
 # Adobe数字体验认证计划已迁移！

@@ -1,7 +1,10 @@
 ---
 title: 专业技术认证
 description: 适用于专业用户的认证选项概述
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 12%

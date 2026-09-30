@@ -1,20 +1,23 @@
 ---
 title: 主技术认证
 description: 主用户的认证选项概述
-TQID: https://experienceleague.adobe.com/XtIiFZYoOV6i27gxSH8SnrmACxkiJ6zvP18RmtkV7ek
+TQID: 'https://experienceleague.adobe.com/XtIiFZYoOV6i27gxSH8SnrmACxkiJ6zvP18RmtkV7ek'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1e4670eb3b3bbe59e6c4ac4c1c955d916f4788de
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: 38
+source-wordcount: '38'
 ht-degree: 23%
-
 ---
-
 # 主技术认证
 
 

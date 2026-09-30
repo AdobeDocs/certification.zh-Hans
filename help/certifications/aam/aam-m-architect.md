@@ -1,26 +1,33 @@
 ---
 title: 架构师主认证
-description: 了解如何获得Adobe [!DNL Audience Manager] 架构师资格认证。
+description: 了解如何获得Adobe [!DNL Audience Manager]架构师资格认证。
 solution: Audience Manager
 product: Audience Manager
 role: Developer
 level: Experienced
 badge: label="考试AD0-E454" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '384'
 ht-degree: 0%
-
 ---
-
 # [!DNL Adobe Audience Manager]架构师母版的认证历程
 
 >[!NOTE]
 >
->**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！**&#x200B;阅读下面的新增功能以及如何入门。
+>**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！** 阅读下面的新增功能以及如何入门。
 
 ## 新的Adobe认证门户有哪些内容？
 

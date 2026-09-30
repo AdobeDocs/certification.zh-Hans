@@ -1,20 +1,27 @@
 ---
 title: 专家认证
-description: 了解如何成为认证Adobe [!DNL Experience Manager] 专家。
+description: 了解如何成为认证Adobe [!DNL Experience Manager]专家。
 solution: Experience Manager as a Cloud Service, Experience Manager
 product: Experience Manager
 role: Developer
 badge: label="考试AD0-E136" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: a277b79cc26e5c8ae43c2f4388a8cdb21ea0996d
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '386'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Experience Manager] as a Cloud Service迁移专家的认证历程
 
 >[!NOTE]

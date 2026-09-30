@@ -1,24 +1,31 @@
 ---
 title: 专家认证
-description: 了解如何成为认证Adobe [!DNL Journey Optimizer] 开发人员专家。
+description: 了解如何成为认证Adobe [!DNL Journey Optimizer]开发人员专家。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-hidefromtoc: true
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+hidefromtoc: 'yes'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
-# Adobe[!DNL Journey Optimizer]开发人员专家的认证历程
+# Adobe [!DNL Journey Optimizer]开发人员专家的认证历程
 
 >[!NOTE]
 >
->**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！**&#x200B;阅读下面的新增功能以及如何入门。
+>**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！** 阅读下面的新增功能以及如何入门。
 
 ## 新的Adobe认证门户有哪些内容？
 
@@ -30,10 +37,10 @@ ht-degree: 0%
 * 实践测试
 * 徽章验证和共享
 * 新的技术培训课程
-* 全新Adobe数字体验社区
+* 新的Adobe数字体验社区
 * 用于跟踪和共享您的课程和认证活动的新交互式仪表板
 
-## 常见问题解答
+## 常见问题
 
 ### 我该从哪里开始？
 
@@ -43,7 +50,7 @@ ht-degree: 0%
 
 ### 如何安排考试？
 
-您现在可以在Adobe认证门户网站上安排考试。
+您现在可以在Adobe认证门户上安排考试。
 
 1. 转到[认证目录](https://certification.adobe.com/certifications){target="_blank"}。
 2. 查找您的考试
@@ -57,7 +64,7 @@ ht-degree: 0%
 
 ### 在哪里可以找到我的优惠券？
 
-您的凭证（包括从Xvoucher转帐的凭证）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
+您的优惠券（包括从Xvoucher转帐的优惠券）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
 
 ### 我的认证徽章在哪里？
 
@@ -200,7 +207,7 @@ You should have at least one year experience working with various CDP and market
 
 **Section 1: Administration and configuration**
 
-* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
     * Access Control
     * Configuring Messages
@@ -208,12 +215,12 @@ You should have at least one year experience working with various CDP and market
     * Guardrails
     * Journeys
   
-* [Sandboxes overview](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=zh-Hans){target="_blank"} 
+* [Sandboxes overview](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html){target="_blank"} 
 
 
 **Section 2: AEP Foundation**
 
-* [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hans){target="_blank"} 
+* [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"} 
 
     * XDM guide
     * Real-time Customer Profile guide
@@ -224,24 +231,24 @@ You should have at least one year experience working with various CDP and market
     * Segmentation Service guide
     * Schemas
 
-* [Introduction to Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?lang=zh-hans&recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
-* [Getting started with Adobe [!DNL Experience Platform] for Data Engineers course](https://experienceleague.adobe.com/?lang=zh-hans&recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
-* [Data Ingestion for Data Engineers course](https://experienceleague.adobe.com/?lang=zh-hans&recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"} 
-* [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=zh-Hans){target="_blank"} 
+* [Introduction to Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
+* [Getting started with Adobe [!DNL Experience Platform] for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
+* [Data Ingestion for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"} 
+* [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"} 
 
 **Section 3: Offer Decisioning**
 
-* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
     * Decision management
 
-* [Adobe [!DNL Journey Optimizer] Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"} 
+* [Adobe [!DNL Journey Optimizer] Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"} 
 
     * Create journeys
 
 **Section 4: Content Authoring**
 
-* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"} 
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
 
     * Design content
     * Journeys
@@ -251,7 +258,7 @@ You should have at least one year experience working with various CDP and market
 
 **Section 5: Journey Orchestration**
 
-* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
     * Journeys
     * Track and monitor
@@ -321,7 +328,7 @@ You should have at least one year experience working with various CDP and market
 
 ## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=zh-Hans){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
 
