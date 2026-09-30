@@ -158,7 +158,7 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 **第5部分：数据建模**
 
 * [AJO指南、配置、受众、配置文件和标识、数据管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-* [Experience Platform、数据集、Source连接器指南、API教程、Platform Identity Service指南、分段UI、UI教程](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [Experience Platform、数据集、Source连接器指南、API教程、Platform Identity Service指南、分段UI、UI教程](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hans){target="_blank"}
 
 +++ 
 
@@ -217,6 +217,6 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 ## 问题
 
-查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+查看认证[常见问题解答](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=zh-Hans){target="_blank"}。
 
 其他问题？ [联系我们](mailto:certif@adobe.com)。
