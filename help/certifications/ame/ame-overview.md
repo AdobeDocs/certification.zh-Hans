@@ -4,17 +4,21 @@ description: Adobe Marketo Engage 认证选项概述
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-TQID: https://experienceleague.adobe.com/XC9VovmiklKPSibi7V0zsqLIdq1tLcOzwluDTf08AAw
+TQID: 'https://experienceleague.adobe.com/XC9VovmiklKPSibi7V0zsqLIdq1tLcOzwluDTf08AAw'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 66746ddb63e1daa7067f7d1f691f62baf17d2914
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 5%

@@ -1,20 +1,27 @@
 ---
 title: 认证续订
-description: 了解如何在 [!DNL Audience Manager] 认证过期前续订。
+description: 了解如何在[!DNL Audience Manager]认证过期前续订。
 solution: Audience Manager
 product: Audience Manager
 role: User
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '15'
 ht-degree: 0%
-
 ---
-
-# 续订Adobe[!DNL Audience Manager]认证
+# 续订Adobe [!DNL Audience Manager]认证
 
 {{renewals-hold}}
 
@@ -122,7 +129,7 @@ Here are some suggested resources to help you prepare:
 * [Understand segments in Analytics and Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=zh-Hans){target="_blank"}
 * [Understanding Signals](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=zh-Hans){target="_blank"}
 * [Prefix Requirements for Key Variables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=zh-Hans){target="_blank"}
-* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=zh-Hans){target="_blank"}
+* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
 * [Create Algorithmic Traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=zh-Hans){target="_blank"}
 
 **Section 3**

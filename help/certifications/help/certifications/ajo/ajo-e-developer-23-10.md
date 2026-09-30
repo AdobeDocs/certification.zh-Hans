@@ -1,19 +1,26 @@
 ---
 title: 专家认证
-description: 了解如何成为认证Adobe [!DNL Journey Optimizer] 开发人员专家。
+description: 了解如何成为认证Adobe [!DNL Journey Optimizer]开发人员专家。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="考试AD0-E606" type="neutral"
-hidefromtoc: true
-exl-id: null
-source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
+hidefromtoc: 'yes'
+exl-id:
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 1%
-
+source-wordcount: '696'
+ht-degree: 9%
 ---
-
 # Adobe [!DNL Journey Optimizer]开发人员专家的认证历程
 
 {{intro}}
@@ -131,8 +138,8 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 **第1部分：管理和配置**
 
-* [Experience Platform，访问控制，沙盒指南](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hans){target="_blank"}
-* [AJO指南，配置，短信渠道，历程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [《Experience Platform访问控制沙盒指南》](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hans){target="_blank"}
+* [AJO指南、配置、短信渠道、历程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **第2部分：Journey Orchestration**
@@ -141,17 +148,17 @@ Adobe Journey Optimizer由Experience Platform提供支持。 除了Adobe Journey
 
 **第3部分：Offer Decisioning**
 
-* [AJO指南，决策管理，API参考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [AJO指南、决策管理、API参考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
 
 **第4部分：内容创作**
 
-* [AJO指南，短信渠道，隐私，配置，历程，表达式，内容管理，跟踪和监控，推送通知渠道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-* [Journey Optimizer教程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
+* [AJO指南、SMS渠道、隐私、配置、历程、表达式、内容管理、跟踪和监控、推送通知渠道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Journey Optimizer 教程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
 
 **第5部分：数据建模**
 
-* [AJO指南，配置，受众，配置文件和标识，数据管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
-* [Experience Platform， Datasets， Source Connectors Guide， API教程， Platform Identity Service Guide， Segmentation UI， UI教程](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hans){target="_blank"}
+* [AJO指南、配置、受众、配置文件和标识、数据管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans){target="_blank"}
+* [Experience Platform、数据集、Source连接器指南、API教程、Platform Identity Service指南、分段UI、UI教程](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hans){target="_blank"}
 
 +++ 
 

@@ -1,23 +1,27 @@
 ---
-title: 常见问题解答
-description: 获取有关 Adobe Digital Experience 认证计划问题的答案。了解认证的好处、注册方法以及相关联系人。
+title: 常见问题
+description: 获取有关 Adobe Digital Experience 认证计划问题的答案。 了解认证的好处、注册方法以及相关联系人。
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-hidefromtoc: true
-source-git-commit: a033bd6a57abf06eb6712cf1aca076b39e8a4739
+hidefromtoc: 'yes'
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 7%
-
+source-wordcount: '392'
+ht-degree: 6%
 ---
-
 # Adobe认证常见问题解答
 
 >[!NOTE]
 >
->**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！**&#x200B;阅读下面的新增功能以及如何入门。
+>**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！** 阅读下面的新增功能以及如何入门。
 
 ## 新的Adobe认证门户有哪些内容？
 
@@ -29,10 +33,10 @@ ht-degree: 7%
 * 实践测试
 * 徽章验证和共享
 * 新的技术培训课程
-* 全新Adobe数字体验社区
+* 新的Adobe数字体验社区
 * 用于跟踪和共享您的课程和认证活动的新交互式仪表板
 
-## 常见问题解答
+## 常见问题
 
 ### 我该从哪里开始？
 
@@ -42,7 +46,7 @@ ht-degree: 7%
 
 ### 如何安排考试？
 
-您现在可以在Adobe认证门户网站上安排考试。
+您现在可以在Adobe认证门户上安排考试。
 
 1. 转到[认证目录](https://certification.adobe.com/certifications){target="_blank"}。
 2. 查找您的考试
@@ -56,7 +60,7 @@ ht-degree: 7%
 
 ### 在哪里可以找到我的优惠券？
 
-您的凭证（包括从Xvoucher转帐的凭证）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
+您的优惠券（包括从Xvoucher转帐的优惠券）将显示在Adobe认证门户的[您的帐户](https://certification.adobe.com/user/purchases){target="_blank"}中。
 
 ### 我的认证徽章在哪里？
 

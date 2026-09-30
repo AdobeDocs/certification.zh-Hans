@@ -1,19 +1,30 @@
 ---
 title: 认证续订
-description: 了解如何在Adobe [!DNL Campaign Standard] 认证过期前续订。
+description: 了解如何在您的Adobe [!DNL Campaign Standard]认证过期之前续订。
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User,Developer
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '15'
+source-wordcount: '16'
 ht-degree: 0%
-
 ---
-
 # 续订Adobe [!DNL Campaign Standard]认证
 
 {{renewals-hold}}

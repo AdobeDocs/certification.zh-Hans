@@ -7,20 +7,27 @@ role: Developer
 level: Experienced
 badge: label="考试AD0-E722" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '386'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Commerce]架构师母版的认证历程
 
 >[!NOTE]
 >
->**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！**&#x200B;阅读下面的新增功能以及如何入门。
+>**Adobe数字体验认证计划已移至新的[Adobe认证门户](https://certification.adobe.com/){target="_blank"}！** 阅读下面的新增功能以及如何入门。
 
 ## 新的Adobe认证门户有哪些内容？
 

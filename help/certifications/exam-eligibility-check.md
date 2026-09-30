@@ -1,16 +1,17 @@
 ---
 title: 认证重启资格考试检查程序
-description: 在Adobe了解重新开始认证计划的考试资格。
+description: 了解在Adobe重新启动认证计划的考试资格。
 recommendations: disable, exclude
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 23d948de-7d3d-4ccf-a55f-51bf117a41c8
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 4%
-
+source-wordcount: '669'
+ht-degree: 3%
 ---
-
 # 认证重启资格考试检查程序
 
 使用下表查看符合重新启动计划条件的考试。
@@ -41,7 +42,7 @@ ht-degree: 4%
 
 | 认证名称 | 考试名称 | 考试编号 | 更多信息 |
 | --- | --- | --- | --- |
-| Adobe认证母版 — Adobe Audience Manager架构 | Adobe Audience Manager Architect | AD0-E454 | [链接](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=zh-Hans) |
+| Adobe Certified Master - Adobe Audience Manager架构 | Adobe Audience Manager Architect | AD0-E454 | [链接](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=zh-Hans) |
 | Adobe认证母版 — Adobe Audience Manager Architect | Adobe Audience Manager Architect | AD0-E452 | [链接](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=zh-Hans) |
 | Adobe Certified Expert - Adobe Audience Manager商业从业者 | Adobe Audience Manager商业从业者 | AD0-E453 | [链接](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=zh-Hans) |
 

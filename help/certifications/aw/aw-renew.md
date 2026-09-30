@@ -1,19 +1,26 @@
 ---
 title: 认证续订
-description: 了解如何在Adobe [!DNL Workfront] 认证过期前续订。
+description: 了解如何在您的Adobe [!DNL Workfront]认证过期之前续订。
 solution: Workfront
 role: Developer
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 0%
-
 ---
-
-# 续订Adobe[!DNL Workfront]认证
+# 续订Adobe [!DNL Workfront]认证
 
 {{renewals-hold}}
 
@@ -541,7 +548,7 @@ Here are some suggested resources to help you prepare:
 
 * [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hans){target="_blank"} - (Integration with Adobe [!DNL Workfront])
 * [[!DNL Workfront] documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=zh-Hans){target="_blank"} (Reporting elements, Project finances, Resource utilization, Use agile planning tools in boards, Configure proofing functionality)
-* [System Admin Essentials Webinar: What IS [!DNL Workfront] Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721?profile.language=zh-Hans#M13550){target="_blank"}
+* [System Admin Essentials Webinar: What IS [!DNL Workfront] Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
 * [Configure asset metadata mapping between Adobe [!DNL Workfront] and Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html?lang=zh-Hans){target="_blank"}
 * [About Metadata](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
 * [Use the Milestone view](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=zh-Hans){target="_blank"}
