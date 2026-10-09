@@ -1,23 +1,22 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 usetq: true
 product: experience cloud
 level: Experienced
 type: Certification
 topic: Certification
 mini-toc-levels: 1
-git-repo: https://github.com/AdobeDocs/certification.zh-Hans
+git-repo: https://github.com/AdobeDocs/certification.en
 index: true
-source-git-commit: 325d4f79c25bffc571cba4fffc94381af289a04c
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+source-git-commit: acff0a20fca9f30b229cc8a79c0a2d08f042d08c
 workflow-type: tm+mt
-source-wordcount: 68
-ht-degree: 94%
-
+source-wordcount: '64'
+ht-degree: 100%
 ---
-
 
 # 供内部使用的元数据
 
